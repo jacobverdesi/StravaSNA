@@ -1,9 +1,9 @@
 from selenium import webdriver
 import yaml
 
-options = webdriver.ChromeOptions()
+options = webdriver.ChromeOptweions()
 #options.add_argument("headless")
-driver = webdriver.Chrome(options=options,executable_path='C:\\Users\Jake\Desktop\CS CLASSES\Social Network Anaylsis\chromedriver.exe')
+driver = webdriver.Chrome(options=options)
 
 
 def login(url, usernameId, username, passwordId, password, submit_buttonId):
@@ -33,4 +33,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
