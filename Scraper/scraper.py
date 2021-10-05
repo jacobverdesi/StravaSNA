@@ -1,7 +1,7 @@
 from selenium import webdriver
 import yaml
 
-options = webdriver.ChromeOptweions()
+options = webdriver.ChromeOptions()
 #options.add_argument("headless")
 driver = webdriver.Chrome(options=options)
 
