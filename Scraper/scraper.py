@@ -1,12 +1,28 @@
+import time
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import pandas as pd
 import yaml
 import json
 
 options = webdriver.ChromeOptions()
+#options.add_argument("--enable-automation")
+options.add_argument("--disable-web-security")
+options.add_argument("--allow-running-insecure-content")
+#options.add_argument("--user-data-dir=C:\\Users\\Jake\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 2")
+
+
 options.add_argument("headless")
 driver = webdriver.Chrome(options=options)
+
+BASE_URL = "https://www.strava.com"
+
+URL_LOGIN = "%s/login" % BASE_URL
+URL_SEGMENT = "%s/segments/" % BASE_URL
+URL_DASHBOARD = "%s/dashboard" % BASE_URL
 
 
 def login(url, usernameId, username, passwordId, password, submit_buttonId):
@@ -14,7 +30,7 @@ def login(url, usernameId, username, passwordId, password, submit_buttonId):
     driver.find_element_by_id(usernameId).send_keys(username)
     driver.find_element_by_id(passwordId).send_keys(password)
     driver.find_element_by_id(submit_buttonId).click()
-
+    print(f"Logged in as: {username}")
 
 def openYaml(filePath):
     with open(filePath, "r") as stream:
@@ -50,6 +66,42 @@ def parseTable(table):
     combined = pd.concat([dtpDF, athleteData], axis=1, join="inner")  # merge the two dataframes
     return combined
 
+def progress(percent=0, width=30):
+    left = width * percent // 100
+    right = width - left
+    print('\r[', '#' * left, ' ' * right, ']',f' {percent:.0f}%',sep='', end='', flush=True)
+
+def getSegment(id):
+    driver.get(URL_SEGMENT + str(id))
+    errored = False
+    df = pd.DataFrame()
+    active_page=1
+    max=0
+    while not (errored):
+        WebDriverWait(driver, 3).until(
+            EC.text_to_be_present_in_element(
+                (By.XPATH, '//li[@class="active"]/span'),
+                str(active_page)))
+
+        if(active_page==1):
+            max = int(driver.find_element(By.XPATH, '//ul[@class="pagination"]/li[8]/a').get_attribute('innerHTML'))
+        progress(percent=int((active_page/max)*100))
+
+        active_page = int(driver.find_element(By.XPATH, '//li[@class="active"]/span').get_attribute('innerHTML')) + 1
+        table = driver.find_element_by_id("results").get_attribute('innerHTML')
+        try:
+
+            driver.find_element(By.XPATH, '//li[@class="next_page"]/a[@rel="next"]').click()
+
+        except:
+            errored = True
+            pass
+        df = df.append(parseTable(table), ignore_index=True)
+    print()
+    driver.get(URL_DASHBOARD)
+    df.to_csv(f"Data/Master/Segments/{str(id)}.txt",index=False)
+    print(df)
+
 
 def main():
     pd.set_option('display.max_columns', 100)
@@ -57,14 +109,12 @@ def main():
     conf = openYaml('login.yaml')
     myStEmail = conf['strava_user']['email']
     myStPassword = conf['strava_user']['password']
-    login("https://www.strava.com/login", "email", myStEmail, "password", myStPassword, "login-button")
-    driver.get("https://www.strava.com/segments/17747336")
 
-    table = driver.find_element_by_id("results").get_attribute('innerHTML')
-    df = parseTable(table)
-
-    print(df)
-    driver.close()
+    #driver.get(URL_LOGIN)
+    login(URL_LOGIN, "email", myStEmail, "password", myStPassword, "login-button")
+    getSegment(17747336)
+    if len(options.arguments) >4:
+        driver.close()
 
 
 if __name__ == '__main__':
