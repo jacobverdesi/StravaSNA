@@ -26,6 +26,7 @@ URL_LOGIN = "%s/login" % BASE_URL
 URL_SEGMENT = "%s/segments/" % BASE_URL
 URL_DASHBOARD = "%s/dashboard" % BASE_URL
 
+SEGMENT_SLEEP = 30
 
 def login(url, usernameId, username, passwordId, password, submit_buttonId):
     driver.get(url)
@@ -122,8 +123,11 @@ def getAllSegmentsFromDict():
             print(f"{i} {my_set[i]}")
             if not my_set[i]:
                 my_set[i]=getSegment(i)
-                time.sleep(60)
                 print("Sleeping")
+                for i in range(SEGMENT_SLEEP):
+                    progress(int(i / SEGMENT_SLEEP * 100))
+                    time.sleep(1)
+                print()
     except:
         with open(file_path, 'w') as f:
             f.write(str(my_set))
