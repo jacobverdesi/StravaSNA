@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import yaml
 import json
+import ast
+from pathlib import Path
 
 options = webdriver.ChromeOptions()
 # options.add_argument("--enable-automation")
@@ -15,7 +17,7 @@ options.add_argument("--allow-running-insecure-content")
 # options.add_argument("--user-data-dir=C:\\Users\\Jake\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 2")
 
 
-options.add_argument("headless")
+#options.add_argument("headless")
 driver = webdriver.Chrome(options=options)
 
 BASE_URL = "https://www.strava.com"
@@ -75,37 +77,57 @@ def progress(percent=0, width=30):
 
 
 def getSegment(id):
-    driver.get(URL_SEGMENT + str(id))
+    driver.get(URL_SEGMENT + id)
     errored = False
+    ended=False
     df = pd.DataFrame()
     active_page = 1
     max = 0
-    while not (errored):
-        WebDriverWait(driver, 3).until(
-            EC.text_to_be_present_in_element(
-                (By.XPATH, '//li[@class="active"]/span'),
-                str(active_page)))
-
-        if (active_page == 1):
-            max = int(driver.find_element(By.XPATH, '//ul[@class="pagination"]/li[8]/a').get_attribute('innerHTML'))
-        progress(percent=int((active_page / max) * 100))
-
-        active_page = int(driver.find_element(By.XPATH, '//li[@class="active"]/span').get_attribute('innerHTML')) + 1
-        table = driver.find_element_by_id("results").get_attribute('innerHTML')
+    print(f"Getting segment: {id}")
+    while not (errored or ended):
         try:
+            WebDriverWait(driver, 3).until(
+                EC.text_to_be_present_in_element(
+                    (By.XPATH, '//li[@class="active"]/span'),
+                    str(active_page)))
 
-            driver.find_element(By.XPATH, '//li[@class="next_page"]/a[@rel="next"]').click()
+            if (active_page == 1):
+                max = int(driver.find_element(By.XPATH, '//ul[@class="pagination"]/li[last()-1]/a').get_attribute('innerHTML'))
+            progress(percent=int((active_page / max) * 100))
 
-        except:
-            errored = True
-            pass
-        df = df.append(parseTable(table), ignore_index=True)
+            active_page = int(driver.find_element(By.XPATH, '//li[@class="active"]/span').get_attribute('innerHTML')) + 1
+            table = driver.find_element_by_id("results").get_attribute('innerHTML')
+            try:
+                driver.find_element(By.XPATH, '//li[@class="next_page"]/a[@rel="next"]').click()
+            except:
+                ended = True
+
+            df = df.append(parseTable(table), ignore_index=True)
+        except Exception as e:
+            print(e)
+            errored=True
+            return False
     print()
-    driver.get(URL_DASHBOARD)
-    df.to_csv(f'Data/Master/Segments/{str(id)}.txt', index=False)
-    print(df)
-
-
+    if ended:
+        df.to_csv(f"../Data/Master/Segments/{str(id)}.csv", index=False)
+        print(df)
+    return ended
+def getAllSegmentsFromDict():
+    base_path = Path(__file__).parent
+    file_path = (base_path / "../Data/Master/segmentList.txt").resolve()
+    with open(file_path, 'r') as f:
+        my_set = dict(ast.literal_eval(f.read()))
+    try:
+        for i in my_set:
+            print(f"{i} {my_set[i]}")
+            if not my_set[i]:
+                my_set[i]=getSegment(i)
+                time.sleep(60)
+                print("Sleeping")
+    except:
+        with open(file_path, 'w') as f:
+            f.write(str(my_set))
+            print("Updated segmentList.txt")
 def main():
     pd.set_option('display.max_columns', 100)
     pd.set_option('display.width', 1000)
@@ -113,8 +135,14 @@ def main():
     myStEmail = conf['strava_user']['email']
     myStPassword = conf['strava_user']['password']
 
-    # login(URL_LOGIN, "email", myStEmail, "password", myStPassword, "login-button")
-    # getSegment(17747336)
+
+    login(URL_LOGIN, "email", myStEmail, "password", myStPassword, "login-button")
+
+    #driver.get(URL_DASHBOARD)
+    getAllSegmentsFromDict()
+
+
+
 
     if 'headless' in options.arguments:
         driver.close()
