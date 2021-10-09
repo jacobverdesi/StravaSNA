@@ -26,9 +26,14 @@ URL_LOGIN = "%s/login" % BASE_URL
 URL_SEGMENT = "%s/segments/" % BASE_URL
 URL_DASHBOARD = "%s/dashboard" % BASE_URL
 
-SEGMENT_SLEEP = 30
+SEGMENT_SLEEP = 5
 
 def login(url, usernameId, username, passwordId, password, submit_buttonId):
+    """
+    driver function to login to a login page
+    directs to url finds username and password fields and enters data
+    then finds submit id and clicks
+    """
     driver.get(url)
     driver.find_element_by_id(usernameId).send_keys(username)
     driver.find_element_by_id(passwordId).send_keys(password)
@@ -37,6 +42,11 @@ def login(url, usernameId, username, passwordId, password, submit_buttonId):
 
 
 def openYaml(filePath):
+    """
+    open yaml file and return datastream
+    :param filePath:
+    :return:
+    """
     with open(filePath, "r") as stream:
         try:
             return yaml.safe_load(stream)
@@ -72,6 +82,12 @@ def parseTable(table):
 
 
 def progress(percent=0, width=30):
+    """
+    simple progress meter display
+    :param percent:
+    :param width:
+    :return:
+    """
     left = width * percent // 100
     right = width - left
     print('\r[', '#' * left, ' ' * right, ']', f' {percent:.0f}%', sep='', end='', flush=True)
