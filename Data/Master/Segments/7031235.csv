@@ -1,0 +1,7 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+2105908,131380706,2971776289,1,Connor Reardon,"Apr 17, 2014",27.1mi/h,-,178W,37s
+570136,131379556,2971749643,2,Ian Gielar,"Apr 17, 2014",25.7mi/h,-,272W,39s
+470186,139075539,3158501500,3,Luke Thomas,"May 8, 2014",25.0mi/h,-,204W,40s
+12271554,3892696054,2727915021274826552,4,Bao Thai,"Aug 9, 2020",8.2mi/h,-,76W,2:02
+3343678,220424079,5209651905,5,Spencer Perry,"Nov 17, 2014",5.8mi/h,-,52W,2:54
+40434066,5274903079,2826917471270504576,6,Alexander Tokmakoff,"May 10, 2021",5.4mi/h,-,-,3:06
