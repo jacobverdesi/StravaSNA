@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from datetime import timedelta
-
+import lxml
 import pandas as pd
 import yaml
 import json
@@ -28,9 +28,9 @@ def login(driver,url, usernameId, username, passwordId, password, submit_buttonI
     then finds submit id and clicks
     """
     driver.get(url)
-    driver.find_element_by_id(usernameId).send_keys(username)
-    driver.find_element_by_id(passwordId).send_keys(password)
-    driver.find_element_by_id(submit_buttonId).click()
+    driver.find_element(By.XPATH,f'//input[@id=\"{usernameId}\"]').send_keys(username)
+    driver.find_element(By.XPATH,f'//input[@id=\"{passwordId}\"]').send_keys(password)
+    driver.find_element(By.XPATH,f'//button[@id=\"{submit_buttonId}\"]').click()
     driver.implicitly_wait(5)
     strUrl = driver.current_url
     if strUrl !="https://www.strava.com/login":
@@ -110,12 +110,12 @@ def getSegment(driver,id):
         try:
 
             WebDriverWait(driver,5).until(EC.presence_of_element_located((By.XPATH,'//div[@id="results"]'))) # Wait for table to load
-            table = driver.find_element_by_id("results").get_attribute('innerHTML') # Get the table
+            table = driver.find_element(By.XPATH,'//div[@id="results"]').get_attribute('innerHTML') # Get the table
             df = df.append(parseTable(table), ignore_index=True)    # Add to dataframe
 
 
         except Exception as e:
-            print()
+            print(e)
             print(f"Error trying to get table of segment: {id} on page {active_page}")
             return False , active_page
 
@@ -182,14 +182,14 @@ def getAllSegmentsFromDict(driver):
 def main():
     pd.set_option('display.max_columns', 100)
     pd.set_option('display.width', 1000)
-    conf = openYaml('login.yaml')
+    conf = openYaml('Scraper/login.yaml')
     options = webdriver.ChromeOptions()
     # options.add_argument("--enable-automation")
     options.add_argument("--disable-web-security")
     options.add_argument("--allow-running-insecure-content")
     # options.add_argument("--user-data-dir=C:\\Users\\Jake\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 2")
 
-    #options.add_argument("headless")
+    options.add_argument("headless")
 
     for user in conf:
         myStEmail=conf[user]['email']
