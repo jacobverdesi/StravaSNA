@@ -17,8 +17,7 @@ jedicavebros0001 = '{"email":"jedicavebros0001@gmail.com", ' \
                    '"refreshToken":"7c17702e1cccd6786b139c963a7bd9ffac9ca80f"}'
 
 
-# log in details not correct
-jedicavebros0002 = '{"email":"jedicavebro0002s@gmail.com", ' \
+jedicavebros0002 = '{"email":"jedicavebro0002@gmail.com", ' \
                    '"lastmaxed":"1634706967.8693378",' \
                    '"password":"secrldrasterls1",' \
                    '"clientSecret":"",' \
