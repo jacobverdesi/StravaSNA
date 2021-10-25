@@ -4,13 +4,13 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
+from datetime import timedelta
+
 import pandas as pd
 import yaml
 import json
 import ast
 from pathlib import Path
-
-
 
 
 BASE_URL = "https://www.strava.com"
@@ -39,7 +39,6 @@ def login(driver,url, usernameId, username, passwordId, password, submit_buttonI
     print(f"Failed to Log in as: {username}")
     return False
 
-
 def openYaml(filePath):
     """
     open yaml file and return datastream
@@ -58,7 +57,7 @@ def dumpYaml(filePath,data):
     :return:
     """
     with open(filePath, "w") as stream:
-        return yaml.dump(data,stream)
+        return yaml.dump(data, stream)
 
 def parseTable(table):
     """
@@ -190,7 +189,7 @@ def main():
     options.add_argument("--allow-running-insecure-content")
     # options.add_argument("--user-data-dir=C:\\Users\\Jake\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 2")
 
-    # options.add_argument("headless")
+    #options.add_argument("headless")
 
     for user in conf:
         myStEmail=conf[user]['email']
@@ -207,7 +206,7 @@ def main():
 
             driver.close()
         else:
-            print(f"{myStEmail} is probably timedout")
+            print(f"{myStEmail} is probably timedout {str(timedelta(seconds=86400-(time.time()-conf[user]['lastmaxed'])))} remaining ")
 
 if __name__ == '__main__':
     main()

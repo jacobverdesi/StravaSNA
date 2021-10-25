@@ -51,7 +51,8 @@ def getNetwork():
         df = pd.read_csv(file_path,index_col=0)
     return df
 def main():
-    network=getNetwork()
+    #network=getNetwork()
+    network=updateNetwork()
     print(network)
     network=network.loc[network['weight'] > 1]
     print(network)
