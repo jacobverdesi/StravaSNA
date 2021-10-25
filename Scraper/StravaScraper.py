@@ -5,7 +5,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from datetime import timedelta
-import lxml
 import pandas as pd
 import yaml
 import json
@@ -115,7 +114,10 @@ def getSegment(driver,id):
 
 
         except Exception as e:
-            print(e)
+            print()
+            if (driver.find_element(By.XPATH, '//div[@class="alert alert-warning mt-md"]')>0):
+                print("Hazardous segment skipping")
+                break
             print(f"Error trying to get table of segment: {id} on page {active_page}")
             return False , active_page
 
@@ -146,9 +148,9 @@ def getSegment(driver,id):
                 print("Max requests today")
                 return False, active_page
 
-    print()
-
-    df.to_csv(f"../Data/Master/Segments/{str(id)}.csv", index=False)
+    print(df.size)
+    if(df.shape[0]>0):
+        df.to_csv(f"../Data/Master/Segments/{str(id)}.csv", index=False)
     print(df)
     return True , active_page
 def getAllSegmentsFromDict(driver):
@@ -189,7 +191,7 @@ def main():
     options.add_argument("--allow-running-insecure-content")
     # options.add_argument("--user-data-dir=C:\\Users\\Jake\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 2")
 
-    options.add_argument("headless")
+    #options.add_argument("headless")
 
     for user in conf:
         myStEmail=conf[user]['email']
@@ -202,7 +204,7 @@ def main():
                 succeeded=getAllSegmentsFromDict(driver)
             if succeeded:
                 conf[user]['lastmaxed']=time.time()
-                dumpYaml('login.yaml',conf)
+                dumpYaml('Scraper/login.yaml',conf)
 
             driver.close()
         else:
