@@ -167,7 +167,7 @@ def getSegment(driver, id):
     return True, active_page
 
 
-def getAllSegmentsFromDict(driver):
+def getAllSegments(driver):
     base_path = Path(__file__).parent
     totalPages = 0
     totalErrors = 0
@@ -213,7 +213,7 @@ def main():
             driver = webdriver.Chrome(options=options)
             succeeded = login(driver, URL_LOGIN, "email", myStEmail, "password", myStPassword, "login-button")
             if succeeded:
-                succeeded = getAllSegmentsFromDict(driver)
+                succeeded = getAllSegments(driver)
             if succeeded:
                 conf[user]['lastmaxed'] = time.time()
                 dumpYaml('Scraper/login.yaml', conf)
