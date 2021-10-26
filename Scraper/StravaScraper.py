@@ -1,4 +1,7 @@
 import time
+from os import listdir
+from os.path import isfile, join
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -159,40 +162,34 @@ def getSegment(driver, id):
                 print("Max requests today")
                 return False, active_page
     print()
-    if (len(df.index) > 0):
-        df.to_csv(f"./Data/Master/Segments/{str(id)}.csv", index=False)
-        print(df)
+    df.to_csv(f"./Data/Master/Segments/{str(id)}.csv", index=False)
+    print(df)
     return True, active_page
 
 
 def getAllSegmentsFromDict(driver):
     base_path = Path(__file__).parent
-    file_path = (base_path / "../Data/Master/segmentList.txt").resolve()
     totalPages = 0
     totalErrors = 0
+
+    file_path = (base_path / "../Data/Master/segmentList.txt").resolve()
     with open(file_path, 'r') as f:
-        my_set = dict(ast.literal_eval(f.read()))
-    try:
-        for i in my_set:
-            if not my_set[i]:
-                # print(f"{i} {my_set[i]}")
-                succeeded, pages = getSegment(driver, i)
-                my_set[i] = succeeded
-                totalErrors += int(not succeeded)
-                totalPages += pages
-                print(f"Made {pages} requests for total of {totalPages}")
-                if totalErrors > 2:
-                    raise Exception
-                print("Sleeping")
-                for i in range(SEGMENT_SLEEP):
-                    progress(int(i / SEGMENT_SLEEP * 100))
-                    time.sleep(1)
-                print()
-    except Exception as e:
-        print(e)
-        with open(file_path, 'w') as f:
-            f.write(str(my_set))
-            print("\nUpdated segmentList.txt")
+        allSegments = list(map(int, list(ast.literal_eval(f.read()))))
+
+    file_path = (base_path / "../Data/Master/Segments").resolve()
+    currentSegments = [int(f[:-4]) for f in listdir(file_path) if isfile(join(file_path, f))]
+
+    newSegments=set(allSegments)-set(currentSegments)
+
+    for segment in newSegments:
+            succeeded, pages = getSegment(driver, str(segment))
+            totalErrors += int(not succeeded)
+            totalPages += pages
+            print(f"Made {pages} requests for total of {totalPages}")
+            if totalErrors > 2:
+                return totalErrors > 2
+
+            time.sleep(1)
     return totalErrors > 2
 
 
