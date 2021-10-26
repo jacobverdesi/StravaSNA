@@ -1,0 +1,69 @@
+{
+      "id": 9596992,
+      "resource_state": 3,
+      "name": "Culver to Colby",
+      "activity_type": "Ride",
+      "distance": 770.3,
+      "average_grade": -1.1,
+      "maximum_grade": 2.3,
+      "elevation_high": 151.6,
+      "elevation_low": 143.0,
+      "start_latlng": [
+            43.149276,
+            -77.57092
+      ],
+      "end_latlng": [
+            43.147036,
+            -77.56198
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BSW2HFNBOKJRJWUCN3N6RVI7KVGIZGKVVZQ76VUDZ3HN7LYDH7YKVRJ4ASELR3SNFZ3CO7KVDLA6SJ4NG6DQ====",
+      "start_latitude": 43.149276,
+      "start_longitude": -77.57092,
+      "end_latitude": 43.147036,
+      "end_longitude": -77.56198,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-28T19:50:08Z",
+      "updated_at": "2021-05-20T08:03:24Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9596992",
+            "polyline": "}qjfGfqmxMl@mDVoBx@qEDm@^gBtA_JPy@~@}GpB{L",
+            "resource_state": 3
+      },
+      "effort_count": 4860,
+      "athlete_count": 852,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "50s",
+            "qom": "46s",
+            "destination": {
+                  "href": "strava://segments/9596992/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 29405700,
+            "title": "Yamini Karandikar",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/29405700/9039358/1/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "12 efforts"
+            },
+            "destination": "strava://segments/9596992/local_legend?categories%5B%5D=overall"
+      }
+}

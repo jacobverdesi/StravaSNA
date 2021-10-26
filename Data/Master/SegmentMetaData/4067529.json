@@ -1,0 +1,69 @@
+{
+      "id": 4067529,
+      "resource_state": 3,
+      "name": "Penfield Road Climb",
+      "activity_type": "Ride",
+      "distance": 466.3,
+      "average_grade": 6.3,
+      "maximum_grade": 16.7,
+      "elevation_high": 133.6,
+      "elevation_low": 104.2,
+      "start_latlng": [
+            43.135098,
+            -77.499485
+      ],
+      "end_latlng": [
+            43.135232,
+            -77.505004
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CA5LZRUNEHUESNJVA2WUDK2FM5777VA54RJXLZNS462IKWORBGFJCLHRVXFO42ZOHL4VZXJKFDZDNCX4IPDUS===",
+      "start_latitude": 43.135098,
+      "start_longitude": -77.499485,
+      "end_latitude": 43.135232,
+      "end_longitude": -77.505004,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-10T18:38:14Z",
+      "updated_at": "2021-05-20T08:02:30Z",
+      "total_elevation_gain": 29.4,
+      "map": {
+            "id": "s4067529",
+            "polyline": "iygfGxr_xMVjCB^A\\Fb@Rz@@l@PrA?\\CfAGXCrAYdD]vB]pD",
+            "resource_state": 3
+      },
+      "effort_count": 1537,
+      "athlete_count": 305,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:01",
+            "qom": "1:35",
+            "destination": {
+                  "href": "strava://segments/4067529/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 87521794,
+            "title": "Conor Reynolds",
+            "profile": "https://graph.facebook.com/10220328418945692/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4067529/local_legend?categories%5B%5D=overall"
+      }
+}

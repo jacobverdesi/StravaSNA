@@ -1,0 +1,58 @@
+{
+      "id": 3903866,
+      "resource_state": 3,
+      "name": "3 Climbs Around Cobb's Hill Park",
+      "activity_type": "Ride",
+      "distance": 5957.6,
+      "average_grade": -0.1,
+      "maximum_grade": 14.2,
+      "elevation_high": 154.2,
+      "elevation_low": 102.0,
+      "start_latlng": [
+            43.141337,
+            -77.576055
+      ],
+      "end_latlng": [
+            43.141111,
+            -77.576381
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WRIGH6HFYPZPJTSZH3TH4FN7YNYDUJ6TJ237X44CCLRPJPVMT77NAIUNFLP4YQJBTP2CNMC7477GMEJ4QSRXK===",
+      "start_latitude": 43.141337,
+      "start_longitude": -77.576055,
+      "end_latitude": 43.141111,
+      "end_longitude": -77.576381,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-23T00:45:23Z",
+      "updated_at": "2021-05-15T02:13:03Z",
+      "total_elevation_gain": 110.8,
+      "map": {
+            "id": "s3903866",
+            "polyline": "i`ifGjqnxM`@mEB_AAo@U}Bc@iCcAeFa@mC]aDWaE[eB_@kA]u@yAcCo@yAKY]yAIgB]eDEeB?s@N}@p@mCFq@L}IJqDDMHEH@XNzEfBfAf@NNHPdAvCZl@`@`@bAr@FDh@HxBFhB\\f@NPJ^\\LNPd@TdANZx@`AJFJ?JGFK@O?qAEqGIoCAyBI}E?aBBKHEHAfDtAHLFb@F`D@fENtLLzFJlML~HLfNE~BBrB?\\IJG?EGu@yDkA}BSq@I]g@aEI_@Ss@Ym@_@g@UUe@Ys@Qu@?e@B]Hy@`@YXOR[l@Sv@C^KbDAjADh@Hf@`ApE^zAn@jBd@`Ar@jAd@b@LFZFl@Af@Md@_@R[Tu@DSXaDPaDDWHUJMNAPDNNJTPv@L|@j@pBD\\@jF@XHp@?JQf@uEbKq@~AKNOFQA_@ScF}BoJqE",
+            "resource_state": 3
+      },
+      "effort_count": 134,
+      "athlete_count": 13,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "11:01",
+            "qom": "20:42",
+            "destination": {
+                  "href": "strava://segments/3903866/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": null
+}

@@ -1,0 +1,69 @@
+{
+      "id": 7397476,
+      "resource_state": 3,
+      "name": "*RAIDER 2 K * end of pavement",
+      "activity_type": "Ride",
+      "distance": 2050.0,
+      "average_grade": 0.0,
+      "maximum_grade": 0.0,
+      "elevation_high": 134.2,
+      "elevation_low": 134.2,
+      "start_latlng": [
+            43.09716,
+            -77.432562
+      ],
+      "end_latlng": [
+            43.090663,
+            -77.410123
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BW5HTTTRFSJRLCNI5T4APIBPIH5L6TNDGARS2FVFKWMQBJE7TVHNC3AROF67A6RCGIWRWK5FZIVKPFWEVBZA====",
+      "start_latitude": 43.09716,
+      "start_longitude": -77.432562,
+      "end_latitude": 43.090663,
+      "end_longitude": -77.410123,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-09T23:39:18Z",
+      "updated_at": "2021-05-20T08:03:01Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s7397476",
+            "polyline": "gl`fGpprwMlBwDvGqLbAuB`HgPl@oAlFwLz@wBx@mCl@oCd@sFB}@HuELgXD_C@aDPoOJ_C",
+            "resource_state": 3
+      },
+      "effort_count": 9101,
+      "athlete_count": 3103,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:48",
+            "qom": "3:22",
+            "destination": {
+                  "href": "strava://segments/7397476/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 2054323,
+            "title": "Art Weinstein",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2054323/687738/1/large.jpg",
+            "effort_description": "25 efforts in the last 90 days",
+            "effort_count": "25",
+            "effort_counts": {
+                  "overall": "25 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/7397476/local_legend?categories%5B%5D=overall"
+      }
+}

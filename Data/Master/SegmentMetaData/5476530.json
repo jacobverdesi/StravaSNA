@@ -1,0 +1,69 @@
+{
+      "id": 5476530,
+      "resource_state": 3,
+      "name": "Lake Ontario Parkway West - Greenleaf to Dewey Ave.",
+      "activity_type": "Ride",
+      "distance": 1708.0,
+      "average_grade": -0.6,
+      "maximum_grade": 4.2,
+      "elevation_high": 88.8,
+      "elevation_low": 75.9,
+      "start_latlng": [
+            43.25672,
+            -77.628695
+      ],
+      "end_latlng": [
+            43.262785,
+            -77.646442
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KKO7YW43WH2KRO65NNKXZWYUBVQ4NCISELRCBX7D3TLBQHRMG7GWU3A5G6FHE2C7PAJVLK5BRL7CFCHG6LWZO===",
+      "start_latitude": 43.25672,
+      "start_longitude": -77.628695,
+      "end_latitude": 43.262785,
+      "end_longitude": -77.646442,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-13T00:51:04Z",
+      "updated_at": "2021-05-20T08:02:42Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s5476530",
+            "polyline": "oq_gGjzxxMPz@p@nFGhBa@lCQhC]vCe@zCc@rDgBvGs@zBs@tCu@bCs@rCeC`Gu@pAk@|A{A`B{AhAYNwAhAClDQvCOlAo@h@gBfASR]p@c@vCAf@D`A",
+            "resource_state": 3
+      },
+      "effort_count": 7224,
+      "athlete_count": 712,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:29",
+            "qom": "3:02",
+            "destination": {
+                  "href": "strava://segments/5476530/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 89654311,
+            "title": "Peter Englerth",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89654311/21427141/1/large.jpg",
+            "effort_description": "113 efforts in the last 90 days",
+            "effort_count": "113",
+            "effort_counts": {
+                  "overall": "113 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/5476530/local_legend?categories%5B%5D=overall"
+      }
+}

@@ -1,0 +1,58 @@
+{
+      "id": 1667261,
+      "resource_state": 3,
+      "name": "Long Pond to Genesee Valley Park",
+      "activity_type": "Ride",
+      "distance": 9158.82,
+      "average_grade": 0.0,
+      "maximum_grade": 9.0,
+      "elevation_high": 171.2,
+      "elevation_low": 155.9,
+      "start_latlng": [
+            43.18204642273486,
+            -77.70098813809454
+      ],
+      "end_latlng": [
+            43.122637839987874,
+            -77.63991398736835
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WUQ3EIUZJBFKC65ZBXEDIBQQ4YNQFDBPFOL2ZWVYJSEPF6KS6BNSVAQAXNRCZCPAO7SP27ICMUR6GKZFBJDA====",
+      "start_latitude": 43.18204642273486,
+      "start_longitude": -77.70098813809454,
+      "end_latitude": 43.122637839987874,
+      "end_longitude": -77.63991398736835,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": true,
+      "starred": false,
+      "created_at": "2012-07-02T02:05:08Z",
+      "updated_at": "2021-05-17T08:03:58Z",
+      "total_elevation_gain": 107.781,
+      "map": {
+            "id": "s1667261",
+            "polyline": "w~pfGd~fyMx@wDlBmHj@kBbAaCJmAP{@bBoEv@}A|CoHzDsIdCeGdAmBl@kBh@{@^{@hAwCpAuCr@kBpCcGvCuFPc@h@yDPs@Nc@pA_BR_@`@eApA{Cd@_AVc@f@q@d@g@lAcALIf@Sv@Or@u@jAy@h@e@`AiAh@e@j@WvAi@n@Q~AYhCq@fAOdBi@xAKl@?f@CfB[X@FDh@El@MHCvA}@r@_@n@Yr@SzA]zAc@hCk@hCs@bIiBfCg@`AFRSTe@j@YrB_@`CY|Ba@dHcBrE_AxEmAhDu@lAc@h@Mh@GR?l@J^Lf@Af@]FM^]TKn@Qn@Ez@?VEtBi@r@@j@nBHh@Xd@l@Qx@kA`@s@Zw@v@m@pDgB|Ag@j@YzAaAl@g@bAoArE_F|B_BpAgAtBmBz@k@z@a@xAeAx@UJIV]^s@bA}@xAo@h@YnAy@jF}DzKqIbFwDrB{Br@Y~@k@n@aAl@e@JCdB_Bx@k@j@q@j@a@`@UjAa@j@a@jAgAnAyAbBmC`BqC\\q@n@cBXq@rB}Dr@aBRg@^kBz@sBxBaG|AgDVo@h@mB|@aC|@qBz@eBxAwE^aAdAyAHG`@Ed@@b@`@HFXGnAcBDMC_@c@eAg@wA{AgDYuC_@s@Gq@CiCBmF",
+            "resource_state": 3
+      },
+      "effort_count": 4979,
+      "athlete_count": 1885,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "15:32",
+            "qom": "19:08",
+            "destination": {
+                  "href": "strava://segments/1667261/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": null
+}

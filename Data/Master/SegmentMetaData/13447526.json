@@ -1,0 +1,69 @@
+{
+      "id": 13447526,
+      "resource_state": 3,
+      "name": "Down and up on Cox",
+      "activity_type": "Ride",
+      "distance": 426.7,
+      "average_grade": -0.1,
+      "maximum_grade": 13.7,
+      "elevation_high": 236.1,
+      "elevation_low": 224.3,
+      "start_latlng": [
+            42.945936,
+            -77.517489
+      ],
+      "end_latlng": [
+            42.942199,
+            -77.518159
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/E365P2JVJYZGYD54VZQ3JGNQ6UHPVGBJPMKU6AI5E6NAIOQEWF6DHWJMC7UQDTPOC45JFJ6Z573EWLEUTZBOK===",
+      "start_latitude": 42.945936,
+      "start_longitude": -77.517489,
+      "end_latitude": 42.942199,
+      "end_longitude": -77.518159,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-15T22:13:31Z",
+      "updated_at": "2021-05-15T02:18:37Z",
+      "total_elevation_gain": 11.2,
+      "map": {
+            "id": "s13447526",
+            "polyline": "a{beGhccxMPDNCP@`@Gd@@`@ARBjAEpA@XBfA?n@HbBd@z@Z`@TD?HFp@TDD",
+            "resource_state": 3
+      },
+      "effort_count": 1518,
+      "athlete_count": 302,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "34s",
+            "qom": "39s",
+            "destination": {
+                  "href": "strava://segments/13447526/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 3258567,
+            "title": "Sean Meyer",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3258567/5976467/10/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/13447526/local_legend?categories%5B%5D=overall"
+      }
+}

@@ -1,0 +1,69 @@
+{
+      "id": 21778453,
+      "resource_state": 3,
+      "name": "Parkway Trail Dewey to 390",
+      "activity_type": "Ride",
+      "distance": 1312.4,
+      "average_grade": -0.2,
+      "maximum_grade": 7.8,
+      "elevation_high": 79.4,
+      "elevation_low": 74.8,
+      "start_latlng": [
+            43.262896,
+            -77.647104
+      ],
+      "end_latlng": [
+            43.267841,
+            -77.660881
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4GKISPW6XWOA2N2EMLK6YJEZNGWZIWEDPSHQX5DLKKTSLKPQC2NFJNYCVIVDMHVS6SEJQLGKL2AJMXERO25OI===",
+      "start_latitude": 43.262896,
+      "start_longitude": -77.647104,
+      "end_latitude": 43.267841,
+      "end_longitude": -77.660881,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-09-13T01:43:26Z",
+      "updated_at": "2021-05-20T08:05:15Z",
+      "total_elevation_gain": 4.0,
+      "map": {
+            "id": "s21778453",
+            "polyline": "ax`gGlm|xMCTAt@FdHUtL]|Ae@xAUj@g@x@Ul@Sr@Mx@A\\AlACTITm@bAETGn@At@Ep@IRc@v@g@~@a@~@Y^m@\\U^O`@cA|Bs@fC]|@i@l@{AnC_AjAWb@_BxC",
+            "resource_state": 3
+      },
+      "effort_count": 7580,
+      "athlete_count": 797,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:53",
+            "qom": "2:26",
+            "destination": {
+                  "href": "strava://segments/21778453/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 89654311,
+            "title": "Peter Englerth",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89654311/21427141/1/large.jpg",
+            "effort_description": "114 efforts in the last 90 days",
+            "effort_count": "114",
+            "effort_counts": {
+                  "overall": "114 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/21778453/local_legend?categories%5B%5D=overall"
+      }
+}

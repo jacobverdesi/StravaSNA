@@ -1,0 +1,69 @@
+{
+      "id": 13349192,
+      "resource_state": 3,
+      "name": "Pond Rd. - 65 to Beach lot entrance",
+      "activity_type": "Ride",
+      "distance": 3718.9,
+      "average_grade": 0.2,
+      "maximum_grade": 8.6,
+      "elevation_high": 220.3,
+      "elevation_low": 198.1,
+      "start_latlng": [
+            43.023015,
+            -77.583859
+      ],
+      "end_latlng": [
+            43.027573,
+            -77.556084
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EIZGA5CHCJZR7VSQNPV67LMAUVBEDMCK7EM74Y4KPVCP2DGXCA3RIZVTZQZLSNELUR6TVHD6WAMSFMQJS4YQ====",
+      "start_latitude": 43.023015,
+      "start_longitude": -77.583859,
+      "end_latitude": 43.027573,
+      "end_longitude": -77.556084,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-02T19:32:29Z",
+      "updated_at": "2021-05-20T08:04:00Z",
+      "total_elevation_gain": 51.6,
+      "map": {
+            "id": "s13349192",
+            "polyline": "y|qeGbbpxMJ{B@eBIgA]cDGyAGyB@kFMyG@sAHu@FYJW`A}AbAsB`BwD`ByE\\k@NQd@YfAe@z@YhBc@|@]lBeApIqFfAg@zC}@`@O^Uf@k@d@cAXiARkAp@uFL_BLkCFcDAo@Mo@S[]Q]Gc@CmG?iELQ?g@GiBa@qAOe@MQIa@[gAmA]So@W_@I_@CuABYEYOYU_@a@m@}@sAgDg@eAqEwIy@uAmCsF_@k@UUYM}@Oa@M_@Si@a@{AuAmCqCiBwBc@a@",
+            "resource_state": 3
+      },
+      "effort_count": 5235,
+      "athlete_count": 1040,
+      "star_count": 12,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:20",
+            "qom": "6:31",
+            "destination": {
+                  "href": "strava://segments/13349192/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 35526531,
+            "title": "Karl Hirschman",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/35526531/10485495/1/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/13349192/local_legend?categories%5B%5D=overall"
+      }
+}

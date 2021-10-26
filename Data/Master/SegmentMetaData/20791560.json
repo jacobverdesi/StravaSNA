@@ -1,0 +1,69 @@
+{
+      "id": 20791560,
+      "resource_state": 3,
+      "name": "*going down*",
+      "activity_type": "Ride",
+      "distance": 342.0,
+      "average_grade": -2.9,
+      "maximum_grade": 2.7,
+      "elevation_high": 154.0,
+      "elevation_low": 143.5,
+      "start_latlng": [
+            43.143578,
+            -77.563304
+      ],
+      "end_latlng": [
+            43.145552,
+            -77.562636
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GD2R2DGORTEP45UFHOIEWQGHHJXWFKIC2OUAHTXERP4UCURQQ4GQ66OXXWOW5WQBRY4KIIPQKDKG5PIQ5CVGE===",
+      "start_latitude": 43.143578,
+      "start_longitude": -77.563304,
+      "end_latitude": 43.145552,
+      "end_longitude": -77.562636,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-06-05T15:25:56Z",
+      "updated_at": "2021-05-15T02:23:17Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s20791560",
+            "polyline": "inifGtalxMGCo@O]WQSgAPy@BILCGA]@IDAD?BD?j@QMCKDYBJE^CDIg@GAK@a@KGGm@YWQ",
+            "resource_state": 3
+      },
+      "effort_count": 1417,
+      "athlete_count": 286,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "41s",
+            "qom": "1:02",
+            "destination": {
+                  "href": "strava://segments/20791560/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 13628480,
+            "title": "Dustin Hannum",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/13628480/5816871/6/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/20791560/local_legend?categories%5B%5D=overall"
+      }
+}

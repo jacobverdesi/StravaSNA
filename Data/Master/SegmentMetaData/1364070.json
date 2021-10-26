@@ -1,0 +1,69 @@
+{
+      "id": 1364070,
+      "resource_state": 3,
+      "name": "Doctors Rd Climb",
+      "activity_type": "Ride",
+      "distance": 200.44,
+      "average_grade": 2.9,
+      "maximum_grade": 9.8,
+      "elevation_high": 188.6,
+      "elevation_low": 181.0,
+      "start_latlng": [
+            43.13383027911186,
+            -77.60536193847656
+      ],
+      "end_latlng": [
+            43.13268539495766,
+            -77.60390114039183
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KOAQWWGQYY6MFHYJGIUPYUSTBIUA6QI4JT4HAPW2Y5NRMSVNMZ4MBSIN6FPKABJXGWD2LBGYQACBCXHRUDXQ====",
+      "start_latitude": 43.13383027911186,
+      "start_longitude": -77.60536193847656,
+      "end_latitude": 43.13268539495766,
+      "end_longitude": -77.60390114039183,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-11T18:57:36Z",
+      "updated_at": "2021-05-15T02:12:02Z",
+      "total_elevation_gain": 7.6,
+      "map": {
+            "id": "s1364070",
+            "polyline": "mqgfGphtxMTYd@YT?f@Ln@FNCLORe@Hk@CwABgA",
+            "resource_state": 3
+      },
+      "effort_count": 1271,
+      "athlete_count": 257,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "20s",
+            "qom": "32s",
+            "destination": {
+                  "href": "strava://segments/1364070/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 73846932,
+            "title": "Jason Smith",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GjtO89v4Ns9twdmerGwBGDOS5HYM8XzbbAg2Tgzkw=s96-c",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/1364070/local_legend?categories%5B%5D=overall"
+      }
+}

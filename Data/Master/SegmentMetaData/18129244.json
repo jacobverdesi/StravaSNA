@@ -1,0 +1,69 @@
+{
+      "id": 18129244,
+      "resource_state": 3,
+      "name": "Back fence to waterfall on technical trail",
+      "activity_type": "Ride",
+      "distance": 709.0,
+      "average_grade": -0.4,
+      "maximum_grade": 17.9,
+      "elevation_high": 90.8,
+      "elevation_low": 80.1,
+      "start_latlng": [
+            43.225689,
+            -77.613444
+      ],
+      "end_latlng": [
+            43.231512,
+            -77.614018
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QHLTPGLJOLDM5TEITT5DIY2QH3KMZTDB64LVFK6Z3CKB4SWC6NVFW3L2TTJ5YQ77DDC733KGPJR6BC2D4OJA====",
+      "start_latitude": 43.225689,
+      "start_longitude": -77.613444,
+      "end_latitude": 43.231512,
+      "end_longitude": -77.614018,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-07-03T20:19:54Z",
+      "updated_at": "2021-05-20T08:04:43Z",
+      "total_elevation_gain": 15.3,
+      "map": {
+            "id": "s18129244",
+            "polyline": "ooyfG`{uxMIDITQdAKHG@U?OGI@WZMBK?QEM@IDOPGBG?IHUHMAIEKEEIMASDa@AW@WAWI[?[Oo@OGGo@S[Gm@Uq@@UEq@_@K@YXYDc@DSAi@LYC]BKDSRi@Rq@BMAIG",
+            "resource_state": 3
+      },
+      "effort_count": 1638,
+      "athlete_count": 286,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:34",
+            "qom": "2:35",
+            "destination": {
+                  "href": "strava://segments/18129244/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 62733555,
+            "title": "Owen Evans",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/62733555/15846881/1/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/18129244/local_legend?categories%5B%5D=overall"
+      }
+}

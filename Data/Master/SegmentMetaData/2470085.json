@@ -1,0 +1,58 @@
+{
+      "id": 2470085,
+      "resource_state": 3,
+      "name": "pittsford to fairport",
+      "activity_type": "Ride",
+      "distance": 9013.08,
+      "average_grade": 0.0,
+      "maximum_grade": 6.4,
+      "elevation_high": 142.7,
+      "elevation_low": 131.5,
+      "start_latlng": [
+            43.0885443,
+            -77.51022348333333
+      ],
+      "end_latlng": [
+            43.10064248333333,
+            -77.45659461666666
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HSVCDK2QZNDEQB2HLIYX2U7FLJDLQLHUYCIJMSFJN54IWNE2ZYYUUVELVFOVVOJEVWBVVTLCRLEKZZJT6EAA====",
+      "start_latitude": 43.0885443,
+      "start_longitude": -77.51022348333333,
+      "end_latitude": 43.10064248333333,
+      "end_longitude": -77.45659461666666,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-09-28T01:18:00Z",
+      "updated_at": "2021-05-15T02:12:32Z",
+      "total_elevation_gain": 43.1895,
+      "map": {
+            "id": "s2470085",
+            "polyline": "kv~eG|uaxM^e@d@Od@WlAeBzAcAd@Of@Y`@g@`A_Ah@]fA_@Vq@b@u@f_AwqAh@Qh@c@bA{AxA_Ad@k@l@a@rA_@d@k@fBiAf@a@Z]~Aq@f@[lAmAj@]rA_AhCyAd@_@b@i@`A]t@KjBw@rAy@`FkGXWf@KzFyEp@{DX[Bg@N{@jAcBf@qB|@eCj@w@z@_BPaAK{@Pg@B_BKc@BoACy@kBua@GGI}AWo@WcAMQCSFKSc@a@e@IOYMIIEaAeCeDg@_@kFuCe@e@yA_@sAaAYq@i@g@g@_@y@[m@K_@k@{H}G}Aw@u@c@}m@sa@eAu@][k@Ys@q@_@Jq@Fa@Yg@OqAo@}@Yi@Ag@G_@D[@g@Oi@Fe@?[Ba@_@e@IkAGm@_@u@Kc@@k@KsAa@USwAi@g@K]QYo@eByBUu@q@_@c@Oq@mAg@a@g@WcAu@g@[_@KcAC_@OqAiAs@Ok@f@uAYi@Ai@@i@]_AGg@Ha@Ee@Ag@I{UVc@Ko@EwA@s@Dq@F_@Xk@Lm@I}@Lq@BsA\\sARk@No@\\k@Dg@N[@q@Ge@AYE_AC[X",
+            "resource_state": 3
+      },
+      "effort_count": 63,
+      "athlete_count": 46,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "16:49",
+            "qom": "23:17",
+            "destination": {
+                  "href": "strava://segments/2470085/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": null
+}

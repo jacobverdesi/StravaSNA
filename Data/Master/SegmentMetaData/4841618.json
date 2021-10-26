@@ -1,0 +1,69 @@
+{
+      "id": 4841618,
+      "resource_state": 3,
+      "name": "golf ave challenge",
+      "activity_type": "Ride",
+      "distance": 2157.2,
+      "average_grade": -0.7,
+      "maximum_grade": 5.9,
+      "elevation_high": 142.6,
+      "elevation_low": 127.8,
+      "start_latlng": [
+            43.096827,
+            -77.511081
+      ],
+      "end_latlng": [
+            43.096503,
+            -77.485131
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JNYKLTNVCZTTHMQQ6JOJU2EHKOLCX24MM6N4RWJVGVWP2ENL6QKXKO2I3MFQEDBUH22Q7BMKTBOYAI3QG5IA====",
+      "start_latitude": 43.096827,
+      "start_longitude": -77.511081,
+      "end_latitude": 43.096503,
+      "end_longitude": -77.485131,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-23T13:03:24Z",
+      "updated_at": "2021-05-19T08:02:28Z",
+      "total_elevation_gain": 3.0,
+      "map": {
+            "id": "s4841618",
+            "polyline": "cj`fGh{axMBS?cAFsB?k@Dk@BgAAuA@eACiA@c@GMAiAG[IeA?wA@SNe@Zm@BsBQoE?sAAoAAQGW@UIoBKgAQwFKgACwDOyBMgAKaB@YKgBEOIqALmEAKP}Ah@_CTo@l@qC?y@F]@eCEICWHgACIAMH{A?q@Ca@DsBF{AAe@BwAAu@EMC{@@{ACgD@_ABa@As@@_AE_@DQBa@?MCQ?s@LaBBm@AK",
+            "resource_state": 3
+      },
+      "effort_count": 3727,
+      "athlete_count": 519,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:43",
+            "qom": "2:59",
+            "destination": {
+                  "href": "strava://segments/4841618/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 295448,
+            "title": "Rouge Rob",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/295448/133377/1/large.jpg",
+            "effort_description": "47 efforts in the last 90 days",
+            "effort_count": "47",
+            "effort_counts": {
+                  "overall": "47 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/4841618/local_legend?categories%5B%5D=overall"
+      }
+}

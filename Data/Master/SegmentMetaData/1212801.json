@@ -1,0 +1,58 @@
+{
+      "id": 1212801,
+      "resource_state": 3,
+      "name": "Buckland Park Loop",
+      "activity_type": "Ride",
+      "distance": 4881.27,
+      "average_grade": 0.0,
+      "maximum_grade": 2.2,
+      "elevation_high": 155.7,
+      "elevation_low": 148.9,
+      "start_latlng": [
+            43.114708050000004,
+            -77.58252479999999
+      ],
+      "end_latlng": [
+            43.11471673333333,
+            -77.58258976666666
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/J6SGENCM3HPS6FCUCPUHA2B6SXZNEGJII7YXNBJ4IBBMSUWI3TM32JTXU5JF5HNI2CEMQZQVWMVY3L5C2SAQ====",
+      "start_latitude": 43.114708050000004,
+      "start_longitude": -77.58252479999999,
+      "end_latitude": 43.11471673333333,
+      "end_longitude": -77.58258976666666,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-04-10T21:14:35Z",
+      "updated_at": "2021-05-15T02:11:57Z",
+      "total_elevation_gain": 21.7017,
+      "map": {
+            "id": "s1212801",
+            "polyline": "{ycfGxyoxMz@ZvAr@XRpAr@x@ZnExBVPTXXThAlCJV@^G`@U|@A^Zp@@`@Eb@WdA[jBUlCIZMVQLWCs@UaB}@WCUBWBUJ[@[ImAm@YAWNYHY?YEYIUUSYUSq@QMWE_@LkB?_@QgACmCMcA?oCPQV@p@KTQL_@Cc@UiAEi@Cc@NgAP_@PI~FzC~@^~Av@~Ap@\\Rr@z@X\\j@jATh@Nj@El@U^O`@?^JTNPHZC`@W~A]~A[nCKVOPUDg@Ag@QeAm@WIUAW@_ANWEeAo@WKWFWJWFU@YCWISSQ[USs@KOUC]JgB?c@QkBCcBO_A?eDRYTMr@ERMJYAa@WiAEg@Bi@TuAZWz@ZlE`C|@`@nBjArAn@RVRVh@h@PVp@tBBz@]xAFV^h@DXE\\]vAWtAKx@Ex@GXKVWVQFS@UAWEWImAm@YEW?q@PYFYEo@WUMUGWBo@NW?WEUGs@_A_A_@OQC_@L_AF}@A[K}@G_CM}@@_AC_BHYRM`AERKFY]}AEe@@i@PmAPa@ZD",
+            "resource_state": 3
+      },
+      "effort_count": 37,
+      "athlete_count": 4,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:22",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/1212801/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": null
+}

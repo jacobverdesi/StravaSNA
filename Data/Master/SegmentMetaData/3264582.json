@@ -1,0 +1,69 @@
+{
+      "id": 3264582,
+      "resource_state": 3,
+      "name": "Shore Drive",
+      "activity_type": "Ride",
+      "distance": 494.435,
+      "average_grade": 9.6,
+      "maximum_grade": 28.3,
+      "elevation_high": 122.2,
+      "elevation_low": 74.5,
+      "start_latlng": [
+            43.2133012,
+            -77.5417964
+      ],
+      "end_latlng": [
+            43.2127798,
+            -77.5470654
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RM334J4FJMP2C53ARUXJLG5TCWFO3UZDH46A36EAQSSEOQPM6CIZ6MESM6GTPSN4E7BHWMNAJGROZNPDES3GU===",
+      "start_latitude": 43.2133012,
+      "start_longitude": -77.5417964,
+      "end_latitude": 43.2127798,
+      "end_longitude": -77.5470654,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-01-14T02:00:33Z",
+      "updated_at": "2021-05-15T02:12:45Z",
+      "total_elevation_gain": 47.7165,
+      "map": {
+            "id": "s3264582",
+            "polyline": "cbwfGf{gxMIn@eAhEUnAa@~CBlAJx@l@l@JRlAzANn@?\\Lh@?v@B`@LVJLZT",
+            "resource_state": 3
+      },
+      "effort_count": 107,
+      "athlete_count": 39,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:09",
+            "qom": "2:49",
+            "destination": {
+                  "href": "strava://segments/3264582/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 5708897,
+            "title": "Jeff Finewood",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5708897/3530037/2/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/3264582/local_legend?categories%5B%5D=overall"
+      }
+}

@@ -1,0 +1,69 @@
+{
+      "id": 8589327,
+      "resource_state": 3,
+      "name": "* BIKE HANDLING ON CONCRETE-WOOD-CONCRETE OVER CANAL *",
+      "activity_type": "Ride",
+      "distance": 304.3,
+      "average_grade": 2.4,
+      "maximum_grade": 15.4,
+      "elevation_high": 137.6,
+      "elevation_low": 130.2,
+      "start_latlng": [
+            43.095533,
+            -77.429999
+      ],
+      "end_latlng": [
+            43.09423,
+            -77.428823
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OE2DOYTTKSBFUTQS3S2D3EXQZNJLXYTJDWUQGFYDPL4IDN2EXBDWGGZX5YTKSS52GFK245ZMVFRG4VVL2GU2W===",
+      "start_latitude": 43.095533,
+      "start_longitude": -77.429999,
+      "end_latitude": 43.09423,
+      "end_longitude": -77.428823,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-12-02T16:34:09Z",
+      "updated_at": "2021-05-15T02:15:53Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8589327",
+            "polyline": "ab`fGn`rwMpA}BN_@ECy@nAAAAI`A{AD?ND|@f@POZu@`@W",
+            "resource_state": 3
+      },
+      "effort_count": 6079,
+      "athlete_count": 803,
+      "star_count": 11,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "41s",
+            "qom": "52s",
+            "destination": {
+                  "href": "strava://segments/8589327/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 62652222,
+            "title": "Alexander Shestopalov",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/62652222/20628553/1/large.jpg",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/8589327/local_legend?categories%5B%5D=overall"
+      }
+}

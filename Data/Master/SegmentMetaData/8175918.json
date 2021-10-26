@@ -1,0 +1,69 @@
+{
+      "id": 8175918,
+      "resource_state": 3,
+      "name": "* FEEL THE SPEED *",
+      "activity_type": "Ride",
+      "distance": 1160.2,
+      "average_grade": -0.2,
+      "maximum_grade": 0.0,
+      "elevation_high": 123.6,
+      "elevation_low": 120.8,
+      "start_latlng": [
+            43.214516,
+            -77.476511
+      ],
+      "end_latlng": [
+            43.214818,
+            -77.490641
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UXX72GB47B27MBPK6K6NWD75BE4ADAYUXGLP6MYFMMZFPXC6NO2X5DGICYB7FAA2YIFJYVXTQAARTIQDVB4Q====",
+      "start_latitude": 43.214516,
+      "start_longitude": -77.476511,
+      "end_latitude": 43.214818,
+      "end_longitude": -77.490641,
+      "climb_category": 0,
+      "city": "Webster",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-09-20T00:23:35Z",
+      "updated_at": "2021-05-18T08:03:44Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8175918",
+            "polyline": "uiwfGfc{wMCdBDhFApIEjEETIlDC~BIrN@bDGjFAzHKbACrI",
+            "resource_state": 3
+      },
+      "effort_count": 1800,
+      "athlete_count": 367,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "44s",
+            "qom": "2:15",
+            "destination": {
+                  "href": "strava://segments/8175918/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 40213294,
+            "title": "Tonya Evans",
+            "profile": "https://graph.facebook.com/10216637957254606/picture?height=256&width=256",
+            "effort_description": "19 efforts in the last 90 days",
+            "effort_count": "19",
+            "effort_counts": {
+                  "overall": "19 efforts",
+                  "female": "19 efforts"
+            },
+            "destination": "strava://segments/8175918/local_legend?categories%5B%5D=overall"
+      }
+}

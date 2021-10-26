@@ -1,0 +1,69 @@
+{
+      "id": 12054677,
+      "resource_state": 3,
+      "name": "East ave - Wegs to Culver",
+      "activity_type": "Ride",
+      "distance": 651.7,
+      "average_grade": 1.3,
+      "maximum_grade": 3.8,
+      "elevation_high": 151.9,
+      "elevation_low": 143.2,
+      "start_latlng": [
+            43.147512,
+            -77.562969
+      ],
+      "end_latlng": [
+            43.149381,
+            -77.570508
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZZWMYKHNDOIQVQQ5KXC2LWIFKESLCK2VS2YYSDFZU2PAAQ24ONG7VG6LQUNAEBBVKLW76MSHTTYEATWLTHMQ====",
+      "start_latitude": 43.147512,
+      "start_longitude": -77.562969,
+      "end_latitude": 43.149381,
+      "end_longitude": -77.570508,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-05-11T17:37:25Z",
+      "updated_at": "2021-05-15T02:17:50Z",
+      "total_elevation_gain": 8.7,
+      "map": {
+            "id": "s12054677",
+            "polyline": "}fjfGp_lxMe@xBEf@c@tBMr@O`BEN[fCI`@Gt@I^M|@KTOx@Ed@SxA?POh@?RCTg@jCSbB[nAGHG`@G^Ad@",
+            "resource_state": 3
+      },
+      "effort_count": 3530,
+      "athlete_count": 772,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "42s",
+            "qom": "43s",
+            "destination": {
+                  "href": "strava://segments/12054677/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 74746133,
+            "title": "Jeff Hefner",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/74746133/18124141/1/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/12054677/local_legend?categories%5B%5D=overall"
+      }
+}

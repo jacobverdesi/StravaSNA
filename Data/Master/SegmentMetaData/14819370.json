@@ -1,0 +1,69 @@
+{
+      "id": 14819370,
+      "resource_state": 3,
+      "name": "Cobb's Lane Mile East to West",
+      "activity_type": "Ride",
+      "distance": 1233.3,
+      "average_grade": -0.0,
+      "maximum_grade": 3.0,
+      "elevation_high": 141.3,
+      "elevation_low": 138.1,
+      "start_latlng": [
+            43.091078,
+            -77.420246
+      ],
+      "end_latlng": [
+            43.097283,
+            -77.432205
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LFWDKRKFQQHDW7CIJ526I52B7RKVHCETX5M23W5VC7COEHBQI7QNMKTEAGOPXECMGWHHGH4IICDIBLSX3GNA====",
+      "start_latitude": 43.091078,
+      "start_longitude": -77.420246,
+      "end_latitude": 43.097283,
+      "end_longitude": -77.432205,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-05-08T13:22:51Z",
+      "updated_at": "2021-05-20T08:04:13Z",
+      "total_elevation_gain": 2.6,
+      "map": {
+            "id": "s14819370",
+            "polyline": "ef_fGpcpwMBH@l@KhAGnAMx@g@zAo@~B[|@{@tB}AdDeMbYILaAbAsA`C_@^cAd@a@h@Wp@Ot@KhAQr@Qn@Wd@]b@u@l@",
+            "resource_state": 3
+      },
+      "effort_count": 8523,
+      "athlete_count": 2064,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:41",
+            "qom": "1:56",
+            "destination": {
+                  "href": "strava://segments/14819370/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 2054323,
+            "title": "Art Weinstein",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2054323/687738/1/large.jpg",
+            "effort_description": "28 efforts in the last 90 days",
+            "effort_count": "28",
+            "effort_counts": {
+                  "overall": "28 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/14819370/local_legend?categories%5B%5D=overall"
+      }
+}

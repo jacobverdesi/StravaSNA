@@ -1,0 +1,69 @@
+{
+      "id": 28176577,
+      "resource_state": 3,
+      "name": "2021 Farmall Loop",
+      "activity_type": "Ride",
+      "distance": 7599.5,
+      "average_grade": -0.0,
+      "maximum_grade": 30.2,
+      "elevation_high": 241.2,
+      "elevation_low": 186.2,
+      "start_latlng": [
+            43.048761,
+            -77.409664
+      ],
+      "end_latlng": [
+            43.04844,
+            -77.409804
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/A3TRU5N777LMIVPBLHHKUU46DJVBTX6YSISUSG7DZVVOC4P5PCJITOGOQINBMMW56J2K3WYX5XVRVYUPOOAQ====",
+      "start_latitude": 43.048761,
+      "start_longitude": -77.409664,
+      "end_latitude": 43.04844,
+      "end_longitude": -77.409804,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-04-25T20:04:53Z",
+      "updated_at": "2021-05-17T08:09:23Z",
+      "total_elevation_gain": 278.0,
+      "map": {
+            "id": "s28176577",
+            "polyline": "w}veGlanwMWNO@QCOKu@s@UKm@KUA_ADo@FY@WCcA[SMc@m@KCED@HFH\\NLV@|@Al@DDLD@PEBIASMKYOYe@a@IAI@OFE@GLOr@PdAHVPDr@CF@DDFTPTP@PJXZTHR?VIRM?IN?DDDHH?BICICEQ@a@TMD_@IGIBCZB\\YJCP?PAD@FPBb@HDJAf@W?EEEGAEBECBIHEdBLRFRLBH?D]Ra@^[p@[^Md@URIRG@IM_@}AIMGCGAUJMBY?SAe@[c@B]HE?GGKu@EEEAQBE@CFRFFJABSFEHZXp@JBNATCFK@g@SUWEAEBQj@_@n@GZ?VM`@ALPp@NDFHP?ND|@IDHBP?LCJSLk@@wAUe@Ta@He@`@[Lc@I[@OCSMGAWNDB?HAFC?SKEAG@CBBJAPCBSSARC?WYGQ?ODORIFIHCR?BWV@^ATDNARE^AZEb@SBE?UMCMBq@h@KDQ?IBIAECEMECK?EGK_@ECMDQKYI[Dm@@MDW@WAMDYIOBSNI?OGE@CBGZEHGBSAWPGCEG?U@MPI?GKQCAC@KECFWBGHFJRr@Lx@EZWp@AX@XDDD@JCJ?PGD?F\\FJXBRCPBNFV?ZVHD@CAQOOC?g@VQ?GE@ETODK?EOFM@CG@OPQVAz@PJXHJ^J\\FF@r@GPOd@MLBXPRHJ@DCZHPI`@ZPFFMHADFBLD@DABSJUBWRg@?QKKG@?JDP?HETEFKIGYCEKBDF@NCLE?IG]g@ICEBQd@GHKCSKMCWBQHGAMGCEEc@JGJY\\Y`@IX@J?DUBGJIL?VGV?HFLATPJDBADETIHD@FHDNEH?JEF?DBDPI\\RVBFAb@EZC@UII?UNMRD@h@KHJ@FCLGDk@@[H_@ZDBh@GFBHPCd@@HHGDIVULSJEJ@BDBPADMFAHlAJn@I@YBGFEPEz@w@@WAWIUOYAKGGMCK@SHe@JMAGGW[CIAUDQDG^Mf@[^IN@LCd@AB@@FFFNHRCJQAEIAKDWAO?EACMO@_@YWHYGUJSCIKKe@GGK?MJG^IHWDMG[k@AUB?ZOf@IB[@EHKHc@Ne@jAOD@HNH?FRv@LDDFTJLCXG@[SYESGUJCHPLNANHFCd@FX?ZRHBFC?CQ[?KDYFMNOd@[^CN@LZ@`@CNEDI?CDCTBVJJx@NNJDDEZKZEBIIKWg@DIFGJGTFAFKFCB?@HIXKJMCk@N_@R]CSGQ?UDw@TaAD@@JAZM`@Ih@Ed@H`ABh@LL@^ILITEZORSDK@OKSCWIQSSEQLs@FKd@a@j@aADO@OCGc@UIOAUH]DH@VBDDB`@@JFRTL^ANM^GZALFJAHABUKKBMH_@`@SJ?Fj@Ph@E^MFMJqAAgBKg@O]QWQSc@_@YQa@Kc@EsAEy@?O?m@QM?g@FGCCID[BG^YTIJIZc@LKVG`@@f@N~@bAJFJ@b@@NGPUXs@B@?DCf@@HHHRCVMFM?G",
+            "resource_state": 3
+      },
+      "effort_count": 1061,
+      "athlete_count": 151,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "26:54",
+            "qom": "32:04",
+            "destination": {
+                  "href": "strava://segments/28176577/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/28176577/local_legend?categories%5B%5D=overall"
+      }
+}

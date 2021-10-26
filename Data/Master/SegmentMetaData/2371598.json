@@ -1,0 +1,69 @@
+{
+      "id": 2371598,
+      "resource_state": 3,
+      "name": "GVP - Lock 33 (Eastbound)",
+      "activity_type": "Ride",
+      "distance": 5753.75,
+      "average_grade": -0.1,
+      "maximum_grade": 4.8,
+      "elevation_high": 161.6,
+      "elevation_low": 155.1,
+      "start_latlng": [
+            43.11777433,
+            -77.63439961
+      ],
+      "end_latlng": [
+            43.09676876,
+            -77.57065726
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2GVDO66HV3CMTX5EVQ6ZINR55YMAT7IPHNO2VNJY2KJGBY3L2AXPUAUQMK2DRC7ACWKQXMWG6UXUEPGOWKWGU===",
+      "start_latitude": 43.11777433,
+      "start_longitude": -77.63439961,
+      "end_latitude": 43.09676876,
+      "end_longitude": -77.57065726,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-09-13T17:55:59Z",
+      "updated_at": "2021-05-20T08:02:18Z",
+      "total_elevation_gain": 21.1524,
+      "map": {
+            "id": "s2371598",
+            "polyline": "amdfG~}yxM`@{BXi@xB}Ez@eA\\e@Hk@No@Xq@`@o@v@cBrCgHTq@bAgCdBwFx@wCb@iBfAcG|@mENk@L_A`@gBLu@d@gBDq@Ls@Pu@j@wAb@yAZeBJ{@Du@?k@lAmELw@b@oBd@eBXs@Ae@Rm@Lm@JsAf@wDb@iBXo@Ps@ZiBPu@p@mDFk@CKHLE@LSTiAn@kB@q@Lk@d@mAJi@d@{DZaBTcBBk@Jo@j@yA\\yARkA`@iAZ_BFi@vBiJT}Ad@}AXi@TcAVcBRm@LiBv@qC\\}AJq@z@kEHq@z@gENm@v@_EPq@zA}In@iEbCwLNm@h@{Ap@wCd@{CjAaGt@oGl@yCTcBFs@`@cBLu@^aBVq@Pq@j@}A^a@b@Yb@{A^yC`@aB|@gEPo@h@wC|CuNp@kEn@wCt@mEh@cBVk@",
+            "resource_state": 3
+      },
+      "effort_count": 22395,
+      "athlete_count": 3883,
+      "star_count": 23,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "7:49",
+            "qom": "9:03",
+            "destination": {
+                  "href": "strava://segments/2371598/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 335964,
+            "title": "Jay O",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "37 efforts in the last 90 days",
+            "effort_count": "37",
+            "effort_counts": {
+                  "overall": "37 efforts",
+                  "female": "16 efforts"
+            },
+            "destination": "strava://segments/2371598/local_legend?categories%5B%5D=overall"
+      }
+}

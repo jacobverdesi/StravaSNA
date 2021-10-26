@@ -1,0 +1,69 @@
+{
+      "id": 19001564,
+      "resource_state": 3,
+      "name": "Wins-High",
+      "activity_type": "Ride",
+      "distance": 322.0,
+      "average_grade": 3.2,
+      "maximum_grade": 10.7,
+      "elevation_high": 165.4,
+      "elevation_low": 155.0,
+      "start_latlng": [
+            43.129592,
+            -77.587169
+      ],
+      "end_latlng": [
+            43.132332,
+            -77.586874
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/J5RYRX74PSTCCMSIHA4TUJ2VYFXVWEVGA6VZERUNGKFMYCQEAOK2UE2OLQFGP5H7QHMPN6VF35B7JJA5255M2===",
+      "start_latitude": 43.129592,
+      "start_longitude": -77.587169,
+      "end_latitude": 43.132332,
+      "end_longitude": -77.586874,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-10-01T23:53:50Z",
+      "updated_at": "2021-05-15T02:22:03Z",
+      "total_elevation_gain": 10.4,
+      "map": {
+            "id": "s19001564",
+            "polyline": "}vffGxvpxMYCu@[qDsAuAa@Y?YFyAr@m@POL",
+            "resource_state": 3
+      },
+      "effort_count": 218,
+      "athlete_count": 63,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "31s",
+            "qom": "48s",
+            "destination": {
+                  "href": "strava://segments/19001564/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 169554,
+            "title": "Rick Dalton \ud83d\udc0c",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/169554/3968124/3/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/19001564/local_legend?categories%5B%5D=overall"
+      }
+}

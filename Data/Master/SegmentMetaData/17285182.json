@@ -1,0 +1,69 @@
+{
+      "id": 17285182,
+      "resource_state": 3,
+      "name": "* PAULING FULL GAS *",
+      "activity_type": "Ride",
+      "distance": 1681.1,
+      "average_grade": 0.7,
+      "maximum_grade": 6.9,
+      "elevation_high": 196.2,
+      "elevation_low": 184.2,
+      "start_latlng": [
+            43.093966,
+            -77.777989
+      ],
+      "end_latlng": [
+            43.10695,
+            -77.768514
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MOQ5K4M4VKY2MRJDIF577LR47AOAQJS4EZEOZK4JLW274VTXU2IHDCTEAVOEOPETXDHI3DOFSCJ5MNFYWTR3W===",
+      "start_latitude": 43.093966,
+      "start_longitude": -77.777989,
+      "end_latitude": 43.10695,
+      "end_longitude": -77.768514,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-04-01T01:34:17Z",
+      "updated_at": "2021-05-17T08:07:27Z",
+      "total_elevation_gain": 12.0,
+      "map": {
+            "id": "s17285182",
+            "polyline": "gx_fGl_vyM]@o@CcCDiCA_B@sAMcAe@cDiCaI{Gs@w@{BgDsAyA}@}@qDkEoAsAsBeBmIqGoImGuCqB",
+            "resource_state": 3
+      },
+      "effort_count": 435,
+      "athlete_count": 130,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:44",
+            "qom": "3:19",
+            "destination": {
+                  "href": "strava://segments/17285182/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 32792443,
+            "title": "John Bugajski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/32792443/15473075/2/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/17285182/local_legend?categories%5B%5D=overall"
+      }
+}

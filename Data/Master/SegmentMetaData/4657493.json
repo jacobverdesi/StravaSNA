@@ -1,0 +1,69 @@
+{
+      "id": 4657493,
+      "resource_state": 3,
+      "name": "Erie Station up Middle Road climb",
+      "activity_type": "Ride",
+      "distance": 766.9,
+      "average_grade": 6.5,
+      "maximum_grade": 14.8,
+      "elevation_high": 219.1,
+      "elevation_low": 169.3,
+      "start_latlng": [
+            43.040677,
+            -77.641227
+      ],
+      "end_latlng": [
+            43.037892,
+            -77.646999
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BHQGGMDHGXW7PAUEMNH3B7SRKPUQ76OVXZ4LGYEKEKIV2ODNDVFNTQDM2F3OPTU3NYO56JYEQ4ZIK2FJ4DLA====",
+      "start_latitude": 43.040677,
+      "start_longitude": -77.641227,
+      "end_latitude": 43.037892,
+      "end_longitude": -77.646999,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-08T12:12:47Z",
+      "updated_at": "2021-05-20T08:02:35Z",
+      "total_elevation_gain": 49.8,
+      "map": {
+            "id": "s4657493",
+            "polyline": "ekueGth{xM@`KDvDAlHBhFDVLLJBf@BHJv@GpDBh@Ij@@RA`@FxAC",
+            "resource_state": 3
+      },
+      "effort_count": 140,
+      "athlete_count": 71,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:57",
+            "qom": "3:13",
+            "destination": {
+                  "href": "strava://segments/4657493/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 22664404,
+            "title": "Silvio B\ud83c\udde8\ud83c\udded",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/22664404/12454701/4/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4657493/local_legend?categories%5B%5D=overall"
+      }
+}

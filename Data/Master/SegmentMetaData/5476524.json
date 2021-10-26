@@ -1,0 +1,69 @@
+{
+      "id": 5476524,
+      "resource_state": 3,
+      "name": "LOSP - Latta to Greenleaf - Westbound",
+      "activity_type": "Ride",
+      "distance": 849.9,
+      "average_grade": 0.5,
+      "maximum_grade": 1.8,
+      "elevation_high": 89.7,
+      "elevation_low": 84.9,
+      "start_latlng": [
+            43.252534,
+            -77.61961
+      ],
+      "end_latlng": [
+            43.25677,
+            -77.628023
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JNUMOYMDIGCKOJ5Q5ERB7HJ3ZWOGTGULZXQN3D3D4I6NJ2BLVBHNRQUPAQ4LCTI3UO3TJBBAMUN2RNMYYR4JQ===",
+      "start_latitude": 43.252534,
+      "start_longitude": -77.61961,
+      "end_latitude": 43.25677,
+      "end_longitude": -77.628023,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-13T00:49:04Z",
+      "updated_at": "2021-05-20T08:02:42Z",
+      "total_elevation_gain": 3.3,
+      "map": {
+            "id": "s5476524",
+            "polyline": "iw~fGpawxMaB~@iAzB{@fCgAzBmAbGiAtBq@hBm@fCkAzDk@|@{@`CUjAs@nBi@n@",
+            "resource_state": 3
+      },
+      "effort_count": 6699,
+      "athlete_count": 451,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:12",
+            "qom": "1:32",
+            "destination": {
+                  "href": "strava://segments/5476524/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 89654311,
+            "title": "Peter Englerth",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89654311/21427141/1/large.jpg",
+            "effort_description": "113 efforts in the last 90 days",
+            "effort_count": "113",
+            "effort_counts": {
+                  "overall": "113 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/5476524/local_legend?categories%5B%5D=overall"
+      }
+}

@@ -1,0 +1,69 @@
+{
+      "id": 22118421,
+      "resource_state": 3,
+      "name": "Wedge to Swill",
+      "activity_type": "Ride",
+      "distance": 730.1,
+      "average_grade": -0.2,
+      "maximum_grade": 1.2,
+      "elevation_high": 157.3,
+      "elevation_low": 155.1,
+      "start_latlng": [
+            43.145101,
+            -77.601468
+      ],
+      "end_latlng": [
+            43.139858,
+            -77.596224
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3DF4ZGVWUHJIZA2D4LMRZAZPBYJF4WOQQ25P7KFPWMJDK43Y26FIJG7WWKR4MVKTTL6ZOC3SF2OCSIJ56EZA====",
+      "start_latitude": 43.145101,
+      "start_longitude": -77.601468,
+      "end_latitude": 43.139858,
+      "end_longitude": -77.596224,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-10-22T14:39:05Z",
+      "updated_at": "2021-05-15T02:24:01Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s22118421",
+            "polyline": "{wifGdpsxMzAgAdC}An@g@JEz@k@r@aAx@}@rAwB`B}BFMFKNGN[LId@w@v@eAjCmBh@m@hA_A",
+            "resource_state": 3
+      },
+      "effort_count": 758,
+      "athlete_count": 226,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:06",
+            "qom": "1:29",
+            "destination": {
+                  "href": "strava://segments/22118421/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 45214214,
+            "title": "Lynn McGrath",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/45214214/12611443/1/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/22118421/local_legend?categories%5B%5D=overall"
+      }
+}

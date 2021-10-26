@@ -1,0 +1,69 @@
+{
+      "id": 17285161,
+      "resource_state": 3,
+      "name": "* STOTTLE MILE * NORTH *",
+      "activity_type": "Ride",
+      "distance": 1646.6,
+      "average_grade": -0.0,
+      "maximum_grade": 6.7,
+      "elevation_high": 184.8,
+      "elevation_low": 180.0,
+      "start_latlng": [
+            43.076653,
+            -77.78181
+      ],
+      "end_latlng": [
+            43.09103,
+            -77.781143
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DKEJAEBP7AWXXK6SHE3JQUNLM3SZMVDIX7WNYZJHWWCMTBARIC4CMVHNCZMLNDHRRLTKDD62Y7YHC624S4BD6===",
+      "start_latitude": 43.076653,
+      "start_longitude": -77.78181,
+      "end_latitude": 43.09103,
+      "end_longitude": -77.781143,
+      "climb_category": 0,
+      "city": "Churchville",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-04-01T01:29:33Z",
+      "updated_at": "2021-05-17T08:07:27Z",
+      "total_elevation_gain": 8.4,
+      "map": {
+            "id": "s17285161",
+            "polyline": "al|eGhwvyMwN@eBCcKWyAIqVs@eAEaBSi@Oi@WMGeD}Cw@a@g@IQ?s@JQFoHdDuBl@",
+            "resource_state": 3
+      },
+      "effort_count": 572,
+      "athlete_count": 159,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:10",
+            "qom": "2:46",
+            "destination": {
+                  "href": "strava://segments/17285161/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 72025924,
+            "title": "Brian Colwell",
+            "profile": "https://graph.facebook.com/10158849165827557/picture?height=256&width=256",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/17285161/local_legend?categories%5B%5D=overall"
+      }
+}

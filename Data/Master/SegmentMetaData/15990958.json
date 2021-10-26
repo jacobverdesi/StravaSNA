@@ -1,0 +1,69 @@
+{
+      "id": 15990958,
+      "resource_state": 3,
+      "name": "lower creek trail (West)",
+      "activity_type": "Ride",
+      "distance": 579.1,
+      "average_grade": -0.8,
+      "maximum_grade": 20.8,
+      "elevation_high": 66.4,
+      "elevation_low": 50.6,
+      "start_latlng": [
+            43.164993,
+            -77.523024
+      ],
+      "end_latlng": [
+            43.164519,
+            -77.52799
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2ALBV5XDN72PIUG7CLSMVCM7QNYEICOAYKFJ35YN6N322UXOKHIRHRJARIVLTVSBPK765SCCDMLIBWQR5CSHW===",
+      "start_latitude": 43.164993,
+      "start_longitude": -77.523024,
+      "end_latitude": 43.164519,
+      "end_longitude": -77.52799,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-09-10T16:36:32Z",
+      "updated_at": "2021-05-15T08:05:04Z",
+      "total_elevation_gain": 13.8,
+      "map": {
+            "id": "s15990958",
+            "polyline": "etmfG|edxMEHHfA?ZCVBZEh@ENCJIVFVMFSGWDIFs@VCF@PT`@f@NJPCLQPQ^Wv@ALYd@@JGp@Cl@@DNH`AjAVPXZn@f@R\\Pn@JRPRHB",
+            "resource_state": 3
+      },
+      "effort_count": 2976,
+      "athlete_count": 326,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:50",
+            "qom": "3:08",
+            "destination": {
+                  "href": "strava://segments/15990958/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 1334463,
+            "title": "Er\u2699\ufe0fc W\u2699\ufe0flters",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1334463/19430522/7/large.jpg",
+            "effort_description": "13 efforts in the last 90 days",
+            "effort_count": "13",
+            "effort_counts": {
+                  "overall": "13 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/15990958/local_legend?categories%5B%5D=overall"
+      }
+}

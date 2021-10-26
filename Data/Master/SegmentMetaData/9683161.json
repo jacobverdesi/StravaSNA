@@ -1,0 +1,69 @@
+{
+      "id": 9683161,
+      "resource_state": 3,
+      "name": "Rt 65 (Stone Rd-Calkins Rd)",
+      "activity_type": "Ride",
+      "distance": 870.7,
+      "average_grade": -0.8,
+      "maximum_grade": 6.7,
+      "elevation_high": 175.6,
+      "elevation_low": 166.2,
+      "start_latlng": [
+            43.076718,
+            -77.54698
+      ],
+      "end_latlng": [
+            43.069133,
+            -77.549211
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6F6OX5PPRDVWESQ5XJQPQHFHTJZZEQJ2J2QBCLBNLVQIP433F5NMWTIJGMHBOMYUQJITXPZFVW2CUW73UMGQ====",
+      "start_latitude": 43.076718,
+      "start_longitude": -77.54698,
+      "end_latitude": 43.069133,
+      "end_longitude": -77.549211,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-08T22:21:34Z",
+      "updated_at": "2021-05-17T08:05:44Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s9683161",
+            "polyline": "ml|eGt{hxMbJlDpJxDb@PrBj@|@LvAJ~H@fDC",
+            "resource_state": 3
+      },
+      "effort_count": 9387,
+      "athlete_count": 1021,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:04",
+            "qom": "1:14",
+            "destination": {
+                  "href": "strava://segments/9683161/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 23357095,
+            "title": "Chuck Koffenberger",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/9683161/local_legend?categories%5B%5D=overall"
+      }
+}

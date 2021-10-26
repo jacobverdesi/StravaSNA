@@ -1,0 +1,69 @@
+{
+      "id": 15351845,
+      "resource_state": 3,
+      "name": "Connector to Dryer ",
+      "activity_type": "Ride",
+      "distance": 1111.3,
+      "average_grade": 0.7,
+      "maximum_grade": 18.2,
+      "elevation_high": 233.4,
+      "elevation_low": 211.8,
+      "start_latlng": [
+            42.981804,
+            -77.441608
+      ],
+      "end_latlng": [
+            42.973931,
+            -77.439378
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7N3BMX54MTU4UHA5DXM2UANR74H74HD7RKF2XKBD26SKNU6JE43D2T2AUSQG2KRGBAOOVVJ2DJHSNLLYGS3DA===",
+      "start_latitude": 42.981804,
+      "start_longitude": -77.441608,
+      "end_latitude": 42.973931,
+      "end_longitude": -77.439378,
+      "climb_category": 0,
+      "city": "Victor",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-07-06T16:46:00Z",
+      "updated_at": "2021-05-20T08:04:18Z",
+      "total_elevation_gain": 25.7,
+      "map": {
+            "id": "s15351845",
+            "polyline": "g{ieG`itwMn@@^ElAAVBPDLGNCXQNCv@Bn@Hf@?`ADn@Mb@?Z@VGl@Hh@B^AVMXC|@BbAPh@KFGBc@Nc@BQFsAAa@@_@Rw@LSAG@MIi@BOn@uANKXCRMnAqAj@w@LGj@Gv@BP?JBNNJB?C@JAd@@HX\\\\DHFHTDp@DHVLX\\",
+            "resource_state": 3
+      },
+      "effort_count": 2401,
+      "athlete_count": 331,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:06",
+            "qom": "3:50",
+            "destination": {
+                  "href": "strava://segments/15351845/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 36905943,
+            "title": "Nate Sonneville",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/36905943/13042340/4/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/15351845/local_legend?categories%5B%5D=overall"
+      }
+}

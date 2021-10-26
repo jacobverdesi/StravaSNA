@@ -1,0 +1,69 @@
+{
+      "id": 19067065,
+      "resource_state": 3,
+      "name": "Lyndon to Cobbs Ln",
+      "activity_type": "Ride",
+      "distance": 1711.5,
+      "average_grade": 0.1,
+      "maximum_grade": 5.4,
+      "elevation_high": 111.2,
+      "elevation_low": 109.4,
+      "start_latlng": [
+            43.08753,
+            -77.401516
+      ],
+      "end_latlng": [
+            43.091147,
+            -77.421484
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2SFIZ35T7AUUAXVOQTMCCJV5T6ASJ2X47O4WYK43RYIFDOGRDUF7TLBE7NYEI5ZK4E4Q3K6S6CCDZGMCY33A====",
+      "start_latitude": 43.08753,
+      "start_longitude": -77.401516,
+      "end_latitude": 43.091147,
+      "end_longitude": -77.421484,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-10-10T01:07:31Z",
+      "updated_at": "2021-05-20T08:04:51Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s19067065",
+            "polyline": "ap~eGnnlwMy@dCu@dCcL|`@Ql@c@tC]rDI~CErE?nEK~PC|GMnJIlDEn@]nDMv@",
+            "resource_state": 3
+      },
+      "effort_count": 8681,
+      "athlete_count": 1755,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:26",
+            "qom": "2:50",
+            "destination": {
+                  "href": "strava://segments/19067065/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 2054323,
+            "title": "Art Weinstein",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2054323/687738/1/large.jpg",
+            "effort_description": "31 efforts in the last 90 days",
+            "effort_count": "31",
+            "effort_counts": {
+                  "overall": "31 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/19067065/local_legend?categories%5B%5D=overall"
+      }
+}

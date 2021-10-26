@@ -1,0 +1,69 @@
+{
+      "id": 11903063,
+      "resource_state": 3,
+      "name": "Dublin Hill Heading North",
+      "activity_type": "Ride",
+      "distance": 785.8,
+      "average_grade": 1.6,
+      "maximum_grade": 8.1,
+      "elevation_high": 164.2,
+      "elevation_low": 151.4,
+      "start_latlng": [
+            43.143788,
+            -77.426245
+      ],
+      "end_latlng": [
+            43.15084,
+            -77.425955
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AVZFW4YLXVZ5BOFLGU4WRCRCXLLJE2UVLQY2TAGQNZH3YZTXDCPUIFZMW7A2VRTLAXBIGZ4QSQB3J5ZXTVQKG===",
+      "start_latitude": 43.143788,
+      "start_longitude": -77.426245,
+      "end_latitude": 43.15084,
+      "end_longitude": -77.425955,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-04-24T16:24:10Z",
+      "updated_at": "2021-05-20T08:03:46Z",
+      "total_elevation_gain": 12.8,
+      "map": {
+            "id": "s11903063",
+            "polyline": "soifG`iqwMUEeAEyGE}BGO@gCIiNKmGK",
+            "resource_state": 3
+      },
+      "effort_count": 2798,
+      "athlete_count": 482,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:12",
+            "qom": "1:47",
+            "destination": {
+                  "href": "strava://segments/11903063/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 295448,
+            "title": "Rouge Rob",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/295448/133377/1/large.jpg",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/11903063/local_legend?categories%5B%5D=overall"
+      }
+}

@@ -1,0 +1,69 @@
+{
+      "id": 9437329,
+      "resource_state": 3,
+      "name": "Edgewood Gauntlet: 590 to French",
+      "activity_type": "Ride",
+      "distance": 1052.0,
+      "average_grade": -0.1,
+      "maximum_grade": 6.8,
+      "elevation_high": 110.4,
+      "elevation_low": 106.0,
+      "start_latlng": [
+            43.108163,
+            -77.561902
+      ],
+      "end_latlng": [
+            43.099383,
+            -77.566693
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2RA5DZOZSTC3KIOGFSAKWYNLAVPM4SUXWY6KPN6NASNQ2ESJ4NCJBL6G6WJUPQ5HOBCRHU6UIDCOXNPZ5FF3W===",
+      "start_latitude": 43.108163,
+      "start_longitude": -77.561902,
+      "end_latitude": 43.099383,
+      "end_longitude": -77.566693,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-08T12:04:40Z",
+      "updated_at": "2021-05-15T02:16:21Z",
+      "total_elevation_gain": 3.8,
+      "map": {
+            "id": "s9437329",
+            "polyline": "_qbfG|xkxMzRvI~HhDrFfC|GvC`EnBj@Z^N",
+            "resource_state": 3
+      },
+      "effort_count": 7627,
+      "athlete_count": 645,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:19",
+            "qom": "1:42",
+            "destination": {
+                  "href": "strava://segments/9437329/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 335964,
+            "title": "Jay O",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "45 efforts in the last 90 days",
+            "effort_count": "45",
+            "effort_counts": {
+                  "overall": "45 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/9437329/local_legend?categories%5B%5D=overall"
+      }
+}

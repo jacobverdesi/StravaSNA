@@ -1,0 +1,69 @@
+{
+      "id": 13471988,
+      "resource_state": 3,
+      "name": "Golf Coaster",
+      "activity_type": "Ride",
+      "distance": 222.5,
+      "average_grade": -10.5,
+      "maximum_grade": 6.6,
+      "elevation_high": 108.4,
+      "elevation_low": 83.6,
+      "start_latlng": [
+            43.227823,
+            -77.562499
+      ],
+      "end_latlng": [
+            43.228669,
+            -77.564389
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SCA5WNNBV6ZELSGFXJTDLRRB5GFJSEX6KB7A4LTB2VYYIPVG3NSS2SWNIRYH24YEDNQC23P4SZCM63SWTWJMS===",
+      "start_latitude": 43.227823,
+      "start_longitude": -77.562499,
+      "end_latitude": 43.228669,
+      "end_longitude": -77.564389,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-18T23:12:10Z",
+      "updated_at": "2021-05-15T02:18:38Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s13471988",
+            "polyline": "{|yfGr|kxMA\\I^_@\\]R?FP`@@L?`AE\\Yf@On@Qb@OF_@Q",
+            "resource_state": 3
+      },
+      "effort_count": 425,
+      "athlete_count": 82,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "24s",
+            "qom": "3:32",
+            "destination": {
+                  "href": "strava://segments/13471988/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 25340805,
+            "title": "James kleehammer\ud83d\udc3a",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/25340805/7303087/3/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/13471988/local_legend?categories%5B%5D=overall"
+      }
+}

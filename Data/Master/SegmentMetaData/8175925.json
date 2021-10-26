@@ -1,0 +1,69 @@
+{
+      "id": 8175925,
+      "resource_state": 3,
+      "name": "* 104 Trail *",
+      "activity_type": "Ride",
+      "distance": 966.0,
+      "average_grade": 0.2,
+      "maximum_grade": 5.4,
+      "elevation_high": 123.0,
+      "elevation_low": 120.8,
+      "start_latlng": [
+            43.214086,
+            -77.491805
+      ],
+      "end_latlng": [
+            43.214006,
+            -77.503527
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/F2IVPELASR5MMBBBD7B53QEIM32SAUCRN4KIUP74PQZIVSBXVQCD5BCT2O2QCEGEJ3ZJA7RXMJCUNVFLG6JTW===",
+      "start_latitude": 43.214086,
+      "start_longitude": -77.491805,
+      "end_latitude": 43.214006,
+      "end_longitude": -77.503527,
+      "climb_category": 0,
+      "city": "Webster",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-09-20T00:27:11Z",
+      "updated_at": "2021-05-15T02:15:40Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s8175925",
+            "polyline": "_gwfGxb~wMC~ABxCGnAQr@E\\ArCHrAXfC@d@?f@WjFHlIBh@Jx@Rz@JbBa@zCJrN",
+            "resource_state": 3
+      },
+      "effort_count": 1830,
+      "athlete_count": 276,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:24",
+            "qom": "2:05",
+            "destination": {
+                  "href": "strava://segments/8175925/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 40213294,
+            "title": "Tonya Evans",
+            "profile": "https://graph.facebook.com/10216637957254606/picture?height=256&width=256",
+            "effort_description": "19 efforts in the last 90 days",
+            "effort_count": "19",
+            "effort_counts": {
+                  "overall": "19 efforts",
+                  "female": "19 efforts"
+            },
+            "destination": "strava://segments/8175925/local_legend?categories%5B%5D=overall"
+      }
+}

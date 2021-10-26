@@ -1,0 +1,69 @@
+{
+      "id": 9658401,
+      "resource_state": 3,
+      "name": "* 5 MILE LINE * PHS TO 441 *",
+      "activity_type": "Ride",
+      "distance": 644.3,
+      "average_grade": -2.0,
+      "maximum_grade": 0.0,
+      "elevation_high": 142.4,
+      "elevation_low": 129.2,
+      "start_latlng": [
+            43.136336,
+            -77.475849
+      ],
+      "end_latlng": [
+            43.130542,
+            -77.475968
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PICR7HCKVBTD5SHYHN53V3E3ZZR5BOD5AVJR2AQ3ZR7VLX5GGGWG65HKAE7JSS5G2NIQ3MHN7GSHUS5KNXYQ====",
+      "start_latitude": 43.136336,
+      "start_longitude": -77.475849,
+      "end_latitude": 43.130542,
+      "end_longitude": -77.475968,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-06T00:22:07Z",
+      "updated_at": "2021-05-20T08:03:25Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9658401",
+            "polyline": "aahfG`_{wM~JBdWR",
+            "resource_state": 3
+      },
+      "effort_count": 2364,
+      "athlete_count": 402,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "41s",
+            "qom": "55s",
+            "destination": {
+                  "href": "strava://segments/9658401/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 46558612,
+            "title": "Pete Aldridge",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/46558612/12867132/5/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/9658401/local_legend?categories%5B%5D=overall"
+      }
+}

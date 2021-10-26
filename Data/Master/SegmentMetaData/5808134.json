@@ -1,0 +1,69 @@
+{
+      "id": 5808134,
+      "resource_state": 3,
+      "name": "Fast Way",
+      "activity_type": "Ride",
+      "distance": 1090.5,
+      "average_grade": -3.5,
+      "maximum_grade": 5.6,
+      "elevation_high": 284.2,
+      "elevation_low": 242.6,
+      "start_latlng": [
+            42.909404,
+            -77.570392
+      ],
+      "end_latlng": [
+            42.909022,
+            -77.557195
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OPMMYT66BCEPE2WQ4GCZIQKXLSMIR6F3PDSVIM3EZKG34MWIRV4EPH54THDJF7AN2GY5NNEAHJVF32PKXESSY===",
+      "start_latitude": 42.909404,
+      "start_longitude": -77.570392,
+      "end_latitude": 42.909022,
+      "end_longitude": -77.557195,
+      "climb_category": 0,
+      "city": "Lima",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-10-19T03:20:11Z",
+      "updated_at": "2021-05-17T08:04:46Z",
+      "total_elevation_gain": 3.2,
+      "map": {
+            "id": "s5808134",
+            "polyline": "wv{dG~mmxMCeBaBqk@CoB@kABuBJsBX{C`@sCfBaK",
+            "resource_state": 3
+      },
+      "effort_count": 1021,
+      "athlete_count": 489,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:03",
+            "qom": "1:10",
+            "destination": {
+                  "href": "strava://segments/5808134/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 49506124,
+            "title": "Tim A",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/5808134/local_legend?categories%5B%5D=overall"
+      }
+}

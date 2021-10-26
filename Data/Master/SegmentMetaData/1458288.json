@@ -1,0 +1,69 @@
+{
+      "id": 1458288,
+      "resource_state": 3,
+      "name": "Douglas rd Hill 2",
+      "activity_type": "Ride",
+      "distance": 494.209,
+      "average_grade": 2.4,
+      "maximum_grade": 9.4,
+      "elevation_high": 221.0,
+      "elevation_low": 208.0,
+      "start_latlng": [
+            43.02219782959951,
+            -77.57566946565879
+      ],
+      "end_latlng": [
+            43.0233070068462,
+            -77.5811536610849
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5QKMJLKA5UJ5EHFH3ITOKZLYEJEIAV2VAWVYMWXTFOTKLAQGWMTZHZ7YHWQLM4DHHVTD5NPIU6MTS5GDRW3U4===",
+      "start_latitude": 43.02219782959951,
+      "start_longitude": -77.57566946565879,
+      "end_latitude": 43.0233070068462,
+      "end_longitude": -77.5811536610849,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-27T20:34:40Z",
+      "updated_at": "2021-05-15T02:12:05Z",
+      "total_elevation_gain": 13.0,
+      "map": {
+            "id": "s1458288",
+            "polyline": "uwqeG|nnxMYr@m@jAwAlBOLYl@ObBIxBFn@FlBCpBE|@?pABnACpA",
+            "resource_state": 3
+      },
+      "effort_count": 12599,
+      "athlete_count": 1411,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "42s",
+            "qom": "56s",
+            "destination": {
+                  "href": "strava://segments/1458288/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 81303762,
+            "title": "Allan stern",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81303762/19605661/1/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/1458288/local_legend?categories%5B%5D=overall"
+      }
+}

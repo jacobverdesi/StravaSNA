@@ -1,0 +1,69 @@
+{
+      "id": 9445663,
+      "resource_state": 3,
+      "name": "South Ave up",
+      "activity_type": "Ride",
+      "distance": 517.6,
+      "average_grade": 1.4,
+      "maximum_grade": 4.9,
+      "elevation_high": 181.0,
+      "elevation_low": 172.8,
+      "start_latlng": [
+            43.125378,
+            -77.613933
+      ],
+      "end_latlng": [
+            43.12958,
+            -77.611267
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2XQVPUC5BO27IWDA3I2KXCHCTTAIR7XYNSLO764TMHBLJY7QVHOJQHS7YXX3TJMH57M5ZHKR4TXPHAFYATN2G===",
+      "start_latitude": 43.125378,
+      "start_longitude": -77.613933,
+      "end_latitude": 43.12958,
+      "end_longitude": -77.611267,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-09T17:42:43Z",
+      "updated_at": "2021-05-15T02:16:22Z",
+      "total_elevation_gain": 8.2,
+      "map": {
+            "id": "s9445663",
+            "polyline": "q|efGb~uxMMGMA[Qi@OKA[MkAo@aAc@SQyDaCYU}@k@_Aa@aBcAMGYS[Oe@]",
+            "resource_state": 3
+      },
+      "effort_count": 1774,
+      "athlete_count": 588,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "29s",
+            "qom": "1:06",
+            "destination": {
+                  "href": "strava://segments/9445663/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 42373597,
+            "title": "Ben Turiano",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GhertBqsWXO0zkk1lsc21mZKCqXCxCz32C6n4osoNg=s96-c",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/9445663/local_legend?categories%5B%5D=overall"
+      }
+}

@@ -1,0 +1,69 @@
+{
+      "id": 13471998,
+      "resource_state": 3,
+      "name": "Eastman Lake",
+      "activity_type": "Ride",
+      "distance": 1260.4,
+      "average_grade": 0.3,
+      "maximum_grade": 32.6,
+      "elevation_high": 88.0,
+      "elevation_low": 77.6,
+      "start_latlng": [
+            43.228541,
+            -77.56446
+      ],
+      "end_latlng": [
+            43.234754,
+            -77.558281
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ISSIOPTRP2UF3D3O6HTLKGBVPYH4NO6IFMTGY56RDMMIY264KCUGHEPNACGIG2SPWIVI6P73SMPHQWEFDLVQ====",
+      "start_latitude": 43.228541,
+      "start_longitude": -77.56446,
+      "end_latitude": 43.234754,
+      "end_longitude": -77.558281,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-18T23:16:22Z",
+      "updated_at": "2021-05-15T02:18:38Z",
+      "total_elevation_gain": 40.5,
+      "map": {
+            "id": "s13471998",
+            "polyline": "kazfGzhlxMWMeB]WCe@BOS]QwAa@i@MaAu@UMKCy@LW@MCQQc@E[Mo@EGHKBINK@QJY@GOG?MWe@IIGIKI]QgBCeAKu@B_@Pc@IIi@HUCW@WAKGIIiAmB]]m@}@QQSKK_@AYBMJSFEb@MBECGo@GIBSH]Vq@Ja@VE@KUGe@Ea@B_@BMNUFEf@KR]TYh@qA@KCG",
+            "resource_state": 3
+      },
+      "effort_count": 352,
+      "athlete_count": 75,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:48",
+            "qom": "19:06",
+            "destination": {
+                  "href": "strava://segments/13471998/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 25340805,
+            "title": "James kleehammer\ud83d\udc3a",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/25340805/7303087/3/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/13471998/local_legend?categories%5B%5D=overall"
+      }
+}

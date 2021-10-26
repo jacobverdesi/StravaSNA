@@ -1,0 +1,69 @@
+{
+      "id": 12054644,
+      "resource_state": 3,
+      "name": "Swimming Pool Sprint (Westbound)",
+      "activity_type": "Ride",
+      "distance": 735.5,
+      "average_grade": -0.1,
+      "maximum_grade": 6.5,
+      "elevation_high": 158.5,
+      "elevation_low": 156.5,
+      "start_latlng": [
+            43.102935,
+            -77.590199
+      ],
+      "end_latlng": [
+            43.105355,
+            -77.598613
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YDZIQKRBUCOWJP5MDCI6OHXGB7CJWY3SXRVHOPMRCAWKJTSBFY4NSVRAJHMYTYRZ4GFTBI2DY4QOW6ONBQ5GS===",
+      "start_latitude": 43.102935,
+      "start_longitude": -77.590199,
+      "end_latitude": 43.105355,
+      "end_longitude": -77.598613,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-05-11T17:33:19Z",
+      "updated_at": "2021-05-20T08:03:47Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s12054644",
+            "polyline": "ipafGviqxMq@lDYjAe@|COp@w@tF}@bFe@xBq@fC_@tBsBvJ",
+            "resource_state": 3
+      },
+      "effort_count": 39721,
+      "athlete_count": 4254,
+      "star_count": 24,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "49s",
+            "qom": "1:05",
+            "destination": {
+                  "href": "strava://segments/12054644/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 335964,
+            "title": "Jay O",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "45 efforts in the last 90 days",
+            "effort_count": "45",
+            "effort_counts": {
+                  "overall": "45 efforts",
+                  "female": "17 efforts"
+            },
+            "destination": "strava://segments/12054644/local_legend?categories%5B%5D=overall"
+      }
+}

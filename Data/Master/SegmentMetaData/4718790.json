@@ -1,0 +1,69 @@
+{
+      "id": 4718790,
+      "resource_state": 3,
+      "name": "Run #5",
+      "activity_type": "Ride",
+      "distance": 401.2,
+      "average_grade": -14.0,
+      "maximum_grade": 6.5,
+      "elevation_high": 224.9,
+      "elevation_low": 168.6,
+      "start_latlng": [
+            43.135177,
+            -77.586182
+      ],
+      "end_latlng": [
+            43.135421,
+            -77.59053
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XDQZ3RT7LUPK6BQUTZHTPJKXHNNCFAGDTA463KO547CNWH2ADJWBL5BEL73UFVQYIYFQZL7WR3KPVKWYTC3Q====",
+      "start_latitude": 43.135177,
+      "start_longitude": -77.586182,
+      "end_latitude": 43.135421,
+      "end_longitude": -77.59053,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-13T20:25:47Z",
+      "updated_at": "2021-05-15T02:13:31Z",
+      "total_elevation_gain": 3.8,
+      "map": {
+            "id": "s4718790",
+            "polyline": "yygfGtppxMBp@NnAHXET?VFr@@n@DNHHBHF`AHb@BvDO\\BLDBO?MJk@p@Uf@WbA?X",
+            "resource_state": 3
+      },
+      "effort_count": 406,
+      "athlete_count": 77,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "44s",
+            "qom": "1:37",
+            "destination": {
+                  "href": "strava://segments/4718790/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 60369017,
+            "title": "Nick Ferraina",
+            "profile": "https://graph.facebook.com/10221263374998238/picture?height=256&width=256",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/4718790/local_legend?categories%5B%5D=overall"
+      }
+}

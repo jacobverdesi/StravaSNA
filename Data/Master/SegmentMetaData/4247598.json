@@ -1,0 +1,69 @@
+{
+      "id": 4247598,
+      "resource_state": 3,
+      "name": "Seneca Loop Single Track Southbound",
+      "activity_type": "Ride",
+      "distance": 4020.5,
+      "average_grade": 0.7,
+      "maximum_grade": 22.2,
+      "elevation_high": 50.2,
+      "elevation_low": 23.6,
+      "start_latlng": [
+            43.244554,
+            -77.611953
+      ],
+      "end_latlng": [
+            43.212647,
+            -77.620699
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PX4OCRVV4Q76ZRKRBCGK36FIYVL6SYFDTKHSGBN5MEPNMLHU4DEUBWIC5G5CRSFTTHM3PXULSTJUKWGKZNK7G===",
+      "start_latitude": 43.244554,
+      "start_longitude": -77.611953,
+      "end_latitude": 43.212647,
+      "end_longitude": -77.620699,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-29T17:33:06Z",
+      "updated_at": "2021-05-15T02:13:14Z",
+      "total_elevation_gain": 53.6,
+      "map": {
+            "id": "s4247598",
+            "polyline": "me}fGvquxMND\\KNN|@Xz@r@TLx@Nb@APLfAT^Bz@X`@_@nANdAFfBDbAE\\FvAGf@Gd@Cf@Mx@KhBTxB@p@B\\CP?x@TbCT`Aj@x@v@`@j@|A|AnAxANl@HPLL\\f@d@`@RT`@X^h@VRj@t@^IV[Ra@zA{@`Aw@h@Wd@kAPUVIZQ\\[j@[RGLIN_@DWBCp@GXK\\@h@CXW^B`@N`@BRCZDnCv@lBb@dADNAp@NZAv@[^K\\DZ]`@Hz@@d@PlAp@PV`@Xh@Xp@@r@Gb@O^BNF`AEd@Mj@IdARj@?RGLQFEF@XL\\GNGTQ~@OHEn@Er@?fAO|@ARCj@Cf@?RCP?TFtAP`AAZNlBf@l@ZfAd@JPv@b@D??ADLXd@|B~BHNPn@r@lAf@l@Zf@j@l@TT^LzAbB^NV?d@Vn@j@l@r@CLIHAZFf@Rn@bAvARh@n@tALJ^PFF",
+            "resource_state": 3
+      },
+      "effort_count": 689,
+      "athlete_count": 116,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "10:12",
+            "qom": "17:33",
+            "destination": {
+                  "href": "strava://segments/4247598/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 6597189,
+            "title": "Mark Padoleski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/6597189/2908798/1/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/4247598/local_legend?categories%5B%5D=overall"
+      }
+}

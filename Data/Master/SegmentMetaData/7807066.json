@@ -1,0 +1,69 @@
+{
+      "id": 7807066,
+      "resource_state": 3,
+      "name": "Brook to Morgan Greenway",
+      "activity_type": "Ride",
+      "distance": 3249.0,
+      "average_grade": 0.1,
+      "maximum_grade": 5.3,
+      "elevation_high": 161.9,
+      "elevation_low": 159.3,
+      "start_latlng": [
+            43.075929,
+            -77.709365
+      ],
+      "end_latlng": [
+            43.051094,
+            -77.727567
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/L7AR43WE6WHVTDOR3RDAKS3QPV7M7HGIQ3AR464V6O2JXNUTQPYHKOQQQUIFULD3RIGJXUJBC3VPJCW3XWEOE===",
+      "start_latitude": 43.075929,
+      "start_longitude": -77.709365,
+      "end_latitude": 43.051094,
+      "end_longitude": -77.727567,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-08-04T02:25:38Z",
+      "updated_at": "2021-05-20T08:03:05Z",
+      "total_elevation_gain": 4.7,
+      "map": {
+            "id": "s7807066",
+            "polyline": "og|eGprhyM|AjBfB`Bt@hAz@x@x@`Ah@d@p@t@rCjC^XlBzBnBvBn@z@n@h@r@z@hAx@\\b@XXrA|AjAfAbBpAtA~AxC|CpBzBzAtAr@v@|DlEpBhBdCfCxAdBT\\TDDB|AxBrAhAr@f@dB|@xBf@zADv@HJC`BKxABdBIt@?`AHZDl@?lAFr@AR@f@LpA?z@Ld@LpEJf@F~A\\NFh@^ZNp@j@l@\\j@d@d@h@r@n@Xf@hA~AJH\\PLNLXNFJPj@b@X`@b@h@\\VHBLN",
+            "resource_state": 3
+      },
+      "effort_count": 3048,
+      "athlete_count": 718,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:20",
+            "qom": "6:02",
+            "destination": {
+                  "href": "strava://segments/7807066/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 46590753,
+            "title": "O John Dailey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/46590753/12866386/1/large.jpg",
+            "effort_description": "24 efforts in the last 90 days",
+            "effort_count": "24",
+            "effort_counts": {
+                  "overall": "24 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/7807066/local_legend?categories%5B%5D=overall"
+      }
+}

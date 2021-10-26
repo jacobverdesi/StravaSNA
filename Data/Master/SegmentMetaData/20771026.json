@@ -1,0 +1,69 @@
+{
+      "id": 20771026,
+      "resource_state": 3,
+      "name": "Fast down to 251",
+      "activity_type": "Ride",
+      "distance": 866.5,
+      "average_grade": -2.9,
+      "maximum_grade": 0.2,
+      "elevation_high": 203.7,
+      "elevation_low": 179.0,
+      "start_latlng": [
+            43.005736,
+            -77.524655
+      ],
+      "end_latlng": [
+            42.997984,
+            -77.524301
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VOYPPDL3J3RDVDJREG6ZD3R3MS4W26VQIRZNQTFOLIGQSDHCJXKXIHJHLGPRYLOATDKTL4M4IGER7HCI2FPIU===",
+      "start_latitude": 43.005736,
+      "start_longitude": -77.524655,
+      "end_latitude": 42.997984,
+      "end_longitude": -77.524301,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-06-03T13:33:23Z",
+      "updated_at": "2021-05-20T08:05:07Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s20771026",
+            "polyline": "ypneGbpdxMzTc@~DGzHOfDClDE",
+            "resource_state": 3
+      },
+      "effort_count": 5373,
+      "athlete_count": 900,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "59s",
+            "qom": "1:02",
+            "destination": {
+                  "href": "strava://segments/20771026/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 66279456,
+            "title": "Geoff Scott",
+            "profile": "https://lh5.googleusercontent.com/-2VNo9wQcjw4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyuZUCSRhvGXZsapmMNxlCE9h1tA/s96-c/photo.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/20771026/local_legend?categories%5B%5D=overall"
+      }
+}

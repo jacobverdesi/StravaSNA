@@ -1,0 +1,69 @@
+{
+      "id": 9822565,
+      "resource_state": 3,
+      "name": "Lyell Howard to Wegman",
+      "activity_type": "Ride",
+      "distance": 1566.2,
+      "average_grade": 0.2,
+      "maximum_grade": 2.7,
+      "elevation_high": 165.6,
+      "elevation_low": 157.8,
+      "start_latlng": [
+            43.164673,
+            -77.691919
+      ],
+      "end_latlng": [
+            43.164646,
+            -77.71116
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CDALLFBOGJAH62PWZBRAVPQXH76URO33RO2KB66HHKJP4XB5R25KTJH7WUY25A7FQCZM7FQ65RIMMHEWCIJA====",
+      "start_latitude": 43.164673,
+      "start_longitude": -77.691919,
+      "end_latitude": 43.164646,
+      "end_longitude": -77.71116,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-27T12:39:00Z",
+      "updated_at": "2021-05-15T02:16:36Z",
+      "total_elevation_gain": 9.8,
+      "map": {
+            "id": "s9822565",
+            "polyline": "ermfGneeyMAjAIj@Cn@?xKHla@ArODvJFlf@",
+            "resource_state": 3
+      },
+      "effort_count": 75,
+      "athlete_count": 23,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:46",
+            "qom": "4:38",
+            "destination": {
+                  "href": "strava://segments/9822565/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": {
+            "athlete_id": 27076526,
+            "title": "Ron Follansbee",
+            "profile": "https://graph.facebook.com/10155987751693948/picture?height=256&width=256",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/9822565/local_legend?categories%5B%5D=overall"
+      }
+}

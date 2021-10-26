@@ -1,0 +1,58 @@
+{
+      "id": 2326562,
+      "resource_state": 3,
+      "name": "Turk Hill to Canandaigua Roads",
+      "activity_type": "Ride",
+      "distance": 9901.17,
+      "average_grade": 0.0,
+      "maximum_grade": 3.9,
+      "elevation_high": 143.3,
+      "elevation_low": 140.3,
+      "start_latlng": [
+            43.09727531237228,
+            -77.4327832438197
+      ],
+      "end_latlng": [
+            43.07743595838399,
+            -77.32061869404922
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KZVYPJP7IW7MNSSPP7W24GIODAYAIB3IBFNUFXZOV5ANUDWYYSZIFSZ4DMLHOQA67QHVNYC3KID2PRVOJHHHE===",
+      "start_latitude": 43.09727531237228,
+      "start_longitude": -77.4327832438197,
+      "end_latitude": 43.07743595838399,
+      "end_longitude": -77.32061869404922,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-09-08T01:12:54Z",
+      "updated_at": "2021-05-15T02:12:28Z",
+      "total_elevation_gain": 7.10666,
+      "map": {
+            "id": "s2326562",
+            "polyline": "}l`fG|qrwMzAuCn@aAhBmD~@{AfC{Eb@iAxGaOpHwP~@cCbAsDZ{AHo@\\iEDiBFkDHcOHgE?uCFeEF{MFoCVeEHw@f@sCLk@lNef@zA_EPq@n@eDfCiI\\wAlGsTrAeEj@uBXsA|AiFdCgJdTat@XQC[~@qDzAeFv@}ChBiGhAcEr@sBl@aC`A}C|AsFLi@Js@L{Al@iBN]ZeAl@_DNoACmA?c@Co@?yAMaJMqAMcC]kDGcCEi@UqAMsAy@oCK{@@SFYTE|@ATSA_@OwBQeEq@gKYgGIq@QwDa@eFW}E_@{FG_BM}Ac@}Hk@}IM_Cu@iLKmC[gFc@cIUkCm@yJu@wMg@{HKgC?m@F}AC_B@wDPqJZsHJ{AFcCTuE@i@L}Bd@aEHkAl@oE`@}DHe@LiAPiAE_@",
+            "resource_state": 3
+      },
+      "effort_count": 42,
+      "athlete_count": 32,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "19:48",
+            "qom": "20:36",
+            "destination": {
+                  "href": "strava://segments/2326562/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
+            }
+      },
+      "local_legend": null
+}
