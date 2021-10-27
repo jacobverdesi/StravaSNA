@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17455857,
+      "resource_state": 3,
+      "name": "Under E Hen",
+      "activity_type": "Ride",
+      "distance": 421.2,
+      "average_grade": -0.5,
+      "maximum_grade": 5.0,
+      "elevation_high": 160.0,
+      "elevation_low": 156.1,
+      "start_latlng": [
+            43.110129,
+            -77.613973
+      ],
+      "end_latlng": [
+            43.111527,
+            -77.618754
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/E4QNRBFLZDOVGCFDDFRVM2MFX2OJCU6ZOTTSHPNSJMMDCOEO2VAVZ25D4MVM2OK4AVHW6YKAWVTS2DZA3BIGG===",
+      "start_latitude": 43.110129,
+      "start_longitude": -77.613973,
+      "end_latitude": 43.111527,
+      "end_longitude": -77.618754,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-04-22T14:54:23Z",
+      "updated_at": "2021-05-20T08:04:36Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s17455857",
+            "polyline": "g}bfGj~uxMMj@a@rD]rAi@tDc@|Bk@xBi@`BId@[pA",
+            "resource_state": 3
+      },
+      "effort_count": 32043,
+      "athlete_count": 4451,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "34s",
+            "qom": "42s",
+            "destination": {
+                  "href": "strava://segments/17455857/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 58127621,
+            "title": "shockin audrey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/58127621/14964295/1/large.jpg",
+            "effort_description": "46 efforts in the last 90 days",
+            "effort_count": "46",
+            "effort_counts": {
+                  "overall": "46 efforts",
+                  "female": "46 efforts"
+            },
+            "destination": "strava://segments/17455857/local_legend?categories%5B%5D=overall"
+      }
 }

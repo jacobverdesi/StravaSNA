@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8319567,
+      "resource_state": 3,
+      "name": "*STATEMENT *",
+      "activity_type": "Ride",
+      "distance": 979.0,
+      "average_grade": -0.2,
+      "maximum_grade": 5.9,
+      "elevation_high": 139.2,
+      "elevation_low": 135.0,
+      "start_latlng": [
+            43.19905,
+            -77.431256
+      ],
+      "end_latlng": [
+            43.195935,
+            -77.442414
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SLLUKPVASXU7WTF2GMLXPXDN6US543DV2HWSMGSGXUTKZLS2VDL636QT4KJIN237QEH4XFUZ53P3PHGUIMVA====",
+      "start_latitude": 43.19905,
+      "start_longitude": -77.431256,
+      "end_latitude": 43.195935,
+      "end_longitude": -77.442414,
+      "climb_category": 0,
+      "city": "Webster",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-11T21:06:59Z",
+      "updated_at": "2021-05-20T08:03:11Z",
+      "total_elevation_gain": 2.6,
+      "map": {
+            "id": "s8319567",
+            "polyline": "aitfGjhrwMdA~G~Ed^x@vFh@~Bp@nBrC|J^jA",
+            "resource_state": 3
+      },
+      "effort_count": 4990,
+      "athlete_count": 554,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:20",
+            "qom": "1:43",
+            "destination": {
+                  "href": "strava://segments/8319567/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 21354993,
+            "title": "David Hill",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "26 efforts in the last 90 days",
+            "effort_count": "26",
+            "effort_counts": {
+                  "overall": "26 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/8319567/local_legend?categories%5B%5D=overall"
+      }
 }

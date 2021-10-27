@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12865124,
+      "resource_state": 3,
+      "name": "Southbound ",
+      "activity_type": "Ride",
+      "distance": 2089.0,
+      "average_grade": 0.7,
+      "maximum_grade": 9.5,
+      "elevation_high": 198.4,
+      "elevation_low": 174.4,
+      "start_latlng": [
+            43.025285,
+            -77.705447
+      ],
+      "end_latlng": [
+            43.007268,
+            -77.7055
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RLEBTYXZ3WMWVBH5QV6EU6S4MTXGD6BW4F3LDS3XWWCOFHZWVOZQLZXJJKVCAIF3VZDFBLT75IF3FUA6FSMA====",
+      "start_latitude": 43.025285,
+      "start_longitude": -77.705447,
+      "end_latitude": 43.007268,
+      "end_longitude": -77.7055,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-08-10T19:03:25Z",
+      "updated_at": "2021-05-19T08:03:48Z",
+      "total_elevation_gain": 29.3,
+      "map": {
+            "id": "s12865124",
+            "polyline": "_kreG`zgyMX?TDHDdAF|CB~ARd@Pj@Xp@TtAh@x@h@b@PJBb@`@`Ad@pC~@~Az@h@JPJHBl@Z`Bn@XPLB\\Th@TFDd@NPLPFp@JtALpAEnASzFyAxBe@jA_@~@Qj@SvA_@^QZCjCq@RMj@Sf@GZI`@Cd@OtA[pIaBp@UbI}A",
+            "resource_state": 3
+      },
+      "effort_count": 3796,
+      "athlete_count": 484,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:15",
+            "qom": "3:50",
+            "destination": {
+                  "href": "strava://segments/12865124/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 718472,
+            "title": "kenneth wright",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/718472/167324/3/large.jpg",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/12865124/local_legend?categories%5B%5D=overall"
+      }
 }

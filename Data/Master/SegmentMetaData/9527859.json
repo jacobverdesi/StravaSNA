@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9527859,
+      "resource_state": 3,
+      "name": "Swillburg to South Wedge",
+      "activity_type": "Ride",
+      "distance": 840.5,
+      "average_grade": 0.3,
+      "maximum_grade": 2.1,
+      "elevation_high": 158.1,
+      "elevation_low": 155.6,
+      "start_latlng": [
+            43.139904,
+            -77.596196
+      ],
+      "end_latlng": [
+            43.146062,
+            -77.602099
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KS3GHU34HHRW2OHZBD7Y3XFEN4IENZQA66B4JKLLD7AKCK5KPZLU4SXMFMAVJQMJW7N7ASMV55UL4DFCZBPA====",
+      "start_latitude": 43.139904,
+      "start_longitude": -77.596196,
+      "end_latitude": 43.146062,
+      "end_longitude": -77.602099,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-20T02:54:07Z",
+      "updated_at": "2021-05-15T02:16:25Z",
+      "total_elevation_gain": 2.5,
+      "map": {
+            "id": "s9527859",
+            "polyline": "kwhfGforxMyDxCy@r@yInLsBhCURyDpC}HlF",
+            "resource_state": 3
+      },
+      "effort_count": 670,
+      "athlete_count": 216,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:25",
+            "qom": "1:50",
+            "destination": {
+                  "href": "strava://segments/9527859/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 87521794,
+            "title": "Conor Reynolds",
+            "profile": "https://graph.facebook.com/10220328418945692/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9527859/local_legend?categories%5B%5D=overall"
+      }
 }

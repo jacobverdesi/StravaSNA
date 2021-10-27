@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4391631,
+      "resource_state": 3,
+      "name": "Highland to Pinetum Climb",
+      "activity_type": "Ride",
+      "distance": 177.1,
+      "average_grade": 4.9,
+      "maximum_grade": 6.3,
+      "elevation_high": 174.5,
+      "elevation_low": 165.9,
+      "start_latlng": [
+            43.130353,
+            -77.600946
+      ],
+      "end_latlng": [
+            43.131893,
+            -77.600551
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JXJF3TRYAKDJXG2FAPLJUWWRFKFGVSPBAYCXLTED3R7U4G5AMHCUA4MBS2OPAOVNEJIEZGDYH7OGZTTSSJRA====",
+      "start_latitude": 43.130353,
+      "start_longitude": -77.600946,
+      "end_latitude": 43.131893,
+      "end_longitude": -77.600551,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-12T17:27:21Z",
+      "updated_at": "2021-05-15T02:13:19Z",
+      "total_elevation_gain": 8.6,
+      "map": {
+            "id": "s4391631",
+            "polyline": "u{ffG|lsxM_Ai@i@Ms@GyABYEa@K",
+            "resource_state": 3
+      },
+      "effort_count": 1303,
+      "athlete_count": 409,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "14s",
+            "qom": "12s",
+            "destination": {
+                  "href": "strava://segments/4391631/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10380701,
+            "title": "Daniel Rosato",
+            "profile": "https://graph.facebook.com/904416452949587/picture?height=256&width=256",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4391631/local_legend?categories%5B%5D=overall"
+      }
 }

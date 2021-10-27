@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16628997,
+      "resource_state": 3,
+      "name": "Ayrault to Pebble Hill",
+      "activity_type": "Ride",
+      "distance": 941.2,
+      "average_grade": -0.2,
+      "maximum_grade": 0.0,
+      "elevation_high": 166.8,
+      "elevation_low": 164.6,
+      "start_latlng": [
+            43.079377,
+            -77.426068
+      ],
+      "end_latlng": [
+            43.087775,
+            -77.42735
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AAEQPPU34WRNUTFZ4YF2DR5TYEKK236ETUCIJSPMNG5XTW6XGQ2E7S5KHE2J6ROTN6MQVU7TJ4J7RXQDOCLQ====",
+      "start_latitude": 43.079377,
+      "start_longitude": -77.426068,
+      "end_latitude": 43.087775,
+      "end_longitude": -77.42735,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-12-09T23:08:10Z",
+      "updated_at": "2021-05-20T08:04:29Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s16628997",
+            "polyline": "a}|eG|gqwMy`@jF_BLkELiHG",
+            "resource_state": 3
+      },
+      "effort_count": 4826,
+      "athlete_count": 676,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:31",
+            "qom": "1:50",
+            "destination": {
+                  "href": "strava://segments/16628997/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "24 efforts in the last 90 days",
+            "effort_count": "24",
+            "effort_counts": {
+                  "overall": "24 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/16628997/local_legend?categories%5B%5D=overall"
+      }
 }

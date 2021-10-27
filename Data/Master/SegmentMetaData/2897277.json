@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2897277,
+      "resource_state": 3,
+      "name": "Edgewood to Kendrick (Canal)",
+      "activity_type": "Ride",
+      "distance": 5572.39,
+      "average_grade": 0.1,
+      "maximum_grade": 6.0,
+      "elevation_high": 84.8,
+      "elevation_low": 77.8,
+      "start_latlng": [
+            43.096379935741425,
+            -77.56981017999351
+      ],
+      "end_latlng": [
+            43.11648828908801,
+            -77.63198453933
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RWXNQTVZCFZWPY67JRUM5YNYWFJO2S44SJI7D73PJPVOVSZC6KET2E35QU7QSKME7ENK6IYWK4MZCTXBFRFAE===",
+      "start_latitude": 43.096379935741425,
+      "start_longitude": -77.56981017999351,
+      "end_latitude": 43.11648828908801,
+      "end_longitude": -77.63198453933,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-12-03T21:49:22Z",
+      "updated_at": "2021-05-20T08:02:22Z",
+      "total_elevation_gain": 11.0,
+      "map": {
+            "id": "s2897277",
+            "polyline": "kg`fGhjmxMgA|Cu@dBSx@_@bBs@tE[nAcApF}@dEkD|Pw@lD}@pEQ\\q@v@Ub@eA`Dk@vC[rAKj@[dCq@~Cc@dEStAeAbFo@~DQz@y@`CUx@_CvLWjBq@~DgBpJy@zD_BfIsAlGkAhGw@jDCXm@lBeAbFiCrK_@dCSbAm@nBa@jCeA|E_@vCg@dBs@bDDT@^k@nAQl@{A`H]lAe@tB_@xBU|Bo@vEq@bC}@vDk@`BI`@e@~Ca@dBk@xCc@dBaCpMIfAKh@yB~KmAfFuClIQz@Of@aCnFk@fA_@r@oAlBQ`@Mt@",
+            "resource_state": 3
+      },
+      "effort_count": 24255,
+      "athlete_count": 3597,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "7:45",
+            "qom": "9:36",
+            "destination": {
+                  "href": "strava://segments/2897277/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 335964,
+            "title": "Jay O",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "39 efforts in the last 90 days",
+            "effort_count": "39",
+            "effort_counts": {
+                  "overall": "39 efforts",
+                  "female": "16 efforts"
+            },
+            "destination": "strava://segments/2897277/local_legend?categories%5B%5D=overall"
+      }
 }

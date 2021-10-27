@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18669991,
+      "resource_state": 3,
+      "name": "Punching In from Bcroft",
+      "activity_type": "Ride",
+      "distance": 1039.0,
+      "average_grade": -0.4,
+      "maximum_grade": 39.9,
+      "elevation_high": 107.0,
+      "elevation_low": 77.6,
+      "start_latlng": [
+            43.157925,
+            -77.5286
+      ],
+      "end_latlng": [
+            43.163228,
+            -77.529142
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WEZC2MPFCLERLWEDORPHATAB2M7BUZLIBIZ3TANQROZKCUBBEEC7J7DUCXQULC6KUP3QVWGY7VUXJ46PI4CWS===",
+      "start_latitude": 43.157925,
+      "start_longitude": -77.5286,
+      "end_latitude": 43.163228,
+      "end_longitude": -77.529142,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-08-27T12:28:45Z",
+      "updated_at": "2021-05-20T08:04:48Z",
+      "total_elevation_gain": 44.9,
+      "map": {
+            "id": "s18669991",
+            "polyline": "_hlfGvhexMBr@I^DXIVHd@CFG?IEGRONMn@CG?GCIo@m@UKi@KQOW]EDIASKQ?e@NQLEGIDI?CDE@EEG@KNBk@GCk@Rg@@M\\KPo@n@Of@CPEA@FKAcARGFUB[?FcAGQTkACKMKMUk@KIOGe@GKW}@Gm@PBASUs@?IFHCf@GBLPQAo@RQZ[XYHOGm@j@ARI`@IJKD",
+            "resource_state": 3
+      },
+      "effort_count": 2112,
+      "athlete_count": 329,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:27",
+            "qom": "3:45",
+            "destination": {
+                  "href": "strava://segments/18669991/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2116618,
+            "title": "Anthony Vigliotti",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/18669991/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9532154,
+      "resource_state": 3,
+      "name": "Wilson to Wilson",
+      "activity_type": "Ride",
+      "distance": 792.5,
+      "average_grade": -0.1,
+      "maximum_grade": 2.3,
+      "elevation_high": 165.5,
+      "elevation_low": 162.7,
+      "start_latlng": [
+            43.146502,
+            -77.636054
+      ],
+      "end_latlng": [
+            43.139369,
+            -77.63601
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AD7EDRWM46D434KI6MJOBYJGT2G2SSHIOZBQOEGR2D5HIAYIIPRNOIXAA5IG5U3Y4Y5KPPXZPCOIAEMAQW6A====",
+      "start_latitude": 43.146502,
+      "start_longitude": -77.636054,
+      "end_latitude": 43.139369,
+      "end_longitude": -77.63601,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-20T17:56:41Z",
+      "updated_at": "2021-05-15T02:16:25Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s9532154",
+            "polyline": "s`jfGjhzxMrk@I",
+            "resource_state": 3
+      },
+      "effort_count": 274,
+      "athlete_count": 119,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "57s",
+            "qom": "2:08",
+            "destination": {
+                  "href": "strava://segments/9532154/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 87828363,
+            "title": "Riberet Almeida",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/87828363/21184382/1/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/9532154/local_legend?categories%5B%5D=overall"
+      }
 }

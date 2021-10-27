@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15427543,
+      "resource_state": 3,
+      "name": "Crittenden to Jeff",
+      "activity_type": "Ride",
+      "distance": 1209.1,
+      "average_grade": 0.2,
+      "maximum_grade": 0.8,
+      "elevation_high": 159.7,
+      "elevation_low": 156.8,
+      "start_latlng": [
+            43.103352,
+            -77.675901
+      ],
+      "end_latlng": [
+            43.092829,
+            -77.678993
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5GUV53HU7EOUE5YORVAKTZDUWVPMAU6EBWRVRVEWRGZ4JZQDRGV22CD7GYXXPSY5XDWCHUJLVQGQCMJ4KT4A====",
+      "start_latitude": 43.103352,
+      "start_longitude": -77.675901,
+      "end_latitude": 43.092829,
+      "end_longitude": -77.678993,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-07-14T20:42:44Z",
+      "updated_at": "2021-05-19T08:04:12Z",
+      "total_elevation_gain": 2.9,
+      "map": {
+            "id": "s15427543",
+            "polyline": "}rafGlabyMj@DTCf@AXCZ?rBKL@XCtABvBN\\FbBNZJh@FzAd@dA`@zA\\dCx@nAh@nB~@\\JtBz@nBd@rC`@nDz@fAXhAh@b@Ld@R",
+            "resource_state": 3
+      },
+      "effort_count": 4975,
+      "athlete_count": 937,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:41",
+            "qom": "1:47",
+            "destination": {
+                  "href": "strava://segments/15427543/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/15427543/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 11717994,
+      "resource_state": 3,
+      "name": "RF+C 5K Loop Climb #1",
+      "activity_type": "Ride",
+      "distance": 572.4,
+      "average_grade": 8.1,
+      "maximum_grade": 15.4,
+      "elevation_high": 134.8,
+      "elevation_low": 88.2,
+      "start_latlng": [
+            43.14869,
+            -77.52122
+      ],
+      "end_latlng": [
+            43.149533,
+            -77.52809
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VUT6XGBALDQRYKJEBIJGOVGM7TMA7WBFMRB6FLHOGZ26IVYICJLKBMRC6HLF7SXLHOV5A4356XAHPXBUG67Q====",
+      "start_latitude": 43.14869,
+      "start_longitude": -77.52122,
+      "end_latitude": 43.149533,
+      "end_longitude": -77.52809,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-04-03T03:41:46Z",
+      "updated_at": "2021-05-15T02:17:40Z",
+      "total_elevation_gain": 46.6,
+      "map": {
+            "id": "s11717994",
+            "polyline": "injfGrzcxMo@lGMx@OvAGXI|@Q`ACl@Y|BK~AUjEC~AB`CFl@@|@",
+            "resource_state": 3
+      },
+      "effort_count": 1502,
+      "athlete_count": 430,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:17",
+            "qom": "1:38",
+            "destination": {
+                  "href": "strava://segments/11717994/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24499231,
+            "title": "Dalia Ghoneim",
+            "profile": "https://graph.facebook.com/1335166319939255/picture?height=256&width=256",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "15 efforts"
+            },
+            "destination": "strava://segments/11717994/local_legend?categories%5B%5D=overall"
+      }
 }

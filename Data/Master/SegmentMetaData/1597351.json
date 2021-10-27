@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1597351,
+      "resource_state": 3,
+      "name": "Auburn Trail Singletrack",
+      "activity_type": "Ride",
+      "distance": 1411.92,
+      "average_grade": 0.7,
+      "maximum_grade": 7.1,
+      "elevation_high": 187.5,
+      "elevation_low": 174.5,
+      "start_latlng": [
+            42.992875,
+            -77.436527
+      ],
+      "end_latlng": [
+            42.984112,
+            -77.424061
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XR2IT7S5VR7XAB2PUO74GYWFGRU2SALUAO7J64C76MNWGIKND7W2B2W2AWQ5OGSFP7YRPPY6N35CHK4AW2EVW===",
+      "start_latitude": 42.992875,
+      "start_longitude": -77.436527,
+      "end_latitude": 42.984112,
+      "end_longitude": -77.424061,
+      "climb_category": 0,
+      "city": "Victor",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-06-20T02:38:59Z",
+      "updated_at": "2021-05-20T08:02:13Z",
+      "total_elevation_gain": 20.804,
+      "map": {
+            "id": "s1597351",
+            "polyline": "m`leGhiswMpCaE|AwC|AgCLYV]NYrAcBH[P[x@uAjAiBr@sAdAaBdAmBnBwBZc@dB{Cd@i@|CmF`@c@~CkF`@g@lAuBrAsB`BuC",
+            "resource_state": 3
+      },
+      "effort_count": 5970,
+      "athlete_count": 795,
+      "star_count": 16,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:13",
+            "qom": "2:39",
+            "destination": {
+                  "href": "strava://segments/1597351/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 12694880,
+            "title": "David Ricci",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/12694880/6228674/9/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "14 efforts"
+            },
+            "destination": "strava://segments/1597351/local_legend?categories%5B%5D=overall"
+      }
 }

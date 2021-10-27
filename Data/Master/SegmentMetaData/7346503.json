@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7346503,
+      "resource_state": 3,
+      "name": "Lexington to Ridgeway North",
+      "activity_type": "Ride",
+      "distance": 1325.3,
+      "average_grade": -0.4,
+      "maximum_grade": 0.4,
+      "elevation_high": 164.6,
+      "elevation_low": 158.0,
+      "start_latlng": [
+            43.17947,
+            -77.68049
+      ],
+      "end_latlng": [
+            43.191396,
+            -77.680195
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AO7YJ224S5OVNNDKS5APRQSS3JQN6LZ6PRYIVO7GRJKK7TIVY2N7FW4XT57SXHXEZ2FTVYJZWN475SILUPQA====",
+      "start_latitude": 43.17947,
+      "start_longitude": -77.68049,
+      "end_latitude": 43.191396,
+      "end_longitude": -77.680195,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-02T20:48:24Z",
+      "updated_at": "2021-05-20T08:03:00Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s7346503",
+            "polyline": "unpfGb~byMo{@e@gIKwBI",
+            "resource_state": 3
+      },
+      "effort_count": 1831,
+      "athlete_count": 268,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:42",
+            "qom": "2:07",
+            "destination": {
+                  "href": "strava://segments/7346503/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16902790,
+            "title": "Richard Turner",
+            "profile": "https://graph.facebook.com/1235909003107327/picture?height=256&width=256",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7346503/local_legend?categories%5B%5D=overall"
+      }
 }

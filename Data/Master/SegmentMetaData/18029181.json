@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18029181,
+      "resource_state": 3,
+      "name": "Sylvan Speedway",
+      "activity_type": "Ride",
+      "distance": 478.7,
+      "average_grade": -0.5,
+      "maximum_grade": 0.3,
+      "elevation_high": 154.2,
+      "elevation_low": 152.0,
+      "start_latlng": [
+            43.133614,
+            -77.573145
+      ],
+      "end_latlng": [
+            43.129652,
+            -77.575157
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZIW2ZFFUT2KVFSZLRJVQ73Z55UIRE4JHTVVHX4PUJ5J7KH6WGGZ7MQ6WZL5YTKTBCKDLMN5MAXQYFWD5UAJA====",
+      "start_latitude": 43.133614,
+      "start_longitude": -77.573145,
+      "end_latitude": 43.129652,
+      "end_longitude": -77.575157,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-06-22T23:00:01Z",
+      "updated_at": "2021-05-15T02:21:20Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s18029181",
+            "polyline": "apgfGd_nxMFPX\\R^XZZNzDjAREzA`@`@Ln@Z|Ab@~@\\`A`@lA^",
+            "resource_state": 3
+      },
+      "effort_count": 947,
+      "athlete_count": 125,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "35s",
+            "qom": "51s",
+            "destination": {
+                  "href": "strava://segments/18029181/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 795671,
+            "title": "Paul Lysiak",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/795671/1277573/1/large.jpg",
+            "effort_description": "43 efforts in the last 90 days",
+            "effort_count": "43",
+            "effort_counts": {
+                  "overall": "43 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/18029181/local_legend?categories%5B%5D=overall"
+      }
 }

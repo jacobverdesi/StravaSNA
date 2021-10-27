@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8534033,
+      "resource_state": 3,
+      "name": "* COACH DRISCOLLS * YELLOW HOUSE HILL *",
+      "activity_type": "Ride",
+      "distance": 758.0,
+      "average_grade": 2.5,
+      "maximum_grade": 17.9,
+      "elevation_high": 175.2,
+      "elevation_low": 156.6,
+      "start_latlng": [
+            43.088437,
+            -77.428218
+      ],
+      "end_latlng": [
+            43.091865,
+            -77.431803
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GJJL3YXZ4ZE2KIDFAOXXJKJWO6NIBRG7LRASWGLELGEQLBAUEHG2H3WGUOXIFBOD6IQQVPXURGD566TS23PQ====",
+      "start_latitude": 43.088437,
+      "start_longitude": -77.428218,
+      "end_latitude": 43.091865,
+      "end_longitude": -77.431803,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-20T01:14:43Z",
+      "updated_at": "2021-05-17T08:05:27Z",
+      "total_elevation_gain": 18.6,
+      "map": {
+            "id": "s8534033",
+            "polyline": "uu~eGjuqwMkCCg@Ew@@cBEuAIi@@y@T]RaEfBYR]ZYt@IhAGzBBFLCtB@Xl@EjDBd@?^",
+            "resource_state": 3
+      },
+      "effort_count": 159,
+      "athlete_count": 25,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:26",
+            "qom": "2:21",
+            "destination": {
+                  "href": "strava://segments/8534033/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32212911,
+            "title": "Dave Bischoff",
+            "profile": "https://graph.facebook.com/10201903979376593/picture?height=256&width=256",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/8534033/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16092980,
+      "resource_state": 3,
+      "name": "Indian Climb To Jump Line",
+      "activity_type": "Ride",
+      "distance": 384.2,
+      "average_grade": 9.3,
+      "maximum_grade": 21.7,
+      "elevation_high": 248.6,
+      "elevation_low": 212.8,
+      "start_latlng": [
+            43.059283,
+            -77.42381
+      ],
+      "end_latlng": [
+            43.056971,
+            -77.421993
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6H4URZZQFA7RDXZSBLZOFUHKKTCWPRPBMFK5AZLFTXEP3PTTCVTSHCVBNKM5Y6E3FNXCZNQOJOHS2BXBU2DGU===",
+      "start_latitude": 43.059283,
+      "start_longitude": -77.42381,
+      "end_latitude": 43.056971,
+      "end_longitude": -77.421993,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-09-22T21:22:04Z",
+      "updated_at": "2021-05-15T02:20:08Z",
+      "total_elevation_gain": 35.8,
+      "map": {
+            "id": "s16092980",
+            "polyline": "o_yeGxypwMVSDSCYIYBe@J]Ea@D[Le@P[RUJATLl@Jl@\\B?NEJGf@y@NKb@Kt@DTCPB\\IBE",
+            "resource_state": 3
+      },
+      "effort_count": 458,
+      "athlete_count": 75,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:48",
+            "qom": "3:44",
+            "destination": {
+                  "href": "strava://segments/16092980/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 13764381,
+            "title": "Pete Clifford",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/13764381/3980531/1/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/16092980/local_legend?categories%5B%5D=overall"
+      }
 }

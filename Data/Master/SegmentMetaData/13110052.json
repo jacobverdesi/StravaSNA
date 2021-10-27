@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13110052,
+      "resource_state": 3,
+      "name": "Park Rd Hill Repeater!",
+      "activity_type": "Ride",
+      "distance": 263.9,
+      "average_grade": 6.7,
+      "maximum_grade": 17.1,
+      "elevation_high": 123.6,
+      "elevation_low": 106.0,
+      "start_latlng": [
+            43.153615,
+            -77.52894
+      ],
+      "end_latlng": [
+            43.153096,
+            -77.532091
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/L62ZLEPYXFCYQMPWPXQ55C77RTKTQDUTI45VZ7D4VRXVQYRGBGSA6HJRQ4TEJJ2P3RJGV3DM2UHRHX25KGTP4===",
+      "start_latitude": 43.153615,
+      "start_longitude": -77.52894,
+      "end_latitude": 43.153096,
+      "end_longitude": -77.532091,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-09-05T15:51:23Z",
+      "updated_at": "2021-05-15T02:18:26Z",
+      "total_elevation_gain": 17.6,
+      "map": {
+            "id": "s13110052",
+            "polyline": "amkfG|jexMLhBL^H`@@l@Rv@NbAFhA@vAFTFp@@t@",
+            "resource_state": 3
+      },
+      "effort_count": 1583,
+      "athlete_count": 250,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "28s",
+            "qom": "49s",
+            "destination": {
+                  "href": "strava://segments/13110052/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5475067,
+            "title": "Peter Franz",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5475067/4247221/5/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/13110052/local_legend?categories%5B%5D=overall"
+      }
 }

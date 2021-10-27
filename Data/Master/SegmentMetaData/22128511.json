@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 22128511,
+      "resource_state": 3,
+      "name": "Wedge > Swill > Monroe",
+      "activity_type": "Ride",
+      "distance": 728.4,
+      "average_grade": -0.2,
+      "maximum_grade": 2.8,
+      "elevation_high": 156.7,
+      "elevation_low": 155.2,
+      "start_latlng": [
+            43.139838,
+            -77.595497
+      ],
+      "end_latlng": [
+            43.141637,
+            -77.587783
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OQAAIVK4EIACRUTTDVU25VHSRYZ6UY6TVKEHZF4QUPUOSKQJGU4Q55V5FZXRQ3L5ORBDE3LTQYGTY6NBKB5A====",
+      "start_latitude": 43.139838,
+      "start_longitude": -77.595497,
+      "end_latitude": 43.141637,
+      "end_longitude": -77.587783,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-10-23T20:33:09Z",
+      "updated_at": "2021-05-15T02:24:02Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s22128511",
+            "polyline": "}vhfGzjrxMC]@c@EqCCM@eCCIAuBGkAC_FCYKYYY{@e@}As@a@WSG_@YEa@?]I[OoFQcE",
+            "resource_state": 3
+      },
+      "effort_count": 78,
+      "athlete_count": 19,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:08",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/22128511/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 6744515,
+            "title": "Zack DeClerck",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/6744515/2042224/1/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/22128511/local_legend?categories%5B%5D=overall"
+      }
 }

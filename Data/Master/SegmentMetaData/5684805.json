@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5684805,
+      "resource_state": 3,
+      "name": "The Top Half",
+      "activity_type": "Ride",
+      "distance": 230.6,
+      "average_grade": -10.7,
+      "maximum_grade": -3.0,
+      "elevation_high": 224.9,
+      "elevation_low": 200.2,
+      "start_latlng": [
+            43.135093,
+            -77.586211
+      ],
+      "end_latlng": [
+            43.134431,
+            -77.588794
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/53PXQLIGTRXYUJZNSMO532FYJSO5EG3LT5TA7Y36F2BRLR26GLDD3UHQWFBF2HXCVCKYS444AMIVHH6THJKA====",
+      "start_latitude": 43.135093,
+      "start_longitude": -77.586211,
+      "end_latitude": 43.134431,
+      "end_longitude": -77.588794,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-10-05T02:21:14Z",
+      "updated_at": "2021-05-20T08:02:45Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s5684805",
+            "polyline": "iygfGzppxMBfAR`CNt@HTXTTXF\\Dn@RnB",
+            "resource_state": 3
+      },
+      "effort_count": 840,
+      "athlete_count": 133,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "20s",
+            "qom": "48s",
+            "destination": {
+                  "href": "strava://segments/5684805/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 53286955,
+            "title": "Colin Burton",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GjaqpLxiHDPKAF9div0vye2Dq22tstaVJI9EJtC=s96-c",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/5684805/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7734067,
+      "resource_state": 3,
+      "name": "* STOTTLE MILE *",
+      "activity_type": "Ride",
+      "distance": 1451.0,
+      "average_grade": 0.6,
+      "maximum_grade": 7.3,
+      "elevation_high": 193.0,
+      "elevation_low": 180.4,
+      "start_latlng": [
+            43.068037,
+            -77.782487
+      ],
+      "end_latlng": [
+            43.055042,
+            -77.783568
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ULVP7QW24VMNLV3ZYN5ASVIMHD6P5JVOJ6INIAY3766CI64LJJZX2YE2V4MY47NW363NRFN45WFJOW6LALMTK===",
+      "start_latitude": 43.068037,
+      "start_longitude": -77.782487,
+      "end_latitude": 43.055042,
+      "end_longitude": -77.783568,
+      "climb_category": 0,
+      "city": "Scottsville",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-25T23:53:49Z",
+      "updated_at": "2021-05-15T02:15:23Z",
+      "total_elevation_gain": 12.6,
+      "map": {
+            "id": "s7734067",
+            "polyline": "evzeGp{vyM~CRlFVjBDlCNnALzA@\\DhADbCNxI`@jEVxIRjGFxJR",
+            "resource_state": 3
+      },
+      "effort_count": 748,
+      "athlete_count": 194,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:20",
+            "qom": "2:46",
+            "destination": {
+                  "href": "strava://segments/7734067/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 86930922,
+            "title": "Greg Wright",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GgW-6e7bCzKGXg7yfCk1cpeM16GJNCkOBSPZJd2=s96-c",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7734067/local_legend?categories%5B%5D=overall"
+      }
 }

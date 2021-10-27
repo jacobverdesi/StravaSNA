@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4024034,
+      "resource_state": 3,
+      "name": "Kendrick to Jefferson (Fixed)",
+      "activity_type": "Ride",
+      "distance": 5074.2,
+      "average_grade": -0.0,
+      "maximum_grade": 3.4,
+      "elevation_high": 163.5,
+      "elevation_low": 156.0,
+      "start_latlng": [
+            43.114118,
+            -77.634748
+      ],
+      "end_latlng": [
+            43.09271,
+            -77.679012
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YFUILHLUJC2EVT5EVW43LRVZPSPI764GKHJDPH7W7CW77LWZO6GQ54YLZZSWKNLIWRVIW6KHOPZJ7MAT2IFQ====",
+      "start_latitude": 43.114118,
+      "start_longitude": -77.634748,
+      "end_latitude": 43.09271,
+      "end_longitude": -77.679012,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-06T00:20:37Z",
+      "updated_at": "2021-05-15T02:13:06Z",
+      "total_elevation_gain": 8.7,
+      "map": {
+            "id": "s4024034",
+            "polyline": "evcfGd`zxMRtKJvIJhGHnBA\\BzBh@p`@NtO?jBVd^?z@?ZJfAHp@h@zBxBbHh@rAx@lA^b@dAdARJb@^`AfAd@`AJVb@`BTfA|Dnc@lAdIp@vDbAfEtEvQj@zAb@`Ah@z@pApAb@XhAp@z@\\|@Xz@R|BRz@DhBD~@CrAItAMpACbAM`A?j@BNHj@?x@RxBXTFjAd@x@VfE~ApGvC`Bn@pAZdDj@fDr@nA^|An@hA^HH",
+            "resource_state": 3
+      },
+      "effort_count": 1023,
+      "athlete_count": 268,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "7:26",
+            "qom": "8:19",
+            "destination": {
+                  "href": "strava://segments/4024034/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16553078,
+            "title": "William Kressner",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/16553078/12890741/1/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/4024034/local_legend?categories%5B%5D=overall"
+      }
 }

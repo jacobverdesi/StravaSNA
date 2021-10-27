@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24897053,
+      "resource_state": 3,
+      "name": "Hustle up the hill",
+      "activity_type": "Ride",
+      "distance": 417.5,
+      "average_grade": 1.3,
+      "maximum_grade": 8.1,
+      "elevation_high": 140.6,
+      "elevation_low": 133.6,
+      "start_latlng": [
+            43.092852,
+            -77.527019
+      ],
+      "end_latlng": [
+            43.090822,
+            -77.531191
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7PCPB3FUSZBJXMJTQRJELS2HTCPEGOWKM4N6TJSMMJK7R7WOJUFFTY66K5GAU2JP76EPIZA6WK5VXHRTNPEQ====",
+      "start_latitude": 43.092852,
+      "start_longitude": -77.527019,
+      "end_latitude": 43.090822,
+      "end_longitude": -77.531191,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-07-15T15:00:04Z",
+      "updated_at": "2021-05-20T08:05:33Z",
+      "total_elevation_gain": 7.0,
+      "map": {
+            "id": "s24897053",
+            "polyline": "iq_fGz~dxMzAfDhAtE\\z@Hb@P\\fAjAf@r@VPPf@Ln@L|A",
+            "resource_state": 3
+      },
+      "effort_count": 36101,
+      "athlete_count": 5082,
+      "star_count": 21,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "33s",
+            "qom": "40s",
+            "destination": {
+                  "href": "strava://segments/24897053/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "42 efforts in the last 90 days",
+            "effort_count": "42",
+            "effort_counts": {
+                  "overall": "42 efforts",
+                  "female": "20 efforts"
+            },
+            "destination": "strava://segments/24897053/local_legend?categories%5B%5D=overall"
+      }
 }

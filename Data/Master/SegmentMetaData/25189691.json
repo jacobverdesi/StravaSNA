@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25189691,
+      "resource_state": 3,
+      "name": "Buffalo Leg",
+      "activity_type": "Ride",
+      "distance": 559.9,
+      "average_grade": -0.5,
+      "maximum_grade": 4.3,
+      "elevation_high": 162.0,
+      "elevation_low": 156.8,
+      "start_latlng": [
+            43.151836,
+            -77.657614
+      ],
+      "end_latlng": [
+            43.150314,
+            -77.652353
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4655IIUD2ZAHIXPMQGB5PQQYFLROWKYGNBAICKRYVSCM24CWJELVO6HANFGVLXJLWTRTOQ6MF2HJFQQUNITQ====",
+      "start_latitude": 43.151836,
+      "start_longitude": -77.657614,
+      "end_latitude": 43.150314,
+      "end_longitude": -77.652353,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-08-05T11:13:51Z",
+      "updated_at": "2021-05-15T08:06:22Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s25189691",
+            "polyline": "}akfGbo~xMAiADgEEoD@}DGeG@WFWNWl@]l@Wb@ElAGnAI",
+            "resource_state": 3
+      },
+      "effort_count": 347,
+      "athlete_count": 120,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "48s",
+            "qom": "1:02",
+            "destination": {
+                  "href": "strava://segments/25189691/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10380701,
+            "title": "Daniel Rosato",
+            "profile": "https://graph.facebook.com/904416452949587/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/25189691/local_legend?categories%5B%5D=overall"
+      }
 }

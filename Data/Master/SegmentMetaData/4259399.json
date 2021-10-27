@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4259399,
+      "resource_state": 3,
+      "name": "Chili - GVP (Eastbound)",
+      "activity_type": "Ride",
+      "distance": 2833.0,
+      "average_grade": -0.1,
+      "maximum_grade": 21.8,
+      "elevation_high": 171.3,
+      "elevation_low": 156.0,
+      "start_latlng": [
+            43.139995,
+            -77.666216
+      ],
+      "end_latlng": [
+            43.121867,
+            -77.645412
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BPLAFHRPHTFNVWWINHPWMX2OPD7DPCFJOWO53UXJBMJNQ7IQTJCBVG5FRBPW34OF6QOHN2L3A4RYWQAFHJIQO===",
+      "start_latitude": 43.139995,
+      "start_longitude": -77.666216,
+      "end_latitude": 43.121867,
+      "end_longitude": -77.645412,
+      "climb_category": 0,
+      "city": "Monroe, NY, USA",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-31T02:44:43Z",
+      "updated_at": "2021-05-20T08:02:32Z",
+      "total_elevation_gain": 82.0,
+      "map": {
+            "id": "s4259399",
+            "polyline": "}whfGzd`yMf@i@dAKNEh@GReBLQhAm@TAPE|@i@d@e@l@]Xe@`@i@d@IPGJSLGZ]PMd@k@XMRGPMb@Qj@g@~@m@l@e@`@Wz@y@FKZW`@WLGJMr@k@HK|@k@l@i@NI|@eAl@e@`@c@~@QNW^_@Tc@HCh@g@P^TG\\C^iBJK\\SXWJQVU^QLMj@Sl@]FCL?TIPONUTOn@k@AWVK\\UTUNKNc@`@u@POl@q@p@{A\\o@HS?WFSXm@ZaAPUVk@\\c@d@y@FW@[FUNI^c@JSPQJUZcAHSNMPIJs@B_@P[JY^mBRs@Vc@DUTq@tAqCb@kAl@qCl@_B@[x@wAdA{BbA{CFa@?_@La@RQd@UJONIj@QPBNEPFDNXLb@ZHU",
+            "resource_state": 3
+      },
+      "effort_count": 12140,
+      "athlete_count": 3083,
+      "star_count": 12,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:00",
+            "qom": "4:54",
+            "destination": {
+                  "href": "strava://segments/4259399/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10439897,
+            "title": "Marge Demagistris",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10439897/12256028/1/large.jpg",
+            "effort_description": "42 efforts in the last 90 days",
+            "effort_count": "42",
+            "effort_counts": {
+                  "overall": "42 efforts",
+                  "female": "42 efforts"
+            },
+            "destination": "strava://segments/4259399/local_legend?categories%5B%5D=overall"
+      }
 }

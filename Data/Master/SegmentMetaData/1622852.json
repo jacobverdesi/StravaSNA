@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1622852,
+      "resource_state": 3,
+      "name": "Down Ellison",
+      "activity_type": "Ride",
+      "distance": 1365.07,
+      "average_grade": -1.4,
+      "maximum_grade": 8.7,
+      "elevation_high": 95.0,
+      "elevation_low": 74.9,
+      "start_latlng": [
+            43.15357033167328,
+            -77.52751467756697
+      ],
+      "end_latlng": [
+            43.14906899821306,
+            -77.51562561847038
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PZQNC5R3RELCA5TZ4DQXVBKIE2NYAGNPGIB2TICIWCN4CP7H265PS6R3CFTUELE3VA3VW6K2FD23CAQ5JVPQ====",
+      "start_latitude": 43.15357033167328,
+      "start_longitude": -77.52751467756697,
+      "end_latitude": 43.14906899821306,
+      "end_longitude": -77.51562561847038,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-06-24T14:42:45Z",
+      "updated_at": "2021-05-15T02:12:10Z",
+      "total_elevation_gain": 9.81253,
+      "map": {
+            "id": "s1622852",
+            "polyline": "ylkfG~aexME[RgAx@{BnA{@l@Ud@WxAiA~BuBpAyBTi@Lo@d@iANm@L{@Rq@Bc@IoBKe@S_@SSYm@IEU[WNEH@YD@HMf@gATmA\\ELURg@P{BSc@c@u@Cc@CiCUmAC[@gAD_@LUNSVCXGZC|A]f@ONIJORk@TgACU",
+            "resource_state": 3
+      },
+      "effort_count": 173,
+      "athlete_count": 104,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:41",
+            "qom": "3:02",
+            "destination": {
+                  "href": "strava://segments/1622852/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 73279,
+            "title": "Matt M",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/73279/6274166/5/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1622852/local_legend?categories%5B%5D=overall"
+      }
 }

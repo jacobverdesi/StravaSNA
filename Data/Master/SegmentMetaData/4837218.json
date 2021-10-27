@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4837218,
+      "resource_state": 3,
+      "name": "Short Loop",
+      "activity_type": "Ride",
+      "distance": 1583.3,
+      "average_grade": -0.0,
+      "maximum_grade": 29.1,
+      "elevation_high": 118.8,
+      "elevation_low": 77.4,
+      "start_latlng": [
+            43.166848,
+            -77.538382
+      ],
+      "end_latlng": [
+            43.166611,
+            -77.537956
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LJ2QUFI4MMJOUWJGZUOK7MGG3DTXQ574ZXGK6ZHAUXBUYRFT3PSGFY4UGXUWXQSBXQVB2VDRDQL6IMWR6QXA====",
+      "start_latitude": 43.166848,
+      "start_longitude": -77.538382,
+      "end_latitude": 43.166611,
+      "end_longitude": -77.537956,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-23T00:39:15Z",
+      "updated_at": "2021-05-17T08:04:33Z",
+      "total_elevation_gain": 53.1,
+      "map": {
+            "id": "s4837218",
+            "polyline": "w_nfG|egxMg@IUIGIE]@{@QSKEOBMP_@^E@EEM?SXKJMDG?Sa@_@CQG_@FK?GCKNQ@SC_@QKAWBQFQBg@?WI[c@_@UOCK@IE]KIQOKEIAMWYCGFCBGH_@FKEQ?SZw@JaAH]Be@BMCK@QB_AFCLg@CUBaAAOBQHc@Tc@PK@SLOb@EJNh@OHANFXV@HJV?JFRTd@`@\\DEL?LDVR@LLb@F@LH\\LR\\HHLIFg@DCD?F@HFAJKXCLBTKVCP?PI^QVSz@EFIRG@O`@RD@FHJDCFQFCTDV[PCZ@DFAFNFP@|@xA@HET?H^l@r@`AFNBX",
+            "resource_state": 3
+      },
+      "effort_count": 993,
+      "athlete_count": 250,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:49",
+            "qom": "7:56",
+            "destination": {
+                  "href": "strava://segments/4837218/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16185503,
+            "title": "Alexander Samuel",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/16185503/4558062/2/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4837218/local_legend?categories%5B%5D=overall"
+      }
 }

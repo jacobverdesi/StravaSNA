@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14226697,
+      "resource_state": 3,
+      "name": "* SPILLWAY AHEAD *",
+      "activity_type": "Ride",
+      "distance": 812.3,
+      "average_grade": 0.1,
+      "maximum_grade": 1.1,
+      "elevation_high": 140.3,
+      "elevation_low": 138.9,
+      "start_latlng": [
+            43.088843,
+            -77.406304
+      ],
+      "end_latlng": [
+            43.0854,
+            -77.397563
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7GT55MIKAIF2OSSNXBOBHWVXHH2RIVCPIHXD3BJH6B4GVZCHJWAZ5SBXA3UV5LU3QZBVQZZZWV2JVT7QIADQ====",
+      "start_latitude": 43.088843,
+      "start_longitude": -77.406304,
+      "end_latitude": 43.0854,
+      "end_longitude": -77.397563,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-02-23T20:21:16Z",
+      "updated_at": "2021-05-15T02:19:00Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s14226697",
+            "polyline": "gx~eGllmwMD]ZiAp@kBHq@ZkAr@kBd@}AXmANg@F[b@eATeA`@yATg@H_Ab@kAJg@^_A`@{AAKVi@f@oAd@wAl@_Ch@iB",
+            "resource_state": 3
+      },
+      "effort_count": 1467,
+      "athlete_count": 161,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:24",
+            "qom": "2:56",
+            "destination": {
+                  "href": "strava://segments/14226697/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/14226697/local_legend?categories%5B%5D=overall"
+      }
 }

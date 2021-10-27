@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2593404,
+      "resource_state": 3,
+      "name": "Blossom Special",
+      "activity_type": "Ride",
+      "distance": 1030.37,
+      "average_grade": 4.3,
+      "maximum_grade": 17.4,
+      "elevation_high": 139.6,
+      "elevation_low": 92.8,
+      "start_latlng": [
+            43.14821437932551,
+            -77.51833540387452
+      ],
+      "end_latlng": [
+            43.151396652683616,
+            -77.52820987254381
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZWCORJQ4DXHKQL3PVBA6LWFPN4L43A7SD3JWROOQBXO2XWTJ2MVBGQQSGUO4GKTQ63ZT7PXRFLUV5SIBUM2Q====",
+      "start_latitude": 43.14821437932551,
+      "start_longitude": -77.51833540387452,
+      "end_latitude": 43.151396652683616,
+      "end_longitude": -77.52820987254381,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-10-18T00:11:14Z",
+      "updated_at": "2021-05-15T02:12:35Z",
+      "total_elevation_gain": 46.8,
+      "map": {
+            "id": "s2593404",
+            "polyline": "ikjfGrhcxMK|AUpBUdDKhA}ApM_AjFAFHb@Ch@WvAQn@Aj@E^Bf@Gv@Kd@A^@hABPGjADl@AfA@Z?l@GDWCmA?WCyAC}BD",
+            "resource_state": 3
+      },
+      "effort_count": 214,
+      "athlete_count": 82,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:39",
+            "qom": "2:41",
+            "destination": {
+                  "href": "strava://segments/2593404/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9552348,
+            "title": "Rick Postl",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9552348/3322956/4/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/2593404/local_legend?categories%5B%5D=overall"
+      }
 }

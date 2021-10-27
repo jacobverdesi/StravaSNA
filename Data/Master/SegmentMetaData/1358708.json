@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1358708,
+      "resource_state": 3,
+      "name": "Duran Golf Course - Road To",
+      "activity_type": "Ride",
+      "distance": 4012.99,
+      "average_grade": -0.6,
+      "maximum_grade": 16.9,
+      "elevation_high": 108.4,
+      "elevation_low": 79.3,
+      "start_latlng": [
+            43.22543018967213,
+            -77.55379781134198
+      ],
+      "end_latlng": [
+            43.233011327724185,
+            -77.5718130358286
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/P5ODPIM2LEUI6SN3R6G5F27YXFKD2ELHV6AQTM7X5MXD6OTHNVXMUK3PTHX4HN3FOLMTITTSZKHH5U2CIY6UO===",
+      "start_latitude": 43.22543018967213,
+      "start_longitude": -77.55379781134198,
+      "end_latitude": 43.233011327724185,
+      "end_longitude": -77.5718130358286,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-10T14:47:37Z",
+      "updated_at": "2021-05-15T02:12:02Z",
+      "total_elevation_gain": 59.171,
+      "map": {
+            "id": "s1358708",
+            "polyline": "}myfGffjxMGECJ@JCLFBVOFkAMOe@Cw@VQRI~@Wj@Hn@?PMHU?OFIz@Cn@Oz@Cd@LZp@\\\\ZLNJTRRXd@AX{@|AS|@CfAYxEOx@UT]l@a@z@_@h@i@bBMJi@|@WTWPc@P_@Fy@h@g@`@oAt@WFw@XUDu@h@m@R{@RWUu@Es@RcBEm@Do@Li@Sa@_@Kk@AeAKaA]}@g@y@[u@UUOYOa@W}@SWSa@Uu@aA_Bk@o@_Ak@y@Gq@OwCa@aBYy@j@eAtEe@|BM`AKd@IdAU`BKd@Of@OxAOj@?t@O~@Qb@SnBKf@_@hAQzAe@rCOp@WjBKhB[x@K`@@x@K~@D`@VVjAZ~@DVF\\T\\Ff@Zl@N|@Ap@Qn@EXGXKd@MfAGTBn@JTJDZKl@A^Rh@@~@HZT`@`@VTRRJd@Fl@Bj@G\\UzAUl@Uj@PLPLZX`Aj@t@\\j@Cp@Mn@Yj@_@d@g@L_A@",
+            "resource_state": 3
+      },
+      "effort_count": 2,
+      "athlete_count": 1,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "12:00",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/1358708/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

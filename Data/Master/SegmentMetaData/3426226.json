@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3426226,
+      "resource_state": 3,
+      "name": "French Rd",
+      "activity_type": "Ride",
+      "distance": 927.972,
+      "average_grade": 3.3,
+      "maximum_grade": 8.1,
+      "elevation_high": 155.3,
+      "elevation_low": 124.5,
+      "start_latlng": [
+            43.100505483333336,
+            -77.53563916666667
+      ],
+      "end_latlng": [
+            43.100233466666666,
+            -77.54681658333334
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CTYFEXEP7V2HCF5SNTRZFHURJEYW4Z6LD6AIXTCVKYMWZ7Q2QQJHQKUIYE2MYULEOKR3HV3DTA4EZYTQX5B7Q===",
+      "start_latitude": 43.100505483333336,
+      "start_longitude": -77.53563916666667,
+      "end_latitude": 43.100233466666666,
+      "end_longitude": -77.54681658333334,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-02-13T13:40:59Z",
+      "updated_at": "2021-05-15T02:12:49Z",
+      "total_elevation_gain": 30.6456,
+      "map": {
+            "id": "s3426226",
+            "polyline": "caafGvtfxMVjAj@`Db@pCJ|A@fA@vACtA@PEr@@r@KfFEj@?pAIdAAh@EXChAIn@@NEJ@NAXBTCNCpA?~CGvBDNCLDh@CZ?x@?nB@^",
+            "resource_state": 3
+      },
+      "effort_count": 649,
+      "athlete_count": 225,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:05",
+            "qom": "1:38",
+            "destination": {
+                  "href": "strava://segments/3426226/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 42373597,
+            "title": "Ben Turiano",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GhertBqsWXO0zkk1lsc21mZKCqXCxCz32C6n4osoNg=s96-c",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/3426226/local_legend?categories%5B%5D=overall"
+      }
 }

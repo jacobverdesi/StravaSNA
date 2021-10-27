@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9412383,
+      "resource_state": 3,
+      "name": "Susan B. Cobbles",
+      "activity_type": "Ride",
+      "distance": 67.6,
+      "average_grade": 8.1,
+      "maximum_grade": 18.3,
+      "elevation_high": 177.1,
+      "elevation_low": 171.6,
+      "start_latlng": [
+            43.134196,
+            -77.614553
+      ],
+      "end_latlng": [
+            43.134527,
+            -77.615228
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FUCWEVSY2WBATZV2P5GAYZ7AXTVGFIUN6J5Y4KSLBGV2SPBLBTL2SZFESGK54BJ7PK5JK44YN5OZP2G5CDPVW===",
+      "start_latitude": 43.134196,
+      "start_longitude": -77.614553,
+      "end_latitude": 43.134527,
+      "end_longitude": -77.615228,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-04T21:45:36Z",
+      "updated_at": "2021-05-18T08:03:56Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9412383",
+            "polyline": "usgfG~avxMG\\MN[h@Ol@",
+            "resource_state": 3
+      },
+      "effort_count": 1154,
+      "athlete_count": 309,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "8s",
+            "qom": "8s",
+            "destination": {
+                  "href": "strava://segments/9412383/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10380701,
+            "title": "Daniel Rosato",
+            "profile": "https://graph.facebook.com/904416452949587/picture?height=256&width=256",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/9412383/local_legend?categories%5B%5D=overall"
+      }
 }

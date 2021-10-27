@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24530007,
+      "resource_state": 3,
+      "name": "Winton Merchants to Blossom up",
+      "activity_type": "Ride",
+      "distance": 1115.3,
+      "average_grade": 1.0,
+      "maximum_grade": 3.4,
+      "elevation_high": 135.2,
+      "elevation_low": 124.0,
+      "start_latlng": [
+            43.159318,
+            -77.547819
+      ],
+      "end_latlng": [
+            43.150011,
+            -77.552881
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6Q67FN3HP344SXQFOAEH7CESCDBZ7PFT6AN7K5WYJO6UK2C7QVF3K2MTZNA77ACDYPYXBKHNOTADUJE2KWPHQ===",
+      "start_latitude": 43.159318,
+      "start_longitude": -77.547819,
+      "end_latitude": 43.150011,
+      "end_longitude": -77.552881,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-06-18T13:04:56Z",
+      "updated_at": "2021-05-19T08:05:25Z",
+      "total_elevation_gain": 11.2,
+      "map": {
+            "id": "s24530007",
+            "polyline": "uplfGz`ixMnAl@hDrAz@`@hC|@z@f@|B`A`@XdCnAhC|@l@ZdAl@bBt@t@T`Bz@tBz@bD`BnBp@RNj@V`@Tz@`@",
+            "resource_state": 3
+      },
+      "effort_count": 3008,
+      "athlete_count": 589,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:17",
+            "qom": "1:37",
+            "destination": {
+                  "href": "strava://segments/24530007/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9999076,
+            "title": "Anne Marie Gignac",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9999076/3220885/1/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "15 efforts"
+            },
+            "destination": "strava://segments/24530007/local_legend?categories%5B%5D=overall"
+      }
 }

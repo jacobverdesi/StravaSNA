@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25849289,
+      "resource_state": 3,
+      "name": "Down Ellison",
+      "activity_type": "Ride",
+      "distance": 783.3,
+      "average_grade": -2.5,
+      "maximum_grade": 2.3,
+      "elevation_high": -68.0,
+      "elevation_low": -88.4,
+      "start_latlng": [
+            43.153463,
+            -77.528337
+      ],
+      "end_latlng": [
+            43.150553,
+            -77.521173
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/Z7HYHS6JED4VS6UQ2OVGUOTPPLABLELMMRTRCPT3PT62RRQMQGUXHMGXNKJKPWZYTLCTHMI6P4QHX4VYLH6A====",
+      "start_latitude": 43.153463,
+      "start_longitude": -77.528337,
+      "end_latitude": 43.150553,
+      "end_longitude": -77.521173,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-09-25T13:59:55Z",
+      "updated_at": "2021-05-15T02:25:19Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s25849289",
+            "polyline": "clkfGbgexMCuAOs@Gk@AY@q@DYRo@f@m@XSj@_@lBw@v@c@fByAjAgA`@i@Zm@`@gApAuEXeB@Y@[Gw@SiAISi@cA",
+            "resource_state": 3
+      },
+      "effort_count": 541,
+      "athlete_count": 181,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:00",
+            "qom": "1:26",
+            "destination": {
+                  "href": "strava://segments/25849289/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 553051,
+            "title": "\ud83c\udd79\ud83c\udd7e\ud83c\udd7d\ud83c\udd70\ud83c\udd77 \ud83c\udd73\ud83c\udd78\ud83c\udd7f\ud83c\udd70\ud83c\udd82\ud83c\udd80\ud83c\udd84\ud83c\udd70\ud83c\udd7b\ud83c\udd74",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/553051/131390/1/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/25849289/local_legend?categories%5B%5D=overall"
+      }
 }

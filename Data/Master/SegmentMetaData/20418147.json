@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20418147,
+      "resource_state": 3,
+      "name": "Creek trail to Ellison",
+      "activity_type": "Ride",
+      "distance": 517.7,
+      "average_grade": -0.2,
+      "maximum_grade": 0.8,
+      "elevation_high": 87.0,
+      "elevation_low": 85.2,
+      "start_latlng": [
+            43.157693,
+            -77.526648
+      ],
+      "end_latlng": [
+            43.15399,
+            -77.525476
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JSWEW3W7IKCYX4MPMJ72SVHYHDBJMTQLKBQPCM2EICSD3KXNGV3PXOEDRM5PQSWUOPSDYPV45OAGF4PODDT2Y===",
+      "start_latitude": 43.157693,
+      "start_longitude": -77.526648,
+      "end_latitude": 43.15399,
+      "end_longitude": -77.525476,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-04-25T18:12:02Z",
+      "updated_at": "2021-05-18T08:05:35Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s20418147",
+            "polyline": "qflfGp|dxM@rApADnA_@b@]~@U\\_@L]x@}@|AkAdBq@tAHzA?",
+            "resource_state": 3
+      },
+      "effort_count": 738,
+      "athlete_count": 123,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:03",
+            "qom": "1:59",
+            "destination": {
+                  "href": "strava://segments/20418147/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10276549,
+            "title": "Daniel Stark",
+            "profile": "https://graph.facebook.com/1041027975921271/picture?height=256&width=256",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/20418147/local_legend?categories%5B%5D=overall"
+      }
 }

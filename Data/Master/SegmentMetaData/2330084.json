@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2330084,
+      "resource_state": 3,
+      "name": "Mt Vernon to Doctors Rd Climb",
+      "activity_type": "Ride",
+      "distance": 636.93,
+      "average_grade": 5.0,
+      "maximum_grade": 9.5,
+      "elevation_high": 269.2,
+      "elevation_low": 237.2,
+      "start_latlng": [
+            43.13705756329,
+            -77.60405075736344
+      ],
+      "end_latlng": [
+            43.13271154649556,
+            -77.60384070686996
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/L36LOSWWSGPBBFFCNNIAHYZSH3GMG6U6RAG57TA2AZ6OFJCEUUUZ2EPB64CL7W4MZVUEGEJHVGIVJQWOCZRIC===",
+      "start_latitude": 43.13705756329,
+      "start_longitude": -77.60405075736344,
+      "end_latitude": 43.13271154649556,
+      "end_longitude": -77.60384070686996,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-09-08T15:08:41Z",
+      "updated_at": "2021-05-15T02:12:28Z",
+      "total_elevation_gain": 32.0,
+      "map": {
+            "id": "s2330084",
+            "polyline": "qehfGj`txM~BnAv@XbAf@~Af@j@T^T`@PRNNVPNd@Jn@RLBJCJGHOZgAFQLMLGNCP@h@JX@ZGHGHKJa@Fy@E}AEg@",
+            "resource_state": 3
+      },
+      "effort_count": 269,
+      "athlete_count": 80,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:21",
+            "qom": "2:06",
+            "destination": {
+                  "href": "strava://segments/2330084/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 73846932,
+            "title": "Jason Smith",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GjtO89v4Ns9twdmerGwBGDOS5HYM8XzbbAg2Tgzkw=s96-c",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/2330084/local_legend?categories%5B%5D=overall"
+      }
 }

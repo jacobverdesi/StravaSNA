@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1783653,
+      "resource_state": 3,
+      "name": "Dart Down Erie Station Rd",
+      "activity_type": "Ride",
+      "distance": 697.91,
+      "average_grade": -4.0,
+      "maximum_grade": 3.9,
+      "elevation_high": 197.2,
+      "elevation_low": 169.3,
+      "start_latlng": [
+            43.040598328265396,
+            -77.64648456133682
+      ],
+      "end_latlng": [
+            43.040675022679416,
+            -77.63813392266411
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UKEQ7J6BWTUZ3QFDGNGEBWNZW34XSNHIC6RA23CCPDLIXSFQBISQL5JJLHANXOB5CW45LOQSYPSOA3IPDEZA====",
+      "start_latitude": 43.040598328265396,
+      "start_longitude": -77.64648456133682,
+      "end_latitude": 43.040675022679416,
+      "end_longitude": -77.63813392266411,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-19T16:25:40Z",
+      "updated_at": "2021-05-20T08:02:15Z",
+      "total_elevation_gain": 4.60031,
+      "map": {
+            "id": "s1783653",
+            "polyline": "ujueGpi|xMLg@Q_@Mk@AcAPmACyA@cESaFFwBAkBOaADoAA}@HuBCeDRm@WgAJy@",
+            "resource_state": 3
+      },
+      "effort_count": 1135,
+      "athlete_count": 287,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "40s",
+            "qom": "50s",
+            "destination": {
+                  "href": "strava://segments/1783653/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 65176644,
+            "title": "Matthew Klock",
+            "profile": "https://graph.facebook.com/10223673981826136/picture?height=256&width=256",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/1783653/local_legend?categories%5B%5D=overall"
+      }
 }

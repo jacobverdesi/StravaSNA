@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2845317,
+      "resource_state": 3,
+      "name": "Arbordale Ave Climb",
+      "activity_type": "Ride",
+      "distance": 1201.67,
+      "average_grade": 14.8,
+      "maximum_grade": 52.0,
+      "elevation_high": 129.8,
+      "elevation_low": -48.4,
+      "start_latlng": [
+            43.15576764754951,
+            -77.5498346798122
+      ],
+      "end_latlng": [
+            43.1459750700742,
+            -77.55404222756624
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UKZG7W4CQW4CU57I6Q4IXOKANXSH6ERIPB555E3XTBIKBBZ5SDPMBQVO6PDROTENSVBLMX673VSN4EZOSSOQM===",
+      "start_latitude": 43.15576764754951,
+      "start_longitude": -77.5498346798122,
+      "end_latitude": 43.1459750700742,
+      "end_longitude": -77.55404222756624,
+      "climb_category": 2,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-11-27T12:04:38Z",
+      "updated_at": "2021-05-15T02:12:41Z",
+      "total_elevation_gain": 178.2,
+      "map": {
+            "id": "s2845317",
+            "polyline": "ozkfGnmixMn@Zf@PPP`@RvIfD|BbAx@f@pCbAv@`@~@\\lB`AbCdA`D`B|JfEv@b@v@\\ZDZIHKP[Ns@Xu@",
+            "resource_state": 3
+      },
+      "effort_count": 1377,
+      "athlete_count": 245,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:59",
+            "qom": "2:48",
+            "destination": {
+                  "href": "strava://segments/2845317/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1980558,
+            "title": "Jason Hammel",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1980558/603743/1/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/2845317/local_legend?categories%5B%5D=overall"
+      }
 }

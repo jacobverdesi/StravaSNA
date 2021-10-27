@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 19510805,
+      "resource_state": 3,
+      "name": "Park Alphabet ",
+      "activity_type": "Ride",
+      "distance": 830.5,
+      "average_grade": -0.9,
+      "maximum_grade": 0.1,
+      "elevation_high": 151.0,
+      "elevation_low": 143.5,
+      "start_latlng": [
+            43.14668,
+            -77.572753
+      ],
+      "end_latlng": [
+            43.145758,
+            -77.56281
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UBRBLP4YUN43AW22NQEGWMD4MERBWCD7BRTRPZGEDOA4ISLY4FF6ALVE4YM4B5URXRPVZRBVZ5ZYBZJ4YOTQ====",
+      "start_latitude": 43.14668,
+      "start_longitude": -77.572753,
+      "end_latitude": 43.145758,
+      "end_longitude": -77.56281,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-12-18T21:22:53Z",
+      "updated_at": "2021-05-20T08:04:55Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s19510805",
+            "polyline": "wajfGv|mxMvCcOBcC[aa@X}B^}B",
+            "resource_state": 3
+      },
+      "effort_count": 2187,
+      "athlete_count": 482,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:08",
+            "qom": "1:27",
+            "destination": {
+                  "href": "strava://segments/19510805/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5154931,
+            "title": "Rich Mulvey",
+            "profile": "https://graph.facebook.com/1297821114/picture?height=256&width=256",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/19510805/local_legend?categories%5B%5D=overall"
+      }
 }

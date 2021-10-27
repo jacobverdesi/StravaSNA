@@ -1,16 +1,14 @@
 import ast
+import json
 from os import listdir
 from os.path import isfile, join
 from pathlib import Path
-
-import requests
-import webbrowser
-import json
+from ratelimit import limits,sleep_and_retry
 import pandas as pd
-from datetime import datetime
+import requests
+
 
 # never needs to be called again
-import yaml
 
 
 def initDF():
@@ -24,28 +22,42 @@ def initDF():
 
 
 # call this everytime before making an api call to verify that the auth token has not expired
-def refreshAccessToken():
+def refreshAccessToken(index):
     df = pd.read_csv('loginInformation.csv')
-    user = df.loc[0]
+    user = df.loc[index]
     print(user["clientId"])
     params = {"client_id":user["clientId"], "client_secret":user["clientSecret"], "grant_type": "refresh_token", "refresh_token":user["refreshToken"]}
     r = requests.post('https://www.strava.com/api/v3/oauth/token',params=params)
     responseJson = json.loads(r.content)
+    print(responseJson)
     accessToken = responseJson["access_token"]
     expireAt = responseJson["expires_at"]
     refreshToken = responseJson["refresh_token"]
-    df.loc[0, "accessToken"]= accessToken
-    df.loc[0, "expireAt"]= expireAt
-    df.loc[0, "refreshToken"] = refreshToken
+    df.loc[index, "accessToken"]= accessToken
+    df.loc[index, "expireAt"]= expireAt
+    df.loc[index, "refreshToken"] = refreshToken
     df.to_csv('loginInformation.csv', index=False)
-    r = requests.get(f"https://www.strava.com/api/v3/segments/20974867",headers={"Authorization": f"Bearer {accessToken}"})
+@sleep_and_retry
+@limits(calls=100, period=60*15)
+@sleep_and_retry
+@limits(calls=1000, period=60*60*24)
+def getSegmentMetaData(segment,accessToken):
+    r = requests.get(f"https://www.strava.com/api/v3/segments/{str(segment)}",
+                     headers={"Authorization": f"Bearer {accessToken}"})
     responseJson = json.loads(r.content)
-    print(responseJson)
 
-def getAllSegmentMetaData():
+    base_path = Path(__file__).parent
+    file_path = (base_path / f"../Data/Master/SegmentMetaData/{str(segment)}.json").resolve()
+
+    if 'message' not in responseJson or responseJson["message"] != "Rate Limit Exceeded":
+        out_file = open(file_path, "w")
+        json.dump(responseJson, out_file, indent=6)
+        out_file.close()
+
+def getAllSegmentMetaData(index):
 
     df = pd.read_csv('loginInformation.csv')
-    user = df.loc[0]
+    user = df.loc[index]
     accessToken=user['accessToken']
     base_path = Path(__file__).parent
     file_path = (base_path / "../Data/Master/segmentList.txt").resolve()
@@ -56,20 +68,13 @@ def getAllSegmentMetaData():
     currentSegments = [int(f[:-5]) for f in listdir(file_path) if isfile(join(file_path, f))]
     newSegments = set(allSegments) - set(currentSegments)
     for segment in newSegments:
+        getSegmentMetaData(segment,accessToken)
         print(segment)
-        r = requests.get(f"https://www.strava.com/api/v3/segments/{str(segment)}",
-                         headers={"Authorization": f"Bearer {accessToken}"})
-        responseJson = json.loads(r.content)
-        file_path = (base_path / f"../Data/Master/SegmentMetaData/{str(segment)}.json").resolve()
-        out_file = open(file_path, "w")
-
-        json.dump(responseJson, out_file, indent=6)
-
-        out_file.close()
 
 def main():
-    refreshAccessToken()
-    getAllSegmentMetaData()
+    refreshAccessToken(1)
+    getAllSegmentMetaData(1)
+
 
 if __name__ == '__main__':
     main()

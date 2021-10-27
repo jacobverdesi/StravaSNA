@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9532159,
+      "resource_state": 3,
+      "name": "JEFF",
+      "activity_type": "Ride",
+      "distance": 911.4,
+      "average_grade": 0.2,
+      "maximum_grade": 2.4,
+      "elevation_high": 164.0,
+      "elevation_low": 162.3,
+      "start_latlng": [
+            43.138879,
+            -77.62894
+      ],
+      "end_latlng": [
+            43.14707,
+            -77.629005
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/STHHP3G4TMSDYKZH6TLU5OSRVF3HN5E5PR256PPLCZRLQCQ57DJBHFRWCOWABKNVEAJLNLSO2MSK7TJFJOWQ====",
+      "start_latitude": 43.138879,
+      "start_longitude": -77.62894,
+      "end_latitude": 43.14707,
+      "end_longitude": -77.629005,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-20T17:57:39Z",
+      "updated_at": "2021-05-15T02:16:25Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9532159",
+            "polyline": "}phfGz{xxMqMDIEI?[Bc@Ac@BIB_@Cs^F",
+            "resource_state": 3
+      },
+      "effort_count": 19,
+      "athlete_count": 15,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:58",
+            "qom": "4:07",
+            "destination": {
+                  "href": "strava://segments/9532159/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

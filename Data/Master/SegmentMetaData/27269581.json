@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 27269581,
+      "resource_state": 3,
+      "name": "Cart-of-Fur",
+      "activity_type": "Ride",
+      "distance": 1578.3,
+      "average_grade": -0.1,
+      "maximum_grade": 4.4,
+      "elevation_high": 152.2,
+      "elevation_low": 144.2,
+      "start_latlng": [
+            43.115655,
+            -77.403139
+      ],
+      "end_latlng": [
+            43.115583,
+            -77.42253
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZJHEW42M5NCXWQKSYHZLJAOP6L6A2P5BEWIAXAU2VYS2PH5FIQ6W6QBAYKXZPLX5UKV6QHFTNW4YRU5FRNOJO===",
+      "start_latitude": 43.115655,
+      "start_longitude": -77.403139,
+      "end_latitude": 43.115583,
+      "end_longitude": -77.42253,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-02-10T23:07:47Z",
+      "updated_at": "2021-05-15T02:25:48Z",
+      "total_elevation_gain": 8.2,
+      "map": {
+            "id": "s27269581",
+            "polyline": "y_dfGrxlwMCtI?|JPpaB",
+            "resource_state": 3
+      },
+      "effort_count": 3093,
+      "athlete_count": 420,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:07",
+            "qom": "2:59",
+            "destination": {
+                  "href": "strava://segments/27269581/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 67790567,
+            "title": "Terry Allen",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/67790567/16816664/1/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/27269581/local_legend?categories%5B%5D=overall"
+      }
 }

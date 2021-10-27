@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18185378,
+      "resource_state": 3,
+      "name": "* SANDEES RUN * ",
+      "activity_type": "Ride",
+      "distance": 660.3,
+      "average_grade": 0.0,
+      "maximum_grade": 5.8,
+      "elevation_high": 126.8,
+      "elevation_low": 124.6,
+      "start_latlng": [
+            43.100511,
+            -77.462007
+      ],
+      "end_latlng": [
+            43.09456,
+            -77.462165
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3V6ZBD7PX4TATPVZLK72VOTEO57ORTMOVIEVA5OQP7O45Y33GIPOM3CC23EQPC7SEMP6RSFH5TM3YRTLEWT2Q===",
+      "start_latitude": 43.100511,
+      "start_longitude": -77.462007,
+      "end_latitude": 43.09456,
+      "end_longitude": -77.462165,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-07-09T22:13:24Z",
+      "updated_at": "2021-05-15T02:21:27Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s18185378",
+            "polyline": "eaafGphxwMdYX~ID",
+            "resource_state": 3
+      },
+      "effort_count": 2956,
+      "athlete_count": 318,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "42s",
+            "qom": "1:02",
+            "destination": {
+                  "href": "strava://segments/18185378/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 295448,
+            "title": "Rouge Rob",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/295448/133377/1/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/18185378/local_legend?categories%5B%5D=overall"
+      }
 }

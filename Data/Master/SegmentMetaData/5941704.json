@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5941704,
+      "resource_state": 3,
+      "name": "Boardwalk Bomber",
+      "activity_type": "Ride",
+      "distance": 709.9,
+      "average_grade": 0.2,
+      "maximum_grade": 2.2,
+      "elevation_high": -44.8,
+      "elevation_low": -46.9,
+      "start_latlng": [
+            43.23468,
+            -77.61839
+      ],
+      "end_latlng": [
+            43.23049,
+            -77.61672
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5LRD7RD3DBATR2T4HUH4FDQM5J7APCKHDM4TPBOQDFF2X7UJ7F5CR62YO5ZOXNKXRIAOMRPVGPNOF6ALIF3OI===",
+      "start_latitude": 43.23468,
+      "start_longitude": -77.61839,
+      "end_latitude": 43.23049,
+      "end_longitude": -77.61672,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-11-04T01:57:17Z",
+      "updated_at": "2021-05-20T08:02:47Z",
+      "total_elevation_gain": 2.1,
+      "map": {
+            "id": "s5941704",
+            "polyline": "wg{fG~yvxM|@fAXb@j@f@xArBj@p@X^\\\\p@b@b@Hr@@b@Ib@S\\YX_@Vg@TcAJiAPkDLkAZ_AvAgCXa@PG",
+            "resource_state": 3
+      },
+      "effort_count": 6720,
+      "athlete_count": 1465,
+      "star_count": 11,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "58s",
+            "qom": "1:09",
+            "destination": {
+                  "href": "strava://segments/5941704/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 11225930,
+            "title": "Tim Gabriel",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/11225930/3418235/3/large.jpg",
+            "effort_description": "20 efforts in the last 90 days",
+            "effort_count": "20",
+            "effort_counts": {
+                  "overall": "20 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/5941704/local_legend?categories%5B%5D=overall"
+      }
 }

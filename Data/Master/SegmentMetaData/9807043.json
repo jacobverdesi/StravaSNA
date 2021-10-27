@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9807043,
+      "resource_state": 3,
+      "name": "* INTER CAMPUS DOWNHILL *",
+      "activity_type": "Ride",
+      "distance": 396.0,
+      "average_grade": -2.5,
+      "maximum_grade": 0.0,
+      "elevation_high": 165.4,
+      "elevation_low": 155.6,
+      "start_latlng": [
+            43.128498,
+            -77.626484
+      ],
+      "end_latlng": [
+            43.131708,
+            -77.624534
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AIPITCR4UY3UWAOAEDLWXHSXFBE2DOUT23C3RDAK3TMDQ65W5O2NJDTDD35CVKUKJV7FZHB43B2HJWZ6HRJQ====",
+      "start_latitude": 43.128498,
+      "start_longitude": -77.626484,
+      "end_latitude": 43.131708,
+      "end_longitude": -77.624534,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-25T04:16:00Z",
+      "updated_at": "2021-05-20T08:03:26Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9807043",
+            "polyline": "apffGplxxMaBuAgDgCk@]kD}AiAe@]Gw@@",
+            "resource_state": 3
+      },
+      "effort_count": 6896,
+      "athlete_count": 701,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "27s",
+            "qom": "32s",
+            "destination": {
+                  "href": "strava://segments/9807043/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 26930687,
+            "title": "Paul Hermle",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/26930687/13198186/1/large.jpg",
+            "effort_description": "33 efforts in the last 90 days",
+            "effort_count": "33",
+            "effort_counts": {
+                  "overall": "33 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/9807043/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16085787,
+      "resource_state": 3,
+      "name": "* 10 MILE MT.BIKE, FATTIE, HYBRID, XCROSS * TRAIL LOOP * COUNTER CLOCKWISE FROM FAIRPORT *(following all traffic rules, stop signs, lights, etc)",
+      "activity_type": "Ride",
+      "distance": 16128.7,
+      "average_grade": 0.0,
+      "maximum_grade": 5.9,
+      "elevation_high": 165.9,
+      "elevation_low": 139.8,
+      "start_latlng": [
+            43.095017,
+            -77.429186
+      ],
+      "end_latlng": [
+            43.095005,
+            -77.429153
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AWDGE4APMP7GFOODIGRVXDZKNYEAL6AQPCRKC7UMVJTAXS2ZSHCAPHNWRAYWNQG4HRAFBJRRXMLZQIBLX2DJ4===",
+      "start_latitude": 43.095017,
+      "start_longitude": -77.429186,
+      "end_latitude": 43.095005,
+      "end_longitude": -77.429153,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-09-21T21:04:00Z",
+      "updated_at": "2021-05-15T02:20:08Z",
+      "total_elevation_gain": 48.2,
+      "map": {
+            "id": "s16085787",
+            "polyline": "y~_fGl{qwMKDMLc@t@GC@E`@_@b@u@FAfAp@DAd@kAXOtAe@z@_@tDkB|@_@^IpAi@zAa@dAObAI|AAfFHhAFdA@XC\\@z@CzENpA@dEQpBOfDo@fBWnAKzSoCt@IX@j@UlDi@hAMrCi@xBYl@MhE_Bt@]z@i@lCqAv@o@f@g@z@s@fCgCxAcB|AwBnBcDdCkEn@{@~@cBrAmB|@_BtAmC`@k@fCsE~@yB\\aAfAwDZaA`@aBdBaJPgATcAt@aF`AwEz@iFFIBAVBHFP@PIFEDSOuEBmBZeAn@cDZsBfAaGLaA\\eATeAZ_Cb@uBj@_EZoAp@sDTyBD}@Ho@Rk@RcDrA_MPmAFoAZaDZuBbA}Jz@mHP{BRoBTkBTsCbAsH\\yC`A{Hp@eJn@{GP_DFwCRcDJiAGGEB?`@B@@?BWCO@IGGCP?h@@BFAC[GF?TF@BMCC?UBCD?FPIHACB_@KU]Ki@GgBE}B?e@G{@Gs@?y@@oCGm@DcAK}@@GCIO}@yBa@u@q@w@aBeC}@{@Kc@AsCFyIAM]YKEe@AiAPgBB{AEyA?EAIMGs@@oDD{BEgAKw@A}EBsFGiAEK]SU?aB?gCFeI?m@KeA{@]iAGk@@eOa@k@wAFuDCwA@aBFiAJqGBi@Da@AoCDq@JMd@Fb@V~@fA`FHrA@fCHt@Lj@TvDNvALhIE`D@dBQzAg@rC{@`C]|A?t@Cf@a@~AwAdEiEhN{ArFcAbD_EtNi@zBiCtIiCjJcBlFyAzFyAvE_CxHkAzDo@fCg@vAa@|AY~@a@hBgAjDk@|BsCtJyAvE_AtDeCzI_@jBq@zBg@lAc@nAa@|AcB`Gm@jBsAdFu@`CoDvM[bBY`CUdFIjNMjFGnFIrCYlWOlDUfBu@rCy@hCyBlF}GfOsFhM",
+            "resource_state": 3
+      },
+      "effort_count": 80,
+      "athlete_count": 24,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "32:28",
+            "qom": "35:04",
+            "destination": {
+                  "href": "strava://segments/16085787/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 61642645,
+            "title": "Lonnie Kaczka",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/61642645/21916220/1/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/16085787/local_legend?categories%5B%5D=overall"
+      }
 }

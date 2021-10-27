@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 23406740,
+      "resource_state": 3,
+      "name": "LWW zig-zag",
+      "activity_type": "Ride",
+      "distance": 4735.3,
+      "average_grade": 0.5,
+      "maximum_grade": 7.8,
+      "elevation_high": 210.8,
+      "elevation_low": 179.2,
+      "start_latlng": [
+            43.002691,
+            -77.622966
+      ],
+      "end_latlng": [
+            43.022947,
+            -77.584947
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/Z57GJUSGDSXFHWA7ONHF6MHHUYE3KPGGDKNPZ4B7AYYB6P5JK65BHOR6BMXC6XXCO4IZACKG7CVKMHIDLJRA====",
+      "start_latitude": 43.002691,
+      "start_longitude": -77.622966,
+      "end_latitude": 43.022947,
+      "end_longitude": -77.584947,
+      "climb_category": 0,
+      "city": "Rush",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-04-12T00:01:04Z",
+      "updated_at": "2021-05-17T08:08:40Z",
+      "total_elevation_gain": 64.8,
+      "map": {
+            "id": "s23406740",
+            "polyline": "y}meGpvwxMBaAAmDIcNKkl@EcD[q@k@]uIsDaMuFwFeC}FaCmBg@kJkBwe@gJiBm@yNiG{EiBoAi@IKKa@@oAE}PSa^CoM@kMNk[",
+            "resource_state": 3
+      },
+      "effort_count": 1046,
+      "athlete_count": 255,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "7:28",
+            "qom": "9:34",
+            "destination": {
+                  "href": "strava://segments/23406740/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 44358378,
+            "title": "David Ranelli",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/44358378/16921257/1/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/23406740/local_legend?categories%5B%5D=overall"
+      }
 }

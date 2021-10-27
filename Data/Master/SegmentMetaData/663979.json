@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 663979,
+      "resource_state": 3,
+      "name": "Baker Road Climb",
+      "activity_type": "Ride",
+      "distance": 2131.27,
+      "average_grade": 4.8,
+      "maximum_grade": 16.5,
+      "elevation_high": 279.4,
+      "elevation_low": 176.3,
+      "start_latlng": [
+            43.02750926712479,
+            -77.40316877501014
+      ],
+      "end_latlng": [
+            43.03564419461192,
+            -77.42224706880577
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YTWDVDGBDI5PSUIYCPRDE6GGFQSMPNCGBHCHN6PZG27TUSXIAS5YL422TJ26QLIWBNBOAZ5F4O42NZLTOYNQ====",
+      "start_latitude": 43.02750926712479,
+      "start_longitude": -77.40316877501014,
+      "end_latitude": 43.03564419461192,
+      "end_longitude": -77.42224706880577,
+      "climb_category": 1,
+      "city": "Victor",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2011-06-11T18:58:36Z",
+      "updated_at": "2021-05-15T02:11:36Z",
+      "total_elevation_gain": 107.83,
+      "map": {
+            "id": "s663979",
+            "polyline": "{xreGxxlwM@fFDvB?~CHdGArIEfCGpCQfDExAc@bGCdA?^MhBO~AMfBiArGAb@FrAR`BStAITONQHmABmCNs@Py@b@k@PsBz@i@^WX]RaAx@YHM@i@RYHMJKAc@F]Na@h@Sz@Qd@k@v@IDM@[?aBH{@N]PMJQTm@vAa@r@OPiA|@",
+            "resource_state": 3
+      },
+      "effort_count": 1489,
+      "athlete_count": 252,
+      "star_count": 20,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:42",
+            "qom": "6:29",
+            "destination": {
+                  "href": "strava://segments/663979/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 399187,
+            "title": "Sfs Gd",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/663979/local_legend?categories%5B%5D=overall"
+      }
 }

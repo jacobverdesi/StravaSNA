@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4627120,
+      "resource_state": 3,
+      "name": "Up High Street",
+      "activity_type": "Ride",
+      "distance": 613.8,
+      "average_grade": 3.0,
+      "maximum_grade": 8.1,
+      "elevation_high": 121.2,
+      "elevation_low": 103.0,
+      "start_latlng": [
+            43.104627,
+            -77.440261
+      ],
+      "end_latlng": [
+            43.103369,
+            -77.432941
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6F6ME7QGASK75VGUUI6X52PL6UJCLR3K6OPAXH5MOPCHDL3YVWKCNCADK6A2QVJNREZ42DSIBJPUGS67QTGQ====",
+      "start_latitude": 43.104627,
+      "start_longitude": -77.440261,
+      "end_latitude": 43.103369,
+      "end_longitude": -77.432941,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-05T22:23:50Z",
+      "updated_at": "2021-05-15T02:13:28Z",
+      "total_elevation_gain": 18.2,
+      "map": {
+            "id": "s4627120",
+            "polyline": "{zafGt`twMp@sHdAsNRqBPqCNyARiCDa@Nq@b@sA",
+            "resource_state": 3
+      },
+      "effort_count": 1991,
+      "athlete_count": 273,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:02",
+            "qom": "1:34",
+            "destination": {
+                  "href": "strava://segments/4627120/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8928420,
+            "title": "Kevin Gregory",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8928420/2704295/2/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/4627120/local_legend?categories%5B%5D=overall"
+      }
 }

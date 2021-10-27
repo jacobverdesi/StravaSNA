@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 22795960,
+      "resource_state": 3,
+      "name": "MCC out",
+      "activity_type": "Ride",
+      "distance": 785.0,
+      "average_grade": 0.6,
+      "maximum_grade": 33.3,
+      "elevation_high": 161.0,
+      "elevation_low": 155.4,
+      "start_latlng": [
+            43.105742,
+            -77.606313
+      ],
+      "end_latlng": [
+            43.103577,
+            -77.599697
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BIGP4WBMR4YYKXPFQFMVOAH3CKO5FWTOQVDYJ276ZUL2EGHRJUW4Z7S7VN7VIPD3QQTFRQU7BMCGROINL3KXA===",
+      "start_latitude": 43.105742,
+      "start_longitude": -77.606313,
+      "end_latitude": 43.103577,
+      "end_longitude": -77.599697,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-02-04T23:10:09Z",
+      "updated_at": "2021-05-15T02:24:15Z",
+      "total_elevation_gain": 5.6,
+      "map": {
+            "id": "s22795960",
+            "polyline": "{abfGnntxMMw@IMq@g@EKG]BOXaAXaAVk@FUXq@HWt@mAPo@@e@Ay@Bm@Eu@AiBWc@g@q@I[B_@Rm@\\aCLe@Pa@Ji@FGNIv@EdBAXCt@B^HJC",
+            "resource_state": 3
+      },
+      "effort_count": 298,
+      "athlete_count": 23,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:02",
+            "qom": "3:02",
+            "destination": {
+                  "href": "strava://segments/22795960/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 18623508,
+            "title": "Kevin Simmons",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/18623508/11826341/1/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/22795960/local_legend?categories%5B%5D=overall"
+      }
 }

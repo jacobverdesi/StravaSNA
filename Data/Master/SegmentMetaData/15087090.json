@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15087090,
+      "resource_state": 3,
+      "name": "Mt. Hope Hairpin",
+      "activity_type": "Ride",
+      "distance": 328.4,
+      "average_grade": 3.2,
+      "maximum_grade": 14.1,
+      "elevation_high": 168.0,
+      "elevation_low": 157.0,
+      "start_latlng": [
+            43.113439,
+            -77.62506
+      ],
+      "end_latlng": [
+            43.113124,
+            -77.622945
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/R3RCNUFQL2HEQC3WTDXOLGBAKKOOJPTIKC6DHIE756ICHTEVWIRFZN34WUK64C3HE32VB5XYXFBINK6S7CACI===",
+      "start_latitude": 43.113439,
+      "start_longitude": -77.62506,
+      "end_latitude": 43.113124,
+      "end_longitude": -77.622945,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-06T19:23:03Z",
+      "updated_at": "2021-05-15T02:19:28Z",
+      "total_elevation_gain": 11.0,
+      "map": {
+            "id": "s15087090",
+            "polyline": "}qcfGtcxxMTu@Lw@n@mCHg@@SHs@?UN_@V{A?i@EKYNUVMd@O|@",
+            "resource_state": 3
+      },
+      "effort_count": 1982,
+      "athlete_count": 767,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "21s",
+            "qom": "32s",
+            "destination": {
+                  "href": "strava://segments/15087090/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 11273781,
+            "title": "John Romero",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/11273781/5278299/4/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/15087090/local_legend?categories%5B%5D=overall"
+      }
 }

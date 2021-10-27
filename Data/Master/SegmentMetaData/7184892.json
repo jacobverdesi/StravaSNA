@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7184892,
+      "resource_state": 3,
+      "name": "1 KM UP FROM THRUWAY",
+      "activity_type": "Ride",
+      "distance": 804.2,
+      "average_grade": 1.4,
+      "maximum_grade": 8.5,
+      "elevation_high": 181.8,
+      "elevation_low": 167.6,
+      "start_latlng": [
+            43.047922,
+            -77.645097
+      ],
+      "end_latlng": [
+            43.05477,
+            -77.64212
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PZZTU4IW2UGYQ4NGYCKNXXES7L3FURAQWYAXXW5RWW27ALKQXKZZNWINQZOEDC6G2G72UTFAH7VDQQGJPQX6G===",
+      "start_latitude": 43.047922,
+      "start_longitude": -77.645097,
+      "end_latitude": 43.05477,
+      "end_longitude": -77.64212,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-10T19:06:12Z",
+      "updated_at": "2021-05-20T08:02:58Z",
+      "total_elevation_gain": 14.2,
+      "map": {
+            "id": "s7184892",
+            "polyline": "oxveGz`|xMcF_AcGsA_Di@w@SkAo@cA_@s@_@cAa@yCuAeAm@qDiB",
+            "resource_state": 3
+      },
+      "effort_count": 1127,
+      "athlete_count": 153,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:20",
+            "qom": "1:46",
+            "destination": {
+                  "href": "strava://segments/7184892/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3299172,
+            "title": "Matthew McNamara",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3299172/1069972/3/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7184892/local_legend?categories%5B%5D=overall"
+      }
 }

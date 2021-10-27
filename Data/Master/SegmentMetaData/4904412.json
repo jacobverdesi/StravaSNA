@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4904412,
+      "resource_state": 3,
+      "name": "Boxart St. Climb to Lake Ave.",
+      "activity_type": "Ride",
+      "distance": 817.6,
+      "average_grade": 2.5,
+      "maximum_grade": 8.8,
+      "elevation_high": 119.2,
+      "elevation_low": 98.8,
+      "start_latlng": [
+            43.227364,
+            -77.618155
+      ],
+      "end_latlng": [
+            43.227235,
+            -77.626517
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3CVQDEJBKOASIHIC7XSHZ5266MPU4E2OEDGH7EL4QMEOUY7623TT6MVJAUQ3TUXXS2KU7VEDJF76EVML3LEQ====",
+      "start_latitude": 43.227364,
+      "start_longitude": -77.618155,
+      "end_latitude": 43.227235,
+      "end_longitude": -77.626517,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-28T18:15:35Z",
+      "updated_at": "2021-05-15T02:13:38Z",
+      "total_elevation_gain": 21.2,
+      "map": {
+            "id": "s4904412",
+            "polyline": "_zyfGnxvxM]nX?|BI|CCzC|@l@JD\\j@x@bCz@zBAv@e@LoBE",
+            "resource_state": 3
+      },
+      "effort_count": -1,
+      "athlete_count": 2,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": null,
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/4904412/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

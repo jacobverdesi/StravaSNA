@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9772165,
+      "resource_state": 3,
+      "name": "* BIKE LANE ON ST. PAUL *",
+      "activity_type": "Ride",
+      "distance": 1703.3,
+      "average_grade": -0.5,
+      "maximum_grade": 7.9,
+      "elevation_high": 149.6,
+      "elevation_low": 141.2,
+      "start_latlng": [
+            43.167448,
+            -77.616936
+      ],
+      "end_latlng": [
+            43.180711,
+            -77.625182
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/A3QU524ONDYBIAASENKQZRN7JT77KNAK6YMHOPQDNH4X6OZK53VTJYAV4YUXR36ZUCERXOUNKQFP5YCX2UDHA===",
+      "start_latitude": 43.167448,
+      "start_longitude": -77.616936,
+      "end_latitude": 43.180711,
+      "end_longitude": -77.625182,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-20T18:45:39Z",
+      "updated_at": "2021-05-19T08:03:18Z",
+      "total_elevation_gain": 2.4,
+      "map": {
+            "id": "s9772165",
+            "polyline": "ocnfGzpvxMsFlGkAnAiBbCgBbBmC~CcGnG}CpDgIhJQRULWJc@B_CBwELuC@EBcABkGF}ADqAA{BD",
+            "resource_state": 3
+      },
+      "effort_count": 2879,
+      "athlete_count": 510,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:07",
+            "qom": "2:26",
+            "destination": {
+                  "href": "strava://segments/9772165/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 33606320,
+            "title": "Jack Ruppert",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/33606320/9985826/3/large.jpg",
+            "effort_description": "20 efforts in the last 90 days",
+            "effort_count": "20",
+            "effort_counts": {
+                  "overall": "20 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9772165/local_legend?categories%5B%5D=overall"
+      }
 }

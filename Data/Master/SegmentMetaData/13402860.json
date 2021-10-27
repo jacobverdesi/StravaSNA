@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13402860,
+      "resource_state": 3,
+      "name": "* DUBLIN SPEEDWAY *",
+      "activity_type": "Ride",
+      "distance": 903.7,
+      "average_grade": -1.8,
+      "maximum_grade": 1.4,
+      "elevation_high": 170.6,
+      "elevation_low": 153.7,
+      "start_latlng": [
+            43.151835,
+            -77.42597
+      ],
+      "end_latlng": [
+            43.143692,
+            -77.426251
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WV4OJVY62XC3T5RKNKLBSCRFXRBAVLLGNBJYTAHJN5WJFKITDRCRZYPETTUFFMIABNFAD24XHJZUXBXCK6R62===",
+      "start_latitude": 43.151835,
+      "start_longitude": -77.42597,
+      "end_latitude": 43.143692,
+      "end_longitude": -77.426251,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-09T18:14:08Z",
+      "updated_at": "2021-05-20T08:04:01Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s13402860",
+            "polyline": "}akfGjgqwMra@^rFL|CBfB?LD",
+            "resource_state": 3
+      },
+      "effort_count": 5406,
+      "athlete_count": 509,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "59s",
+            "qom": "1:13",
+            "destination": {
+                  "href": "strava://segments/13402860/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 82719231,
+            "title": "Peter Pincus",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "20 efforts in the last 90 days",
+            "effort_count": "20",
+            "effort_counts": {
+                  "overall": "20 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/13402860/local_legend?categories%5B%5D=overall"
+      }
 }

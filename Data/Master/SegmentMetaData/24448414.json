@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24448414,
+      "resource_state": 3,
+      "name": "Clover to Blossom downhill",
+      "activity_type": "Ride",
+      "distance": 540.7,
+      "average_grade": -2.1,
+      "maximum_grade": 0.6,
+      "elevation_high": 140.3,
+      "elevation_low": 128.5,
+      "start_latlng": [
+            43.144325,
+            -77.537013
+      ],
+      "end_latlng": [
+            43.148934,
+            -77.535161
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FILFZ6MVVBF4B6H27GKAS4XEODNSFZ7RGXDH6DK6XL2YVVZUVO64MUH4MGM6XOAOMUSEQ7T7KK2PHH5ZKIRA====",
+      "start_latitude": 43.144325,
+      "start_longitude": -77.537013,
+      "end_latitude": 43.148934,
+      "end_longitude": -77.535161,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-06-12T20:55:32Z",
+      "updated_at": "2021-05-15T02:24:50Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s24448414",
+            "polyline": "_sifGj}fxMiAm@qAi@yDkBm@]y@_@g@MaA[y@e@_@Io@GgFM",
+            "resource_state": 3
+      },
+      "effort_count": 927,
+      "athlete_count": 310,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "39s",
+            "qom": "52s",
+            "destination": {
+                  "href": "strava://segments/24448414/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23776293,
+            "title": "Bill Beyerbach",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/23776293/16685850/1/large.jpg",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/24448414/local_legend?categories%5B%5D=overall"
+      }
 }

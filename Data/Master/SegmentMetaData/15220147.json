@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15220147,
+      "resource_state": 3,
+      "name": "Oh Brooks",
+      "activity_type": "Ride",
+      "distance": 2587.4,
+      "average_grade": 0.7,
+      "maximum_grade": 9.8,
+      "elevation_high": 188.0,
+      "elevation_low": 167.2,
+      "start_latlng": [
+            43.049489,
+            -77.660941
+      ],
+      "end_latlng": [
+            43.048845,
+            -77.692725
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/333L5S73CDI2MJN7QIA6GVW7HXUB2UVNUJSY3AI7KZSVL3L5JTSSW32DSWNUWYJ7D3I4YZVOXPHA43XQQC2A====",
+      "start_latitude": 43.049489,
+      "start_longitude": -77.660941,
+      "end_latitude": 43.048845,
+      "end_longitude": -77.692725,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-21T20:32:06Z",
+      "updated_at": "2021-05-17T08:07:00Z",
+      "total_elevation_gain": 51.4,
+      "map": {
+            "id": "s15220147",
+            "polyline": "gbweG|c_yMH`OLbPDbLFtEAdDFzHJpUAzDNzOHpPHbJJzYXpX?bC",
+            "resource_state": 3
+      },
+      "effort_count": 104,
+      "athlete_count": 47,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:39",
+            "qom": "6:34",
+            "destination": {
+                  "href": "strava://segments/15220147/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5031574,
+            "title": "Jeff Parrish",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5031574/2928002/2/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/15220147/local_legend?categories%5B%5D=overall"
+      }
 }

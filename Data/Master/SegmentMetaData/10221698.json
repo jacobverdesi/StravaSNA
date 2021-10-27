@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10221698,
+      "resource_state": 3,
+      "name": "Powder Horn Climb",
+      "activity_type": "Ride",
+      "distance": 552.3,
+      "average_grade": 3.1,
+      "maximum_grade": 1488.3,
+      "elevation_high": 150.0,
+      "elevation_low": 133.0,
+      "start_latlng": [
+            43.040026,
+            -77.479292
+      ],
+      "end_latlng": [
+            43.037556,
+            -77.484779
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HKTM5O2JOOL2YRMFPIY55Q3R5FJKB7NEUGGJYDNHEXBOYW5PZ5KHPB2ZS5NMBBPS7V3SIRLU7UZDZVZYK46LO===",
+      "start_latitude": 43.040026,
+      "start_longitude": -77.479292,
+      "end_latitude": 43.037556,
+      "end_longitude": -77.484779,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-08-14T23:39:56Z",
+      "updated_at": "2021-05-15T02:16:52Z",
+      "total_elevation_gain": 17.0,
+      "map": {
+            "id": "s10221698",
+            "polyline": "cgueGrt{wM`C|L`@xAr@jBHLXXh@^p@j@h@p@T`@B@JC?CBHEVBXN`@r@bD",
+            "resource_state": 3
+      },
+      "effort_count": 7213,
+      "athlete_count": 877,
+      "star_count": 11,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "41s",
+            "qom": "1:01",
+            "destination": {
+                  "href": "strava://segments/10221698/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3299172,
+            "title": "Matthew McNamara",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3299172/1069972/3/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/10221698/local_legend?categories%5B%5D=overall"
+      }
 }

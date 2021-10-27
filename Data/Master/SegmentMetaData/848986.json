@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 848986,
+      "resource_state": 3,
+      "name": "Steele Rd. Climb",
+      "activity_type": "Ride",
+      "distance": 823.941,
+      "average_grade": 5.6,
+      "maximum_grade": 11.9,
+      "elevation_high": 278.3,
+      "elevation_low": 230.3,
+      "start_latlng": [
+            43.041797716666665,
+            -77.43174518333333
+      ],
+      "end_latlng": [
+            43.04180295,
+            -77.4220805
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XFRWZLQ5E77MT5YFCYWBCVC5BSK5TFU5S2YIZTYDJPQJ7DUWCUULIIODCQQOPCPAXBX6KXNOS5YKAWWU57MA====",
+      "start_latitude": 43.041797716666665,
+      "start_longitude": -77.43174518333333,
+      "end_latitude": 43.04180295,
+      "end_longitude": -77.4220805,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2011-12-05T13:52:44Z",
+      "updated_at": "2021-05-19T08:01:57Z",
+      "total_elevation_gain": 48.0082,
+      "map": {
+            "id": "s848986",
+            "polyline": "erueGlkrwMHq@L{AHqCh@cENk@J]Nm@PeARi@JiA@eAOy@M}@Ei@Y{@I_@O{CI[Iu@_@qBEW?_@YsBVuBQcBGmA",
+            "resource_state": 3
+      },
+      "effort_count": 3357,
+      "athlete_count": 362,
+      "star_count": 27,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:34",
+            "qom": "2:37",
+            "destination": {
+                  "href": "strava://segments/848986/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2054323,
+            "title": "Art Weinstein",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2054323/687738/1/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/848986/local_legend?categories%5B%5D=overall"
+      }
 }

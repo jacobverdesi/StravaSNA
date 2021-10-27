@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20424128,
+      "resource_state": 3,
+      "name": "East Ave - Allen's Creek to Fisher",
+      "activity_type": "Ride",
+      "distance": 1328.4,
+      "average_grade": 0.6,
+      "maximum_grade": 5.0,
+      "elevation_high": 128.8,
+      "elevation_low": 118.2,
+      "start_latlng": [
+            43.126658,
+            -77.527642
+      ],
+      "end_latlng": [
+            43.117375,
+            -77.517411
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/76HKWHQCXGVJ7ZHXXA7SHWSG4UMOK42WKIHTV6OUCIPLSS22ZARDKLZIXBX65RP7HDCIIPP6FQ6GWPPR66RA====",
+      "start_latitude": 43.126658,
+      "start_longitude": -77.527642,
+      "end_latitude": 43.117375,
+      "end_longitude": -77.517411,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-04-26T12:22:08Z",
+      "updated_at": "2021-05-15T08:05:46Z",
+      "total_elevation_gain": 10.6,
+      "map": {
+            "id": "s20424128",
+            "polyline": "qdffGxbexMbA}@nCuBfCgCnAyAtHwJrHaJbB}B|AaClE_GfAkA~@}@rDmD|AuA",
+            "resource_state": 3
+      },
+      "effort_count": 8051,
+      "athlete_count": 863,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:56",
+            "qom": "1:15",
+            "destination": {
+                  "href": "strava://segments/20424128/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "27 efforts in the last 90 days",
+            "effort_count": "27",
+            "effort_counts": {
+                  "overall": "27 efforts",
+                  "female": "27 efforts"
+            },
+            "destination": "strava://segments/20424128/local_legend?categories%5B%5D=overall"
+      }
 }

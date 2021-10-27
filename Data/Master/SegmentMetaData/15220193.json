@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15220193,
+      "resource_state": 3,
+      "name": "U Brooks",
+      "activity_type": "Ride",
+      "distance": 567.0,
+      "average_grade": 0.4,
+      "maximum_grade": 9.8,
+      "elevation_high": 184.6,
+      "elevation_low": 170.6,
+      "start_latlng": [
+            43.049302,
+            -77.670257
+      ],
+      "end_latlng": [
+            43.049195,
+            -77.6772
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GSGMG4XGQKN6W7VBDZCYCOEMTX7MT3HRBDYFKDNA665ZJLPIQDWC7EXYW2KXS2VXE4HQHH4BXYYZ3APTOL3RQ===",
+      "start_latitude": 43.049302,
+      "start_longitude": -77.670257,
+      "end_latitude": 43.049195,
+      "end_longitude": -77.6772,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-21T20:36:03Z",
+      "updated_at": "2021-05-15T08:04:56Z",
+      "total_elevation_gain": 14.0,
+      "map": {
+            "id": "s15220193",
+            "polyline": "caweGb~`yMFzHJpUC|CD~D",
+            "resource_state": 3
+      },
+      "effort_count": 126,
+      "athlete_count": 55,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "58s",
+            "qom": "1:16",
+            "destination": {
+                  "href": "strava://segments/15220193/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5031574,
+            "title": "Jeff Parrish",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5031574/2928002/2/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/15220193/local_legend?categories%5B%5D=overall"
+      }
 }

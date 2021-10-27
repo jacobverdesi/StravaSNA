@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4200939,
+      "resource_state": 3,
+      "name": "WIND TUNNEL Kreag to Ayrault",
+      "activity_type": "Ride",
+      "distance": 1372.2,
+      "average_grade": -1.9,
+      "maximum_grade": 16.7,
+      "elevation_high": 155.5,
+      "elevation_low": 129.3,
+      "start_latlng": [
+            43.073953,
+            -77.461175
+      ],
+      "end_latlng": [
+            43.077658,
+            -77.477237
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YWIAOOL6KZQFNNTOVUZCW7BHAHTY3L34D6D6ZIU7K3BXD4EC6IMECLNDZHEOHGKBYYAVHJ35DA3HSX42HETUM===",
+      "start_latitude": 43.073953,
+      "start_longitude": -77.461175,
+      "end_latitude": 43.077658,
+      "end_longitude": -77.477237,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-25T01:12:13Z",
+      "updated_at": "2021-05-19T08:02:22Z",
+      "total_elevation_gain": 7.3,
+      "map": {
+            "id": "s4200939",
+            "polyline": "e{{eGjcxwMEV?Pc@`CQnAa@`B]pCEf@A|@UjAY`BCZGPG`@yIdo@aEpX",
+            "resource_state": 3
+      },
+      "effort_count": 1130,
+      "athlete_count": 383,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:28",
+            "qom": "1:42",
+            "destination": {
+                  "href": "strava://segments/4200939/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 821755,
+            "title": "Chauncey Joyce",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/821755/452025/7/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4200939/local_legend?categories%5B%5D=overall"
+      }
 }

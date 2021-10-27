@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2197254,
+      "resource_state": 3,
+      "name": "canal path - pittsford to wayneport rd",
+      "activity_type": "Ride",
+      "distance": 17821.8,
+      "average_grade": 0.1,
+      "maximum_grade": 2.5,
+      "elevation_high": 133.0,
+      "elevation_low": 118.0,
+      "start_latlng": [
+            43.08885340578854,
+            -77.51039857976139
+      ],
+      "end_latlng": [
+            43.07585718110204,
+            -77.36237986944616
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5O6BJUFQM5ZG6S5KT2HGORBEZGC3NIT5MCKOQK5BNCEEXV4BTT4ICU6NH3ZYJSFQJK3R7O5QWK5QMEKUCXHA====",
+      "start_latitude": 43.08885340578854,
+      "start_longitude": -77.51039857976139,
+      "end_latitude": 43.07585718110204,
+      "end_longitude": -77.36237986944616,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-08-22T22:42:26Z",
+      "updated_at": "2021-05-19T08:02:09Z",
+      "total_elevation_gain": 17.0,
+      "map": {
+            "id": "s2197254",
+            "polyline": "ix~eG~vaxMb@QrAaAnEoDbAs@JMlA{@`CiBh@o@f@]vAw@lBwALG|CaChBsAbA_A~@gAdBqCz@gBp@cAd@i@hA{AfA_Bl@iA`IcNj@cBj@y@ZU`A{AxBeEb@k@xAcCzA}Bz@eBj@}@rA_CtC_Et@g@zDuB~@o@fAi@hK{Gz@q@pBiAbIkFzHaFv@m@~AaBfAaBn@{Al@_BjC}FhCkHLg@Hu@PwBNaDDaHJaCCkFSoBOoCk@_EEi@CuAMoA]aBWaAoAeDa@o@k@o@Q}@IOGWe@s@aBiAmAcAkC}AoD{BsAy@uBkAeAq@aCgBaAm@oGkEkCcBeEwCwBqAcA{@aAs@eAo@{@UOKs@y@mAq@qEaDsDyBuB}AsA}@mAo@aBmAsA{@kC{@a@Iy@W_C]}COeDUkAOyAa@iBq@gAm@g@a@kCgCeAwAmBqB[Ys@i@uDmBsBy@[IiAM{AE_B@gAGwEAyAG_A@aAIQDkA?m@CuD@aBDaEAmBEYEaBFmAJyCd@k@DgDn@aAZm@Bk@Fo@Gy@DYb@M\\WNIJKFe@Ck@K_Ai@Wc@Ma@W[s@m@IOQs@Q]m@m@g@m@USm@aAMMa@m@e@sAgAkEw@gEQy@Iy@q@gE]eB[mDE{B@sCHyBBKDq@PeA\\sAh@uAhAcCj@cAvAwBf@}@j@sADG\\OFEnAiBDATe@DQFF?E\\c@Zk@\\gB`@{AP{@|AwFPu@d@aAxCwJp@_BdA}BnHkM^u@x@mAnA}Bd@kAjAcC~CmFv@{A`HcP|EqKvBgFx@uBn@aCj@}C@Yf@iGPaHDwGLoHBmEFgCCiCDwDAyAHkGf@cGh@yCz@eDtBoHdBqF`CqIRw@pCwI|@gDPaA~Lsb@vAgFNu@bA_DjCyIZoAvBcHh@uBlDwLj@wB`FaQlEeOzBeH|@oDfAkDxFqSnA_EJg@HeBBQz@wB^iAToA^}B@U?m@OeBAUBaCIoD?oBQiCe@oFQuEk@uD",
+            "resource_state": 3
+      },
+      "effort_count": 884,
+      "athlete_count": 673,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "31:27",
+            "qom": "35:02",
+            "destination": {
+                  "href": "strava://segments/2197254/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/2197254/local_legend?categories%5B%5D=overall"
+      }
 }

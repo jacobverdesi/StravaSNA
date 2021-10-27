@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14909931,
+      "resource_state": 3,
+      "name": "To the Landing",
+      "activity_type": "Ride",
+      "distance": 1092.5,
+      "average_grade": -0.5,
+      "maximum_grade": 4.5,
+      "elevation_high": 133.4,
+      "elevation_low": 123.8,
+      "start_latlng": [
+            43.149279,
+            -77.542696
+      ],
+      "end_latlng": [
+            43.149434,
+            -77.529328
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VOXV7GTPFJML2VZPHY5EITH54REQSM34HF5D2NPDHDF4CSBNX4AJD6TUUPXJIV7SJL4VFWMWJQZ4YOOFYRFQ====",
+      "start_latitude": 43.149279,
+      "start_longitude": -77.542696,
+      "end_latitude": 43.149434,
+      "end_longitude": -77.529328,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-05-18T10:57:21Z",
+      "updated_at": "2021-05-15T02:19:22Z",
+      "total_elevation_gain": 6.1,
+      "map": {
+            "id": "s14909931",
+            "polyline": "}qjfGz`hxMF}GBQCoA?_CA}@FiDEy@BuCAyBH}FE}@DaCKeEB}@Ay@S}D@SA{BQmHCgE",
+            "resource_state": 3
+      },
+      "effort_count": 2546,
+      "athlete_count": 496,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:25",
+            "qom": "1:30",
+            "destination": {
+                  "href": "strava://segments/14909931/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 44854743,
+            "title": "Matthew Quinlan",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/44854743/17385927/1/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/14909931/local_legend?categories%5B%5D=overall"
+      }
 }

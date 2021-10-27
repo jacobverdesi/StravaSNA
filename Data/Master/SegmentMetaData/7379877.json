@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7379877,
+      "resource_state": 3,
+      "name": "* LYONS WESTERN PEAK *",
+      "activity_type": "Ride",
+      "distance": 487.4,
+      "average_grade": 2.1,
+      "maximum_grade": 10.3,
+      "elevation_high": 197.0,
+      "elevation_low": 187.0,
+      "start_latlng": [
+            43.00286,
+            -77.611812
+      ],
+      "end_latlng": [
+            43.002821,
+            -77.617746
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UJKFTUBSY4YOZ7DBUWSHG4JPQOTUZQQK3UXVGAYXE6K5WRAS7F2D6U2AJ7XO6Q76QB7EHLJGMYI74BBINYFAU===",
+      "start_latitude": 43.00286,
+      "start_longitude": -77.611812,
+      "end_latitude": 43.002821,
+      "end_longitude": -77.617746,
+      "climb_category": 0,
+      "city": "Rush",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-07T19:55:43Z",
+      "updated_at": "2021-05-15T02:15:09Z",
+      "total_elevation_gain": 10.0,
+      "map": {
+            "id": "s7379877",
+            "polyline": "{~meGzpuxMAlEBlN@j@?pF@p@@tC",
+            "resource_state": 3
+      },
+      "effort_count": 6047,
+      "athlete_count": 629,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "36s",
+            "qom": "47s",
+            "destination": {
+                  "href": "strava://segments/7379877/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 81303762,
+            "title": "Allan stern",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81303762/19605661/1/large.jpg",
+            "effort_description": "13 efforts in the last 90 days",
+            "effort_count": "13",
+            "effort_counts": {
+                  "overall": "13 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/7379877/local_legend?categories%5B%5D=overall"
+      }
 }

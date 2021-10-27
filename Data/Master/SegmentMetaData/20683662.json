@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20683662,
+      "resource_state": 3,
+      "name": "Roaring Lyon uphill only",
+      "activity_type": "Ride",
+      "distance": 403.1,
+      "average_grade": 3.8,
+      "maximum_grade": 6.6,
+      "elevation_high": 200.7,
+      "elevation_low": 185.0,
+      "start_latlng": [
+            43.002703,
+            -77.622585
+      ],
+      "end_latlng": [
+            43.002801,
+            -77.617645
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EOSDTJ3PPQWTOPTYDCXGVB6TTI2CXOGW4EGFG4CTXE4SIOAE3T5YFOESODKJ6AVYIT2PXPYCUAN42QKLHX3A====",
+      "start_latitude": 43.002703,
+      "start_longitude": -77.622585,
+      "end_latitude": 43.002801,
+      "end_longitude": -77.617645,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-05-25T00:56:20Z",
+      "updated_at": "2021-05-15T02:23:12Z",
+      "total_elevation_gain": 15.7,
+      "map": {
+            "id": "s20683662",
+            "polyline": "{}meGdtwxMIgJAqLGaE",
+            "resource_state": 3
+      },
+      "effort_count": 2149,
+      "athlete_count": 410,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "34s",
+            "qom": "1:00",
+            "destination": {
+                  "href": "strava://segments/20683662/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 49526160,
+            "title": "Kash Midhra",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/20683662/local_legend?categories%5B%5D=overall"
+      }
 }

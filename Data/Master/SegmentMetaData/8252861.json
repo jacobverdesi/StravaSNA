@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8252861,
+      "resource_state": 3,
+      "name": "canal path:31 to marsh road",
+      "activity_type": "Ride",
+      "distance": 4235.9,
+      "average_grade": 0.0,
+      "maximum_grade": 11.5,
+      "elevation_high": 168.6,
+      "elevation_low": 164.4,
+      "start_latlng": [
+            43.089897,
+            -77.51114
+      ],
+      "end_latlng": [
+            43.062813,
+            -77.477687
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2M43AKDPC463YKKRNCYETVHIBW27Z6YJHJH6Q527QIGUUKIC76BDPE2IOTQIAT5J5OGU5I2DPGZJZIE4XDKA====",
+      "start_latitude": 43.089897,
+      "start_longitude": -77.51114,
+      "end_latitude": 43.062813,
+      "end_longitude": -77.477687,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-09-30T22:25:47Z",
+      "updated_at": "2021-05-20T08:03:10Z",
+      "total_elevation_gain": 4.2,
+      "map": {
+            "id": "s8252861",
+            "polyline": "y~~eGr{axMDCb@Ez@c@XCl@]bAcApC}BnJ{GjCiCZU^OhAs@bJyGrAwA|AsBvCcFrAkB`BqB~@}At@gBnE{HlA_Cn@_BlAqAjFuItGiLtCgEjAuAjBmAlBaAdMeI|@q@rYuQ`BoAX[tAiB^q@jAaDtAgDl@qAtBkGr@gCXuCHoDCyCJwHAgB",
+            "resource_state": 3
+      },
+      "effort_count": 16056,
+      "athlete_count": 4475,
+      "star_count": 21,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "6:39",
+            "qom": "7:52",
+            "destination": {
+                  "href": "strava://segments/8252861/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "45 efforts in the last 90 days",
+            "effort_count": "45",
+            "effort_counts": {
+                  "overall": "45 efforts",
+                  "female": "13 efforts"
+            },
+            "destination": "strava://segments/8252861/local_legend?categories%5B%5D=overall"
+      }
 }

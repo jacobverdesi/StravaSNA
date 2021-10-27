@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8023638,
+      "resource_state": 3,
+      "name": "Garnsey DH",
+      "activity_type": "Ride",
+      "distance": 1407.0,
+      "average_grade": -4.8,
+      "maximum_grade": 4.2,
+      "elevation_high": 217.2,
+      "elevation_low": 141.6,
+      "start_latlng": [
+            43.05506,
+            -77.452491
+      ],
+      "end_latlng": [
+            43.052441,
+            -77.469021
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6TV6QMEQOYZYSCHEAOU2SAI47RJDEDDLBCKCSTI6WQM53FZA4R2JITN3L423UTONIZLR3MVVNAV54VP62RGQ====",
+      "start_latitude": 43.05506,
+      "start_longitude": -77.452491,
+      "end_latitude": 43.052441,
+      "end_longitude": -77.469021,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-08-30T21:07:21Z",
+      "updated_at": "2021-05-18T08:03:43Z",
+      "total_elevation_gain": 8.0,
+      "map": {
+            "id": "s8023638",
+            "polyline": "cexeGbmvwMBpFDlAAnEDdIJlCNrBd@nDlAlFfApEhB~FPp@Lt@PhBBt@BhOFvCDl@Hp@TxA\\rAt@hB",
+            "resource_state": 3
+      },
+      "effort_count": 2348,
+      "athlete_count": 301,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:19",
+            "qom": "1:39",
+            "destination": {
+                  "href": "strava://segments/8023638/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8928420,
+            "title": "Kevin Gregory",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8928420/2704295/2/large.jpg",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8023638/local_legend?categories%5B%5D=overall"
+      }
 }

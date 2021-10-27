@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4107517,
+      "resource_state": 3,
+      "name": "Buffalo - Lyell (Westbound)",
+      "activity_type": "Ride",
+      "distance": 1696.3,
+      "average_grade": -0.1,
+      "maximum_grade": 16.9,
+      "elevation_high": 167.3,
+      "elevation_low": 157.2,
+      "start_latlng": [
+            43.150041,
+            -77.672086
+      ],
+      "end_latlng": [
+            43.164522,
+            -77.676952
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KOWA3AQBJ7VT2Q6DTG4IIDLI7BOF5IFBSBLYAF7NLJSI5LRBXR73AKDKADSENJEAQH3V2WJDGBHVQR6UEOWZK===",
+      "start_latitude": 43.150041,
+      "start_longitude": -77.672086,
+      "end_latitude": 43.164522,
+      "end_longitude": -77.676952,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-14T18:13:35Z",
+      "updated_at": "2021-05-20T08:02:31Z",
+      "total_elevation_gain": 33.3,
+      "map": {
+            "id": "s4107517",
+            "polyline": "wvjfGpiayMQBUAg@Sm@E_AP{An@OBSAMFO@c@HQ?a@H}@T_@DOJc@NM@UJS@{@X]BQJaAT_@DKHMFs@LMHo@JQ@SLg@F[PKBKJs@POCO@OHQAOD[LOAo@DQHQBSNc@J{@BMFs@JYZGNKJ[Li@EYBy@L[HMEiAN[JMLo@RK?]N[H]LK@_@Hw@TMCK@MJ_@DKDOAm@R[Fk@N[LOJi@NOJM@wBh@cAf@S?_@\\SFILIFI?KFSVODKHMAKEUF",
+            "resource_state": 3
+      },
+      "effort_count": 9431,
+      "athlete_count": 2103,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:23",
+            "qom": "2:52",
+            "destination": {
+                  "href": "strava://segments/4107517/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2055069,
+            "title": "Brad Paul",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2055069/20073863/1/large.jpg",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/4107517/local_legend?categories%5B%5D=overall"
+      }
 }

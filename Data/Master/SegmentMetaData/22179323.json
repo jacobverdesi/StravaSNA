@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 22179323,
+      "resource_state": 3,
+      "name": "Westfall Elmwood Connector (NB)",
+      "activity_type": "Ride",
+      "distance": 1512.5,
+      "average_grade": 0.1,
+      "maximum_grade": 4.3,
+      "elevation_high": 158.5,
+      "elevation_low": 155.6,
+      "start_latlng": [
+            43.115501,
+            -77.60346
+      ],
+      "end_latlng": [
+            43.125033,
+            -77.603732
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CI4YJUHWMDYL2MWEDTSECZOR3FIWSPLOA4QTODFWCHBBH54DORDU22FWRCHAWF725IQRHA2RDVQTGFSK2VC6S===",
+      "start_latitude": 43.115501,
+      "start_longitude": -77.60346,
+      "end_latitude": 43.125033,
+      "end_longitude": -77.603732,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-10-30T14:46:21Z",
+      "updated_at": "2021-05-18T08:05:48Z",
+      "total_elevation_gain": 4.9,
+      "map": {
+            "id": "s22179323",
+            "polyline": "{~cfGr|sxMaAa@sCsAsFyBiGyC_@Mq@C[Fq@@UFKDQVK^@PTbAFj@Dp@An@G^Wp@?l@BN@\\MVKLQDkBQQMW]w@w@EAI?CHHtAEzBDvDCTCHG?EAu@YuCuA{B{@kAm@qEmBgAk@",
+            "resource_state": 3
+      },
+      "effort_count": 494,
+      "athlete_count": 149,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:44",
+            "qom": "3:19",
+            "destination": {
+                  "href": "strava://segments/22179323/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 33393913,
+            "title": "David K\u00e4ppynen",
+            "profile": "https://graph.facebook.com/10113187676212974/picture?height=256&width=256",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/22179323/local_legend?categories%5B%5D=overall"
+      }
 }

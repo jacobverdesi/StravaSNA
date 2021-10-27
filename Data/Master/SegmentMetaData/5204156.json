@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5204156,
+      "resource_state": 3,
+      "name": "Old Post-Towpath S-Clarkes Crossing to top.",
+      "activity_type": "Ride",
+      "distance": 762.4,
+      "average_grade": 4.3,
+      "maximum_grade": 11.6,
+      "elevation_high": 175.8,
+      "elevation_low": 142.7,
+      "start_latlng": [
+            43.081322,
+            -77.458097
+      ],
+      "end_latlng": [
+            43.085319,
+            -77.452446
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XDXAQKDS4NVR2C7T3W4BL3TFS7R2HJ3CYPHCDOSQP7KR4KBSXYJQ3IZFYQQDH3SHQ3HZU5UPTIGL23SCS4QLW===",
+      "start_latitude": 43.081322,
+      "start_longitude": -77.458097,
+      "end_latitude": 43.085319,
+      "end_longitude": -77.452446,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-08-20T23:50:57Z",
+      "updated_at": "2021-05-15T02:13:50Z",
+      "total_elevation_gain": 33.1,
+      "map": {
+            "id": "s5204156",
+            "polyline": "gi}eGbpwwM_@Ci@w@?qAC_@Qg@S[e@_@aAm@aDyAEE]eAL_A?g@GaAKc@Uc@Ya@yJ}KFHLB\\^",
+            "resource_state": 3
+      },
+      "effort_count": 20,
+      "athlete_count": 5,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:33",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/5204156/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

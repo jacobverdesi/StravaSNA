@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15044024,
+      "resource_state": 3,
+      "name": "Arrowhead 2017 MTB Lap",
+      "activity_type": "Ride",
+      "distance": 3966.8,
+      "average_grade": 0.0,
+      "maximum_grade": 34.0,
+      "elevation_high": 156.7,
+      "elevation_low": 127.4,
+      "start_latlng": [
+            43.043545,
+            -77.485763
+      ],
+      "end_latlng": [
+            43.043518,
+            -77.485833
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HEFZSSLK5YW6YVPQK4EHR7B2VGSVKFYWK3O4P2MVOR5MDGU5XJHNEVXPAZLGYXMF7KF5JPM5JLBPDMEXADW5I===",
+      "start_latitude": 43.043545,
+      "start_longitude": -77.485763,
+      "end_latitude": 43.043518,
+      "end_longitude": -77.485833,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-02T02:53:44Z",
+      "updated_at": "2021-05-20T08:04:15Z",
+      "total_elevation_gain": 70.0,
+      "map": {
+            "id": "s15044024",
+            "polyline": "c}ueG`}|wMW`@SHIAYWGKAKBMRg@H]D_@?OAOQk@M]Yg@@MJYDKLON[BK?SIQIc@QIIFOGGGISM?[\\_@Va@\\WHU?QHKFILEL@PJP@RRPO^QVSp@DJNBLJJ\\@RCRM\\KFUQYDi@COB_@TYJw@NKA_@q@ICIIMCKPKr@M^OBQSESJcB?MG]BgAAa@DkALe@f@a@HEv@OPI~@}AXSNBRJ^ERFP@NJRh@HJRJH?JCr@}AJQNFFFHVFDd@RPBDKT}ARs@FMFGNCFFR`@Nj@Td@DZ?|BGXSb@GZEz@BXPZDn@LTf@p@^`@^VH?NEJMDOAOEYUKAOP]CiABm@Ma@QcAEk@@]J}@Jg@@]EgAIUKEMMc@cAEQF[K_@ICe@NICGMC[PUDOIGIBGHEIJ[S@KFQ`@Cs@OOAKKDQRQ?IAEGCOZ_@FKK@IFO\\KFIIAKBi@Lg@RQTI\\SdAQN@b@Q`@GTI^@HGd@@XLRd@Az@Mh@AlB?p@L`A?THb@@JAJMTE\\Bt@BJFN?nADRGx@JlACbAFjAALEHa@^OROd@?`@BJLBr@APCZTVZNd@CLGJM@OHGHAV@\\KFAf@I^KJID[EMFMCk@[EIQE]S[KIIIQCQREt@VNJx@~@LDHONe@R_@Ti@DWGWGGy@]kA[c@Sc@OG@KNCXK^",
+            "resource_state": 3
+      },
+      "effort_count": 1583,
+      "athlete_count": 104,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "9:23",
+            "qom": "11:53",
+            "destination": {
+                  "href": "strava://segments/15044024/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

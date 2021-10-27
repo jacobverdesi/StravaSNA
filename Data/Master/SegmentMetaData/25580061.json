@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25580061,
+      "resource_state": 3,
+      "name": "East River Rd EB (Golf Course to GVP)",
+      "activity_type": "Ride",
+      "distance": 731.2,
+      "average_grade": 0.7,
+      "maximum_grade": 4.5,
+      "elevation_high": 164.1,
+      "elevation_low": 156.2,
+      "start_latlng": [
+            43.113527,
+            -77.648142
+      ],
+      "end_latlng": [
+            43.113922,
+            -77.639197
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HO3JMOF5C5MXLL5MWMAM24J6H33TT7LWODE666WKSLZTRVBQSDVXGYMT67BQDXKXD5BPDUMQQDZSKDGOKMKBU===",
+      "start_latitude": 43.113527,
+      "start_longitude": -77.648142,
+      "end_latitude": 43.113922,
+      "end_longitude": -77.639197,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-09-03T22:39:38Z",
+      "updated_at": "2021-05-18T08:06:09Z",
+      "total_elevation_gain": 7.9,
+      "map": {
+            "id": "s25580061",
+            "polyline": "orcfG|s|xMC]?qAGaDGiB?aBIcGQuLCa@IqHEoA@KA{@E}AE[",
+            "resource_state": 3
+      },
+      "effort_count": 4138,
+      "athlete_count": 842,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "44s",
+            "qom": "1:00",
+            "destination": {
+                  "href": "strava://segments/25580061/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/25580061/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3862243,
+      "resource_state": 3,
+      "name": "Mendon Center to Traffic Circle Sprint",
+      "activity_type": "Ride",
+      "distance": 9978.31,
+      "average_grade": 0.2,
+      "maximum_grade": 7.7,
+      "elevation_high": 223.4,
+      "elevation_low": 182.1,
+      "start_latlng": [
+            43.0671194,
+            -77.5293316
+      ],
+      "end_latlng": [
+            42.9906324,
+            -77.5764678
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PGRK3564YIDIIZZL7VI2KL4NKH4SEKZH3YVJ42EBCJYAKKSSM6PRSZ3EIFXDX3Z3TDCD3AMCWQ6FNZHEBJB4S===",
+      "start_latitude": 43.0671194,
+      "start_longitude": -77.5293316,
+      "end_latitude": 42.9906324,
+      "end_longitude": -77.5764678,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-17T23:29:01Z",
+      "updated_at": "2021-05-15T02:13:01Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s3862243",
+            "polyline": "mpzeGjmexMpATjBl@bVzIdOnFnBp@`AR`AN`KnAzHrAhCf@hC|@lDjBlKxGfNtHlT|LbClAzD~@jLfCbBLxBKfAMxLo@`BE|ALdBn@vFdC~BhAbAz@dB`B|A~@bBd@~B`@tNjBfBh@pJ~DfG~ClA`A`ArAzChFzCtElBnCxA`Bh@ZtCt@rC`@zCXdEf@`VbDfInAlE^fCb@zIjBdJfB`NvCzb@bJpAdAjDbGjNxUx@hAtBjCtJrLrEzF~AbCdAfCl@hCv@vDt@dEX|BHnBDfCPlSH`D",
+            "resource_state": 3
+      },
+      "effort_count": 200,
+      "athlete_count": 98,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "16:35",
+            "qom": "17:19",
+            "destination": {
+                  "href": "strava://segments/3862243/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1336411,
+            "title": "Devin Brown",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1336411/3059347/7/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/3862243/local_legend?categories%5B%5D=overall"
+      }
 }

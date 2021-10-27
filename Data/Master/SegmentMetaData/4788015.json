@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4788015,
+      "resource_state": 3,
+      "name": "Haley's Hill",
+      "activity_type": "Ride",
+      "distance": 195.9,
+      "average_grade": 2.6,
+      "maximum_grade": 8.4,
+      "elevation_high": 132.4,
+      "elevation_low": 126.7,
+      "start_latlng": [
+            43.109429,
+            -77.491005
+      ],
+      "end_latlng": [
+            43.108705,
+            -77.488894
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4VXJO45422IMV6JIX2OJTNQJQFFNLEDHA27UVLSBEE7UXS45SYIAWHSUKB4WGIU5NLZVYW6V6A2KFHX7TGJDW===",
+      "start_latitude": 43.109429,
+      "start_longitude": -77.491005,
+      "end_latitude": 43.108705,
+      "end_longitude": -77.488894,
+      "climb_category": 0,
+      "city": "East Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-19T13:25:42Z",
+      "updated_at": "2021-05-17T08:04:32Z",
+      "total_elevation_gain": 5.7,
+      "map": {
+            "id": "s4788015",
+            "polyline": "{xbfGx}}wMDU\\k@\\oATSLY?k@VqAPgB",
+            "resource_state": 3
+      },
+      "effort_count": 445,
+      "athlete_count": 91,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "15s",
+            "qom": "24s",
+            "destination": {
+                  "href": "strava://segments/4788015/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 187571,
+            "title": "Aaron DiNoto",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/187571/17551433/1/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4788015/local_legend?categories%5B%5D=overall"
+      }
 }

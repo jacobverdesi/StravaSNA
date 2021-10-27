@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15381750,
+      "resource_state": 3,
+      "name": "Dugway Down",
+      "activity_type": "Ride",
+      "distance": 866.1,
+      "average_grade": -5.0,
+      "maximum_grade": -2.0,
+      "elevation_high": 123.0,
+      "elevation_low": 79.5,
+      "start_latlng": [
+            43.147453,
+            -77.527459
+      ],
+      "end_latlng": [
+            43.147045,
+            -77.518099
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VCPADEEYRXUC2XQHRACLHC6ZPETUA6VDY562U4BOEXLZWRH7PDOPGRKSIF3MXZMJEACKFJV55XZI64MHWN5ZI===",
+      "start_latitude": 43.147453,
+      "start_longitude": -77.527459,
+      "end_latitude": 43.147045,
+      "end_longitude": -77.518099,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-07-09T23:21:57Z",
+      "updated_at": "2021-05-17T08:07:03Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s15381750",
+            "polyline": "qfjfGraexMOw@y@{Cq@aDf@}CzB{Db@eCjAgBbAeBDyAYkICuDcAgCm@gA",
+            "resource_state": 3
+      },
+      "effort_count": 2964,
+      "athlete_count": 310,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "48s",
+            "qom": "1:01",
+            "destination": {
+                  "href": "strava://segments/15381750/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23776293,
+            "title": "Bill Beyerbach",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/23776293/16685850/1/large.jpg",
+            "effort_description": "20 efforts in the last 90 days",
+            "effort_count": "20",
+            "effort_counts": {
+                  "overall": "20 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/15381750/local_legend?categories%5B%5D=overall"
+      }
 }

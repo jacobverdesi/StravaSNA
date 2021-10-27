@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26410520,
+      "resource_state": 3,
+      "name": "Brooks-Hill-Hulbert-to-Ayrault",
+      "activity_type": "Ride",
+      "distance": 1202.0,
+      "average_grade": 0.1,
+      "maximum_grade": 8.7,
+      "elevation_high": 170.2,
+      "elevation_low": 142.4,
+      "start_latlng": [
+            43.090324,
+            -77.442125
+      ],
+      "end_latlng": [
+            43.079504,
+            -77.442183
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JJFTFSEDXVHR5NWQN6236MOVYALXQXG4AK7E4JW6IRUMSFDREEV4SMIS2WK5QA6ZWQWACQUAGC3NAHH5PI3VS===",
+      "start_latitude": 43.090324,
+      "start_longitude": -77.442125,
+      "end_latitude": 43.079504,
+      "end_longitude": -77.442183,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-11-14T16:55:24Z",
+      "updated_at": "2021-05-17T08:09:09Z",
+      "total_elevation_gain": 27.8,
+      "map": {
+            "id": "s26410520",
+            "polyline": "oa_fGhltwMdQ@`BB`FAhDHbB?dC?rGIzKLfA?|AE",
+            "resource_state": 3
+      },
+      "effort_count": 730,
+      "athlete_count": 245,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:25",
+            "qom": "1:10",
+            "destination": {
+                  "href": "strava://segments/26410520/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16934800,
+            "title": "Gary Sacco",
+            "profile": "https://graph.facebook.com/10208278291612318/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/26410520/local_legend?categories%5B%5D=overall"
+      }
 }

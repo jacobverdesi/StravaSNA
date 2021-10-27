@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15676014,
+      "resource_state": 3,
+      "name": "Sprint into campus",
+      "activity_type": "Ride",
+      "distance": 645.0,
+      "average_grade": 0.1,
+      "maximum_grade": 1.4,
+      "elevation_high": 165.2,
+      "elevation_low": 162.1,
+      "start_latlng": [
+            43.118161,
+            -77.634038
+      ],
+      "end_latlng": [
+            43.123213,
+            -77.63016
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JJE6ZPXXJAIXJDOYTKD77ZJBPAHG35RBEVNSTHUKY6UJSUDFXVQ36UFYMAHWZIP2RD6NEIHYUOTH6JYBGTJBK===",
+      "start_latitude": 43.118161,
+      "start_longitude": -77.634038,
+      "end_latitude": 43.123213,
+      "end_longitude": -77.63016,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-08-08T22:24:49Z",
+      "updated_at": "2021-05-20T08:04:21Z",
+      "total_elevation_gain": 3.1,
+      "map": {
+            "id": "s15676014",
+            "polyline": "oodfGv{yxMwDaDKGcAw@iD_CmAu@{AiAuDgCMGa@]oDwB",
+            "resource_state": 3
+      },
+      "effort_count": 9697,
+      "athlete_count": 973,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "47s",
+            "qom": "1:05",
+            "destination": {
+                  "href": "strava://segments/15676014/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 65448119,
+            "title": "Harris Mawardi",
+            "profile": "https://lh6.googleusercontent.com/-sO2P_po-Ps8/AAAAAAAAAAI/AAAAAAAAABo/AMZuuckks_aJNetm8rCPuwZYWdStk7d7kQ/photo.jpg",
+            "effort_description": "29 efforts in the last 90 days",
+            "effort_count": "29",
+            "effort_counts": {
+                  "overall": "29 efforts",
+                  "female": "21 efforts"
+            },
+            "destination": "strava://segments/15676014/local_legend?categories%5B%5D=overall"
+      }
 }

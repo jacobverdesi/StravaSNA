@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15175005,
+      "resource_state": 3,
+      "name": "Edgewood to Monroe",
+      "activity_type": "Ride",
+      "distance": 3760.3,
+      "average_grade": -0.4,
+      "maximum_grade": 4.3,
+      "elevation_high": 151.5,
+      "elevation_low": 131.2,
+      "start_latlng": [
+            43.095884,
+            -77.567526
+      ],
+      "end_latlng": [
+            43.094107,
+            -77.524582
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IGD7RSS6J3TMJQ6PBM5ILIJ67JDCWRST2AVLZIGSPYORFGM7XM6YY2CELOVHFEF7HZRA3UKU3NC6TWKQFZWEI===",
+      "start_latitude": 43.095884,
+      "start_longitude": -77.567526,
+      "end_latitude": 43.094107,
+      "end_longitude": -77.524582,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-16T19:18:47Z",
+      "updated_at": "2021-05-20T08:04:16Z",
+      "total_elevation_gain": 6.7,
+      "map": {
+            "id": "s15175005",
+            "polyline": "gd`fG`|lxMPmANu@Ni@t@wB@Yb@wAn@cCXmBj@eB^wCJg@?UH}@PmA@W\\yCb@{ED_AZuC^eFVmBFqBNwA^mCHaACQFcAJo@BSAKHe@I@Bo@\\yANsAF{@Hk@HkBF]`@aF@cACsAK{BI}@@UI}@@k@Hk@f@eBf@aCrAaELi@Hi@?UZkD`@uABQFG@KAMKYGcAEcA@eAN{AVyDP{A?WRyBPeCLiA@q@Es@]sB^yABe@XsBJqDAeCKwEAmBGoBCeC@o@CcAQwDScBQ[o@c@]o@KG_@]c@k@IU]mAE]a@}AEW_@sA_@q@GSS]EUu@kBU][u@Wu@Ie@eAyCS]q@y@",
+            "resource_state": 3
+      },
+      "effort_count": 17645,
+      "athlete_count": 4162,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:53",
+            "qom": "6:42",
+            "destination": {
+                  "href": "strava://segments/15175005/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 61599015,
+            "title": "Christopher Cove",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "38 efforts in the last 90 days",
+            "effort_count": "38",
+            "effort_counts": {
+                  "overall": "38 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/15175005/local_legend?categories%5B%5D=overall"
+      }
 }

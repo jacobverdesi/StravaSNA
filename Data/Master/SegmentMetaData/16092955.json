@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16092955,
+      "resource_state": 3,
+      "name": "Crescent Climb & Flow",
+      "activity_type": "Ride",
+      "distance": 652.4,
+      "average_grade": 0.9,
+      "maximum_grade": 24.1,
+      "elevation_high": 252.2,
+      "elevation_low": 226.4,
+      "start_latlng": [
+            43.041043,
+            -77.444891
+      ],
+      "end_latlng": [
+            43.038901,
+            -77.439762
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TW7OSIJNJJYMT4SZCPQUORCH2IFIJ33JBR5JGTLZTWEGWEORYAVLBFU4KL7DB5PZHMEX46NELHY3NGSIRIB4M===",
+      "start_latitude": 43.041043,
+      "start_longitude": -77.444891,
+      "end_latitude": 43.038901,
+      "end_longitude": -77.439762,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-09-22T21:19:11Z",
+      "updated_at": "2021-05-15T02:20:08Z",
+      "total_elevation_gain": 35.8,
+      "map": {
+            "id": "s16092955",
+            "polyline": "omueGr}twMJBF?BILQNY\\QJKLADEAMBQFI?IDE`@IR@PEPHz@?HEVQDI?SDUHIVORo@@QDGVBJCH_@DAJBF?BC?OEO?i@CU@MC[@WCY@]Im@MMN[Le@AUG_@Nc@@IMYHm@CCIASm@AaB",
+            "resource_state": 3
+      },
+      "effort_count": 755,
+      "athlete_count": 102,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:52",
+            "qom": "3:52",
+            "destination": {
+                  "href": "strava://segments/16092955/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 15142199,
+            "title": "Brent Buckman",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/15142199/4303798/1/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/16092955/local_legend?categories%5B%5D=overall"
+      }
 }

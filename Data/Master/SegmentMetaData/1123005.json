@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1123005,
+      "resource_state": 3,
+      "name": "Williams power climb",
+      "activity_type": "Ride",
+      "distance": 627.823,
+      "average_grade": 2.9,
+      "maximum_grade": 5.4,
+      "elevation_high": 213.9,
+      "elevation_low": 194.9,
+      "start_latlng": [
+            43.023059112059904,
+            -77.59251960560455
+      ],
+      "end_latlng": [
+            43.02293661054505,
+            -77.60022819049432
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FD6SDSVTXJIJO3TW2KIAUO7UIZDL4DBKMR4X6O3LGIJRO3KEX77D6HHVMI5DR6VIVVXJWQK45A4KKAE4KT7Q====",
+      "start_latitude": 43.023059112059904,
+      "start_longitude": -77.59251960560455,
+      "end_latitude": 43.02293661054505,
+      "end_longitude": -77.60022819049432,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-03-23T01:08:24Z",
+      "updated_at": "2021-05-18T08:02:42Z",
+      "total_elevation_gain": 18.9788,
+      "map": {
+            "id": "s1123005",
+            "polyline": "a}qeGfxqxM?hEFvD?rIH`FAhDDpBArEB|A",
+            "resource_state": 3
+      },
+      "effort_count": 8336,
+      "athlete_count": 899,
+      "star_count": 12,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "47s",
+            "qom": "58s",
+            "destination": {
+                  "href": "strava://segments/1123005/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 81303762,
+            "title": "Allan stern",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81303762/19605661/1/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/1123005/local_legend?categories%5B%5D=overall"
+      }
 }

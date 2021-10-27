@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10492294,
+      "resource_state": 3,
+      "name": "Swimming Pool Sprint (Eastbound)",
+      "activity_type": "Ride",
+      "distance": 754.0,
+      "average_grade": -0.3,
+      "maximum_grade": 3.5,
+      "elevation_high": 160.4,
+      "elevation_low": 156.3,
+      "start_latlng": [
+            43.105478,
+            -77.598717
+      ],
+      "end_latlng": [
+            43.102946,
+            -77.590153
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3UV6XU3R33K4NEVUL6VO6NKR7UKIEH4U7Y6QNCOFTTWLRBGL6N3VQAJ2G3FTTMWLYFZDOEC55KKVA6XZQV3A====",
+      "start_latitude": 43.105478,
+      "start_longitude": -77.598717,
+      "end_latitude": 43.102946,
+      "end_longitude": -77.590153,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-09-17T02:03:15Z",
+      "updated_at": "2021-05-20T08:03:33Z",
+      "total_elevation_gain": 2.1,
+      "map": {
+            "id": "s10492294",
+            "polyline": "e`bfG~~rxM\\{AHQHe@d@mBN}@Ts@FMTu@Dc@FO^wB`@iBLa@b@iBTmA?[TgB|@aFXqBn@kDTw@PkA",
+            "resource_state": 3
+      },
+      "effort_count": 39906,
+      "athlete_count": 5287,
+      "star_count": 36,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "49s",
+            "qom": "1:02",
+            "destination": {
+                  "href": "strava://segments/10492294/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1045709,
+            "title": "Nick Kilmer",
+            "profile": "https://graph.facebook.com/100000006256389/picture?height=256&width=256",
+            "effort_description": "40 efforts in the last 90 days",
+            "effort_count": "40",
+            "effort_counts": {
+                  "overall": "40 efforts",
+                  "female": "17 efforts"
+            },
+            "destination": "strava://segments/10492294/local_legend?categories%5B%5D=overall"
+      }
 }

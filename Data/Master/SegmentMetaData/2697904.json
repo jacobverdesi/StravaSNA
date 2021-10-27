@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2697904,
+      "resource_state": 3,
+      "name": "Durand park walkway up",
+      "activity_type": "Ride",
+      "distance": 672.81,
+      "average_grade": 4.0,
+      "maximum_grade": 8.5,
+      "elevation_high": 23.4,
+      "elevation_low": -3.4,
+      "start_latlng": [
+            43.231852781027555,
+            -77.55272501148283
+      ],
+      "end_latlng": [
+            43.22785712778568,
+            -77.5510327052325
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HG3UQWTPNJ6XISC63QN67A2JYSQBNUI3YCS3E7S2XDRALYLUMONADBJ2EXUECUHCQ3MT55I3U7D6PXSFLW6A====",
+      "start_latitude": 43.231852781027555,
+      "start_longitude": -77.55272501148283,
+      "end_latitude": 43.22785712778568,
+      "end_longitude": -77.5510327052325,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-11-06T22:49:02Z",
+      "updated_at": "2021-05-19T08:02:13Z",
+      "total_elevation_gain": 26.8,
+      "map": {
+            "id": "s2697904",
+            "polyline": "avzfGp_jxMDJ@f@Vz@|@n@f@j@`@f@RALK^s@^aALi@P[PSx@o@h@M^@VBn@Jj@Nf@Dj@Cb@Wd@i@Zi@\\qAL[BU@}A",
+            "resource_state": 3
+      },
+      "effort_count": 3819,
+      "athlete_count": 966,
+      "star_count": 15,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:10",
+            "qom": "1:48",
+            "destination": {
+                  "href": "strava://segments/2697904/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14149986,
+            "title": "Joe Falvo",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "32 efforts in the last 90 days",
+            "effort_count": "32",
+            "effort_counts": {
+                  "overall": "32 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/2697904/local_legend?categories%5B%5D=overall"
+      }
 }

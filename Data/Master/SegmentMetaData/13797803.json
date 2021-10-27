@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13797803,
+      "resource_state": 3,
+      "name": "Outlet to Jacks  finish",
+      "activity_type": "Ride",
+      "distance": 719.3,
+      "average_grade": 3.2,
+      "maximum_grade": 8.6,
+      "elevation_high": 98.8,
+      "elevation_low": 75.6,
+      "start_latlng": [
+            43.234601,
+            -77.538018
+      ],
+      "end_latlng": [
+            43.232258,
+            -77.544529
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/43S52MQJWQBG2VPNWFTVLSCS44QECH4FJMD7DIV65IKYNSLUO532CRY2SUQK4EYNRSC5NBML3PAOOOI6KXAQ====",
+      "start_latitude": 43.234601,
+      "start_longitude": -77.538018,
+      "end_latitude": 43.232258,
+      "end_longitude": -77.544529,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-12-12T14:41:24Z",
+      "updated_at": "2021-05-20T08:04:04Z",
+      "total_elevation_gain": 23.2,
+      "map": {
+            "id": "s13797803",
+            "polyline": "gg{fGrcgxMGbAIrES|BMdGBzDFn@ZzAJ^b@|@p@bAXVl@TzAZx@VzBl@T@NA",
+            "resource_state": 3
+      },
+      "effort_count": 2857,
+      "athlete_count": 607,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:16",
+            "qom": "1:19",
+            "destination": {
+                  "href": "strava://segments/13797803/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14149986,
+            "title": "Joe Falvo",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "33 efforts in the last 90 days",
+            "effort_count": "33",
+            "effort_counts": {
+                  "overall": "33 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/13797803/local_legend?categories%5B%5D=overall"
+      }
 }

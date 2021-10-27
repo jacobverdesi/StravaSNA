@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15676026,
+      "resource_state": 3,
+      "name": "Climb - Lac De Ville to Clinton",
+      "activity_type": "Ride",
+      "distance": 380.9,
+      "average_grade": 1.9,
+      "maximum_grade": 6.0,
+      "elevation_high": 162.9,
+      "elevation_low": 155.7,
+      "start_latlng": [
+            43.115487,
+            -77.592125
+      ],
+      "end_latlng": [
+            43.115407,
+            -77.596783
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VV4EB37C525SXSZPTRIB7MIRT4U24AMBBSHNBOLTIQOMZF4PNEEUCUWSSS64D7BK76TO7NHSN75HY77LEHYQ====",
+      "start_latitude": 43.115487,
+      "start_longitude": -77.592125,
+      "end_latitude": 43.115407,
+      "end_longitude": -77.596783,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-08-08T22:29:22Z",
+      "updated_at": "2021-05-15T02:19:52Z",
+      "total_elevation_gain": 7.1,
+      "map": {
+            "id": "s15676026",
+            "polyline": "w~cfGxuqxMDhKAhADpB@vDCj@HfBAP",
+            "resource_state": 3
+      },
+      "effort_count": 3285,
+      "athlete_count": 487,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "14s",
+            "qom": "43s",
+            "destination": {
+                  "href": "strava://segments/15676026/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9065715,
+            "title": "William Greene",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9065715/12207509/1/large.jpg",
+            "effort_description": "30 efforts in the last 90 days",
+            "effort_count": "30",
+            "effort_counts": {
+                  "overall": "30 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/15676026/local_legend?categories%5B%5D=overall"
+      }
 }

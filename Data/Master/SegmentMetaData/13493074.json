@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13493074,
+      "resource_state": 3,
+      "name": "French to Canal",
+      "activity_type": "Ride",
+      "distance": 1060.8,
+      "average_grade": -0.1,
+      "maximum_grade": 3.3,
+      "elevation_high": 141.3,
+      "elevation_low": 139.2,
+      "start_latlng": [
+            43.099748,
+            -77.541986
+      ],
+      "end_latlng": [
+            43.091014,
+            -77.538306
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XZK7MSMKA53EK7V6YKNLTR4G2TBYGBJWNEMDPRV52Y4EDLGKG442BAWIJ677XQBFPMPYBBGY7IFVVVA7NZIZS===",
+      "start_latitude": 43.099748,
+      "start_longitude": -77.541986,
+      "end_latitude": 43.091014,
+      "end_longitude": -77.538306,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-22T11:47:09Z",
+      "updated_at": "2021-05-17T08:06:37Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s13493074",
+            "polyline": "k|`fGl|gxMb@ETEZAZBRAjAQdBQ`@A`@Ip@W\\I`@EbAEREHGj@K`@AHKH?FEv@E^Kp@KP?nBUp@MbAKz@OZCjAQ\\?t@O^KfDmBVWDKZWV]XU^m@L[BMHKRk@Lm@J[",
+            "resource_state": 3
+      },
+      "effort_count": 1213,
+      "athlete_count": 284,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:46",
+            "qom": "1:56",
+            "destination": {
+                  "href": "strava://segments/13493074/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 67713836,
+            "title": "Alex Ferrante",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/67713836/20016765/1/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "12 efforts"
+            },
+            "destination": "strava://segments/13493074/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1615805,
+      "resource_state": 3,
+      "name": "Blue trail up",
+      "activity_type": "Ride",
+      "distance": 314.008,
+      "average_grade": 5.1,
+      "maximum_grade": 27.9,
+      "elevation_high": 127.8,
+      "elevation_low": 111.8,
+      "start_latlng": [
+            43.16468113102019,
+            -77.53576775081456
+      ],
+      "end_latlng": [
+            43.16604092717171,
+            -77.53578593954444
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6ZXEW3LG2SKMLJSJ5HPPO6KFVOE4N5O7E4BEG3XPAPU3NH6LAEXVAIOVDQZ6LKHUAN7UWGNHWRVER3UUGFEQ====",
+      "start_latitude": 43.16468113102019,
+      "start_longitude": -77.53576775081456,
+      "end_latitude": 43.16604092717171,
+      "end_longitude": -77.53578593954444,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-06-23T14:19:50Z",
+      "updated_at": "2021-05-19T08:02:04Z",
+      "total_elevation_gain": 17.6,
+      "map": {
+            "id": "s1615805",
+            "polyline": "grmfGpufxM[VWCEKC?GL@VECQc@Ya@]Ei@AKIMQc@JIEMDQAMDIJQDKAGQCCANBHNCNFf@FHDBL",
+            "resource_state": 3
+      },
+      "effort_count": 6136,
+      "athlete_count": 669,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "21s",
+            "qom": "1:18",
+            "destination": {
+                  "href": "strava://segments/1615805/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9901969,
+            "title": "Jeremy Reitz",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9901969/3004660/2/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/1615805/local_legend?categories%5B%5D=overall"
+      }
 }

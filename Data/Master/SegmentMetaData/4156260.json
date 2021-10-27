@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4156260,
+      "resource_state": 3,
+      "name": "Coach Gardner Km.",
+      "activity_type": "Ride",
+      "distance": 1114.4,
+      "average_grade": 1.7,
+      "maximum_grade": 8.9,
+      "elevation_high": 206.2,
+      "elevation_low": 187.6,
+      "start_latlng": [
+            42.975514,
+            -77.525784
+      ],
+      "end_latlng": [
+            42.974374,
+            -77.512422
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6SCNEVGQXKRQO44YKT3XKCCP3KVOYKIOJYNDRIWOVBYEJ7POGLL4WN4MOZKEYW3JP6N35KK4GPDPKON55SHXY===",
+      "start_latitude": 42.975514,
+      "start_longitude": -77.525784,
+      "end_latitude": 42.974374,
+      "end_longitude": -77.512422,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-19T23:29:25Z",
+      "updated_at": "2021-05-17T08:04:23Z",
+      "total_elevation_gain": 19.9,
+      "map": {
+            "id": "s4156260",
+            "polyline": "}sheGdwdxMG}OCwL@iEF_ANw@z@mCz@}BJu@PeDb@{PJe@BaBEmAP}A",
+            "resource_state": 3
+      },
+      "effort_count": 2196,
+      "athlete_count": 487,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:35",
+            "qom": "1:48",
+            "destination": {
+                  "href": "strava://segments/4156260/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 66279456,
+            "title": "Geoff Scott",
+            "profile": "https://lh5.googleusercontent.com/-2VNo9wQcjw4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyuZUCSRhvGXZsapmMNxlCE9h1tA/s96-c/photo.jpg",
+            "effort_description": "19 efforts in the last 90 days",
+            "effort_count": "19",
+            "effort_counts": {
+                  "overall": "19 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4156260/local_legend?categories%5B%5D=overall"
+      }
 }

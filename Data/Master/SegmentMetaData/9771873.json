@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9771873,
+      "resource_state": 3,
+      "name": "* THE BAXTER/TRI MAN FLYER * ",
+      "activity_type": "Ride",
+      "distance": 1338.9,
+      "average_grade": 0.8,
+      "maximum_grade": 6.8,
+      "elevation_high": 170.2,
+      "elevation_low": 159.4,
+      "start_latlng": [
+            43.191633,
+            -77.680328
+      ],
+      "end_latlng": [
+            43.179611,
+            -77.680697
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/V555XCO3HJWKTKFOVGFFAO6N6LW4D4A3OXNX74TRH2FQ7VEHPTDPQOIZW5EP4ACZIDB62NZGCVVQMZCSATJQ====",
+      "start_latitude": 43.191633,
+      "start_longitude": -77.680328,
+      "end_latitude": 43.179611,
+      "end_longitude": -77.680697,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-20T18:11:46Z",
+      "updated_at": "2021-05-15T08:04:00Z",
+      "total_elevation_gain": 10.8,
+      "map": {
+            "id": "s9771873",
+            "polyline": "uzrfG`}byMdETtCHr@A`AFjJ@~IJtSLtDAfFFpC@",
+            "resource_state": 3
+      },
+      "effort_count": 1576,
+      "athlete_count": 234,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:59",
+            "qom": "2:47",
+            "destination": {
+                  "href": "strava://segments/9771873/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 60463754,
+            "title": "Brett Blaisdell",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/60463754/15756595/1/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9771873/local_legend?categories%5B%5D=overall"
+      }
 }

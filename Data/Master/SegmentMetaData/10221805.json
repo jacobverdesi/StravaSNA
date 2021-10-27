@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10221805,
+      "resource_state": 3,
+      "name": "Leaving Mendon 64 South Climb",
+      "activity_type": "Ride",
+      "distance": 488.9,
+      "average_grade": 4.4,
+      "maximum_grade": 8.1,
+      "elevation_high": 187.2,
+      "elevation_low": 164.4,
+      "start_latlng": [
+            43.050668,
+            -77.518501
+      ],
+      "end_latlng": [
+            43.046296,
+            -77.517843
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KIIZI5ZC3TOV36GIDTSLMSRDLI6L6XKD5QB4ESKAWEACIHWKTTUGRJNCT753NGNHIFICTOASZQ2PJWJ4MFOLO===",
+      "start_latitude": 43.050668,
+      "start_longitude": -77.518501,
+      "end_latitude": 43.046296,
+      "end_longitude": -77.517843,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-08-15T00:12:13Z",
+      "updated_at": "2021-05-18T08:04:05Z",
+      "total_elevation_gain": 22.8,
+      "map": {
+            "id": "s10221805",
+            "polyline": "siweGticxMvE]|COpDYtC[v@GrBW",
+            "resource_state": 3
+      },
+      "effort_count": 2395,
+      "athlete_count": 556,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "46s",
+            "qom": "1:05",
+            "destination": {
+                  "href": "strava://segments/10221805/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 770315,
+            "title": "Dean Sherwood",
+            "profile": "https://graph.facebook.com/10204641242379360/picture?height=256&width=256",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/10221805/local_legend?categories%5B%5D=overall"
+      }
 }

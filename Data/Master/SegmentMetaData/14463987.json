@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14463987,
+      "resource_state": 3,
+      "name": "Erie west over I-90",
+      "activity_type": "Ride",
+      "distance": 1102.8,
+      "average_grade": -1.1,
+      "maximum_grade": 6.7,
+      "elevation_high": 195.8,
+      "elevation_low": 181.7,
+      "start_latlng": [
+            43.040636,
+            -77.647249
+      ],
+      "end_latlng": [
+            43.04035,
+            -77.66074
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RO5QUYF56QFQM5FW6DCK3GF3MTXDYG5KDATMFMAXDYR276SQ64C3ULJSDTZBTQ7QJRYL2JMQNGNFTDOZU6YA====",
+      "start_latitude": 43.040636,
+      "start_longitude": -77.647249,
+      "end_latitude": 43.04035,
+      "end_longitude": -77.66074,
+      "climb_category": 0,
+      "city": "Rush",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-03-29T17:18:06Z",
+      "updated_at": "2021-05-20T08:04:10Z",
+      "total_elevation_gain": 12.9,
+      "map": {
+            "id": "s14463987",
+            "polyline": "}jueGhn|xMAfCCz@FlC?pGFlB@fDDrCAhBCrABx@AtAEbAD`@@|@Bd@?xBF|AAp@@vAAbACJDjACzAHlDBVBpCLlB?bA",
+            "resource_state": 3
+      },
+      "effort_count": 904,
+      "athlete_count": 192,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:43",
+            "qom": "2:10",
+            "destination": {
+                  "href": "strava://segments/14463987/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 75231624,
+            "title": "Brian Shabazz",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/75231624/18242787/2/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/14463987/local_legend?categories%5B%5D=overall"
+      }
 }

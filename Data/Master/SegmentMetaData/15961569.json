@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15961569,
+      "resource_state": 3,
+      "name": "Fleeing Colony",
+      "activity_type": "Ride",
+      "distance": 600.1,
+      "average_grade": -0.2,
+      "maximum_grade": 1.1,
+      "elevation_high": 159.1,
+      "elevation_low": 158.0,
+      "start_latlng": [
+            43.083334,
+            -77.658771
+      ],
+      "end_latlng": [
+            43.083319,
+            -77.665822
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IQRFNOD2KXQE3K25GNSFIT64ZVYIMGUZIH63K7UV2BI7VRK55S3OKTJBJGK6KQCHPHJ3BZ563I3TMDVS3BUAU===",
+      "start_latitude": 43.083334,
+      "start_longitude": -77.658771,
+      "end_latitude": 43.083319,
+      "end_longitude": -77.665822,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-09-06T22:53:27Z",
+      "updated_at": "2021-05-15T08:05:04Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s15961569",
+            "polyline": "yu}eGjv~xMILAd@FRNhECVDVCh@?~@BR?nBCt@DbAHh@ATMl@DTCRGVARDV@TPRARMj@Hl@WvAKPHR@RCj@BR@z@FR@NCNA`@",
+            "resource_state": 3
+      },
+      "effort_count": 1282,
+      "athlete_count": 322,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "45s",
+            "qom": "1:02",
+            "destination": {
+                  "href": "strava://segments/15961569/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 22664404,
+            "title": "Silvio B\ud83c\udde8\ud83c\udded",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/22664404/12454701/4/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/15961569/local_legend?categories%5B%5D=overall"
+      }
 }

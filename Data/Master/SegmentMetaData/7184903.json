@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7184903,
+      "resource_state": 3,
+      "name": "1 KM DOWN",
+      "activity_type": "Ride",
+      "distance": 1012.8,
+      "average_grade": -1.1,
+      "maximum_grade": 2.8,
+      "elevation_high": 172.6,
+      "elevation_low": 161.2,
+      "start_latlng": [
+            43.059414,
+            -77.639285
+      ],
+      "end_latlng": [
+            43.067307,
+            -77.633134
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QRDKGENHGBPD6FLFTLFUZSEJRUT3MEVAFW7OO45F4APXQ2HVBWRETTGXNKFZWASJLRRSJKLOIMHBD3PZWPGA====",
+      "start_latitude": 43.059414,
+      "start_longitude": -77.639285,
+      "end_latitude": 43.067307,
+      "end_longitude": -77.633134,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-10T19:08:15Z",
+      "updated_at": "2021-05-15T02:15:01Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s7184903",
+            "polyline": "i`yeGp|zxMeAe@yE_C}EeCiAo@s@g@yDaDyKqJmCwBkE}D",
+            "resource_state": 3
+      },
+      "effort_count": 849,
+      "athlete_count": 126,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:14",
+            "qom": "1:53",
+            "destination": {
+                  "href": "strava://segments/7184903/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3299172,
+            "title": "Matthew McNamara",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3299172/1069972/3/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/7184903/local_legend?categories%5B%5D=overall"
+      }
 }

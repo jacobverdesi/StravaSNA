@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12691664,
+      "resource_state": 3,
+      "name": "* NICE REBUILT TRAIL 7/16 *",
+      "activity_type": "Ride",
+      "distance": 1677.5,
+      "average_grade": -0.3,
+      "maximum_grade": 3.8,
+      "elevation_high": 154.8,
+      "elevation_low": 144.3,
+      "start_latlng": [
+            43.058557,
+            -77.376448
+      ],
+      "end_latlng": [
+            43.06201,
+            -77.396467
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LMX6UIY6LTXIDZFRIJ4K2OABI7OBN7DNM7664BKGUEWLDDQ64YUV3KWPEOLDVJJOONP4RQM5JVZZZ24TVC6Q====",
+      "start_latitude": 43.058557,
+      "start_longitude": -77.376448,
+      "end_latitude": 43.06201,
+      "end_longitude": -77.396467,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-07-22T17:15:13Z",
+      "updated_at": "2021-05-15T02:18:12Z",
+      "total_elevation_gain": 5.0,
+      "map": {
+            "id": "s12691664",
+            "polyline": "}zxeGxqgwMKnEOfDe@lG_@vD}A~Lu@bIq@|Fk@~FUfBu@rGk@zF{@hJYvE]lBeApIm@hF",
+            "resource_state": 3
+      },
+      "effort_count": 1733,
+      "athlete_count": 343,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:41",
+            "qom": "3:19",
+            "destination": {
+                  "href": "strava://segments/12691664/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/12691664/local_legend?categories%5B%5D=overall"
+      }
 }

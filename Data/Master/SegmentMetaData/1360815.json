@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1360815,
+      "resource_state": 3,
+      "name": "Barber Rd. climb",
+      "activity_type": "Ride",
+      "distance": 2808.85,
+      "average_grade": 1.9,
+      "maximum_grade": 11.4,
+      "elevation_high": 182.6,
+      "elevation_low": 129.4,
+      "start_latlng": [
+            42.935077250003815,
+            -77.73578460328281
+      ],
+      "end_latlng": [
+            42.93221566826105,
+            -77.70170453935862
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4RYFWFF3I3JKMQEJQDAM7CHMGQHUUBKB3F3JLGMVDI7JHDBNEOUEZGOFITP6XIHKSWKNPGSGMEOCKGV3W67A4===",
+      "start_latitude": 42.935077250003815,
+      "start_longitude": -77.73578460328281,
+      "end_latitude": 42.93221566826105,
+      "end_longitude": -77.70170453935862,
+      "climb_category": 0,
+      "city": "Avon",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-10T23:42:34Z",
+      "updated_at": "2021-05-20T08:02:11Z",
+      "total_elevation_gain": 60.8,
+      "map": {
+            "id": "s1360815",
+            "polyline": "ew`eGtwmyM@sDDuBBoIAuDKqF@iBPgCz@eGXuDh@}LFmBf@sJfAyWNwCJiAH}DN_Ch@oLJgCF{C\\uGPeGVyEv@cT`@qIJaBDiBHiB",
+            "resource_state": 3
+      },
+      "effort_count": 672,
+      "athlete_count": 203,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:20",
+            "qom": "7:15",
+            "destination": {
+                  "href": "strava://segments/1360815/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5418855,
+            "title": "Erik Hartmann",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5418855/16570955/2/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/1360815/local_legend?categories%5B%5D=overall"
+      }
 }

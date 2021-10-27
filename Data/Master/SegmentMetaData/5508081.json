@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5508081,
+      "resource_state": 3,
+      "name": "up and out from the bend!",
+      "activity_type": "Ride",
+      "distance": 283.9,
+      "average_grade": 7.1,
+      "maximum_grade": 13.9,
+      "elevation_high": 119.7,
+      "elevation_low": 99.5,
+      "start_latlng": [
+            43.167405,
+            -77.535265
+      ],
+      "end_latlng": [
+            43.165939,
+            -77.537716
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2PEVSDKBSJS4ENOUVJQMXJTZSICLUQR6TVO5WAQWVRQPVFU6UYT22FSN7WZ2ZZFMVWHTKEQ7CRRO3PTQT6MY4===",
+      "start_latitude": 43.167405,
+      "start_longitude": -77.535265,
+      "end_latitude": 43.165939,
+      "end_longitude": -77.537716,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-15T23:25:09Z",
+      "updated_at": "2021-05-20T08:02:43Z",
+      "total_elevation_gain": 20.3,
+      "map": {
+            "id": "s5508081",
+            "polyline": "gcnfGlrfxMG`@@XT|@b@~@NVJJdAh@VTb@Rz@t@N^BPBnA",
+            "resource_state": 3
+      },
+      "effort_count": 12009,
+      "athlete_count": 786,
+      "star_count": 14,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "36s",
+            "qom": "1:17",
+            "destination": {
+                  "href": "strava://segments/5508081/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24193119,
+            "title": "Ernie W ",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/24193119/13149858/5/large.jpg",
+            "effort_description": "58 efforts in the last 90 days",
+            "effort_count": "58",
+            "effort_counts": {
+                  "overall": "58 efforts",
+                  "female": "12 efforts"
+            },
+            "destination": "strava://segments/5508081/local_legend?categories%5B%5D=overall"
+      }
 }

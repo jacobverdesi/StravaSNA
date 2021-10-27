@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20860618,
+      "resource_state": 3,
+      "name": "Howard train bridge south",
+      "activity_type": "Ride",
+      "distance": 705.6,
+      "average_grade": 0.3,
+      "maximum_grade": 6.0,
+      "elevation_high": 173.2,
+      "elevation_low": 167.9,
+      "start_latlng": [
+            43.147001,
+            -77.691053
+      ],
+      "end_latlng": [
+            43.140662,
+            -77.691068
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FFRJSF7YW2AJ2O3Y46ZX7NNUQXPIDNPWQ57GK6SIMPB25HT7D5NI37AZSJE5OLZOVF5VTMEVMBHRJQNSUJTQ====",
+      "start_latitude": 43.147001,
+      "start_longitude": -77.691053,
+      "end_latitude": 43.140662,
+      "end_longitude": -77.691068,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-06-12T22:28:46Z",
+      "updated_at": "2021-05-17T08:08:15Z",
+      "total_elevation_gain": 5.3,
+      "map": {
+            "id": "s20860618",
+            "polyline": "wcjfGb`eyM~@?tCF~@?BCX?zABrC?bDAlH@lAEdA@XCJBh@?XA",
+            "resource_state": 3
+      },
+      "effort_count": 481,
+      "athlete_count": 120,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "56s",
+            "qom": "1:19",
+            "destination": {
+                  "href": "strava://segments/20860618/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 186466,
+            "title": "Owen Wood",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/186466/17702136/1/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/20860618/local_legend?categories%5B%5D=overall"
+      }
 }

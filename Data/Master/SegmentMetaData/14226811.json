@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14226811,
+      "resource_state": 3,
+      "name": "* SPILLWAY TO TOP *",
+      "activity_type": "Ride",
+      "distance": 415.6,
+      "average_grade": 2.8,
+      "maximum_grade": 42.3,
+      "elevation_high": 140.4,
+      "elevation_low": 128.6,
+      "start_latlng": [
+            43.08538,
+            -77.397597
+      ],
+      "end_latlng": [
+            43.085536,
+            -77.401949
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/S5YF5H6QO3CVJNMIKRQ6QJLNQNYUPIGOIXHN546UKR67KEKEYOU2X7Y6KWKF7PQQOLN2KMKFZUK5IB3LYEPA====",
+      "start_latitude": 43.08538,
+      "start_longitude": -77.397597,
+      "end_latitude": 43.085536,
+      "end_longitude": -77.401949,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-02-23T20:41:06Z",
+      "updated_at": "2021-05-18T08:04:41Z",
+      "total_elevation_gain": 11.4,
+      "map": {
+            "id": "s14226811",
+            "polyline": "sb~eG~ukwMi@tAm@dB]xAg@~ASb@@VLRNFD?DLEd@Nx@LTFxAAn@DTRl@DBP\\DNPR",
+            "resource_state": 3
+      },
+      "effort_count": 189,
+      "athlete_count": 91,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:09",
+            "qom": "1:33",
+            "destination": {
+                  "href": "strava://segments/14226811/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1091967,
+            "title": "Jason Hightower +\ud83e\udd8a",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1091967/17443374/1/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/14226811/local_legend?categories%5B%5D=overall"
+      }
 }

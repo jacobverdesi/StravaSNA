@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28743233,
+      "resource_state": 3,
+      "name": "Highland Crossing NB (Westfall to St. John's Meadows)",
+      "activity_type": "Ride",
+      "distance": 1307.1,
+      "average_grade": -0.0,
+      "maximum_grade": 2.1,
+      "elevation_high": 157.7,
+      "elevation_low": 155.8,
+      "start_latlng": [
+            43.115264,
+            -77.603642
+      ],
+      "end_latlng": [
+            43.12422,
+            -77.599929
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JBGR6BKOYZG3BRZGO56QT4GJRFIPXM3WTT47D54NE6LR6MWQFL7IXIOLRLYSQV3TWV6VRK4QP6XRCPJN5VHQ====",
+      "start_latitude": 43.115264,
+      "start_longitude": -77.603642,
+      "end_latitude": 43.12422,
+      "end_longitude": -77.599929,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-06-08T16:27:10Z",
+      "updated_at": "2021-06-08T16:27:11Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s28743233",
+            "polyline": "k}cfGx}sxMOSQKo@Sq@_@oAg@q@[}CmAcAi@cF{ByAi@WEa@?g@DU?SDSLGJIXAL@ZTnA@bAGv@Ur@GZ@t@CVQTODmAC]E[SU]_@]YOGMA{@OWAIBcEGYKSQOe@Os@e@c@Qe@Yu@_@y@e@kA[q@a@w@[KSIm@",
+            "resource_state": 3
+      },
+      "effort_count": 141,
+      "athlete_count": 41,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:12",
+            "qom": "3:46",
+            "destination": {
+                  "href": "strava://segments/28743233/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 33393913,
+            "title": "David K\u00e4ppynen",
+            "profile": "https://graph.facebook.com/10113187676212974/picture?height=256&width=256",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/28743233/local_legend?categories%5B%5D=overall"
+      }
 }

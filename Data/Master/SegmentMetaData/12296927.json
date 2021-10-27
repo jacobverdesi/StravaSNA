@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12296927,
+      "resource_state": 3,
+      "name": "How is this not a thing yet?",
+      "activity_type": "Ride",
+      "distance": 339.6,
+      "average_grade": 7.3,
+      "maximum_grade": 16.4,
+      "elevation_high": 289.2,
+      "elevation_low": 264.0,
+      "start_latlng": [
+            43.129751,
+            -77.620256
+      ],
+      "end_latlng": [
+            43.13075,
+            -77.618231
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EKE4GAAZ3VFN5GOJJ4YGPCOOD3GQHUNIN46D3422HBJ2V2YWJIT5PTJ7EE7BNITSO6AI4T5LJIFLZEGRUXJNA===",
+      "start_latitude": 43.129751,
+      "start_longitude": -77.620256,
+      "end_latitude": 43.13075,
+      "end_longitude": -77.618231,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-06-06T22:36:50Z",
+      "updated_at": "2021-05-15T02:17:58Z",
+      "total_elevation_gain": 25.2,
+      "map": {
+            "id": "s12296927",
+            "polyline": "}wffGrewxMNq@FyBIe@SMKIS_@FUQ_C?}AAOEKGCOFm@r@_@f@i@d@",
+            "resource_state": 3
+      },
+      "effort_count": 205,
+      "athlete_count": 34,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "45s",
+            "qom": "1:35",
+            "destination": {
+                  "href": "strava://segments/12296927/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 4489657,
+            "title": "Eric Neumeier",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/4489657/2841921/3/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/12296927/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7518841,
+      "resource_state": 3,
+      "name": "log cabin rd",
+      "activity_type": "Ride",
+      "distance": 920.2,
+      "average_grade": 2.1,
+      "maximum_grade": 13.6,
+      "elevation_high": 140.0,
+      "elevation_low": 121.0,
+      "start_latlng": [
+            43.236277,
+            -77.558001
+      ],
+      "end_latlng": [
+            43.230095,
+            -77.562583
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GIFUEB6E6ZYUAH2AANYOC4QQNNKFCM7MZ2MLZ3OMFOLL2GPZMWRZDLZP4LREYWSKWSSP53TBNZJN7GXXVOEZA===",
+      "start_latitude": 43.236277,
+      "start_longitude": -77.558001,
+      "end_latitude": 43.230095,
+      "end_longitude": -77.562583,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-26T20:26:25Z",
+      "updated_at": "2021-05-15T08:03:36Z",
+      "total_elevation_gain": 23.0,
+      "map": {
+            "id": "s7518841",
+            "polyline": "uq{fGp`kxMHITKV?|@JrAVp@Tl@Ld@Hn@BRHNNZb@P\\~@fAn@pARr@~@bCdAtAPXF\\Df@AjB@z@XbAPTND\\AJBR?XHf@Kf@AxAJ`BGv@Y",
+            "resource_state": 3
+      },
+      "effort_count": 2583,
+      "athlete_count": 413,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:38",
+            "qom": "2:06",
+            "destination": {
+                  "href": "strava://segments/7518841/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9559280,
+            "title": "Michael Smith",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9559280/2886278/23/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/7518841/local_legend?categories%5B%5D=overall"
+      }
 }

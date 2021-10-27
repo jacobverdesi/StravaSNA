@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1733241,
+      "resource_state": 3,
+      "name": "GVCC Rush TT full distance",
+      "activity_type": "Ride",
+      "distance": 18021.5,
+      "average_grade": -0.0,
+      "maximum_grade": 6.1,
+      "elevation_high": 151.2,
+      "elevation_low": 127.0,
+      "start_latlng": [
+            42.99779458902776,
+            -77.70493810996413
+      ],
+      "end_latlng": [
+            42.997778076678514,
+            -77.70482445135713
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LWOWVSB3TOCCLVA2J2BMBJFNI6CODLHMYUS3ZCTTMA4Z2TTOUDLXVYFGYGCYOGAXFY6YFOFC77CI3NCNS62O6===",
+      "start_latitude": 42.99779458902776,
+      "start_longitude": -77.70493810996413,
+      "end_latitude": 42.997778076678514,
+      "end_longitude": -77.70482445135713,
+      "climb_category": 0,
+      "city": "Rush",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-12T01:05:48Z",
+      "updated_at": "2021-05-20T08:02:14Z",
+      "total_elevation_gain": 85.4,
+      "map": {
+            "id": "s1733241",
+            "polyline": "e_meGzvgyMnAk@j@[bAc@r@Sd@IVCdA?tDXlBFp@ClAKp@OVGl@YXSbG_DjC{AvAq@jBy@`Bk@hA[pBs@rEwA|I_DpCy@vAe@lBi@|@]jBk@nDmAl@IlCOrD?hFIh@@lAL|ATzBh@`BXzA^j@RhAh@~@\\bDtAxBdA`Cz@jCrAjFdChQzHzBlAn@d@l@j@bArAtHxLhCpDzBxCvAvBjA~Al@`ArBjCZ`@r@p@|AvApCtCbAhAfA`AxKrLzA|Av@n@xH~FvCtB`BtAnFzDzAlAtL~IvHfGjAfAv@~@`@t@v@xBb@~AL~@J|@h@vIb@lCT|@Vx@Zr@bAjBh@v@b@b@d@`@nJxF~E|CjCzApBrA`IvE|HbFdAl@|Ad@~IjBvE|@zCt@pDpA~Ap@bCr@|DxAhJ|CfMrEH@BCGKUMsR{GeLoDmIaDuAa@uBg@gKuBkDu@iA_@k@WuAy@_[qRkCcBwEmCqBqAq@e@a@]]_@{@gA]m@e@gAo@iB[yAS}Ai@yIWoBa@aBo@gB_@s@s@cAk@o@y@u@cJaHgByA{JwHwFcE{HgGwGaF{AyAyCgD{A{AgEqEkHsH{CkDs@cAqAaBgD}EuEiGiBqCwF_JiA}Aa@c@_Aw@{@c@{F_CsMyFoEsBgMwFqF{B}Ae@cBYwBg@eBY{@Iy@CuC@yGFgAJwAPgBd@kEzAqIhCmC|@gBf@sCfAgBn@oInCyBv@oIfEyAfAmD~A{Ab@}@P[@qAAkEa@c@?_AFs@@qBj@kChA",
+            "resource_state": 3
+      },
+      "effort_count": 246,
+      "athlete_count": 87,
+      "star_count": 20,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "24:44",
+            "qom": "26:49",
+            "destination": {
+                  "href": "strava://segments/1733241/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

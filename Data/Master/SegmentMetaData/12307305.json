@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12307305,
+      "resource_state": 3,
+      "name": "Chili 3 Lap TT",
+      "activity_type": "Ride",
+      "distance": 18639.7,
+      "average_grade": -0.0,
+      "maximum_grade": 17.6,
+      "elevation_high": 176.8,
+      "elevation_low": 148.6,
+      "start_latlng": [
+            43.069738,
+            -77.755794
+      ],
+      "end_latlng": [
+            43.069714,
+            -77.755769
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/D3SBQGC5ECDHSK5VG7KM4VSXMITP7CF7NO4YB2NXUR53ARIXABV56SQ7DUHBEMF3MO2BA3XQUQ76ZEO43MNSE===",
+      "start_latitude": 43.069738,
+      "start_longitude": -77.755794,
+      "end_latitude": 43.069714,
+      "end_longitude": -77.755769,
+      "climb_category": 0,
+      "city": "Scottsville",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-06-08T02:22:24Z",
+      "updated_at": "2021-05-15T02:17:58Z",
+      "total_elevation_gain": 173.6,
+      "map": {
+            "id": "s12307305",
+            "polyline": "y`{eGvtqyM?dFCTIPKHOByAIsBEuYYoDCiJ@eDCm@EUGUMUOe@k@MYK[M}@A{AHqNDgQFi|@BeIAaR@_HG{_@@SDOJIJ@x@b@`KlEbAj@j@l@rHbMdAzAfDlFdXjc@h@lARv@Hx@DbBMhXUjr@AnREf@INKH[BwCOcCEiX]qTGi@Mg@[c@i@Yw@K{@C_AHaLBiJHuv@A_JBuGC}S@aJAkE@cHEgR@e@DOHGJAJDh@ZlBz@hHvCn@^j@j@hAbBxE`IdCxDr@nAvZ~f@Zr@Tt@Jx@FbBGnKMtXOtl@?pKCf@GNKJMDO?eBKeDIeY[yMIwCB_AEUESKi@_@QUOWS{@G]A_A?eIDuBD{NBoc@J_m@EuTB_LGoS?SBQJIL?JDrIvDpB`A|@l@h@j@nD~FpCjE|FvJjBrCbHbLtExHlBvCx@vAb@lAPrAD~AOb[AtMOf_@AfM",
+            "resource_state": 3
+      },
+      "effort_count": 1016,
+      "athlete_count": 157,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "26:30",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/12307305/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

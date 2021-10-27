@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2334562,
+      "resource_state": 3,
+      "name": "09-09-2012 Ellison Park Cyclocross Course ",
+      "activity_type": "Ride",
+      "distance": 3056.61,
+      "average_grade": 0.0,
+      "maximum_grade": 18.0,
+      "elevation_high": 120.3,
+      "elevation_low": 77.8,
+      "start_latlng": [
+            43.15080184,
+            -77.52627123
+      ],
+      "end_latlng": [
+            43.15087521,
+            -77.52633665
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KCAGVNUFWMPVCB3R44KHE5HN4ATNZJP5UBW7YDYIZ7PJTHB24ZBN4BHQEH4C6ESP5F4KQSWK5HTHM56QP7OA====",
+      "start_latitude": 43.15080184,
+      "start_longitude": -77.52627123,
+      "end_latitude": 43.15087521,
+      "end_longitude": -77.52633665,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-09-09T01:06:21Z",
+      "updated_at": "2021-05-15T02:12:28Z",
+      "total_elevation_gain": 103.43,
+      "map": {
+            "id": "s2334562",
+            "polyline": "o{jfGfzdxMGH?Hd@PXEFLZHPBPELDLEN@AVWJQIYEWHQBKK_@Si@VECEDIXBRCDSFOEOFQAER@PXPPFPTL?NKBBU@YLSBSNBHANBPSPIRBRLPNBNKp@WL@HMTMIIE@GCNa@XBKUIC@QJFLCSg@YQESX]PKTBZ?^HPCTH[HKJQBOLGRJJb@GLDFHBFTCTYN_@HWJaCNk@Ie@QOCVQT@h@G?SKEMI[@g@NYRe@RQTOLOVo@HgAE_@a@_@IQAIDEJDN?f@c@H_@WaAAYQ_@]Ic@A[CMIo@Vc@l@Yl@Ql@o@dBWXY~@Hj@TJL?VWZODDb@IJPEL\\d@AF?KHJD@HPLEEAVJ@\\CHGH_@RO?UDSA_@Fc@^K@c@OU]QOYC[BYTEGM@HKASBc@XYD?G@SSEKU?CP?^KLKB{@p@Q?ONq@X{@z@QDOF[XQd@QLa@O_@k@GCSVFNBXJ`@C~@JJb@PN@?TJBl@FLAROd@LRCNIDS^k@?[M_@A[Lw@CQJALKn@I`@?ROp@QTFGTTHZF\\@JB\\DJDJA@IAD",
+            "resource_state": 3
+      },
+      "effort_count": 304,
+      "athlete_count": 38,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:56",
+            "qom": "7:31",
+            "destination": {
+                  "href": "strava://segments/2334562/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

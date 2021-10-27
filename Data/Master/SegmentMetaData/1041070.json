@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1041070,
+      "resource_state": 3,
+      "name": "Furman Rd -- Burst",
+      "activity_type": "Ride",
+      "distance": 628.28,
+      "average_grade": 6.1,
+      "maximum_grade": 11.8,
+      "elevation_high": 62.2,
+      "elevation_low": 21.4,
+      "start_latlng": [
+            43.115647835657,
+            -77.40233263000846
+      ],
+      "end_latlng": [
+            43.11573375016451,
+            -77.39443821832538
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LPVTHL43SIQKWC4X5D2IZSGWKTU7ZRC7KKIME6JQGRJWF5DUSKWXE7F4LWOKCNLA4PQVTD3WLPOPB6JDXV6NQ===",
+      "start_latitude": 43.115647835657,
+      "start_longitude": -77.40233263000846,
+      "end_latitude": 43.11573375016451,
+      "end_longitude": -77.39443821832538,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-03-02T17:04:13Z",
+      "updated_at": "2021-05-20T08:02:08Z",
+      "total_elevation_gain": 40.8,
+      "map": {
+            "id": "s1041070",
+            "polyline": "w_dfGrslwMEkAEcF@u@?}DAo@CeEFaICw@EwK",
+            "resource_state": 3
+      },
+      "effort_count": 8036,
+      "athlete_count": 630,
+      "star_count": 26,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "58s",
+            "qom": "1:26",
+            "destination": {
+                  "href": "strava://segments/1041070/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1603801,
+            "title": "Greg Brett",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1603801/5871395/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/1041070/local_legend?categories%5B%5D=overall"
+      }
 }

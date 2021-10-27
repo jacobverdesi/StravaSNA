@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1750958,
+      "resource_state": 3,
+      "name": "Garnsey + Brigden Hill",
+      "activity_type": "Ride",
+      "distance": 1467.94,
+      "average_grade": 6.0,
+      "maximum_grade": 14.6,
+      "elevation_high": 218.4,
+      "elevation_low": 130.4,
+      "start_latlng": [
+            43.05255473591387,
+            -77.46857271529734
+      ],
+      "end_latlng": [
+            43.05356081575155,
+            -77.45404411107302
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/67AXY2PVDFTMTZQ6FWDM56G4OLMNBFGM4N5S4ABFY64H4AEXNYQCQ566S37JTOADOC6LNRUCFM5RCHMJ3VQXM===",
+      "start_latitude": 43.05255473591387,
+      "start_longitude": -77.46857271529734,
+      "end_latitude": 43.05356081575155,
+      "end_longitude": -77.45404411107302,
+      "climb_category": 1,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-15T01:35:42Z",
+      "updated_at": "2021-05-15T08:02:44Z",
+      "total_elevation_gain": 88.0,
+      "map": {
+            "id": "s1750958",
+            "polyline": "muweGrqywMQk@e@oBQeAMyAIeD@_CIuG?_CIgBO}@YmAQk@}@uBa@uAOy@KW]g@K]EkAEo@_@aBWyA[cDGc@IeAOgEG_CAaD?SBMHIJCN@XRPVNHZ@fA\\`@PXB^GRMJSD[Bg@Kk@k@qA",
+            "resource_state": 3
+      },
+      "effort_count": 163,
+      "athlete_count": 51,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:47",
+            "qom": "5:44",
+            "destination": {
+                  "href": "strava://segments/1750958/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9552348,
+            "title": "Rick Postl",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9552348/3322956/4/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/1750958/local_legend?categories%5B%5D=overall"
+      }
 }

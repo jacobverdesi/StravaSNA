@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25804083,
+      "resource_state": 3,
+      "name": "Ridge Runner - No Roadie!",
+      "activity_type": "Ride",
+      "distance": 742.9,
+      "average_grade": -0.7,
+      "maximum_grade": 15.0,
+      "elevation_high": 160.0,
+      "elevation_low": 150.0,
+      "start_latlng": [
+            43.093641,
+            -77.386827
+      ],
+      "end_latlng": [
+            43.093108,
+            -77.379548
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5XKXLRYVPOZLGFBYPIIE4ZLQB2AXGPJMZ47LV454D7MX6G5AXMHK5CA7DK3VSIYFXYBIF7YRVSOU4Z6DTOFA====",
+      "start_latitude": 43.093641,
+      "start_longitude": -77.386827,
+      "end_latitude": 43.093108,
+      "end_longitude": -77.379548,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-09-21T17:19:41Z",
+      "updated_at": "2021-05-15T02:25:19Z",
+      "total_elevation_gain": 4.8,
+      "map": {
+            "id": "s25804083",
+            "polyline": "gv_fGtriwM?EEG_@[KW@}DK{B@wEGsD@y@@]PiAPm@@MCKk@{@Om@@GFALDN?v@OBGEM[UCOImAFq@DQHIr@Bd@ENGJi@@s@",
+            "resource_state": 3
+      },
+      "effort_count": 272,
+      "athlete_count": 33,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:49",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/25804083/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 11391475,
+            "title": "Rick White",
+            "profile": "https://graph.facebook.com/10205611509273978/picture?height=256&width=256",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/25804083/local_legend?categories%5B%5D=overall"
+      }
 }

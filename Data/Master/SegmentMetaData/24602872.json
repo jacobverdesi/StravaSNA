@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24602872,
+      "resource_state": 3,
+      "name": "A Little Misty",
+      "activity_type": "Ride",
+      "distance": 490.0,
+      "average_grade": 2.6,
+      "maximum_grade": 6.5,
+      "elevation_high": 186.0,
+      "elevation_low": 170.4,
+      "start_latlng": [
+            43.088463,
+            -77.436417
+      ],
+      "end_latlng": [
+            43.089546,
+            -77.434143
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OKRDQDY33CUC2Y2FIZBTABWSOA4S6RNVXSH26BRQUEUDJIHHSSNRESEPW4VULQI37K6UVPIFRLSX2W6UXMBHK===",
+      "start_latitude": 43.088463,
+      "start_longitude": -77.436417,
+      "end_latitude": 43.089546,
+      "end_longitude": -77.434143,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-06-23T17:11:24Z",
+      "updated_at": "2021-05-20T08:05:32Z",
+      "total_elevation_gain": 15.6,
+      "map": {
+            "id": "s24602872",
+            "polyline": "{u~eGrhswMR?NKLQHUBWDo@BgACmDB{@AgDIe@M]SSa@KU?_@Le@l@uBvD",
+            "resource_state": 3
+      },
+      "effort_count": 87,
+      "athlete_count": 21,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "46s",
+            "qom": "3:38",
+            "destination": {
+                  "href": "strava://segments/24602872/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32212911,
+            "title": "Dave Bischoff",
+            "profile": "https://graph.facebook.com/10201903979376593/picture?height=256&width=256",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/24602872/local_legend?categories%5B%5D=overall"
+      }
 }

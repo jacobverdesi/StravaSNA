@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6988536,
+      "resource_state": 3,
+      "name": "180 ",
+      "activity_type": "Ride",
+      "distance": 2465.6,
+      "average_grade": 0.1,
+      "maximum_grade": 3.1,
+      "elevation_high": 163.1,
+      "elevation_low": 159.5,
+      "start_latlng": [
+            43.106348,
+            -77.691451
+      ],
+      "end_latlng": [
+            43.108655,
+            -77.676561
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QZQKE6JGKFBU4IZCBHDSSLGFY4AQPGWHQ7SEFBXYHWUSKGZJFPXFB32MRPYD7WXMJRN5ELF6WG4H2EIIXIBDW===",
+      "start_latitude": 43.106348,
+      "start_longitude": -77.691451,
+      "end_latitude": 43.108655,
+      "end_longitude": -77.676561,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-04-11T05:44:01Z",
+      "updated_at": "2021-05-15T08:03:29Z",
+      "total_elevation_gain": 3.6,
+      "map": {
+            "id": "s6988536",
+            "polyline": "sebfGrbeyMZ\\HLh@^PHPDVZb@X`@^VNb@^^d@VRf@Pr@f@XFHFH@RJ^Fx@TT@HBXAhBFTKJ?RIL?|@[NADETEHIDIj@WLAb@]z@{@PUX]d@aAXi@DMFKH]P_@@MJYLk@B_@J]PoA@QAe@PiBCi@?QBMEiBCO?]CS?UKmAYgAA]S}@OaAMSMk@e@}@AO{B{DQc@_@c@Wa@u@}@k@e@g@i@QMsAwAiAgA]Wi@w@iCgCg@a@e@QiB}@_@WeA}@u@eAu@{@qAcBYm@QOYm@o@{@MWMM}@sAWg@c@m@U_@]W{@{AO[U]",
+            "resource_state": 3
+      },
+      "effort_count": 2071,
+      "athlete_count": 298,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:20",
+            "qom": "4:19",
+            "destination": {
+                  "href": "strava://segments/6988536/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24735007,
+            "title": "Bob Hartman",
+            "profile": "https://lh5.googleusercontent.com/-b5TGAn1inDI/AAAAAAAAAAI/AAAAAAAAI7I/KaImjnIbmjQ/photo.jpg",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/6988536/local_legend?categories%5B%5D=overall"
+      }
 }

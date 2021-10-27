@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17912512,
+      "resource_state": 3,
+      "name": "Westmoreland EB",
+      "activity_type": "Ride",
+      "distance": 752.3,
+      "average_grade": 0.6,
+      "maximum_grade": 3.4,
+      "elevation_high": 165.9,
+      "elevation_low": 160.6,
+      "start_latlng": [
+            43.116717,
+            -77.630887
+      ],
+      "end_latlng": [
+            43.11449,
+            -77.622948
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DCW6CL2KOHSHJ2PKAD5A4MIVSKZS5PQP3UVUAIBD4SJUOXHOGWFTK5NZU2G5W56F6ZDILP6DNGLXG663D6WN6===",
+      "start_latitude": 43.116717,
+      "start_longitude": -77.630887,
+      "end_latitude": 43.11449,
+      "end_longitude": -77.622948,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-06-10T13:20:08Z",
+      "updated_at": "2021-05-20T08:04:41Z",
+      "total_elevation_gain": 5.3,
+      "map": {
+            "id": "s17912512",
+            "polyline": "mfdfG`hyxMh@}@jCmGn@cBz@mBRi@PSJEXCf@WPSTk@De@N_AFcAEiAEeHIeA?sDIaB",
+            "resource_state": 3
+      },
+      "effort_count": 1123,
+      "athlete_count": 250,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:18",
+            "qom": "1:28",
+            "destination": {
+                  "href": "strava://segments/17912512/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 75222405,
+            "title": "Howard Beckman",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14Giv4Qfjt_orCxxEIHYBvd-q5NQdS2gy0sUM8-WL=s96-c",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/17912512/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15633069,
+      "resource_state": 3,
+      "name": "River Park Trail eastbound to canal",
+      "activity_type": "Ride",
+      "distance": 2814.5,
+      "average_grade": -0.1,
+      "maximum_grade": 1.5,
+      "elevation_high": 161.0,
+      "elevation_low": 157.0,
+      "start_latlng": [
+            43.108543,
+            -77.674102
+      ],
+      "end_latlng": [
+            43.121241,
+            -77.645233
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/O2CY3SSCV5K6FXSI3B4DCTJKAULEAFUBMWOS32IBPLH2JC5E43PB4EZGDLQEYLPN4XMLPWIXMY624ECSBHAIU===",
+      "start_latitude": 43.108543,
+      "start_longitude": -77.674102,
+      "end_latitude": 43.121241,
+      "end_longitude": -77.645233,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-08-04T18:34:22Z",
+      "updated_at": "2021-05-15T02:19:50Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s15633069",
+            "polyline": "ksbfGdvayMBIWq@Oe@O}@g@mBIk@w@cCKi@g@eBMQU{@a@mAKSq@uBAS]y@k@{CKQCQ_@iAa@cBCS]kAQc@k@oBQc@CU{@uC[qAQc@[iAIQCSQw@IO{@kDaAyCq@aCUa@Kg@Qc@Q{@Sc@Wu@Qa@COWu@QkAo@iBQa@w@aCWgAy@oCI}@Wy@u@uBMg@?QOc@CWa@}A@KGWKO]]]q@cA}AcAoAk@{@U[WQg@MeAaAe@]KMcAwB}AqC[s@?QuA}CY]Oc@W_@Q_@c@o@MISa@AUa@cAwAoCOc@AkBBUAYB_BAuA",
+            "resource_state": 3
+      },
+      "effort_count": 6338,
+      "athlete_count": 939,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:55",
+            "qom": "5:07",
+            "destination": {
+                  "href": "strava://segments/15633069/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24735007,
+            "title": "Bob Hartman",
+            "profile": "https://lh5.googleusercontent.com/-b5TGAn1inDI/AAAAAAAAAAI/AAAAAAAAI7I/KaImjnIbmjQ/photo.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/15633069/local_legend?categories%5B%5D=overall"
+      }
 }

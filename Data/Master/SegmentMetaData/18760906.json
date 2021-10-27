@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18760906,
+      "resource_state": 3,
+      "name": "Raiders Climb",
+      "activity_type": "Ride",
+      "distance": 410.8,
+      "average_grade": 2.7,
+      "maximum_grade": 5.4,
+      "elevation_high": 174.8,
+      "elevation_low": 163.6,
+      "start_latlng": [
+            43.079357,
+            -77.414509
+      ],
+      "end_latlng": [
+            43.079258,
+            -77.419493
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HDMOAINF2I3CCPZCTBS3TG6RIPTOEAOHLZQHF2ORPXPJF3XQH2LS3UQHSNHA3W2Z5LLGRBEK7WGUGLEQWWEQ====",
+      "start_latitude": 43.079357,
+      "start_longitude": -77.414509,
+      "end_latitude": 43.079258,
+      "end_longitude": -77.419493,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-09-05T13:44:05Z",
+      "updated_at": "2021-05-20T08:04:49Z",
+      "total_elevation_gain": 11.2,
+      "map": {
+            "id": "s18760906",
+            "polyline": "}||eGt_owMRd^",
+            "resource_state": 3
+      },
+      "effort_count": 1559,
+      "athlete_count": 299,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "33s",
+            "qom": "58s",
+            "destination": {
+                  "href": "strava://segments/18760906/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 57274734,
+            "title": "Dave Michelsen",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/57274734/16992332/1/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/18760906/local_legend?categories%5B%5D=overall"
+      }
 }

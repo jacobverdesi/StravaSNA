@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10349581,
+      "resource_state": 3,
+      "name": "Trolley Blvd",
+      "activity_type": "Ride",
+      "distance": 1499.4,
+      "average_grade": 0.4,
+      "maximum_grade": 11.9,
+      "elevation_high": 166.9,
+      "elevation_low": 160.5,
+      "start_latlng": [
+            43.174996,
+            -77.701354
+      ],
+      "end_latlng": [
+            43.171684,
+            -77.68352
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ESS5ZLW2YLPZ6HSXD5FJOVUV7ATOXUGANPL2OTHH73THOFTQL4WR7QBG5WPYKOA4S2HEXYAIOFU5NLZ53BZY4===",
+      "start_latitude": 43.174996,
+      "start_longitude": -77.701354,
+      "end_latitude": 43.171684,
+      "end_longitude": -77.68352,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-08-30T01:02:13Z",
+      "updated_at": "2021-05-20T08:03:32Z",
+      "total_elevation_gain": 6.4,
+      "map": {
+            "id": "s10349581",
+            "polyline": "urofGn`gyMGUtDq]Ds@FMxMemA",
+            "resource_state": 3
+      },
+      "effort_count": 472,
+      "athlete_count": 144,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:10",
+            "qom": "2:49",
+            "destination": {
+                  "href": "strava://segments/10349581/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14811723,
+            "title": "Scott McClellan",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/10349581/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17609848,
+      "resource_state": 3,
+      "name": "Catch Air then Brake Hard",
+      "activity_type": "Ride",
+      "distance": 351.4,
+      "average_grade": -7.5,
+      "maximum_grade": 25.7,
+      "elevation_high": 253.1,
+      "elevation_low": 224.9,
+      "start_latlng": [
+            43.048504,
+            -77.409542
+      ],
+      "end_latlng": [
+            43.051417,
+            -77.408825
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SIN2PN3NTZIEHZTBIY2XJVXZ4S7NCK2KDFXA2ZJA2ZUS6P5UXNYYJTOX2KWD5JSDDC6N7ZXFYQFK5VUECQKA====",
+      "start_latitude": 43.048504,
+      "start_longitude": -77.409542,
+      "end_latitude": 43.051417,
+      "end_longitude": -77.408825,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-05-09T03:23:50Z",
+      "updated_at": "2021-05-20T08:04:37Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s17609848",
+            "polyline": "c|veGt`nwMYBm@`@Q@QAQIkAeAUIUEW?eBN[?w@G_A_@OKa@m@KC",
+            "resource_state": 3
+      },
+      "effort_count": 5568,
+      "athlete_count": 261,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "23s",
+            "qom": "28s",
+            "destination": {
+                  "href": "strava://segments/17609848/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/17609848/local_legend?categories%5B%5D=overall"
+      }
 }

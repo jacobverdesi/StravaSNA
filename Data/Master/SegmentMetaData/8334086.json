@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8334086,
+      "resource_state": 3,
+      "name": "Massaug Cove hill",
+      "activity_type": "Ride",
+      "distance": 532.4,
+      "average_grade": 8.4,
+      "maximum_grade": 21.5,
+      "elevation_high": 122.9,
+      "elevation_low": 78.1,
+      "start_latlng": [
+            43.214007,
+            -77.544352
+      ],
+      "end_latlng": [
+            43.213877,
+            -77.547172
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UVLLDKM3YMBP4NPOZKP5GPCYEYZ3CVYWR3QRU7H5OVHYBXHGGTYAVWUPWIK57ECG34PH7QK36YRZ7QTW6K4A====",
+      "start_latitude": 43.214007,
+      "start_longitude": -77.544352,
+      "end_latitude": 43.213877,
+      "end_longitude": -77.547172,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-13T21:53:08Z",
+      "updated_at": "2021-05-15T08:03:45Z",
+      "total_elevation_gain": 45.1,
+      "map": {
+            "id": "s8334086",
+            "polyline": "ofwfGfkhxMeAHwAXO@a@Jo@`@ORiArBM\\AXRp@PXZZLPjAvCTZRPVLXFTB^ATG~@o@",
+            "resource_state": 3
+      },
+      "effort_count": 1754,
+      "athlete_count": 183,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:30",
+            "qom": "2:05",
+            "destination": {
+                  "href": "strava://segments/8334086/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 33905706,
+            "title": "Scott Morrison",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/33905706/12973171/4/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/8334086/local_legend?categories%5B%5D=overall"
+      }
 }

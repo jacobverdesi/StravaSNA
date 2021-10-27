@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14142836,
+      "resource_state": 3,
+      "name": "* WINT WAY * daoldskitrail *",
+      "activity_type": "Ride",
+      "distance": 1943.8,
+      "average_grade": 0.1,
+      "maximum_grade": 4.8,
+      "elevation_high": 141.8,
+      "elevation_low": 136.4,
+      "start_latlng": [
+            43.093979,
+            -77.428443
+      ],
+      "end_latlng": [
+            43.088738,
+            -77.406532
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/75Q7AJHFEUCLEZPRLVAJKDHZGYN77DVH2IWBA2AAMIMDB62Q6MOBARAM3YJYH6BQKGMXOPMGHYBLDKC3PRAA====",
+      "start_latitude": 43.093979,
+      "start_longitude": -77.428443,
+      "end_latitude": 43.088738,
+      "end_longitude": -77.406532,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-02-10T19:39:42Z",
+      "updated_at": "2021-05-15T02:18:57Z",
+      "total_elevation_gain": 5.4,
+      "map": {
+            "id": "s14142836",
+            "polyline": "ix_fGxvqwMIQFWP[X_@La@Zc@Pg@ZkAnBcEZk@|A{Dl@sAt@qBPYh@oAdAqDL{@VaAZ{APcBJi@Pi@Lm@Hs@JiBFaD?{CAqBDiEHyCEeEHg@HkDCoITaFLaBTiBJqBNiAx@oBb@{AzA}E",
+            "resource_state": 3
+      },
+      "effort_count": 1823,
+      "athlete_count": 195,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:04",
+            "qom": "4:54",
+            "destination": {
+                  "href": "strava://segments/14142836/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/14142836/local_legend?categories%5B%5D=overall"
+      }
 }

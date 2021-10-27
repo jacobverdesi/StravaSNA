@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 971836,
+      "resource_state": 3,
+      "name": "RIT Hill on East River - Northbound",
+      "activity_type": "Ride",
+      "distance": 419.638,
+      "average_grade": 3.1,
+      "maximum_grade": 6.5,
+      "elevation_high": 173.0,
+      "elevation_low": 159.8,
+      "start_latlng": [
+            43.078137,
+            -77.687648
+      ],
+      "end_latlng": [
+            43.081858,
+            -77.686889
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AWRGJYTF3VKL4BEVQ2PGJBDKKWNRBMPK3JDD6VTUBSDJM3LLSYAPPBHXBYN7S6MHJVM5MPVVK3RDLHODV3LQ====",
+      "start_latitude": 43.078137,
+      "start_longitude": -77.687648,
+      "end_latitude": 43.081858,
+      "end_longitude": -77.686889,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-02-05T19:35:12Z",
+      "updated_at": "2021-05-15T08:02:37Z",
+      "total_elevation_gain": 13.1679,
+      "map": {
+            "id": "s971836",
+            "polyline": "iu|eGxjdyMm@MeE_@aBYuAO]Cs@So@I{AI}AS",
+            "resource_state": 3
+      },
+      "effort_count": 2737,
+      "athlete_count": 537,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "35s",
+            "qom": "47s",
+            "destination": {
+                  "href": "strava://segments/971836/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5031574,
+            "title": "Jeff Parrish",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5031574/2928002/2/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/971836/local_legend?categories%5B%5D=overall"
+      }
 }

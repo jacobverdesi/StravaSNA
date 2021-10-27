@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3277737,
+      "resource_state": 3,
+      "name": "Fairport Rd (Rt 153-Main St)",
+      "activity_type": "Ride",
+      "distance": 910.85,
+      "average_grade": -0.1,
+      "maximum_grade": 6.6,
+      "elevation_high": 39.8,
+      "elevation_low": 30.4,
+      "start_latlng": [
+            43.10810077004135,
+            -77.49959740787745
+      ],
+      "end_latlng": [
+            43.1049913354218,
+            -77.48934516683221
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/O3XB3P22Y5YHKMT3A4WW2JQZAB7UY4E7NXKPOSE33YBDARUGH5ISXNYGPPZK7PZEU43EBNF6VYLKLY4LZOVQ====",
+      "start_latitude": 43.10810077004135,
+      "start_longitude": -77.49959740787745,
+      "end_latitude": 43.1049913354218,
+      "end_longitude": -77.48934516683221,
+      "climb_category": 0,
+      "city": "East Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-01-16T21:54:43Z",
+      "updated_at": "2021-05-18T08:02:57Z",
+      "total_elevation_gain": 8.2,
+      "map": {
+            "id": "s3277737",
+            "polyline": "spbfGns_xMnBiJp@{CtCyNzEkUxAuH",
+            "resource_state": 3
+      },
+      "effort_count": 1326,
+      "athlete_count": 347,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:08",
+            "qom": "49s",
+            "destination": {
+                  "href": "strava://segments/3277737/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 36271646,
+            "title": "Jeffrey Gammiero",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/36271646/10684099/3/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/3277737/local_legend?categories%5B%5D=overall"
+      }
 }

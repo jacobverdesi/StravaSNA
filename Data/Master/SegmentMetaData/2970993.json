@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2970993,
+      "resource_state": 3,
+      "name": "Rt 65 (Calkins Rd-Stone Rd)",
+      "activity_type": "Ride",
+      "distance": 942.2,
+      "average_grade": 1.2,
+      "maximum_grade": 4.7,
+      "elevation_high": 139.2,
+      "elevation_low": 128.0,
+      "start_latlng": [
+            43.06879140436649,
+            -77.54909095354378
+      ],
+      "end_latlng": [
+            43.07694925926626,
+            -77.54674896597862
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GPC2IJFV2B6777TTEX5Y46XYMO67TV6YY55FQCMJAVBO2574KKPABL3YHKN7JQQTVVFMEBLQ3O6YPE5DEEDQ====",
+      "start_latitude": 43.06879140436649,
+      "start_longitude": -77.54909095354378,
+      "end_latitude": 43.07694925926626,
+      "end_longitude": -77.54674896597862,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-12-14T14:53:06Z",
+      "updated_at": "2021-05-20T08:02:23Z",
+      "total_elevation_gain": 11.2,
+      "map": {
+            "id": "s2970993",
+            "polyline": "}zzeGzhixMqBKkLJgBIeAMo@M_Cy@_Bu@iEaBwL}E",
+            "resource_state": 3
+      },
+      "effort_count": 8915,
+      "athlete_count": 1071,
+      "star_count": 11,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "48s",
+            "qom": "1:36",
+            "destination": {
+                  "href": "strava://segments/2970993/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23357095,
+            "title": "Chuck Koffenberger",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "12 efforts"
+            },
+            "destination": "strava://segments/2970993/local_legend?categories%5B%5D=overall"
+      }
 }

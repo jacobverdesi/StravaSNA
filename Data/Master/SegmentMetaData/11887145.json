@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 11887145,
+      "resource_state": 3,
+      "name": "Lowell to Clifford",
+      "activity_type": "Ride",
+      "distance": 832.1,
+      "average_grade": -0.6,
+      "maximum_grade": 0.1,
+      "elevation_high": 151.1,
+      "elevation_low": 146.4,
+      "start_latlng": [
+            43.167675,
+            -77.617178
+      ],
+      "end_latlng": [
+            43.173531,
+            -77.623547
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DPTBLMZYVMT2IYOHHZTADLVNOKDRFMOXLKOKS4YNNBFEN337DU2RWB3DDOBUU3KGXOXQZIBKUYBL65OAFSDCS===",
+      "start_latitude": 43.167675,
+      "start_longitude": -77.617178,
+      "end_latitude": 43.173531,
+      "end_longitude": -77.623547,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-04-22T18:02:30Z",
+      "updated_at": "2021-05-15T02:17:45Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s11887145",
+            "polyline": "}dnfGjrvxMiGhHmCvC{@x@mB|BqD~DsArAsBbCwEfF",
+            "resource_state": 3
+      },
+      "effort_count": 5203,
+      "athlete_count": 1092,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:02",
+            "qom": "51s",
+            "destination": {
+                  "href": "strava://segments/11887145/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 33606320,
+            "title": "Jack Ruppert",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/33606320/9985826/3/large.jpg",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/11887145/local_legend?categories%5B%5D=overall"
+      }
 }

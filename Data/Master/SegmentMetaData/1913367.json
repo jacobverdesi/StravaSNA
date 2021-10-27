@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1913367,
+      "resource_state": 3,
+      "name": "Chestnut Ridge to Chestnut",
+      "activity_type": "Ride",
+      "distance": 1905.88,
+      "average_grade": 0.1,
+      "maximum_grade": 2.6,
+      "elevation_high": 190.5,
+      "elevation_low": 179.4,
+      "start_latlng": [
+            43.1162591,
+            -77.7457683
+      ],
+      "end_latlng": [
+            43.1089634,
+            -77.7658056
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PIW2ZQ67ZGQXMP5Z7HQZ3WLJ7ET4GEQQOCDAEN2DXFUULQJRULBUWNG45NYAK4DRZC6EEOUG5XV6EPJSZ26KM===",
+      "start_latitude": 43.1162591,
+      "start_longitude": -77.7457683,
+      "end_latitude": 43.1089634,
+      "end_longitude": -77.7658056,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-31T00:33:57Z",
+      "updated_at": "2021-05-15T02:12:18Z",
+      "total_elevation_gain": 11.0552,
+      "map": {
+            "id": "s1913367",
+            "polyline": "qcdfG`voyMBdJEjKBzCFf@t@`CvDbKn@jC`D`QvBnKzAbIv@|C|AtCxKhQ`BdC|@n@bAT",
+            "resource_state": 3
+      },
+      "effort_count": 778,
+      "athlete_count": 116,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:42",
+            "qom": "3:49",
+            "destination": {
+                  "href": "strava://segments/1913367/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 86930922,
+            "title": "Greg Wright",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GgW-6e7bCzKGXg7yfCk1cpeM16GJNCkOBSPZJd2=s96-c",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/1913367/local_legend?categories%5B%5D=overall"
+      }
 }

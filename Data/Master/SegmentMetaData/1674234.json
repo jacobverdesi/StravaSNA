@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1674234,
+      "resource_state": 3,
+      "name": "Lake Ontario State Parkway Eastbound",
+      "activity_type": "Ride",
+      "distance": 3730.24,
+      "average_grade": 0.3,
+      "maximum_grade": 2.4,
+      "elevation_high": 75.6,
+      "elevation_low": 63.8,
+      "start_latlng": [
+            43.26627331785858,
+            -77.65852256678045
+      ],
+      "end_latlng": [
+            43.25257586315274,
+            -77.61939140036702
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/U64K67X6HC6FXUA7VAETFD5B3ISWBPU646AEWMIJ5OTLOVXBGSABZXJLVMJO4XOU2RFPUC5K745WPCB336CQG===",
+      "start_latitude": 43.26627331785858,
+      "start_longitude": -77.65852256678045,
+      "end_latitude": 43.25257586315274,
+      "end_longitude": -77.61939140036702,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-03T04:33:05Z",
+      "updated_at": "2021-05-17T08:03:58Z",
+      "total_elevation_gain": 13.4,
+      "map": {
+            "id": "s1674234",
+            "polyline": "emagGxt~xMr@sAzAiEr@}ApAiA^o@`AuBL]NaCZmAf@gADyAN{AZqARc@^o@Tq@D]XoAHa@H}DJoAJqEFgIH{@DoAEk@@aBJw@Pq@Rm@h@q@n@_@p@Yh@_@ZoARoEGqBH]bAu@f@QpAmANWf@m@TCh@y@d@uAf@q@jBmEn@sBb@{Bv@aCl@sC~@oCd@aBTm@f@}BN_AHiAv@oFPgBHwARoATgB@Q?iAs@eFQy@Sa@Ou@FWz@aA|@aCZeBFQn@uA`@i@Ra@f@iBTo@p@cDj@_BdAiB`@}Ar@oDd@u@b@}@t@iC^aAx@kA~@y@FO",
+            "resource_state": 3
+      },
+      "effort_count": 4798,
+      "athlete_count": 623,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:58",
+            "qom": "7:56",
+            "destination": {
+                  "href": "strava://segments/1674234/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 89654311,
+            "title": "Peter Englerth",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89654311/21427141/1/large.jpg",
+            "effort_description": "110 efforts in the last 90 days",
+            "effort_count": "110",
+            "effort_counts": {
+                  "overall": "110 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/1674234/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9771898,
+      "resource_state": 3,
+      "name": "* SHORTY ON LEE *",
+      "activity_type": "Ride",
+      "distance": 543.3,
+      "average_grade": 0.0,
+      "maximum_grade": 0.0,
+      "elevation_high": 168.0,
+      "elevation_low": 168.0,
+      "start_latlng": [
+            43.178972,
+            -77.680705
+      ],
+      "end_latlng": [
+            43.174091,
+            -77.680765
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PHFRDQIA42DCCJOJ6XASC2D3IJIR4PDL3777I5TZNFPYXOOVDMSZNA6QCK2VNKT7PCRJ3ESUC5VQSEACSQNQ====",
+      "start_latitude": 43.178972,
+      "start_longitude": -77.680705,
+      "end_latitude": 43.174091,
+      "end_longitude": -77.680765,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-20T18:14:39Z",
+      "updated_at": "2021-05-15T02:16:34Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9771898",
+            "polyline": "qkpfGl_cyMnABnEAlGD`LB",
+            "resource_state": 3
+      },
+      "effort_count": 1842,
+      "athlete_count": 250,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "44s",
+            "qom": "58s",
+            "destination": {
+                  "href": "strava://segments/9771898/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 60463754,
+            "title": "Brett Blaisdell",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/60463754/15756595/1/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9771898/local_legend?categories%5B%5D=overall"
+      }
 }

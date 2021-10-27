@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8309343,
+      "resource_state": 3,
+      "name": "* LYSEY WAY *",
+      "activity_type": "Ride",
+      "distance": 983.1,
+      "average_grade": -0.2,
+      "maximum_grade": 6.6,
+      "elevation_high": 157.0,
+      "elevation_low": 154.8,
+      "start_latlng": [
+            43.071785,
+            -77.408862
+      ],
+      "end_latlng": [
+            43.078633,
+            -77.412668
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4YY32YGMTRNHCRIMREFFJK5EIGIR5UOTZFH33XEC4JDJT5NCML2V44NSX4WTL3D47S2N3OV4E33KJ2UBIZHNI===",
+      "start_latitude": 43.071785,
+      "start_longitude": -77.408862,
+      "end_latitude": 43.078633,
+      "end_longitude": -77.412668,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-09T20:58:27Z",
+      "updated_at": "2021-05-15T02:15:44Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s8309343",
+            "polyline": "sm{eGl|mwM[nAM\\[b@m@j@YLmAToAGqBSkACiANc@L_Ah@c@d@U\\e@pAStAAjB@|BA^CNGNKFiBBqETW?s@EqAOWKaAg@",
+            "resource_state": 3
+      },
+      "effort_count": 356,
+      "athlete_count": 66,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:23",
+            "qom": "2:07",
+            "destination": {
+                  "href": "strava://segments/8309343/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16754430,
+            "title": "Andrew Wroblewski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/16754430/4701153/3/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/8309343/local_legend?categories%5B%5D=overall"
+      }
 }

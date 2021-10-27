@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9438869,
+      "resource_state": 3,
+      "name": "Arnett",
+      "activity_type": "Ride",
+      "distance": 987.2,
+      "average_grade": 0.2,
+      "maximum_grade": 2.5,
+      "elevation_high": 165.8,
+      "elevation_low": 164.1,
+      "start_latlng": [
+            43.142216,
+            -77.637641
+      ],
+      "end_latlng": [
+            43.142225,
+            -77.649777
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MELT66AEHF6GUWP27UBWZABDN7FZ6FVBTM4LBRSPL2SHW6XWBA754LYDNRCDEG57NSBL7QGXEX4XDQBZSYYA====",
+      "start_latitude": 43.142216,
+      "start_longitude": -77.637641,
+      "end_latitude": 43.142225,
+      "end_longitude": -77.649777,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-08T16:39:24Z",
+      "updated_at": "2021-05-15T02:16:21Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9438869",
+            "polyline": "yeifGhrzxMAxjA",
+            "resource_state": 3
+      },
+      "effort_count": 103,
+      "athlete_count": 64,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:49",
+            "qom": "2:12",
+            "destination": {
+                  "href": "strava://segments/9438869/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24675964,
+            "title": "Jon Mead",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/24675964/9887438/1/large.jpg",
+            "effort_description": "17 efforts in the last 90 days",
+            "effort_count": "17",
+            "effort_counts": {
+                  "overall": "17 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/9438869/local_legend?categories%5B%5D=overall"
+      }
 }

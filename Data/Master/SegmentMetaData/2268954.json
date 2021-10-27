@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2268954,
+      "resource_state": 3,
+      "name": "Heath Markin +",
+      "activity_type": "Ride",
+      "distance": 5800.6,
+      "average_grade": 1.4,
+      "maximum_grade": 6.9,
+      "elevation_high": 326.2,
+      "elevation_low": 243.0,
+      "start_latlng": [
+            42.92734578251839,
+            -77.64663468115032
+      ],
+      "end_latlng": [
+            42.883302234113216,
+            -77.65059798024595
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OF74DJ4C4QXMM3UTHBQR4EVFY23K72D4N4J4ORS52ALIWH4E5MYITFUWKUAD3ZKVIXCA3IJQSUO4JIGRB5464===",
+      "start_latitude": 42.92734578251839,
+      "start_longitude": -77.64663468115032,
+      "end_latitude": 42.883302234113216,
+      "end_longitude": -77.65059798024595,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-09-01T00:26:54Z",
+      "updated_at": "2021-05-15T02:12:26Z",
+      "total_elevation_gain": 90.6,
+      "map": {
+            "id": "s2268954",
+            "polyline": "{f_eGnj|xMT}DJsCtAkYTk@VAvBt@`EhAjCp@dS`GlCl@jCb@f@N|Dx@xC`A~@`@dAx@fDfF~@hBr@`Ah@dAdF~K^f@PNf@Vd@L~AJnBC`DHxEDfBClE@fCJ`DEjB?fMJtBAtEH`E?\\DfAA\\LP\\Fh@?x@UhDHn@`@N\\CnAGd@G|A@h@Az@@XCzA?fEM\\@lDMdAElBQpB[fA[hBo@jB{@lA_ApAmAnDmCz@u@z@c@b@QhAS|AHfATxBh@pElApC|@xD~@vFbB~HpBfAHlB@",
+            "resource_state": 3
+      },
+      "effort_count": 151,
+      "athlete_count": 52,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "11:59",
+            "qom": "14:40",
+            "destination": {
+                  "href": "strava://segments/2268954/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32592675,
+            "title": "Sophie Kotok",
+            "profile": "https://graph.facebook.com/10157492041163362/picture?height=256&width=256",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/2268954/local_legend?categories%5B%5D=overall"
+      }
 }

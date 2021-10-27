@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21486923,
+      "resource_state": 3,
+      "name": "Bottom of Clinton",
+      "activity_type": "Ride",
+      "distance": 1334.9,
+      "average_grade": 0.1,
+      "maximum_grade": 5.9,
+      "elevation_high": 164.0,
+      "elevation_low": 153.4,
+      "start_latlng": [
+            43.107859,
+            -77.598639
+      ],
+      "end_latlng": [
+            43.09599,
+            -77.600988
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UPIILRI4FZTNQ73UIKD4K5SS3QABWND6KRX54UXREV4WDXTOFTA6BLTSZGB6DEZMWXEBIAVFP4F7IH46QRULW===",
+      "start_latitude": 43.107859,
+      "start_longitude": -77.598639,
+      "end_latitude": 43.09599,
+      "end_longitude": -77.600988,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-08-15T18:29:52Z",
+      "updated_at": "2021-05-15T02:23:45Z",
+      "total_elevation_gain": 12.4,
+      "map": {
+            "id": "s21486923",
+            "polyline": "aobfGn~rxMnN~AvGn@jHb@nEP~Hd@rC`@zAXrLhCzAb@",
+            "resource_state": 3
+      },
+      "effort_count": 981,
+      "athlete_count": 219,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:13",
+            "qom": "2:01",
+            "destination": {
+                  "href": "strava://segments/21486923/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9552348,
+            "title": "Rick Postl",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9552348/3322956/4/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/21486923/local_legend?categories%5B%5D=overall"
+      }
 }

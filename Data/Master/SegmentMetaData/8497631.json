@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8497631,
+      "resource_state": 3,
+      "name": "* UP TO ERIE *",
+      "activity_type": "Ride",
+      "distance": 351.4,
+      "average_grade": 1.0,
+      "maximum_grade": 5.2,
+      "elevation_high": 180.0,
+      "elevation_low": 176.4,
+      "start_latlng": [
+            43.04331,
+            -77.695827
+      ],
+      "end_latlng": [
+            43.040372,
+            -77.696976
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/I2WS2HDWV5QJHZNJ2SHHHQHCCKVRV2ADOY7ERKAOLH6Y47VDDW2UXUQAU34DZKSRZHLZK343UX73U5QIR6FMS===",
+      "start_latitude": 43.04331,
+      "start_longitude": -77.695827,
+      "end_latitude": 43.040372,
+      "end_longitude": -77.696976,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-12T01:22:21Z",
+      "updated_at": "2021-05-18T08:03:47Z",
+      "total_elevation_gain": 3.6,
+      "map": {
+            "id": "s8497631",
+            "polyline": "u{ueG|}eyM~EvA~DnAhB`@`AZ",
+            "resource_state": 3
+      },
+      "effort_count": 4147,
+      "athlete_count": 847,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "24s",
+            "qom": "29s",
+            "destination": {
+                  "href": "strava://segments/8497631/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8563682,
+            "title": "Marty Nickerson",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/8497631/local_legend?categories%5B%5D=overall"
+      }
 }

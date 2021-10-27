@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4242441,
+      "resource_state": 3,
+      "name": "S Clinton Climb",
+      "activity_type": "Ride",
+      "distance": 805.4,
+      "average_grade": 2.6,
+      "maximum_grade": 9.2,
+      "elevation_high": 176.9,
+      "elevation_low": 156.1,
+      "start_latlng": [
+            43.139479,
+            -77.595876
+      ],
+      "end_latlng": [
+            43.133368,
+            -77.590683
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/G22RF7PLHIHKUABNX3HJOPSGSDVCIQN3KJT4EYHCIUQJPKYURXCMGBIZB2ANVYIIJNFNSPFSR3IJ37ESFSFRC===",
+      "start_latitude": 43.139479,
+      "start_longitude": -77.595876,
+      "end_latitude": 43.133368,
+      "end_longitude": -77.590683,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-28T23:55:57Z",
+      "updated_at": "2021-05-15T02:13:14Z",
+      "total_elevation_gain": 20.8,
+      "map": {
+            "id": "s4242441",
+            "polyline": "uthfGfmrxMjCqBjEwCjAgAdCkBhA_A~BaBXYt@m@z@}@h@k@|@yAxA}AbCcA",
+            "resource_state": 3
+      },
+      "effort_count": 563,
+      "athlete_count": 224,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:01",
+            "qom": "1:51",
+            "destination": {
+                  "href": "strava://segments/4242441/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 15853890,
+            "title": "Bryan Agnello",
+            "profile": "https://graph.facebook.com/10154257859722152/picture?height=256&width=256",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/4242441/local_legend?categories%5B%5D=overall"
+      }
 }

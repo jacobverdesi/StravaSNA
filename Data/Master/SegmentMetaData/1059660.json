@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1059660,
+      "resource_state": 3,
+      "name": "Thayer Rd Part 2",
+      "activity_type": "Ride",
+      "distance": 736.509,
+      "average_grade": 6.5,
+      "maximum_grade": 13.2,
+      "elevation_high": 273.9,
+      "elevation_low": 226.3,
+      "start_latlng": [
+            43.04794268,
+            -77.41828335
+      ],
+      "end_latlng": [
+            43.0422615,
+            -77.42169043
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KVHTODTWZIIZX6RVBVPMSJBBAULYE253NFEFRHQ5OAVT3RTZVP3MAIAL5NOF4BOEDEETKJKNMH73TZMVASCQ====",
+      "start_latitude": 43.04794268,
+      "start_longitude": -77.41828335,
+      "end_latitude": 43.0422615,
+      "end_longitude": -77.42169043,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-03-07T14:15:04Z",
+      "updated_at": "2021-05-20T08:02:09Z",
+      "total_elevation_gain": 47.7107,
+      "map": {
+            "id": "s1059660",
+            "polyline": "sxveGhwowMr@BXAfAMp@Cp@Qb@Cn@BRDn@DR?f@PXNPNVXNVt@r@xBjCPJb@RNL\\l@FTn@f@|@zA\\b@Zl@^b@NJTHn@LRH",
+            "resource_state": 3
+      },
+      "effort_count": 3634,
+      "athlete_count": 429,
+      "star_count": 20,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:35",
+            "qom": "2:38",
+            "destination": {
+                  "href": "strava://segments/1059660/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62652222,
+            "title": "Alexander Shestopalov",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/62652222/20628553/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/1059660/local_legend?categories%5B%5D=overall"
+      }
 }

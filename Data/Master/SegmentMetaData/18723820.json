@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18723820,
+      "resource_state": 3,
+      "name": "Give it some beans!",
+      "activity_type": "Ride",
+      "distance": 2538.2,
+      "average_grade": 0.0,
+      "maximum_grade": 1.8,
+      "elevation_high": 143.0,
+      "elevation_low": 138.3,
+      "start_latlng": [
+            43.071171,
+            -77.491002
+      ],
+      "end_latlng": [
+            43.088657,
+            -77.510214
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KD77DRYBIEALBFH2QWX3C6BRYMDCRH4EZK3AB6NXDEXZCSFCHQKKVYWLUK3L74WVTLIDWFVY4OZ6R7JARYTGE===",
+      "start_latitude": 43.071171,
+      "start_longitude": -77.491002,
+      "end_latitude": 43.088657,
+      "end_longitude": -77.510214,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-09-01T21:41:57Z",
+      "updated_at": "2021-05-20T08:04:48Z",
+      "total_elevation_gain": 5.4,
+      "map": {
+            "id": "s18723820",
+            "polyline": "yi{eGx}}wMwCjBQNKDc@Vc@^w@d@sAv@wBdAs@d@o@n@]n@KHq@dAm@v@Wl@}BfDs@vAm@bAWj@c@v@SRGLm@vAa@z@o@fAg@p@eAdBSTg@XQTGJc@rAYr@]l@O`@S`@c@j@}@bBk@n@m@jAYPm@lAu@pAuAbBS`@gAzAINYXg@`Ai@~@o@pA_@l@cB`Ba@d@OHWVsA`AOBg@\\WTi@^s@n@INkAbAMFSBWT[Nq@j@MBkA|@ILiAbAw@`@_An@a@d@aAx@cAn@o@h@s@`@q@h@",
+            "resource_state": 3
+      },
+      "effort_count": 16141,
+      "athlete_count": 3756,
+      "star_count": 12,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:05",
+            "qom": "4:45",
+            "destination": {
+                  "href": "strava://segments/18723820/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "42 efforts in the last 90 days",
+            "effort_count": "42",
+            "effort_counts": {
+                  "overall": "42 efforts",
+                  "female": "25 efforts"
+            },
+            "destination": "strava://segments/18723820/local_legend?categories%5B%5D=overall"
+      }
 }

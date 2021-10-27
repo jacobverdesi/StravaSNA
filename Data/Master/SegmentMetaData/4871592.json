@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4871592,
+      "resource_state": 3,
+      "name": "Zoo Bridge Climbout",
+      "activity_type": "Ride",
+      "distance": 430.3,
+      "average_grade": 11.2,
+      "maximum_grade": 25.6,
+      "elevation_high": 123.2,
+      "elevation_low": 74.8,
+      "start_latlng": [
+            43.197975,
+            -77.619956
+      ],
+      "end_latlng": [
+            43.201112,
+            -77.621577
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PDT43UQPD3OBFTS6YSLIANCR2DQTMCGO3XPZCNAHPLWVQ3NQ4U4AUO4TAWZI2S74JFQCJBVOUUYKLNQCAKQQ====",
+      "start_latitude": 43.197975,
+      "start_longitude": -77.619956,
+      "end_latitude": 43.201112,
+      "end_longitude": -77.621577,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-26T00:52:46Z",
+      "updated_at": "2021-05-19T08:02:28Z",
+      "total_elevation_gain": 55.3,
+      "map": {
+            "id": "s4871592",
+            "polyline": "ibtfGvcwxMMsAkCM_B`A{A|AsDlD}ApAKD",
+            "resource_state": 3
+      },
+      "effort_count": 4017,
+      "athlete_count": 771,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "43s",
+            "qom": "1:02",
+            "destination": {
+                  "href": "strava://segments/4871592/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 11225930,
+            "title": "Tim Gabriel",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/11225930/3418235/3/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/4871592/local_legend?categories%5B%5D=overall"
+      }
 }

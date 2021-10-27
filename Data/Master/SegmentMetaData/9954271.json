@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9954271,
+      "resource_state": 3,
+      "name": "65 - Jefferson to Monroe",
+      "activity_type": "Ride",
+      "distance": 2568.1,
+      "average_grade": -0.5,
+      "maximum_grade": 17.3,
+      "elevation_high": 157.2,
+      "elevation_low": 138.7,
+      "start_latlng": [
+            43.087755,
+            -77.542681
+      ],
+      "end_latlng": [
+            43.11039,
+            -77.547586
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WDGQNNFCL2X7ICVHPXJN22NURRF4RQPGE74EB4U2UAH46EIOOXRF4XEHPFIGGQVDPHWZ6GAMKR5EG7HH2M4A====",
+      "start_latitude": 43.087755,
+      "start_longitude": -77.542681,
+      "end_latitude": 43.11039,
+      "end_longitude": -77.547586,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-07-14T14:50:47Z",
+      "updated_at": "2021-05-15T08:04:03Z",
+      "total_elevation_gain": 37.5,
+      "map": {
+            "id": "s9954271",
+            "polyline": "mq~eGx`hxMkEjAQCuDnAi@Lk@PuCr@s@Ve@H_B`@aCt@e@H]L]HOHo@Pk@Tk@NoAd@u@P}Al@e@J_@RaB`@KFc@HSHiFfAcAJe@@oCf@g@L[Fc@@e@Jc@DkB\\{@?m@JcAJs@Be@FQA_CFuA?_@FcADyCDgAH]?[BKAc@?a@BgCD}@Eq@BIBgCBaAF_@?e@Eq@F}ABmERwA@e@@kAAk@@",
+            "resource_state": 3
+      },
+      "effort_count": 6812,
+      "athlete_count": 559,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:15",
+            "qom": "2:20",
+            "destination": {
+                  "href": "strava://segments/9954271/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23357095,
+            "title": "Chuck Koffenberger",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "13 efforts"
+            },
+            "destination": "strava://segments/9954271/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1674305,
+      "resource_state": 3,
+      "name": "Lettington Sprint",
+      "activity_type": "Ride",
+      "distance": 262.958,
+      "average_grade": 0.5,
+      "maximum_grade": 1.8,
+      "elevation_high": 168.0,
+      "elevation_low": 166.8,
+      "start_latlng": [
+            43.13562107272446,
+            -77.68030134961009
+      ],
+      "end_latlng": [
+            43.13797923736274,
+            -77.6802160218358
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OC7DZQLTYH7EKRNFIZGPIIKAJ3VXKLCX7FQZWKUBT25MYGKNU2A5DWTLHXAH4QXX3H2OWT4PQ6RCPIGS56UAK===",
+      "start_latitude": 43.13562107272446,
+      "start_longitude": -77.68030134961009,
+      "end_latitude": 43.13797923736274,
+      "end_longitude": -77.6802160218358,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-03T04:50:44Z",
+      "updated_at": "2021-05-15T02:12:12Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s1674305",
+            "polyline": "s|gfG||byMgBM}CAiBIeBF",
+            "resource_state": 3
+      },
+      "effort_count": 18,
+      "athlete_count": 4,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "19s",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/1674305/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 57271739,
+            "title": "Alex Sigismondi",
+            "profile": "https://graph.facebook.com/10157401297855765/picture?height=256&width=256",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/1674305/local_legend?categories%5B%5D=overall"
+      }
 }

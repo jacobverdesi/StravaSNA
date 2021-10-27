@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13481572,
+      "resource_state": 3,
+      "name": "Find a ladder",
+      "activity_type": "Ride",
+      "distance": 120.1,
+      "average_grade": 18.5,
+      "maximum_grade": 37.7,
+      "elevation_high": 237.6,
+      "elevation_low": 215.4,
+      "start_latlng": [
+            43.038751,
+            -77.440683
+      ],
+      "end_latlng": [
+            43.038737,
+            -77.442137
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HHZZHRVROKYTEXGCICVF7EYQTEYLOVIE2XKAYUTM64MMUR2YOFFMD5WPZRPJ5VZVP7MGEKSN2O2AMHE2ALAA====",
+      "start_latitude": 43.038751,
+      "start_longitude": -77.440683,
+      "end_latitude": 43.038737,
+      "end_longitude": -77.442137,
+      "climb_category": 0,
+      "city": "Victor",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-20T12:37:29Z",
+      "updated_at": "2021-05-17T08:06:37Z",
+      "total_elevation_gain": 22.2,
+      "map": {
+            "id": "s13481572",
+            "polyline": "e_ueGhctwMITFT?^Mz@AHNPFZ@PIt@DX",
+            "resource_state": 3
+      },
+      "effort_count": 481,
+      "athlete_count": 97,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "45s",
+            "qom": "1:22",
+            "destination": {
+                  "href": "strava://segments/13481572/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/13481572/local_legend?categories%5B%5D=overall"
+      }
 }

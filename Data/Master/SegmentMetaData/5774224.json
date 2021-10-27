@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5774224,
+      "resource_state": 3,
+      "name": "Dive Bomb",
+      "activity_type": "Ride",
+      "distance": 213.3,
+      "average_grade": -9.8,
+      "maximum_grade": 7.6,
+      "elevation_high": 115.5,
+      "elevation_low": 93.3,
+      "start_latlng": [
+            43.162204,
+            -77.531942
+      ],
+      "end_latlng": [
+            43.163491,
+            -77.530499
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/N5HIX6MCRW3KK7CTL2P6NJISRTWSK5QVOKQB74V2KFSDBPA7VS3I5PXIKI7ZNL4VRAMCTXIHMEJYLMAIYG7A====",
+      "start_latitude": 43.162204,
+      "start_longitude": -77.531942,
+      "end_latitude": 43.163491,
+      "end_longitude": -77.530499,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-10-14T13:57:13Z",
+      "updated_at": "2021-05-20T08:02:45Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s5774224",
+            "polyline": "wbmfGt}exMG]a@c@BQUe@IAMMSGMB_@EUUKEG_@Wg@?WO]KJM?",
+            "resource_state": 3
+      },
+      "effort_count": 3493,
+      "athlete_count": 427,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "10s",
+            "qom": "22s",
+            "destination": {
+                  "href": "strava://segments/5774224/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10477404,
+            "title": "Tim Wall",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10477404/9852718/1/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/5774224/local_legend?categories%5B%5D=overall"
+      }
 }

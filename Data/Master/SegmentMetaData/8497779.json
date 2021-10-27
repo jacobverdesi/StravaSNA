@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8497779,
+      "resource_state": 3,
+      "name": "* BAILEY FROM WEST HEN *",
+      "activity_type": "Ride",
+      "distance": 1537.2,
+      "average_grade": 0.3,
+      "maximum_grade": 8.1,
+      "elevation_high": 169.6,
+      "elevation_low": 162.6,
+      "start_latlng": [
+            43.072733,
+            -77.645608
+      ],
+      "end_latlng": [
+            43.072434,
+            -77.66429
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/H5GFRCXR3L3HW5VV3ZCM6DEPKJ24LOQLE5SFPDUOZPASK3V4GJCQJW2CDWW4XGVACBRVFZH4PL7NH7TZ3ZXGI===",
+      "start_latitude": 43.072733,
+      "start_longitude": -77.645608,
+      "end_latitude": 43.072434,
+      "end_longitude": -77.66429,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-12T02:16:57Z",
+      "updated_at": "2021-05-19T08:03:05Z",
+      "total_elevation_gain": 9.2,
+      "map": {
+            "id": "s8497779",
+            "polyline": "qs{eG`d|xM@pGF~K?dEV~_@JpS?rCF~ND~A?xJ",
+            "resource_state": 3
+      },
+      "effort_count": 979,
+      "athlete_count": 284,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:34",
+            "qom": "3:09",
+            "destination": {
+                  "href": "strava://segments/8497779/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 58127621,
+            "title": "shockin audrey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/58127621/14964295/1/large.jpg",
+            "effort_description": "48 efforts in the last 90 days",
+            "effort_count": "48",
+            "effort_counts": {
+                  "overall": "48 efforts",
+                  "female": "48 efforts"
+            },
+            "destination": "strava://segments/8497779/local_legend?categories%5B%5D=overall"
+      }
 }

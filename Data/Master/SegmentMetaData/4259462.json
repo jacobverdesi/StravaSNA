@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4259462,
+      "resource_state": 3,
+      "name": "Lyell - Buffalo (Eastbound)",
+      "activity_type": "Ride",
+      "distance": 1685.7,
+      "average_grade": -0.0,
+      "maximum_grade": 25.5,
+      "elevation_high": 167.6,
+      "elevation_low": 155.9,
+      "start_latlng": [
+            43.164478,
+            -77.676852
+      ],
+      "end_latlng": [
+            43.150229,
+            -77.672025
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZHFZQUV756MCNZITFUKDTWTGPZDZSTV2LULPUAXWM5RMKJTOWKQHLUUEPMC4CTEYSY7QHE4FWM776GPIEWUA====",
+      "start_latitude": 43.164478,
+      "start_longitude": -77.676852,
+      "end_latitude": 43.150229,
+      "end_longitude": -77.672025,
+      "climb_category": 0,
+      "city": "Gates North Gates",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-31T02:59:22Z",
+      "updated_at": "2021-05-20T08:02:32Z",
+      "total_elevation_gain": 38.7,
+      "map": {
+            "id": "s4259462",
+            "polyline": "}pmfGjgbyMh@MRAb@KDGPITQjAi@t@c@fAWb@G^M\\GpAc@NMp@MdBa@L@dAc@j@EPE\\Ud@a@NLx@MJHPIb@EPI\\INGR?^G`@SPCPDPNN@NCD_@Tk@V_@PMLSbBJRCh@Ap@MRCh@?LCL?JD`Aa@NCNGr@g@v@O^Qr@IZ?LEN?PIZCfB]\\Mf@IhA]LA\\OLOtAQl@Qz@I^?JAj@UTMt@Uf@CJCl@BLD",
+            "resource_state": 3
+      },
+      "effort_count": 9830,
+      "athlete_count": 2921,
+      "star_count": 12,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:34",
+            "qom": "3:18",
+            "destination": {
+                  "href": "strava://segments/4259462/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2055069,
+            "title": "Brad Paul",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2055069/20073863/1/large.jpg",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/4259462/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7339323,
+      "resource_state": 3,
+      "name": "383 Hill",
+      "activity_type": "Ride",
+      "distance": 348.9,
+      "average_grade": 6.1,
+      "maximum_grade": 9.6,
+      "elevation_high": 183.2,
+      "elevation_low": 161.8,
+      "start_latlng": [
+            43.028843,
+            -77.737428
+      ],
+      "end_latlng": [
+            43.028127,
+            -77.741434
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BASSHPUYUXY7FMFOBIZKXJDRK7OQWM4VIMAD63A7T37RM6SSLUS2J4EBTHN42MGSVQZXRYDVDVKQM42N3OXA====",
+      "start_latitude": 43.028843,
+      "start_longitude": -77.737428,
+      "end_latitude": 43.028127,
+      "end_longitude": -77.741434,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-02T00:40:33Z",
+      "updated_at": "2021-05-15T02:15:07Z",
+      "total_elevation_gain": 21.4,
+      "map": {
+            "id": "s7339323",
+            "polyline": "gaseG|anyMNzAb@fB?Th@pBh@`BZvADn@C^A~@In@IzA",
+            "resource_state": 3
+      },
+      "effort_count": 3081,
+      "athlete_count": 628,
+      "star_count": 11,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "35s",
+            "qom": "55s",
+            "destination": {
+                  "href": "strava://segments/7339323/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 718472,
+            "title": "kenneth wright",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/718472/167324/3/large.jpg",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/7339323/local_legend?categories%5B%5D=overall"
+      }
 }

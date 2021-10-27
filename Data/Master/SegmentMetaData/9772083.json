@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9772083,
+      "resource_state": 3,
+      "name": "* AGILITY BRIDGE * OVER da RIDGE *",
+      "activity_type": "Ride",
+      "distance": 216.6,
+      "average_grade": 1.8,
+      "maximum_grade": 15.5,
+      "elevation_high": 139.6,
+      "elevation_low": 133.6,
+      "start_latlng": [
+            43.206756,
+            -77.672789
+      ],
+      "end_latlng": [
+            43.20588,
+            -77.671974
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MU6WIVN6NIMUEQS4Y2I2DMUJQFDZ5O7OT3ZQ7M6SRDOPXLK77VBPW72BOH5MEJS2LPSOJY2VXICURQIWWE6Q====",
+      "start_latitude": 43.206756,
+      "start_longitude": -77.672789,
+      "end_latitude": 43.20588,
+      "end_longitude": -77.671974,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-20T18:35:39Z",
+      "updated_at": "2021-05-15T02:16:34Z",
+      "total_elevation_gain": 6.0,
+      "map": {
+            "id": "s9772083",
+            "polyline": "eyufG|mayMt@cAVo@HI^E^Gl@Er@BFE?EEC]Go@B",
+            "resource_state": 3
+      },
+      "effort_count": 475,
+      "athlete_count": 214,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "24s",
+            "qom": "53s",
+            "destination": {
+                  "href": "strava://segments/9772083/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43966045,
+            "title": "Keith W",
+            "profile": "https://graph.facebook.com/10103323891172485/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/9772083/local_legend?categories%5B%5D=overall"
+      }
 }

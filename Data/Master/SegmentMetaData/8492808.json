@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8492808,
+      "resource_state": 3,
+      "name": "* FORMER BIG POTATO LAND *",
+      "activity_type": "Ride",
+      "distance": 1383.5,
+      "average_grade": -0.1,
+      "maximum_grade": 11.9,
+      "elevation_high": 200.8,
+      "elevation_low": 182.8,
+      "start_latlng": [
+            43.022908,
+            -77.601736
+      ],
+      "end_latlng": [
+            43.022979,
+            -77.58493
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZPROTJCR7IBYNTRQ3THIVJF63QFTUPRYVCLYDGRZ72GIZK2V4RXZCPGVUAFDQIWCPPMOZAMV5DCXANTXN65Q====",
+      "start_latitude": 43.022908,
+      "start_longitude": -77.601736,
+      "end_latitude": 43.022979,
+      "end_longitude": -77.58493,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-11T04:40:44Z",
+      "updated_at": "2021-05-20T08:03:13Z",
+      "total_elevation_gain": 16.4,
+      "map": {
+            "id": "s8492808",
+            "polyline": "c|qeGzqsxMAoB@yCMgPIaHKcQBeE@uOFkE?sEBqBAqEFyCAo@",
+            "resource_state": 3
+      },
+      "effort_count": 3478,
+      "athlete_count": 567,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:37",
+            "qom": "2:12",
+            "destination": {
+                  "href": "strava://segments/8492808/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32792443,
+            "title": "John Bugajski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/32792443/15473075/2/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/8492808/local_legend?categories%5B%5D=overall"
+      }
 }

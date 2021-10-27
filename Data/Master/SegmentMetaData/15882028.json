@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15882028,
+      "resource_state": 3,
+      "name": "Canal Lyell to Long Pond",
+      "activity_type": "Ride",
+      "distance": 2836.7,
+      "average_grade": -0.1,
+      "maximum_grade": 3.4,
+      "elevation_high": 160.9,
+      "elevation_low": 155.2,
+      "start_latlng": [
+            43.165094,
+            -77.676986
+      ],
+      "end_latlng": [
+            43.181963,
+            -77.700645
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/X6GKGNIBEW2F2D5UWGL5422EFJENLUD544BSZBWQLP67AIKLQZD3BKQZZG3LCMEM63256DO6CHHUKYGNGL4VA===",
+      "start_latitude": 43.165094,
+      "start_longitude": -77.676986,
+      "end_latitude": 43.181963,
+      "end_longitude": -77.700645,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-08-29T14:38:44Z",
+      "updated_at": "2021-05-20T08:04:23Z",
+      "total_elevation_gain": 3.0,
+      "map": {
+            "id": "s15882028",
+            "polyline": "ytmfGdhbyMe@LY@a@FyBEYJaAj@k@Xg@Hm@AMBKAq@RO@[LuARgAXs@VoAl@WVmAxAKFEHwA~@y@~@MD[@MBk@V[TGLk@d@{@dAq@jAa@|@]bAYh@i@|AWl@sAlBK^If@EB[r@K`@I~@]x@uAnCS\\Wp@U^Wn@U\\]l@Yr@_@p@{@`C]r@}@zB{@`Ce@`A_@l@[fA[x@Y^cAjBm@~AS`@k@|AiAxBEPU\\[v@U`@e@fAoAnCm@|AsA~CaApBu@zBET?bAETMNUb@Uj@Mh@}@nCk@tBIPYhAk@vC",
+            "resource_state": 3
+      },
+      "effort_count": 6179,
+      "athlete_count": 1741,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:11",
+            "qom": "5:04",
+            "destination": {
+                  "href": "strava://segments/15882028/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2055069,
+            "title": "Brad Paul",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2055069/20073863/1/large.jpg",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/15882028/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3795753,
+      "resource_state": 3,
+      "name": "Humpty Dumpty",
+      "activity_type": "Ride",
+      "distance": 631.766,
+      "average_grade": 3.1,
+      "maximum_grade": 7.2,
+      "elevation_high": 176.5,
+      "elevation_low": 156.9,
+      "start_latlng": [
+            43.13758,
+            -77.597337
+      ],
+      "end_latlng": [
+            43.132383,
+            -77.600325
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EZP5TSBFUFVFFTJ3XZH6X553QBLAD4NZWR66LGNIVOE27MWGZQUELAK2MXQJQGIMNYKR6QMRE6F5FV6SCSCA====",
+      "start_latitude": 43.13758,
+      "start_longitude": -77.597337,
+      "end_latitude": 43.132383,
+      "end_longitude": -77.600325,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-09T18:39:04Z",
+      "updated_at": "2021-05-15T02:12:59Z",
+      "total_elevation_gain": 19.6272,
+      "map": {
+            "id": "s3795753",
+            "polyline": "{hhfGjvrxMZNd@\\d@PbAn@f@TnAd@nA^t@p@PJTHjAl@r@R^Rf@N`Al@zAt@^^|@Vn@HhAt@",
+            "resource_state": 3
+      },
+      "effort_count": 816,
+      "athlete_count": 273,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "34s",
+            "qom": "1:30",
+            "destination": {
+                  "href": "strava://segments/3795753/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 82226958,
+            "title": "Szetong de Cleir",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/82226958/21743152/2/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/3795753/local_legend?categories%5B%5D=overall"
+      }
 }

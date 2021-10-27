@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12983414,
+      "resource_state": 3,
+      "name": "Cobb Hill Hairpin",
+      "activity_type": "Ride",
+      "distance": 154.2,
+      "average_grade": -5.3,
+      "maximum_grade": -4.0,
+      "elevation_high": 121.6,
+      "elevation_low": 113.4,
+      "start_latlng": [
+            43.137373,
+            -77.573386
+      ],
+      "end_latlng": [
+            43.136803,
+            -77.572684
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TIZ4TOXMEK2BI25B4BU3D7UOD7UYO3G74CWD7XHAVU7YP6YVCNIAIVGBWOWZ5LOQJ5WJCWKQNCMJ5P7LEHVHG===",
+      "start_latitude": 43.137373,
+      "start_longitude": -77.573386,
+      "end_latitude": 43.136803,
+      "end_longitude": -77.572684,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-08-23T04:09:35Z",
+      "updated_at": "2021-05-20T08:03:57Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s12983414",
+            "polyline": "qghfGt`nxMNaCJ_ALWRMVJRr@FZ",
+            "resource_state": 3
+      },
+      "effort_count": 6819,
+      "athlete_count": 773,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "8s",
+            "qom": "13s",
+            "destination": {
+                  "href": "strava://segments/12983414/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 89299209,
+            "title": "Jeffrey Rayfield",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89299209/21462008/2/large.jpg",
+            "effort_description": "165 efforts in the last 90 days",
+            "effort_count": "165",
+            "effort_counts": {
+                  "overall": "165 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/12983414/local_legend?categories%5B%5D=overall"
+      }
 }

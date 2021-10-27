@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5833384,
+      "resource_state": 3,
+      "name": "Ellison Pk CX Day 2 (Sunday)",
+      "activity_type": "Ride",
+      "distance": 2641.5,
+      "average_grade": -0.1,
+      "maximum_grade": 48.5,
+      "elevation_high": 111.2,
+      "elevation_low": 70.8,
+      "start_latlng": [
+            43.151621,
+            -77.526392
+      ],
+      "end_latlng": [
+            43.151609,
+            -77.526445
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PT4JCU53AIGXAPNTHL7ZJ6WHIQ2NLRUJS7SGGMMZ5SFF2RXEX5PAYV7ZORGFQKCONZLSYOCV2C7QWGPMNBULI===",
+      "start_latitude": 43.151621,
+      "start_longitude": -77.526392,
+      "end_latitude": 43.151609,
+      "end_longitude": -77.526445,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-10-21T13:15:31Z",
+      "updated_at": "2021-05-15T02:14:13Z",
+      "total_elevation_gain": 64.8,
+      "map": {
+            "id": "s5833384",
+            "polyline": "s`kfG~zdxMGUAQBKFGRBr@V^Fd@DVHPBp@?\\L|@NFBHLAJIFQAcA]IAIBGDCJG??KAEKGQHIHEP?NIFMFiALSDMLAH@HJD@@^Hj@ELBDD?NCDIDYAGBWNEDCJ?DFBXED?HFDHAFCDe@PEJHHV?NHP?LCPI@EEOWMAE?EDEFCZ?DGESMWAIJEP?DC@IKMKAGOjAq@h@C|@FHAHGDKBQCw@Da@E[GSOCEH?PDV?JGJU?KAIY@Mj@u@BQLYDG@I?GCGWYGMGo@CqBHGDBRt@FDHAJGNWBWAGCAIFCC?IDGHCH@JO@aAGg@Oc@_@g@c@aAQWWGSBGHW|Ai@rAC\\V`ABR@r@ADEB?JRNHNDV?THN`@\\DC@FCf@Wd@KBGFSDc@HM?MB_@PSDGEIIWm@SKS@cA`@CE?IDYDG?UUg@EAGBAHBPBDCFGHOF_@`@u@f@i@NuAr@[X]v@OLk@CCBAFLTJHVLVTRh@LHJBbACLIH]T]ZU\\M~@Iv@QJGDK@KG]",
+            "resource_state": 3
+      },
+      "effort_count": 230,
+      "athlete_count": 38,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "6:28",
+            "qom": "8:12",
+            "destination": {
+                  "href": "strava://segments/5833384/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

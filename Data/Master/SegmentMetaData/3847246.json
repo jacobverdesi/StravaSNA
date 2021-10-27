@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3847246,
+      "resource_state": 3,
+      "name": "Pinnacle Shuttle",
+      "activity_type": "Ride",
+      "distance": 2553.71,
+      "average_grade": -0.9,
+      "maximum_grade": 36.4,
+      "elevation_high": 225.4,
+      "elevation_low": 167.3,
+      "start_latlng": [
+            43.135089,
+            -77.586028
+      ],
+      "end_latlng": [
+            43.134173,
+            -77.58851
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GDW64M6LDDIDAVVIS3EDBUMH75XVVBI2DV6MC5I6LBNLEJND7V2ZMVDKIA3M6PIJEAM5NJH2CDUGCC4WNSO5W===",
+      "start_latitude": 43.135089,
+      "start_longitude": -77.586028,
+      "end_latitude": 43.134173,
+      "end_longitude": -77.58851,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-16T03:05:24Z",
+      "updated_at": "2021-05-15T02:13:01Z",
+      "total_elevation_gain": 129.739,
+      "map": {
+            "id": "s3847246",
+            "polyline": "gygfGtopxMCVBhANfAHlANd@ALBNBHN@DPHB`@TV\\DbAJALHJPAPBJBxAG\\GLGd@Oj@WTg@PEBMXMJG?GCSk@GEGHIVKn@B\\PAEPJN^ND?PMP?DEj@S`@DLFHCIk@Ae@FoBGSOQOm@?WHe@A[FOYu@QEc@a@U[CK?YS}@MUEUOkASoAAKBQCSBMDN^LJFVbADx@BB?FDRDDN`@NNFD^b@N^Bd@d@~@PhBGXJNBPDB@`@DHEX@RC`@EVHLS`AQlAQb@EBJr@i@r@_Ac@aE{BBED@DCRKXIj@Zh@DRJHG^IR@^MFDFo@?KIOAQ?]HqAIc@@GKe@BOAYC]O[Ee@Si@SSg@WEOGu@MUAWU{AAu@Mc@B}@DBBF?VFFPFNVNNDHDn@EA@TEDAHDPBDd@DBHHBFHH?JHH?N\\BXFDEnA@HAFJn@",
+            "resource_state": 3
+      },
+      "effort_count": 27,
+      "athlete_count": 10,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "10:23",
+            "qom": "15:58",
+            "destination": {
+                  "href": "strava://segments/3847246/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

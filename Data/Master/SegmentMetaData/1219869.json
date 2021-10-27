@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1219869,
+      "resource_state": 3,
+      "name": "LV Trail southbound (Brighton section)",
+      "activity_type": "Ride",
+      "distance": 2416.92,
+      "average_grade": -0.0,
+      "maximum_grade": 2.6,
+      "elevation_high": 163.0,
+      "elevation_low": 159.4,
+      "start_latlng": [
+            43.11360455,
+            -77.63743958333333
+      ],
+      "end_latlng": [
+            43.093900633333334,
+            -77.64907348333334
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LIAFGN4PVXOZ6355MUG54HFYTFDE2DPJH64GOX7J3H2OQ3V36SUNHINFCPOLX4PHH6ATHEBFJOHEXZTK34TLK===",
+      "start_latitude": 43.11360455,
+      "start_longitude": -77.63743958333333,
+      "end_latitude": 43.093900633333334,
+      "end_longitude": -77.64907348333334,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-04-12T13:08:33Z",
+      "updated_at": "2021-05-15T08:02:39Z",
+      "total_elevation_gain": 2.77888,
+      "map": {
+            "id": "s1219869",
+            "polyline": "_scfG~pzxMdBpAvChBpBfBrDjCvClBnEjBzF~CbCx@|@d@z@^VVZHNTJZRRv@VnDxAv@b@jAd@\\Zd@RNBv@?h@FTHdBt@lA`@nAl@lAv@\\N\\L^Jz@\\`Bb@~Ap@b@JVTz@f@|@`@`@JzAv@^LlH`DrBx@@t@VT^HtChA|@ZpCpA",
+            "resource_state": 3
+      },
+      "effort_count": 7741,
+      "athlete_count": 957,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:03",
+            "qom": "4:40",
+            "destination": {
+                  "href": "strava://segments/1219869/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 58127621,
+            "title": "shockin audrey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/58127621/14964295/1/large.jpg",
+            "effort_description": "46 efforts in the last 90 days",
+            "effort_count": "46",
+            "effort_counts": {
+                  "overall": "46 efforts",
+                  "female": "46 efforts"
+            },
+            "destination": "strava://segments/1219869/local_legend?categories%5B%5D=overall"
+      }
 }

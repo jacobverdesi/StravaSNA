@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26768486,
+      "resource_state": 3,
+      "name": "behind brighton town park",
+      "activity_type": "Ride",
+      "distance": 1110.2,
+      "average_grade": -0.0,
+      "maximum_grade": 5.0,
+      "elevation_high": 159.4,
+      "elevation_low": 155.2,
+      "start_latlng": [
+            43.110726,
+            -77.598288
+      ],
+      "end_latlng": [
+            43.109273,
+            -77.610784
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OS43XA5MU6P2UCJPHYPCWSYQUTOXECA735Y7DMNGKNFS2ZQ5QXWPU4BSSLRVR2BL26E4NDDT272C4UEEKELA====",
+      "start_latitude": 43.110726,
+      "start_longitude": -77.598288,
+      "end_latitude": 43.109273,
+      "end_longitude": -77.610784,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-12-21T05:18:17Z",
+      "updated_at": "2021-05-15T02:25:38Z",
+      "total_elevation_gain": 3.8,
+      "map": {
+            "id": "s26768486",
+            "polyline": "_acfGh|rxMHRBRBr@Cp@[bDId@M^iApCWpAKz@IhAIlCF|BVfCdBjJVbBh@~C?VSZATjBnGLz@Dt@HZPb@n@fAx@nBPX",
+            "resource_state": 3
+      },
+      "effort_count": 134,
+      "athlete_count": 45,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:16",
+            "qom": "3:39",
+            "destination": {
+                  "href": "strava://segments/26768486/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2215701,
+            "title": "brian c",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2215701/1118053/2/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/26768486/local_legend?categories%5B%5D=overall"
+      }
 }

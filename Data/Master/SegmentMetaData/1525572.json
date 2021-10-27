@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1525572,
+      "resource_state": 3,
+      "name": "Dump Trail",
+      "activity_type": "Ride",
+      "distance": 634.567,
+      "average_grade": -2.5,
+      "maximum_grade": 34.8,
+      "elevation_high": 146.4,
+      "elevation_low": 123.2,
+      "start_latlng": [
+            43.161717457696795,
+            -77.53255429677665
+      ],
+      "end_latlng": [
+            43.162905341014266,
+            -77.53116776235402
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6ZJVHNJZ3ZRPUHLI3KG72OQCND5C7MJ6DVAEB6GOITAAZTPSA62PI34HOI47YI2N4R3BR77L3MU7DXUQAEBWG===",
+      "start_latitude": 43.161717457696795,
+      "start_longitude": -77.53255429677665,
+      "end_latitude": 43.162905341014266,
+      "end_longitude": -77.53116776235402,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-06-08T00:52:34Z",
+      "updated_at": "2021-05-18T08:02:45Z",
+      "total_elevation_gain": 15.2,
+      "map": {
+            "id": "s1525572",
+            "polyline": "u_mfGnafxMEFWSE?BXGPSHINDb@_@XG?IMESIE_@DYK[DOYYHW@KBGTC^EFS]Cg@HGNETO@CCGBKRMG_@OSOGHIESPCI]b@NPRXPJ@EQGCWe@I[AM@KBELVA`@@BB?LKDY?YCIQSGs@",
+            "resource_state": 3
+      },
+      "effort_count": 6507,
+      "athlete_count": 588,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:13",
+            "qom": "3:07",
+            "destination": {
+                  "href": "strava://segments/1525572/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1334463,
+            "title": "Er\u2699\ufe0fc W\u2699\ufe0flters",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1334463/19430522/7/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/1525572/local_legend?categories%5B%5D=overall"
+      }
 }

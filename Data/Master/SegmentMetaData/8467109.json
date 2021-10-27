@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8467109,
+      "resource_state": 3,
+      "name": "* GRAVEL TO PEACH FARM *",
+      "activity_type": "Ride",
+      "distance": 1541.3,
+      "average_grade": 0.1,
+      "maximum_grade": 5.6,
+      "elevation_high": 98.4,
+      "elevation_low": 90.0,
+      "start_latlng": [
+            43.230587,
+            -77.487384
+      ],
+      "end_latlng": [
+            43.23052,
+            -77.468378
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EWTA57HXCI2VUY6M4GUKHKPUP5A3J6TDYQS44KFXHHG4BLUEHOKLPSRUISCQZ3TNXLXTWDWIYMXBWYHUTDAX2===",
+      "start_latitude": 43.230587,
+      "start_longitude": -77.487384,
+      "end_latitude": 43.23052,
+      "end_longitude": -77.468378,
+      "climb_category": 0,
+      "city": "Webster",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-06T02:26:02Z",
+      "updated_at": "2021-05-20T08:03:12Z",
+      "total_elevation_gain": 10.8,
+      "map": {
+            "id": "s8467109",
+            "polyline": "cnzfGdg}wMf@cKFqBN}G@cDIiQ?oDGsE?_EIiEAgGEuBCiTMaL",
+            "resource_state": 3
+      },
+      "effort_count": 6468,
+      "athlete_count": 583,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:24",
+            "qom": "2:41",
+            "destination": {
+                  "href": "strava://segments/8467109/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5752945,
+            "title": "Todd Consadine",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5752945/1770234/6/large.jpg",
+            "effort_description": "50 efforts in the last 90 days",
+            "effort_count": "50",
+            "effort_counts": {
+                  "overall": "50 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/8467109/local_legend?categories%5B%5D=overall"
+      }
 }

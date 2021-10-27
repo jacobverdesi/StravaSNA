@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1033967,
+      "resource_state": 3,
+      "name": "Glen Edith",
+      "activity_type": "Ride",
+      "distance": 626.07,
+      "average_grade": 7.5,
+      "maximum_grade": 15.2,
+      "elevation_high": 61.4,
+      "elevation_low": 14.4,
+      "start_latlng": [
+            43.20187121629715,
+            -77.51887402497232
+      ],
+      "end_latlng": [
+            43.205102775245905,
+            -77.51350382342935
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PLPKB4HJJJGZ5P3OWALODO6YKSAE5YKCXX2T3HBO25EJFRK6OB5I6COXVEWODTSN3C4CDY6KAEIM32EJ7I47K===",
+      "start_latitude": 43.20187121629715,
+      "start_longitude": -77.51887402497232,
+      "end_latitude": 43.205102775245905,
+      "end_longitude": -77.51350382342935,
+      "climb_category": 0,
+      "city": "Webster",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-02-29T01:04:29Z",
+      "updated_at": "2021-05-20T08:02:08Z",
+      "total_elevation_gain": 47.0,
+      "map": {
+            "id": "s1033967",
+            "polyline": "uztfG~kcxMd@uABi@AWCSO]o@oAUYOi@Yc@[[G[g@oAQYc@a@Q[[YMSQOM[GIc@Ue@c@Oq@[k@[wAo@{Ac@][Ig@AO@IF",
+            "resource_state": 3
+      },
+      "effort_count": 1401,
+      "athlete_count": 146,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:24",
+            "qom": "2:36",
+            "destination": {
+                  "href": "strava://segments/1033967/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 6830778,
+            "title": "Joe Marana",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/6830778/2059543/2/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/1033967/local_legend?categories%5B%5D=overall"
+      }
 }

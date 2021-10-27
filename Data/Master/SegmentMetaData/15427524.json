@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15427524,
+      "resource_state": 3,
+      "name": "Crittenden Ball Fields to East River",
+      "activity_type": "Ride",
+      "distance": 2032.8,
+      "average_grade": -0.1,
+      "maximum_grade": 3.9,
+      "elevation_high": 159.1,
+      "elevation_low": 155.0,
+      "start_latlng": [
+            43.103591,
+            -77.65056
+      ],
+      "end_latlng": [
+            43.103422,
+            -77.675351
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VA5JHZGVZ4CQBJOSUI5BBGY627AFUHHE6AN2RUQ2EWYVVVL2FYEEPB3WWCODQPNVOPOCUXFIWN23W2OKPSRLA===",
+      "start_latitude": 43.103591,
+      "start_longitude": -77.65056,
+      "end_latitude": 43.103422,
+      "end_longitude": -77.675351,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-07-14T20:40:48Z",
+      "updated_at": "2021-05-20T08:04:19Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s15427524",
+            "polyline": "mtafG~b}xMB|AKhBBtDCxAF~CEx@?tBAR?j@C^FtCNxBH~@@~@HfBAX@VEf@BbCAh@@lAAnCDzBCr@BlACPLfCJzE?nABpA?hADbB?xBHpCATBd@?pADx@FzHBREp@JtEAbAJpBAlAa@vGElA?t@K|BGb@GhCI|@",
+            "resource_state": 3
+      },
+      "effort_count": 967,
+      "athlete_count": 246,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:56",
+            "qom": "3:28",
+            "destination": {
+                  "href": "strava://segments/15427524/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2399395,
+            "title": "Karen Stone",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2399395/12618140/1/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/15427524/local_legend?categories%5B%5D=overall"
+      }
 }

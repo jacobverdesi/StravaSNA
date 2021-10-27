@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28179204,
+      "resource_state": 3,
+      "name": "Stinky-Farm-Stretch",
+      "activity_type": "Ride",
+      "distance": 1072.4,
+      "average_grade": 0.3,
+      "maximum_grade": 10.7,
+      "elevation_high": 168.0,
+      "elevation_low": 147.0,
+      "start_latlng": [
+            43.078799,
+            -77.432202
+      ],
+      "end_latlng": [
+            43.069146,
+            -77.43225
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SKHAFCOCQPXN2P3BPF627PDHIF3B36OFEN7R245JKWVW2MW4P367N4UN3BGFVOSF6WVFERRH37LVK7ZSEGNA====",
+      "start_latitude": 43.078799,
+      "start_longitude": -77.432202,
+      "end_latitude": 43.069146,
+      "end_longitude": -77.43225,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-04-26T00:03:30Z",
+      "updated_at": "2021-05-15T02:26:07Z",
+      "total_elevation_gain": 21.0,
+      "map": {
+            "id": "s28179204",
+            "polyline": "my|eGhnrwMbQC|GDdFEtH?nGLzFA",
+            "resource_state": 3
+      },
+      "effort_count": 984,
+      "athlete_count": 268,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:37",
+            "qom": "2:11",
+            "destination": {
+                  "href": "strava://segments/28179204/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8928420,
+            "title": "Kevin Gregory",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8928420/2704295/2/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/28179204/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7447289,
+      "resource_state": 3,
+      "name": "Go East River",
+      "activity_type": "Ride",
+      "distance": 1588.0,
+      "average_grade": 0.0,
+      "maximum_grade": 6.8,
+      "elevation_high": 126.2,
+      "elevation_low": 120.8,
+      "start_latlng": [
+            43.11768,
+            -77.634008
+      ],
+      "end_latlng": [
+            43.111092,
+            -77.616955
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WSK3DJDFFDI3PGPHNDXG2D5KOQCEZ46NE2NIPEJZ3P3EVNMPQE6HQSKMHP5KYQRTV6HUUC4AYMJS5KEIRMLHQ===",
+      "start_latitude": 43.11768,
+      "start_longitude": -77.634008,
+      "end_latitude": 43.111092,
+      "end_longitude": -77.616955,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-17T01:07:06Z",
+      "updated_at": "2021-05-20T08:03:02Z",
+      "total_elevation_gain": 5.4,
+      "map": {
+            "id": "s7447289",
+            "polyline": "oldfGp{yxMRk@`B}C`AyBpAyAFa@\\_AjA_ChDuInB{F`BqFb@_Bh@cCfAqFd@cCLoAhCcLZaB`B{HZ}BFiALm@h@kD",
+            "resource_state": 3
+      },
+      "effort_count": 30610,
+      "athlete_count": 4223,
+      "star_count": 21,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:02",
+            "qom": "2:30",
+            "destination": {
+                  "href": "strava://segments/7447289/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 58127621,
+            "title": "shockin audrey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/58127621/14964295/1/large.jpg",
+            "effort_description": "48 efforts in the last 90 days",
+            "effort_count": "48",
+            "effort_counts": {
+                  "overall": "48 efforts",
+                  "female": "48 efforts"
+            },
+            "destination": "strava://segments/7447289/local_legend?categories%5B%5D=overall"
+      }
 }

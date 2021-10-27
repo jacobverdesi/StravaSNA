@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14919994,
+      "resource_state": 3,
+      "name": "* 5km. THAYER TRAINING LOOP * FAIRPORTS FINEST *",
+      "activity_type": "Ride",
+      "distance": 4933.3,
+      "average_grade": 0.0,
+      "maximum_grade": 14.5,
+      "elevation_high": 261.0,
+      "elevation_low": 159.0,
+      "start_latlng": [
+            43.064525,
+            -77.40769
+      ],
+      "end_latlng": [
+            43.06393,
+            -77.407238
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DPDPJSPC5EK3TMCAQNBTVEBMLA6BMYCQC3BIR4GOOPIAZQYPKV6JYIU3YBYI3WZDC4BIRD3ZOD3KDAVH5RSA====",
+      "start_latitude": 43.064525,
+      "start_longitude": -77.40769,
+      "end_latitude": 43.06393,
+      "end_longitude": -77.407238,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-05-19T15:35:25Z",
+      "updated_at": "2021-05-15T02:19:23Z",
+      "total_elevation_gain": 119.5,
+      "map": {
+            "id": "s14919994",
+            "polyline": "g`zeG`umwMA`DEbBBpBElE@`CGpCOpB?hAGh@JTPHl@?h@ED@rBNd@CZKrAMv@CxFAv@D`A@`AHNFn@`@p@v@RJTX`@h@jDjCt@~@r@h@l@\\DFf@b@l@x@`@^R^Lb@DDL^Z`@L`@r@|@h@f@bAr@`@Lj@Zt@F`@@dFBzFOp@BfAA~A@j@GPKDKHkCDSTg@XUh@ShBBd@A\\Eb@ONIj@w@\\m@\\g@Xm@ACPW^y@p@kAt@gAXq@X{@NcATeAl@aFJqCAe@@u@b@sGGa@]OOEcDk@yBg@{Bk@oAa@m@W_B}@WQeA}@q@a@{@Sy@CqIR{A@wHZw@?uAG]?[?sAJmA@YCm@MsBcAs@MY?q@D_B@gENqGHcEHoADw@@e@Co@K",
+            "resource_state": 3
+      },
+      "effort_count": 35,
+      "athlete_count": 21,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "11:17",
+            "qom": "18:43",
+            "destination": {
+                  "href": "strava://segments/14919994/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62234965,
+            "title": "Heidi Woika",
+            "profile": "https://graph.facebook.com/10226219053687374/picture?height=256&width=256",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/14919994/local_legend?categories%5B%5D=overall"
+      }
 }

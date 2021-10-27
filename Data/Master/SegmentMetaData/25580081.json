@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25580081,
+      "resource_state": 3,
+      "name": "GVP Pavilions NB (E River Rd to Canal) ",
+      "activity_type": "Ride",
+      "distance": 688.8,
+      "average_grade": -0.1,
+      "maximum_grade": 3.7,
+      "elevation_high": 164.7,
+      "elevation_low": 162.9,
+      "start_latlng": [
+            43.114066,
+            -77.639143
+      ],
+      "end_latlng": [
+            43.119003,
+            -77.635433
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/N74RE7QK2JQMSVTTBBLKQ4AENM5GQ5GT5A352GS4HVHDGX7P3EP74J5Q3ING27S5UJ6LQS44AR2I66NY7F4XQ===",
+      "start_latitude": 43.114066,
+      "start_longitude": -77.639143,
+      "end_latitude": 43.119003,
+      "end_longitude": -77.635433,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-09-03T22:42:17Z",
+      "updated_at": "2021-05-17T08:09:00Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s25580081",
+            "polyline": "{ucfGt{zxMm@AOKQOIUEMEi@EO]CGCc@AEOQSK?ICMA_A@WGWAkAa@_By@w@e@[EOAMB]AOCWUEQDe@FM?OMUIKsAqAkC_CQUSk@",
+            "resource_state": 3
+      },
+      "effort_count": 1777,
+      "athlete_count": 611,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:09",
+            "qom": "1:21",
+            "destination": {
+                  "href": "strava://segments/25580081/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/25580081/local_legend?categories%5B%5D=overall"
+      }
 }

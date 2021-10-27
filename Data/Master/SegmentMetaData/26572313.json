@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26572313,
+      "resource_state": 3,
+      "name": "Prison Break",
+      "activity_type": "Ride",
+      "distance": 3303.3,
+      "average_grade": -0.0,
+      "maximum_grade": 11.8,
+      "elevation_high": 169.0,
+      "elevation_low": 163.2,
+      "start_latlng": [
+            43.105805,
+            -77.606292
+      ],
+      "end_latlng": [
+            43.095415,
+            -77.569377
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ULKFN4PCQLTSTIRIAOALUHWZTCGO4LDC2LHXOFMBKDZRBMZJYZEAMNLWUPQPZW2CPPA23K2SQEIPRGFV52GA====",
+      "start_latitude": 43.105805,
+      "start_longitude": -77.606292,
+      "end_latitude": 43.095415,
+      "end_longitude": -77.569377,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-11-28T14:58:32Z",
+      "updated_at": "2021-05-17T08:09:11Z",
+      "total_elevation_gain": 5.8,
+      "map": {
+            "id": "s26572313",
+            "polyline": "gbbfGjntxMM_@SYOMOWCO?IBSLg@l@yBXw@t@}AFUJg@HaECmBGUa@i@EIIUA]TkBNu@r@gDb@}BnFwWrAyFp@kD|B{JVqAZsB\\q@\\}BbAqE`@gCdAsElDaQlAoFf@}C~@}DRwAx@qDlBsJ|AaHtA_HbAoEx@{Cp@mBNW^c@NUd@aBb@gBx@mEXmAD_@",
+            "resource_state": 3
+      },
+      "effort_count": 101,
+      "athlete_count": 48,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "6:11",
+            "qom": "7:55",
+            "destination": {
+                  "href": "strava://segments/26572313/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 56313447,
+            "title": "Mary Mohr",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/56313447/14695274/3/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/26572313/local_legend?categories%5B%5D=overall"
+      }
 }

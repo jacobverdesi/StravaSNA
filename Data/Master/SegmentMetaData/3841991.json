@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3841991,
+      "resource_state": 3,
+      "name": "East St Climb (S)",
+      "activity_type": "Ride",
+      "distance": 1347.1,
+      "average_grade": 2.9,
+      "maximum_grade": 9.1,
+      "elevation_high": 177.5,
+      "elevation_low": 137.2,
+      "start_latlng": [
+            43.0511456542118,
+            -77.49832830399042
+      ],
+      "end_latlng": [
+            43.03985485345408,
+            -77.50146263286238
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/P3JRLYBCUDPNZDCEB7SJCDJDKXTVHIWA7JVPZOPI4PK3GP4MFPXYKDRZOVYJ3HLOJOYEHGVXF22DM365ORMNY===",
+      "start_latitude": 43.0511456542118,
+      "start_longitude": -77.49832830399042,
+      "end_latitude": 43.03985485345408,
+      "end_longitude": -77.50146263286238,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-15T14:01:48Z",
+      "updated_at": "2021-05-15T02:13:01Z",
+      "total_elevation_gain": 42.0579,
+      "map": {
+            "id": "s3841991",
+            "polyline": "slweGpk_xMh@BFEYKI?TFAFDAHDRBp@DrCb@f@J^RZAbAVbBLb@L^Pn@D~@RrANh@E^LzAn@f@HZNfC\\RJbAPNF\\Aj@BhDp@XBn@NdCd@NFTPrAV\\LVP\\Hz@B?Jr@NRJ`@@dANNPn@FXE",
+            "resource_state": 3
+      },
+      "effort_count": 3380,
+      "athlete_count": 630,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:22",
+            "qom": "2:44",
+            "destination": {
+                  "href": "strava://segments/3841991/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 55488593,
+            "title": "Michael Gardella",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/55488593/14950954/1/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/3841991/local_legend?categories%5B%5D=overall"
+      }
 }

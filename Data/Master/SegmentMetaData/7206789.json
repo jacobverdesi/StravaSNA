@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7206789,
+      "resource_state": 3,
+      "name": "Perinton Park to Pittsford Rt. 31 Bridge",
+      "activity_type": "Ride",
+      "distance": 8907.5,
+      "average_grade": 0.0,
+      "maximum_grade": 11.4,
+      "elevation_high": 134.6,
+      "elevation_low": 132.4,
+      "start_latlng": [
+            43.099878,
+            -77.45646
+      ],
+      "end_latlng": [
+            43.089105,
+            -77.510658
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7AFDSL4HZFVYEXWIT6TWLK5NJVQDNTGKEYJHOTLFXYFQI6EVJT4K2JSGH73L4OWOBF5J6HANXTZXPDRICXVRS===",
+      "start_latitude": 43.099878,
+      "start_longitude": -77.45646,
+      "end_latitude": 43.089105,
+      "end_longitude": -77.510658,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-13T22:09:02Z",
+      "updated_at": "2021-05-20T08:02:59Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s7206789",
+            "polyline": "e}`fG|ewwMB@n@Ad@Kl@Ih@QbIsA`CSlCBfAGvCFr@DxDA`DB`AAdDLbLJdAArAFt@NrCbAlAj@nAp@|AjA|@~@pCjDx@x@lA|@bAl@jAf@hBf@lAPzC\\`CL|@HnAPnATpC~@lAh@f@XfBpA|BrA|@n@fEjCjGfElAv@|ArAn@ZfDnBjIvFhAp@pCjBhCbB~FbEZX|A`AdAl@dJhG`Al@hCxBv@jA^hAz@f@l@t@f@fAp@tBd@vBVnBB~@JtARvAZjDPdCDz@QpM?zDC`Be@bEUv@mArCg@tAeD~Hq@tB{AhCs@t@iAfAsFpDkAp@{GpEs@^mCnBcDjByKfHkDpBuA`AmBhCeA~AeIdNaCfEoBxCq@j@c@pAgA~BcD|FeA|AQ^oAtBgAvAo@bAy@fAkDvF{@hAcAfAuCxBgH|EiAjAeA|@eFdEsCpBoAdAyAdAy@\\OLe@p@",
+            "resource_state": 3
+      },
+      "effort_count": 10068,
+      "athlete_count": 2491,
+      "star_count": 13,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "14:35",
+            "qom": "17:04",
+            "destination": {
+                  "href": "strava://segments/7206789/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 61135975,
+            "title": "Daniel Brown",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/61135975/17716231/2/large.jpg",
+            "effort_description": "29 efforts in the last 90 days",
+            "effort_count": "29",
+            "effort_counts": {
+                  "overall": "29 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/7206789/local_legend?categories%5B%5D=overall"
+      }
 }

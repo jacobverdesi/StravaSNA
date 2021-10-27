@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7740279,
+      "resource_state": 3,
+      "name": "* FUR FLYING *",
+      "activity_type": "Ride",
+      "distance": 540.9,
+      "average_grade": -3.6,
+      "maximum_grade": 0.0,
+      "elevation_high": 186.4,
+      "elevation_low": 167.0,
+      "start_latlng": [
+            43.115959,
+            -77.38412
+      ],
+      "end_latlng": [
+            43.11603,
+            -77.377466
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MEFNZ2GUGLDHUUSLNSAEHXATZFW7PTRL5G7AHR3STHKDZF736NRQIUGUZXIQXZT4L6FS25KXSG6C54WXUCUM6===",
+      "start_latitude": 43.115959,
+      "start_longitude": -77.38412,
+      "end_latitude": 43.11603,
+      "end_longitude": -77.377466,
+      "climb_category": 0,
+      "city": "Macedon",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-26T21:43:37Z",
+      "updated_at": "2021-05-20T08:03:05Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s7740279",
+            "polyline": "uadfGvaiwMI_M@aDGoU",
+            "resource_state": 3
+      },
+      "effort_count": 7234,
+      "athlete_count": 565,
+      "star_count": 13,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "30s",
+            "qom": "35s",
+            "destination": {
+                  "href": "strava://segments/7740279/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1603801,
+            "title": "Greg Brett",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1603801/5871395/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/7740279/local_legend?categories%5B%5D=overall"
+      }
 }

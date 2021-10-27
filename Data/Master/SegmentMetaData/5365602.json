@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5365602,
+      "resource_state": 3,
+      "name": "Northbound Through the Village of Fairport",
+      "activity_type": "Ride",
+      "distance": 535.1,
+      "average_grade": -2.3,
+      "maximum_grade": 3.4,
+      "elevation_high": 149.7,
+      "elevation_low": 137.6,
+      "start_latlng": [
+            43.0987,
+            -77.441995
+      ],
+      "end_latlng": [
+            43.103495,
+            -77.44185
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TLXM2NEL2DRNUEUOVA7SQDYCE2VSLZG6ALIXZRHMHWGPDSYC3QIAMTMOYJKBTUWVIXFODNQKL57BEET4WHE3E===",
+      "start_latitude": 43.0987,
+      "start_longitude": -77.441995,
+      "end_latitude": 43.103495,
+      "end_longitude": -77.44185,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-03T03:03:22Z",
+      "updated_at": "2021-05-20T08:02:42Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s5365602",
+            "polyline": "{u`fGnktwMW?_@Gu@?aACqB?MCwK@c@@eBKQ@y@EO@OC",
+            "resource_state": 3
+      },
+      "effort_count": 770,
+      "athlete_count": 241,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "40s",
+            "qom": "53s",
+            "destination": {
+                  "href": "strava://segments/5365602/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2718728,
+            "title": "Matthew Howard",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2718728/6979589/4/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/5365602/local_legend?categories%5B%5D=overall"
+      }
 }

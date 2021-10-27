@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7226296,
+      "resource_state": 3,
+      "name": "Rt. 31 Bridge to Canoe Rental ",
+      "activity_type": "Ride",
+      "distance": 1404.2,
+      "average_grade": 0.0,
+      "maximum_grade": 0.0,
+      "elevation_high": 134.6,
+      "elevation_low": 134.6,
+      "start_latlng": [
+            43.100112,
+            -77.456354
+      ],
+      "end_latlng": [
+            43.102739,
+            -77.443136
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/D6HEGQQUDDDSISW547AMM6NSTJZVNQR7Q4HGBMHHGPU36WHOS5VOXYGEDUNHRYOQZ7PV5U3EO32BI3DCA5NA====",
+      "start_latitude": 43.100112,
+      "start_longitude": -77.456354,
+      "end_latitude": 43.102739,
+      "end_longitude": -77.443136,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-17T02:10:23Z",
+      "updated_at": "2021-05-20T08:02:59Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s7226296",
+            "polyline": "u~`fGfewwM}AGs@@s@UiAi@sB}A{@u@{AaBiAiBw@gCe@cBoD_SIk@WoCGaC@cBLmCJcAX}Ap@oCp@gBxBuDjAeBXi@Vq@",
+            "resource_state": 3
+      },
+      "effort_count": 15080,
+      "athlete_count": 3159,
+      "star_count": 17,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:57",
+            "qom": "2:31",
+            "destination": {
+                  "href": "strava://segments/7226296/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 66005097,
+            "title": "Stan Quetchenbach",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "40 efforts in the last 90 days",
+            "effort_count": "40",
+            "effort_counts": {
+                  "overall": "40 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/7226296/local_legend?categories%5B%5D=overall"
+      }
 }

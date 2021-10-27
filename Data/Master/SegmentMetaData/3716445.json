@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3716445,
+      "resource_state": 3,
+      "name": "Brook to Morgan",
+      "activity_type": "Ride",
+      "distance": 3381.04,
+      "average_grade": 0.2,
+      "maximum_grade": 7.6,
+      "elevation_high": 175.6,
+      "elevation_low": 159.4,
+      "start_latlng": [
+            43.075834,
+            -77.70661697
+      ],
+      "end_latlng": [
+            43.05036262,
+            -77.72420825
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IEMOR63XC6DGNFCVBEZP7CFU7YPJUPWXFLUD24S6DCQYOQQD3QLYACOQJHUMFQPQPOPDNHXYUOI72QAHZCS2I===",
+      "start_latitude": 43.075834,
+      "start_longitude": -77.70661697,
+      "end_latitude": 43.05036262,
+      "end_longitude": -77.72420825,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-03-31T04:14:58Z",
+      "updated_at": "2021-05-15T02:12:57Z",
+      "total_elevation_gain": 27.4691,
+      "map": {
+            "id": "s3716445",
+            "polyline": "}f|eGjahyMx@Tb@TvATJAh@Nt@@XDv@?VBh@At@Dd@Gj@CrASbAKnBYzA?x@S~AUVMTCvAQz@EvB_@fBQLB\\Cn@JPLj@NtB\\hA`@r@ZbAv@VZBLt@p@BPFFZTVZXRT\\PJT`@XTBJXXF@\\^D@FPh@p@nBnBRVzC~C`DvDf@|@v@j@Z`@BJNHX`@VVFDL@TZPJJ^NRxBbCz@x@jB|B`Ax@n@z@NNV`@f@\\LRxAdBf@f@JFLVp@r@PZ`@`@BJBFZV`@j@`@^D@LPDJVRdAfAFDJVf@r@PLLRBHFBNPRJLLBNb@b@TXTJZd@Zf@^^RZfAbAz@hAv@x@NJFPJJf@^Z\\h@z@RXLJFL|@~@`@l@`A|@T`@NNh@t@p@b@LJ",
+            "resource_state": 3
+      },
+      "effort_count": 1615,
+      "athlete_count": 343,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:51",
+            "qom": "5:49",
+            "destination": {
+                  "href": "strava://segments/3716445/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 6876,
+            "title": "Kirk Preston",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/6876/1714092/1/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/3716445/local_legend?categories%5B%5D=overall"
+      }
 }

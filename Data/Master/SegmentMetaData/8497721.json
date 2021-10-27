@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8497721,
+      "resource_state": 3,
+      "name": "* TROUP AHEAD *",
+      "activity_type": "Ride",
+      "distance": 394.7,
+      "average_grade": 0.0,
+      "maximum_grade": 0.0,
+      "elevation_high": 159.4,
+      "elevation_low": 159.4,
+      "start_latlng": [
+            43.147258,
+            -77.61876
+      ],
+      "end_latlng": [
+            43.150836,
+            -77.618734
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KJT47EGZBC3ZIRQZ4FT4UFHH4ZPB7GNJEQPMKWWQVKBSW3KJJZNZIKE2HDEMNCSPY6RZTV6WDTSEC7G4YX6Q====",
+      "start_latitude": 43.147258,
+      "start_longitude": -77.61876,
+      "end_latitude": 43.150836,
+      "end_longitude": -77.618734,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-12T01:52:27Z",
+      "updated_at": "2021-05-15T02:15:50Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8497721",
+            "polyline": "iejfGf|vxMe@AqA@sQC",
+            "resource_state": 3
+      },
+      "effort_count": 329,
+      "athlete_count": 91,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "41s",
+            "qom": "55s",
+            "destination": {
+                  "href": "strava://segments/8497721/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10380701,
+            "title": "Daniel Rosato",
+            "profile": "https://graph.facebook.com/904416452949587/picture?height=256&width=256",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8497721/local_legend?categories%5B%5D=overall"
+      }
 }

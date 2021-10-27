@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28838379,
+      "resource_state": 3,
+      "name": "Pittsford Rail Trail SB (Elmwood-Allens Creek)",
+      "activity_type": "Ride",
+      "distance": 1109.4,
+      "average_grade": -0.1,
+      "maximum_grade": 1.9,
+      "elevation_high": 141.4,
+      "elevation_low": 140.3,
+      "start_latlng": [
+            43.126767,
+            -77.551211
+      ],
+      "end_latlng": [
+            43.116711,
+            -77.550653
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/H37JUKL3JCBG5L5JJMZWQNG6GHGY62X6CVJR7DTJLAFT44AJWLSGTJ6Z423MSNQKGGRYYSXHOUO7FHQUUG2UA===",
+      "start_latitude": 43.126767,
+      "start_longitude": -77.551211,
+      "end_latitude": 43.116711,
+      "end_longitude": -77.550653,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-06-16T20:17:50Z",
+      "updated_at": "2021-06-16T20:17:50Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s28838379",
+            "polyline": "geffGbvixMb@Cf@@dDAvB@~@A`DBtB@r@CrAB|@A`ABlDEhBBbDAhCIrAOrAKjAO|D{@LCF@@B",
+            "resource_state": 3
+      },
+      "effort_count": 3093,
+      "athlete_count": 474,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:44",
+            "qom": "2:15",
+            "destination": {
+                  "href": "strava://segments/28838379/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 12255604,
+            "title": "Ed McCarthy",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/12255604/3701250/3/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/28838379/local_legend?categories%5B%5D=overall"
+      }
 }

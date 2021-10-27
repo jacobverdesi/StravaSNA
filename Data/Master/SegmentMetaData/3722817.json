@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3722817,
+      "resource_state": 3,
+      "name": "Likly '84 Olympian Hill",
+      "activity_type": "Ride",
+      "distance": 884.758,
+      "average_grade": 4.1,
+      "maximum_grade": 11.5,
+      "elevation_high": 182.2,
+      "elevation_low": 144.8,
+      "start_latlng": [
+            43.080311,
+            -77.455185
+      ],
+      "end_latlng": [
+            43.084517,
+            -77.447809
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GXF5FTEMA4J5ZOOTME546SFGF67NETLTFSKV3DJQT7E36Y7JSP24I2LXTVWXEQWFYTOVMWNU2B5EDWVT2HUQ====",
+      "start_latitude": 43.080311,
+      "start_longitude": -77.455185,
+      "end_latitude": 43.084517,
+      "end_longitude": -77.447809,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-03-31T19:37:29Z",
+      "updated_at": "2021-05-15T02:12:57Z",
+      "total_elevation_gain": 37.4379,
+      "map": {
+            "id": "s3722817",
+            "polyline": "}b}eG|}vwM_@Ue@]s@w@]g@{AqCe@o@c@]q@_@w@WgCU[IYMa@Sa@[aCgCN{@Ro@Fq@AgJCo@Gk@o@cDIk@",
+            "resource_state": 3
+      },
+      "effort_count": 34,
+      "athlete_count": 12,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:26",
+            "qom": "3:12",
+            "destination": {
+                  "href": "strava://segments/3722817/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9552348,
+            "title": "Rick Postl",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9552348/3322956/4/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/3722817/local_legend?categories%5B%5D=overall"
+      }
 }

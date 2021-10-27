@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8800577,
+      "resource_state": 3,
+      "name": "Highland to Elmwood",
+      "activity_type": "Ride",
+      "distance": 572.5,
+      "average_grade": -2.2,
+      "maximum_grade": 0.6,
+      "elevation_high": 186.9,
+      "elevation_low": 174.5,
+      "start_latlng": [
+            43.129873,
+            -77.614777
+      ],
+      "end_latlng": [
+            43.125164,
+            -77.617311
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/C7PY6WD5ZPPBS7F56ODZM4KMLABFVM7VLYVB6EDHTPEZCD5UILNDSHS7XJ2QWZOD7PYJ2VSXFWEYAGUPSCKGG===",
+      "start_latitude": 43.129873,
+      "start_longitude": -77.614777,
+      "end_latitude": 43.125164,
+      "end_longitude": -77.617311,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-01-20T00:24:23Z",
+      "updated_at": "2021-05-19T08:03:08Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8800577",
+            "polyline": "uxffGjcvxMbAd@VHdAl@h@RpAp@z@Z`Bz@fCz@n@^v@Rl@^NDdB~@JFHATJJBAFHBAD^@",
+            "resource_state": 3
+      },
+      "effort_count": 1971,
+      "athlete_count": 581,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "39s",
+            "qom": "49s",
+            "destination": {
+                  "href": "strava://segments/8800577/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2443189,
+            "title": "Salaahuddin Karim",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2443189/4488427/1/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/8800577/local_legend?categories%5B%5D=overall"
+      }
 }

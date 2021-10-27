@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20294366,
+      "resource_state": 3,
+      "name": "Hump Day",
+      "activity_type": "Ride",
+      "distance": 1156.5,
+      "average_grade": 1.0,
+      "maximum_grade": 2.6,
+      "elevation_high": 132.8,
+      "elevation_low": 121.1,
+      "start_latlng": [
+            43.128828,
+            -77.528164
+      ],
+      "end_latlng": [
+            43.137253,
+            -77.532707
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ONGPT4MH4Y3TNJJKLHLC527VQFMGQNAKRMIK7YGZTMMYTQPO3WVXVWB4CGUDHDXLPKWM7MH5F3HFVEQTN2MCO===",
+      "start_latitude": 43.128828,
+      "start_longitude": -77.528164,
+      "end_latitude": 43.137253,
+      "end_longitude": -77.532707,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-04-12T15:43:25Z",
+      "updated_at": "2021-05-15T02:22:55Z",
+      "total_elevation_gain": 11.7,
+      "map": {
+            "id": "s20294366",
+            "polyline": "crffG`fexMi@TYDoAJ_GTsMt@uLnA{@PSLOTI\\OtGSvCo@nCU^QJ]BsBD",
+            "resource_state": 3
+      },
+      "effort_count": 1311,
+      "athlete_count": 251,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:58",
+            "qom": "2:26",
+            "destination": {
+                  "href": "strava://segments/20294366/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23078778,
+            "title": "Jordan Goff",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/23078778/11432625/1/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/20294366/local_legend?categories%5B%5D=overall"
+      }
 }

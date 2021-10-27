@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13950822,
+      "resource_state": 3,
+      "name": "meridian pt1-westbound",
+      "activity_type": "Ride",
+      "distance": 322.4,
+      "average_grade": 0.6,
+      "maximum_grade": 15.1,
+      "elevation_high": 144.2,
+      "elevation_low": 140.6,
+      "start_latlng": [
+            43.101415,
+            -77.583429
+      ],
+      "end_latlng": [
+            43.102448,
+            -77.58694
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YI2FH7TGW3DGSY66XDT57OUCZT5HPSPWEUXCKGO2MBNIOIPV3QEONBL3VRBIRHDJBPFV2ONHXDQSQX5B45ZFY===",
+      "start_latitude": 43.101415,
+      "start_longitude": -77.583429,
+      "end_latitude": 43.102448,
+      "end_longitude": -77.58694,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-01-08T23:32:10Z",
+      "updated_at": "2021-05-15T02:18:52Z",
+      "total_elevation_gain": 3.6,
+      "map": {
+            "id": "s13950822",
+            "polyline": "yfafGl_pxM@RLV?j@g@tDU`AUzAm@~BKZa@z@_@n@MH",
+            "resource_state": 3
+      },
+      "effort_count": 3552,
+      "athlete_count": 1249,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "25s",
+            "qom": "28s",
+            "destination": {
+                  "href": "strava://segments/13950822/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 61599015,
+            "title": "Christopher Cove",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/13950822/local_legend?categories%5B%5D=overall"
+      }
 }

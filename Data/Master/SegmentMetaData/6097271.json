@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6097271,
+      "resource_state": 3,
+      "name": "The Wishbone",
+      "activity_type": "Ride",
+      "distance": 985.7,
+      "average_grade": -0.4,
+      "maximum_grade": 4.0,
+      "elevation_high": 132.4,
+      "elevation_low": 128.2,
+      "start_latlng": [
+            43.07861,
+            -77.476375
+      ],
+      "end_latlng": [
+            43.078474,
+            -77.479859
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VG5GAYN26QX23QKS77MP4Y7IZV6HKRZ2CD6IYUCE54AEE26LSOAW34NJZ6D2TK54FJJSIURG2X336GCCH6UQQ===",
+      "start_latitude": 43.07861,
+      "start_longitude": -77.476375,
+      "end_latitude": 43.078474,
+      "end_longitude": -77.479859,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-11-27T02:47:08Z",
+      "updated_at": "2021-05-15T02:14:23Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s6097271",
+            "polyline": "ix|eGjb{wMMFmFDGDMPYv@k@lAW^u@x@s@d@WJaARi@Fy@AQKU]QCOL?HNNdBFjAOhAY\\?\\Zr@pAz@lDVv@NPb@Pt@JbEH",
+            "resource_state": 3
+      },
+      "effort_count": 76,
+      "athlete_count": 7,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:55",
+            "qom": "2:50",
+            "destination": {
+                  "href": "strava://segments/6097271/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

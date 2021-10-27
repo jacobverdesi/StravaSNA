@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7373513,
+      "resource_state": 3,
+      "name": "*CANAL TO CREEK *",
+      "activity_type": "Ride",
+      "distance": 485.0,
+      "average_grade": -1.3,
+      "maximum_grade": 0.0,
+      "elevation_high": 142.6,
+      "elevation_low": 136.4,
+      "start_latlng": [
+            43.087594,
+            -77.401296
+      ],
+      "end_latlng": [
+            43.091644,
+            -77.402267
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ORCLMDC57O6FINEE45NCVUKDM6EOBTKTPGCVACD5HZTTETKGWB7WMLIPDRFFPI625BUQ6PO7D6X4MCYBM4KQ====",
+      "start_latitude": 43.087594,
+      "start_longitude": -77.401296,
+      "end_latitude": 43.091644,
+      "end_longitude": -77.402267,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-06T20:05:17Z",
+      "updated_at": "2021-05-17T08:05:08Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s7373513",
+            "polyline": "mp~eGbmlwM]QcAm@_Ac@s@KW@MD[B{@T_@R[VoAvAKNO\\_At@i@Rk@HoAFgA@",
+            "resource_state": 3
+      },
+      "effort_count": 5339,
+      "athlete_count": 559,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "31s",
+            "qom": "37s",
+            "destination": {
+                  "href": "strava://segments/7373513/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10160757,
+            "title": "Carl Petruzelli",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GhzZpOdD-27Xwy1BSmeK0BuaDmqtdAwYgEiLD-F=s96-c",
+            "effort_description": "56 efforts in the last 90 days",
+            "effort_count": "56",
+            "effort_counts": {
+                  "overall": "56 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/7373513/local_legend?categories%5B%5D=overall"
+      }
 }

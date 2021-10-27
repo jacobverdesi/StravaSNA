@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4465780,
+      "resource_state": 3,
+      "name": "Highland + Cobbs Ascent",
+      "activity_type": "Ride",
+      "distance": 1933.2,
+      "average_grade": 2.4,
+      "maximum_grade": 25.9,
+      "elevation_high": 194.7,
+      "elevation_low": 145.7,
+      "start_latlng": [
+            43.136777,
+            -77.560341
+      ],
+      "end_latlng": [
+            43.139591,
+            -77.57292
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/Q4RNWHMIHSYYVLGXWMUVRO3A62CZ4DBXQ5K3NI35EDNPJDM6NWWK6YWNR6ZU3VUZGBJP4MMYUZMJFTQGPL7XI===",
+      "start_latitude": 43.136777,
+      "start_longitude": -77.560341,
+      "end_latitude": 43.139591,
+      "end_longitude": -77.57292,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-19T22:17:45Z",
+      "updated_at": "2021-05-19T08:02:25Z",
+      "total_elevation_gain": 48.6,
+      "map": {
+            "id": "s4465780",
+            "polyline": "ychfGdokxMNzNb@hVNtLHvNCtFBhDS@KS]?Ge@AWES@OIe@@QEYOe@y@qAQg@Oo@KyAQuAQ{@Ui@a@o@cA}@{@]aAOk@@c@Lc@Zo@p@a@~@Qt@Ar@FROxBDjAJv@VxAd@pB",
+            "resource_state": 3
+      },
+      "effort_count": 2075,
+      "athlete_count": 362,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:29",
+            "qom": "4:55",
+            "destination": {
+                  "href": "strava://segments/4465780/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 89299209,
+            "title": "Jeffrey Rayfield",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89299209/21462008/2/large.jpg",
+            "effort_description": "162 efforts in the last 90 days",
+            "effort_count": "162",
+            "effort_counts": {
+                  "overall": "162 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/4465780/local_legend?categories%5B%5D=overall"
+      }
 }

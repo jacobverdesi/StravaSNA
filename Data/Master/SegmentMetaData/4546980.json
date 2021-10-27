@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4546980,
+      "resource_state": 3,
+      "name": "Tracy's Mile",
+      "activity_type": "Ride",
+      "distance": 1570.7,
+      "average_grade": -1.1,
+      "maximum_grade": 4.7,
+      "elevation_high": 154.2,
+      "elevation_low": 136.4,
+      "start_latlng": [
+            43.07186,
+            -77.462505
+      ],
+      "end_latlng": [
+            43.061039,
+            -77.473499
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MKCD2YJVCMP6B3T5S3HTMJQX7KVHRONDR5UJ2JO2ZTMV7MFSBXZUPLGK7MEH4MF5X3VS43U5TDXQ5DH4DT4A====",
+      "start_latitude": 43.07186,
+      "start_longitude": -77.462505,
+      "end_latitude": 43.061039,
+      "end_longitude": -77.473499,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-27T23:51:30Z",
+      "updated_at": "2021-05-15T02:13:25Z",
+      "total_elevation_gain": 2.4,
+      "map": {
+            "id": "s4546980",
+            "polyline": "cn{eGtkxwMx@`@tBrAz@^`@Vd@JXDMCZXCEr@TbAt@XLf@`@bChAf@Nb@X`@Zn@b@x@ZLJ|@XZXr@`@f@VRDlBlAHHPJd@Lb@TxAbAnBbCXh@JVt@rAVv@j@nAdAxBf@jAnAdDLTh@nAv@hB^l@^~@Vb@~@rBd@v@DP",
+            "resource_state": 3
+      },
+      "effort_count": 2155,
+      "athlete_count": 356,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:32",
+            "qom": "2:27",
+            "destination": {
+                  "href": "strava://segments/4546980/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14073677,
+            "title": "RCH Chef",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/14073677/5739155/2/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/4546980/local_legend?categories%5B%5D=overall"
+      }
 }

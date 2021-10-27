@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7281355,
+      "resource_state": 3,
+      "name": "Jeffords Rd East",
+      "activity_type": "Ride",
+      "distance": 1599.8,
+      "average_grade": -0.4,
+      "maximum_grade": 10.6,
+      "elevation_high": 204.4,
+      "elevation_low": 187.8,
+      "start_latlng": [
+            43.009909,
+            -77.639567
+      ],
+      "end_latlng": [
+            43.009882,
+            -77.619989
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7AXYWQJKNSZGL3FJPTX34D4WXP4T2Y4T7T5RUCHE3Z5UV5ECI4PRRNPJYNOD4RME2T24JI2LX2U5DLOPLTOEA===",
+      "start_latitude": 43.009909,
+      "start_longitude": -77.639567,
+      "end_latitude": 43.009882,
+      "end_longitude": -77.619989,
+      "climb_category": 0,
+      "city": "Rush",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-24T20:28:24Z",
+      "updated_at": "2021-05-15T02:15:05Z",
+      "total_elevation_gain": 20.6,
+      "map": {
+            "id": "s7281355",
+            "polyline": "{joeGh~zxMAqOCoFBmPBsCCeF?gIEgHHeS@k\\",
+            "resource_state": 3
+      },
+      "effort_count": 1102,
+      "athlete_count": 221,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:05",
+            "qom": "2:42",
+            "destination": {
+                  "href": "strava://segments/7281355/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5393943,
+            "title": "Susan Gilday",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5393943/1693081/1/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/7281355/local_legend?categories%5B%5D=overall"
+      }
 }

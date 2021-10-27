@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2272842,
+      "resource_state": 3,
+      "name": "Cordon Bleu Climb",
+      "activity_type": "Ride",
+      "distance": 1535.97,
+      "average_grade": 2.6,
+      "maximum_grade": 8.0,
+      "elevation_high": 278.4,
+      "elevation_low": 239.1,
+      "start_latlng": [
+            42.93424204,
+            -77.51767347
+      ],
+      "end_latlng": [
+            42.93205679,
+            -77.49981259
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WRBZULHHXGELBADR7BGBN26ZKQNCY223S6WSB7WT3APK3XRONOWGXQVK7B2VLVU5LDR5F7TVDS35MX4D2BRTQ===",
+      "start_latitude": 42.93424204,
+      "start_longitude": -77.51767347,
+      "end_latitude": 42.93205679,
+      "end_longitude": -77.49981259,
+      "climb_category": 0,
+      "city": "Bloomfield",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-09-01T15:32:24Z",
+      "updated_at": "2021-05-17T08:04:04Z",
+      "total_elevation_gain": 50.5862,
+      "map": {
+            "id": "s2272842",
+            "polyline": "_r`eGndcxMt@oJN_Cf@uEZuFFkDA}DB}@GuBBmCCwCEyAEwDMqGOmEQqD?gA@kAJiANsAVeA~@}B^u@hAcBh@c@~@eBZu@",
+            "resource_state": 3
+      },
+      "effort_count": 7485,
+      "athlete_count": 657,
+      "star_count": 16,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:05",
+            "qom": "2:35",
+            "destination": {
+                  "href": "strava://segments/2272842/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3299172,
+            "title": "Matthew McNamara",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3299172/1069972/3/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/2272842/local_legend?categories%5B%5D=overall"
+      }
 }

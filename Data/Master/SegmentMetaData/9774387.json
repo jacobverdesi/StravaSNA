@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9774387,
+      "resource_state": 3,
+      "name": "* WINDING BROOK *",
+      "activity_type": "Ride",
+      "distance": 267.8,
+      "average_grade": -5.2,
+      "maximum_grade": 0.0,
+      "elevation_high": 173.2,
+      "elevation_low": 159.4,
+      "start_latlng": [
+            43.089855,
+            -77.435528
+      ],
+      "end_latlng": [
+            43.088514,
+            -77.43768
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IFHGMQCISR6NMKE4RCSHRFMMFAOUO5DFWFCRZRAUCPPHOSZSFW6GAR2GEXIISST7J5223X3OX6J4EMEU2DF54===",
+      "start_latitude": 43.089855,
+      "start_longitude": -77.435528,
+      "end_latitude": 43.088514,
+      "end_longitude": -77.43768,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-21T02:39:31Z",
+      "updated_at": "2021-05-18T08:04:00Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9774387",
+            "polyline": "q~~eG`cswMlDjAb@XNRVp@Lx@B\\?hD",
+            "resource_state": 3
+      },
+      "effort_count": 159,
+      "athlete_count": 52,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "17s",
+            "qom": "24s",
+            "destination": {
+                  "href": "strava://segments/9774387/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32212911,
+            "title": "Dave Bischoff",
+            "profile": "https://graph.facebook.com/10201903979376593/picture?height=256&width=256",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/9774387/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 23710036,
+      "resource_state": 3,
+      "name": "Mulch hill north",
+      "activity_type": "Ride",
+      "distance": 536.8,
+      "average_grade": -1.8,
+      "maximum_grade": 7.3,
+      "elevation_high": 132.4,
+      "elevation_low": 118.2,
+      "start_latlng": [
+            43.205147,
+            -77.624641
+      ],
+      "end_latlng": [
+            43.209587,
+            -77.625044
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/Q63DKP3XI55S4QAPW7OEYHX4OWNZ55EEL2R64KVJVV4K2QWZZAAO2VB6UD4FX7YQN46WOGJULEORHB7V7NOSG===",
+      "start_latitude": 43.205147,
+      "start_longitude": -77.624641,
+      "end_latitude": 43.209587,
+      "end_longitude": -77.625044,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-04-29T13:34:56Z",
+      "updated_at": "2021-05-17T08:08:43Z",
+      "total_elevation_gain": 5.2,
+      "map": {
+            "id": "s23710036",
+            "polyline": "coufG`axxMa@v@SHWDe@Nw@^e@Lg@HcCAaAKcBI{ASm@Sc@G{@Aq@Fw@@",
+            "resource_state": 3
+      },
+      "effort_count": 1577,
+      "athlete_count": 304,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "50s",
+            "qom": "1:22",
+            "destination": {
+                  "href": "strava://segments/23710036/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24752282,
+            "title": "Ted Cessna\ud83c\uddfa\ud83c\uddf8",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/24752282/7127891/1/large.jpg",
+            "effort_description": "13 efforts in the last 90 days",
+            "effort_count": "13",
+            "effort_counts": {
+                  "overall": "13 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/23710036/local_legend?categories%5B%5D=overall"
+      }
 }

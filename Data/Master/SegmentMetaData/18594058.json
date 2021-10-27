@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18594058,
+      "resource_state": 3,
+      "name": "Dip Baby Dip",
+      "activity_type": "Ride",
+      "distance": 486.1,
+      "average_grade": -1.5,
+      "maximum_grade": 11.7,
+      "elevation_high": 177.3,
+      "elevation_low": 158.7,
+      "start_latlng": [
+            43.076653,
+            -77.522566
+      ],
+      "end_latlng": [
+            43.077145,
+            -77.528467
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/T6G5PLL3C5BN5AX3USQTJYVBVKNRFAPSPKEEOAVD56NK4Y2XYCIGRIERQQN25FTN34AYNX5JDWVM7KCVQB2Q====",
+      "start_latitude": 43.076653,
+      "start_longitude": -77.522566,
+      "end_latitude": 43.077145,
+      "end_longitude": -77.528467,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-08-20T01:43:27Z",
+      "updated_at": "2021-05-17T08:07:45Z",
+      "total_elevation_gain": 11.1,
+      "map": {
+            "id": "s18594058",
+            "polyline": "al|eG`cdxME|@{@dJWrDGjD?vK",
+            "resource_state": 3
+      },
+      "effort_count": 1782,
+      "athlete_count": 418,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "31s",
+            "qom": "38s",
+            "destination": {
+                  "href": "strava://segments/18594058/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32353578,
+            "title": "Marty Watson",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/32353578/9654298/2/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/18594058/local_legend?categories%5B%5D=overall"
+      }
 }

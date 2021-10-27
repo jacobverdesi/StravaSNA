@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26015380,
+      "resource_state": 3,
+      "name": "Veterans Memorial Park SB (Calkins to Lehigh Station Rd)",
+      "activity_type": "Ride",
+      "distance": 1312.6,
+      "average_grade": 0.2,
+      "maximum_grade": 4.0,
+      "elevation_high": 165.1,
+      "elevation_low": 161.3,
+      "start_latlng": [
+            43.06832,
+            -77.627777
+      ],
+      "end_latlng": [
+            43.059238,
+            -77.629112
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7BKVNHG65YPBDCF4LNBYQXU4RMUSLFGP276H35TM5YRHW575STMKN6M5WSSSVYUXWF54KMJKXOXKIJRBLUBQ====",
+      "start_latitude": 43.06832,
+      "start_longitude": -77.627777,
+      "end_latitude": 43.059238,
+      "end_longitude": -77.629112,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-10-10T16:36:38Z",
+      "updated_at": "2021-05-20T08:05:41Z",
+      "total_elevation_gain": 3.8,
+      "map": {
+            "id": "s26015380",
+            "polyline": "_xzeGrtxxMHWJCd@DHJn@Jd@VPFf@HHFt@LTJHH^PJ?HFTDFHH@NAZUB?DPBXBJj@FHFHLHDzAl@^Tn@VFHt@RPNH@ZNLKDKB{@?k@JkAAgAGe@@iBFOC}@FQ@UDGJCb@LHFz@Zh@XVH~Ap@dA^l@XLLJ@XJVRTJh@^JDFNVNn@N^NJJbAZH@TAP@hAj@`@NNDXA",
+            "resource_state": 3
+      },
+      "effort_count": 476,
+      "athlete_count": 135,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:28",
+            "qom": "3:19",
+            "destination": {
+                  "href": "strava://segments/26015380/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24444898,
+            "title": "Ben Forrest",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/24444898/7024144/2/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/26015380/local_legend?categories%5B%5D=overall"
+      }
 }

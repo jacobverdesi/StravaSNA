@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4424141,
+      "resource_state": 3,
+      "name": "Canal East Up Ayrault",
+      "activity_type": "Ride",
+      "distance": 1280.7,
+      "average_grade": 2.6,
+      "maximum_grade": 19.7,
+      "elevation_high": 175.0,
+      "elevation_low": 140.7,
+      "start_latlng": [
+            43.079036,
+            -77.460336
+      ],
+      "end_latlng": [
+            43.079034,
+            -77.444714
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7EXHQV6JF4Y4X5ACTQP7J7Z4OUJQ2M45EFU7C4REZV2R7OEVN4XIOTE2FFWO4O3Q5G5W75X7SMEZV6I6PUXQ====",
+      "start_latitude": 43.079036,
+      "start_longitude": -77.460336,
+      "end_latitude": 43.079034,
+      "end_longitude": -77.444714,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-16T03:02:51Z",
+      "updated_at": "2021-05-15T02:13:20Z",
+      "total_elevation_gain": 42.1,
+      "map": {
+            "id": "s4424141",
+            "polyline": "}z|eGb~wwMAyAFiA@w@CkEGqAF{GSgBFu@?uAF{BBcCEaB@s@GaABG@cBHw@@wAAYAyBDeBIgABsIEiABw@GqAAKAq@Da@Ac@@c@C_BBu@Ce@FgAA_A",
+            "resource_state": 3
+      },
+      "effort_count": 1723,
+      "athlete_count": 250,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:11",
+            "qom": "2:58",
+            "destination": {
+                  "href": "strava://segments/4424141/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1073420,
+            "title": "James Roche",
+            "profile": "https://graph.facebook.com/1614837457/picture?height=256&width=256",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/4424141/local_legend?categories%5B%5D=overall"
+      }
 }

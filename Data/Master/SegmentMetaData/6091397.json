@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6091397,
+      "resource_state": 3,
+      "name": "Ayrault Bridge to West Church St. Bridge",
+      "activity_type": "Ride",
+      "distance": 2452.0,
+      "average_grade": -0.1,
+      "maximum_grade": 0.0,
+      "elevation_high": 137.4,
+      "elevation_low": 135.2,
+      "start_latlng": [
+            43.078902,
+            -77.461147
+      ],
+      "end_latlng": [
+            43.100038,
+            -77.456382
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/26A4ZEJAGKVDMGCJ5IWEZYGU66A7YUFIEGBJ7UAS6ZCA5VJYZKA57V72NBI7HSRXKWMNXAYJWOEHF3FNUE2Q====",
+      "start_latitude": 43.078902,
+      "start_longitude": -77.461147,
+      "end_latitude": 43.100038,
+      "end_longitude": -77.456382,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-11-25T21:57:01Z",
+      "updated_at": "2021-05-20T08:02:48Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s6091397",
+            "polyline": "cz|eGdcxwMu@_@u@i@uAq@sBu@cAYcCYeBQgCMwAO}AWmA]kAe@sAu@oA_AkAcAeCuCuAsAmAcAkAs@kAg@uAk@_Be@oAG{EKqE@iDEmDC}EK{MEsAD_AHiHdAaAR_@J_AH}@DQE]A",
+            "resource_state": 3
+      },
+      "effort_count": 16601,
+      "athlete_count": 3071,
+      "star_count": 15,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:35",
+            "qom": "4:18",
+            "destination": {
+                  "href": "strava://segments/6091397/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 66005097,
+            "title": "Stan Quetchenbach",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "30 efforts in the last 90 days",
+            "effort_count": "30",
+            "effort_counts": {
+                  "overall": "30 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/6091397/local_legend?categories%5B%5D=overall"
+      }
 }

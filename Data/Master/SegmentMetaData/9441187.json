@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9441187,
+      "resource_state": 3,
+      "name": "* LYNDON TO CANAL ST. *",
+      "activity_type": "Ride",
+      "distance": 2750.5,
+      "average_grade": 0.1,
+      "maximum_grade": 6.4,
+      "elevation_high": 138.0,
+      "elevation_low": 136.0,
+      "start_latlng": [
+            43.087336,
+            -77.401043
+      ],
+      "end_latlng": [
+            43.075827,
+            -77.371138
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UWUOIP56II5SJNA65S7GL4IVUWYIL5NF5VIQ6HVB3VRJDKCZ4VKFSPVFZWKI3XXEJFYWGCBYL5IKXU36UQGQ====",
+      "start_latitude": 43.087336,
+      "start_longitude": -77.401043,
+      "end_latitude": 43.075827,
+      "end_longitude": -77.371138,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-08T22:55:24Z",
+      "updated_at": "2021-05-20T08:03:22Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s9441187",
+            "polyline": "yn~eGpklwMt@cCb@wB|GaVrO}h@hEoOtDoMjCyIrFsRvE_PtDyMtC{Jp@gCNqBJc@",
+            "resource_state": 3
+      },
+      "effort_count": 7798,
+      "athlete_count": 2584,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:00",
+            "qom": "4:35",
+            "destination": {
+                  "href": "strava://segments/9441187/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 738397,
+            "title": "Drew Deeney",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/738397/1007627/3/large.jpg",
+            "effort_description": "24 efforts in the last 90 days",
+            "effort_count": "24",
+            "effort_counts": {
+                  "overall": "24 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/9441187/local_legend?categories%5B%5D=overall"
+      }
 }

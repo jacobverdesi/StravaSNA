@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4192476,
+      "resource_state": 3,
+      "name": "Down by the River",
+      "activity_type": "Ride",
+      "distance": 3987.9,
+      "average_grade": -0.9,
+      "maximum_grade": 25.8,
+      "elevation_high": 116.8,
+      "elevation_low": 74.4,
+      "start_latlng": [
+            43.22013,
+            -77.62849
+      ],
+      "end_latlng": [
+            43.245653,
+            -77.614011
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BNZW22YDIJHWKVXRJVKQN3NWB4GMIVXMQX6UVKJ74ENWJ5R65DSEO6IRWPMGUI6UW2XFW25VJWOUKCOYMMAA====",
+      "start_latitude": 43.22013,
+      "start_longitude": -77.62849,
+      "end_latitude": 43.245653,
+      "end_longitude": -77.614011,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-23T19:55:23Z",
+      "updated_at": "2021-05-15T02:13:12Z",
+      "total_elevation_gain": 25.7,
+      "map": {
+            "id": "s4192476",
+            "polyline": "ylxfG`yxxMEEXcB?QRe@NeA@Y?u@Hy@Pq@GgADWM[Cq@I{@@QGYHu@IqAB]EoADiBBQ@{@UwA]cAMu@_@qAE[U]Y_AKIOu@OXm@mAi@u@IGMO_@Um@m@k@a@QK[AI]Wa@c@YWIIEa@]c@c@mA{@c@c@s@_@eAOi@?e@Ge@Ei@?OE}@JOIQ?QCS@_BYi@CaCaAWGY?sAc@}@Oy@GQGQAQGiCO]I_@@[DMJ}@T_@K_@FWRk@lAGHIFQZk@lAKh@?LK`B?\\GvA[xBK^GHUr@GAULEDMB[Lc@F]AYIG@WAICMSa@YMUw@u@O[qA}AYWa@o@OKMY_AgAqAmBsB{BMSs@{@IE]i@]Mo@_@KCc@CU@I@s@z@[H_@Dm@Am@F[A{@Fu@Na@N[FoALQ@OCm@Oi@YcA[k@U}@o@QGQCoAo@a@Ag@MKI]Kc@Uu@Q]SUGk@RIC_@Yi@M[Qm@MKSQEBo@m@@e@Dg@YOGWQc@Mi@[c@G[U]MGI",
+            "resource_state": 3
+      },
+      "effort_count": 3589,
+      "athlete_count": 983,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:48",
+            "qom": "7:51",
+            "destination": {
+                  "href": "strava://segments/4192476/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 93126048,
+            "title": "Greg Tuttle",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/4192476/local_legend?categories%5B%5D=overall"
+      }
 }

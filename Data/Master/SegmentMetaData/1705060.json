@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1705060,
+      "resource_state": 3,
+      "name": "Garnsey Rd To 250 Hill Climb",
+      "activity_type": "Ride",
+      "distance": 2309.89,
+      "average_grade": 2.9,
+      "maximum_grade": 18.8,
+      "elevation_high": 224.7,
+      "elevation_low": 147.4,
+      "start_latlng": [
+            43.05204511620104,
+            -77.46947519481182
+      ],
+      "end_latlng": [
+            43.05441920645535,
+            -77.44213250465691
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ANXVF4JV66J62LH7P7VAHZSMXS4244OZUM5UA2GFPEQMRDBIMGXQRHLFGVKJQ3DWUVTWR5NMO7FQPE3LIF6SE===",
+      "start_latitude": 43.05204511620104,
+      "start_longitude": -77.46947519481182,
+      "end_latitude": 43.05441920645535,
+      "end_longitude": -77.44213250465691,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-08T02:07:16Z",
+      "updated_at": "2021-05-15T02:12:12Z",
+      "total_elevation_gain": 88.9673,
+      "map": {
+            "id": "s1705060",
+            "polyline": "grweGfwywMc@u@_@y@{@{AW_AWsAMmAKgBCcD@kBE}IEyAQaBIk@Q{@uA}De@{Au@aDOaAKYa@}ASyACq@Is@Cm@OgAG{AIs@?gALsC?e@KiBEiB?{FKuCGkECkN@sBB{@ZsFnAuRFoFDmA",
+            "resource_state": 3
+      },
+      "effort_count": 1899,
+      "athlete_count": 314,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:08",
+            "qom": "5:47",
+            "destination": {
+                  "href": "strava://segments/1705060/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23824619,
+            "title": "Casey Bernhard",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/1705060/local_legend?categories%5B%5D=overall"
+      }
 }

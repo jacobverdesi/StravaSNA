@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6014335,
+      "resource_state": 3,
+      "name": "Turk Hill 31-Garnsey",
+      "activity_type": "Ride",
+      "distance": 1355.9,
+      "average_grade": 4.2,
+      "maximum_grade": 16.5,
+      "elevation_high": 249.6,
+      "elevation_low": 191.4,
+      "start_latlng": [
+            43.067496,
+            -77.432226
+      ],
+      "end_latlng": [
+            43.055292,
+            -77.432143
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/F44ECIOIUPJNXB4UZ6II7IOGZXO4Y24AJNXRFVZFD3Y6DD4IYOF6IFDNW74ZOGBGXSIJF5ACBFW6CFX7633WG===",
+      "start_latitude": 43.067496,
+      "start_longitude": -77.432226,
+      "end_latitude": 43.055292,
+      "end_longitude": -77.432143,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-11-14T15:22:58Z",
+      "updated_at": "2021-05-20T08:02:47Z",
+      "total_elevation_gain": 62.2,
+      "map": {
+            "id": "s6014335",
+            "polyline": "yrzeGlnrwM`HEvF@~FAdE@lABpAAvDBz@CbC@`ECvAEhF@hIK`AB",
+            "resource_state": 3
+      },
+      "effort_count": 922,
+      "athlete_count": 250,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:58",
+            "qom": "4:18",
+            "destination": {
+                  "href": "strava://segments/6014335/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8928420,
+            "title": "Kevin Gregory",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8928420/2704295/2/large.jpg",
+            "effort_description": "20 efforts in the last 90 days",
+            "effort_count": "20",
+            "effort_counts": {
+                  "overall": "20 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/6014335/local_legend?categories%5B%5D=overall"
+      }
 }

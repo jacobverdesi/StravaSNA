@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21553732,
+      "resource_state": 3,
+      "name": "Rush townline hill eastbound",
+      "activity_type": "Ride",
+      "distance": 578.1,
+      "average_grade": 3.3,
+      "maximum_grade": 7.4,
+      "elevation_high": 211.4,
+      "elevation_low": 192.4,
+      "start_latlng": [
+            43.017552,
+            -77.690404
+      ],
+      "end_latlng": [
+            43.017617,
+            -77.683314
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/REMTKPPH636JVNJVWAN3DNDSRJTYRHBQ42LMOBEGXSQIRZP2464MNYX6ISN4ELCXHYOBY2MDZWZWK23RFWC5S===",
+      "start_latitude": 43.017552,
+      "start_longitude": -77.690404,
+      "end_latitude": 43.017617,
+      "end_longitude": -77.683314,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-08-22T01:58:13Z",
+      "updated_at": "2021-05-17T08:08:25Z",
+      "total_elevation_gain": 19.0,
+      "map": {
+            "id": "s21553732",
+            "polyline": "uzpeG`|dyMKik@",
+            "resource_state": 3
+      },
+      "effort_count": 1060,
+      "athlete_count": 244,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "47s",
+            "qom": "1:26",
+            "destination": {
+                  "href": "strava://segments/21553732/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3299172,
+            "title": "Matthew McNamara",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3299172/1069972/3/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/21553732/local_legend?categories%5B%5D=overall"
+      }
 }

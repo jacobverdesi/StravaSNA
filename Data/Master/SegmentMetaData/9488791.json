@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9488791,
+      "resource_state": 3,
+      "name": "Lilac Up",
+      "activity_type": "Ride",
+      "distance": 453.2,
+      "average_grade": 1.8,
+      "maximum_grade": 4.0,
+      "elevation_high": 173.1,
+      "elevation_low": 165.1,
+      "start_latlng": [
+            43.130037,
+            -77.601589
+      ],
+      "end_latlng": [
+            43.12924,
+            -77.606929
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IUP3LXQ5TNNKHLY2K6ASUY4IH4L5BQNIB7CY4MNGAKXYBMUMLWRCDAKXYQJ6A3WT2UMVGWFBDGLHIJA52NVA====",
+      "start_latitude": 43.130037,
+      "start_longitude": -77.601589,
+      "end_latitude": 43.12924,
+      "end_longitude": -77.606929,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-15T01:22:43Z",
+      "updated_at": "2021-05-15T02:16:24Z",
+      "total_elevation_gain": 8.3,
+      "map": {
+            "id": "s9488791",
+            "polyline": "uyffG|psxMTbEN|AnBrKXrBD|AI|AO~@@D",
+            "resource_state": 3
+      },
+      "effort_count": 2892,
+      "athlete_count": 523,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "35s",
+            "qom": "49s",
+            "destination": {
+                  "href": "strava://segments/9488791/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/9488791/local_legend?categories%5B%5D=overall"
+      }
 }

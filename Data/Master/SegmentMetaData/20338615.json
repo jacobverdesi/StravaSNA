@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20338615,
+      "resource_state": 3,
+      "name": "Crittenden - River to Ballfields",
+      "activity_type": "Ride",
+      "distance": 1950.3,
+      "average_grade": 0.0,
+      "maximum_grade": 1.5,
+      "elevation_high": 188.4,
+      "elevation_low": 187.2,
+      "start_latlng": [
+            43.103287,
+            -77.674972
+      ],
+      "end_latlng": [
+            43.103541,
+            -77.651057
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AWIA4LJJM47NM6YT2TGY4ZPY5HTAE44VADCPCRQBJ5MFZUAMDDA3I4EG7MF7J6BFSNPZBQDF7HWZ3OOYPGLQ====",
+      "start_latitude": 43.103287,
+      "start_longitude": -77.674972,
+      "end_latitude": 43.103541,
+      "end_longitude": -77.651057,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-04-17T18:38:47Z",
+      "updated_at": "2021-05-20T08:05:02Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s20338615",
+            "polyline": "orafGr{ayMZaLVgEH}BKeJM_HS{Qa@{`@E{HMwGAaC?mKIeGA_I",
+            "resource_state": 3
+      },
+      "effort_count": 1179,
+      "athlete_count": 250,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:25",
+            "qom": "2:58",
+            "destination": {
+                  "href": "strava://segments/20338615/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 795671,
+            "title": "Paul Lysiak",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/795671/1277573/1/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/20338615/local_legend?categories%5B%5D=overall"
+      }
 }

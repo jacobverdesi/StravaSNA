@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 22050626,
+      "resource_state": 3,
+      "name": "* CLOCKWISE  GENESEE RIVER COURT 3 Kms, *(following all traffic rules)",
+      "activity_type": "Ride",
+      "distance": 2808.5,
+      "average_grade": -0.0,
+      "maximum_grade": 4.3,
+      "elevation_high": 171.2,
+      "elevation_low": 165.8,
+      "start_latlng": [
+            43.143058,
+            -77.615515
+      ],
+      "end_latlng": [
+            43.141916,
+            -77.614034
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JJY77FQ4QQBQYF6NGY5Z2TBZOE6YGI2LKQ4DQFEYSRJAI4VBSPVNTMP77PPCGA6AYFF6JAAVGAUF4RNIUNL7O===",
+      "start_latitude": 43.143058,
+      "start_longitude": -77.615515,
+      "end_latitude": 43.141916,
+      "end_longitude": -77.614034,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-10-14T02:10:45Z",
+      "updated_at": "2021-05-15T02:24:00Z",
+      "total_elevation_gain": 7.6,
+      "map": {
+            "id": "s22050626",
+            "polyline": "akifG~gvxMQ_@]{AgAwA{BqBeCcB_IwDyD_CSOo@o@cG_EiBw@mBk@w@OsBY[CYAWBi@PgAFSNQPk@Lo@?Sa@K]qA]O[UoCJYJOd@{AbAO`AARCp@a@x@CfAPvBThAXVTf@JzBBpBbA~AdA|AjAvAp@~@XbDjBxDzChAp@f@^hAn@`AZjB`AhCfClA`BbBxAf@T",
+            "resource_state": 3
+      },
+      "effort_count": 988,
+      "athlete_count": 277,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:37",
+            "qom": "6:54",
+            "destination": {
+                  "href": "strava://segments/22050626/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 63014392,
+            "title": "TERRENCE BACON",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/63014392/15898839/1/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/22050626/local_legend?categories%5B%5D=overall"
+      }
 }

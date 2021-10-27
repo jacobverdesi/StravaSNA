@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7230315,
+      "resource_state": 3,
+      "name": "Fifth Ave Northbound Climb",
+      "activity_type": "Ride",
+      "distance": 182.7,
+      "average_grade": 5.5,
+      "maximum_grade": 12.3,
+      "elevation_high": 181.2,
+      "elevation_low": 171.0,
+      "start_latlng": [
+            43.130206,
+            -77.615585
+      ],
+      "end_latlng": [
+            43.131724,
+            -77.614622
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OAQGFHKKSZGKQDEK7W5E5I6T6HI2ODGZYSVHQHIF3TQPIPVV5UQAV374T7OSQD7QEJG3CPXPFIO43M53RGQA====",
+      "start_latitude": 43.130206,
+      "start_longitude": -77.615585,
+      "end_latitude": 43.131724,
+      "end_longitude": -77.614622,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-17T18:17:16Z",
+      "updated_at": "2021-05-20T08:02:59Z",
+      "total_elevation_gain": 10.0,
+      "map": {
+            "id": "s7230315",
+            "polyline": "wzffGlhvxMc@a@YQ_Ac@uBmA_@O[I",
+            "resource_state": 3
+      },
+      "effort_count": 1299,
+      "athlete_count": 260,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "17s",
+            "qom": "30s",
+            "destination": {
+                  "href": "strava://segments/7230315/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3176763,
+            "title": "Daniel Breslawski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3176763/6460992/1/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/7230315/local_legend?categories%5B%5D=overall"
+      }
 }

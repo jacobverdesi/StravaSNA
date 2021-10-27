@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9393942,
+      "resource_state": 3,
+      "name": "E. Main to Park",
+      "activity_type": "Ride",
+      "distance": 1431.8,
+      "average_grade": 0.3,
+      "maximum_grade": 4.4,
+      "elevation_high": 151.4,
+      "elevation_low": 145.6,
+      "start_latlng": [
+            43.15928,
+            -77.5665
+      ],
+      "end_latlng": [
+            43.147289,
+            -77.572948
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BS2A2W5BNFDSKDXDEEERR65Q6XTXICAPYTBYSJMUBJDJBNHYZ3VRKRT2C746XOTDG2NPY6ELAWD57UUF5YOJW===",
+      "start_latitude": 43.15928,
+      "start_longitude": -77.5665,
+      "end_latitude": 43.147289,
+      "end_longitude": -77.572948,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-02T19:21:22Z",
+      "updated_at": "2021-05-15T02:16:20Z",
+      "total_elevation_gain": 5.8,
+      "map": {
+            "id": "s9393942",
+            "polyline": "oplfGtulxMfVnKv_@dPhF~BtJpE",
+            "resource_state": 3
+      },
+      "effort_count": 1391,
+      "athlete_count": 259,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:13",
+            "qom": "2:59",
+            "destination": {
+                  "href": "strava://segments/9393942/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3176763,
+            "title": "Daniel Breslawski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3176763/6460992/1/large.jpg",
+            "effort_description": "27 efforts in the last 90 days",
+            "effort_count": "27",
+            "effort_counts": {
+                  "overall": "27 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9393942/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1821829,
+      "resource_state": 3,
+      "name": "East Ave Wake Up",
+      "activity_type": "Ride",
+      "distance": 1223.65,
+      "average_grade": -1.7,
+      "maximum_grade": -0.1,
+      "elevation_high": 142.5,
+      "elevation_low": 121.5,
+      "start_latlng": [
+            43.137251955447915,
+            -77.53941948842382
+      ],
+      "end_latlng": [
+            43.12894175404123,
+            -77.52959514273367
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7UAPMRMB4TQP6A42OKPFR26BCCCDCP5G2X2PCEYYD6JDWN6P6C3LFCU3Q2JMHZZU3ZTK4DZD62ILBJPYGZHPS===",
+      "start_latitude": 43.137251955447915,
+      "start_longitude": -77.53941948842382,
+      "end_latitude": 43.12894175404123,
+      "end_longitude": -77.52959514273367,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-24T16:30:32Z",
+      "updated_at": "2021-05-15T08:02:45Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s1821829",
+            "polyline": "yfhfGjlgxM`DwEbBsBbEcGhEyGnBkCtDoEvBwBnDcEjHoHnByB",
+            "resource_state": 3
+      },
+      "effort_count": 6552,
+      "athlete_count": 806,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:17",
+            "qom": "1:31",
+            "destination": {
+                  "href": "strava://segments/1821829/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "30 efforts in the last 90 days",
+            "effort_count": "30",
+            "effort_counts": {
+                  "overall": "30 efforts",
+                  "female": "30 efforts"
+            },
+            "destination": "strava://segments/1821829/local_legend?categories%5B%5D=overall"
+      }
 }

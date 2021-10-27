@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15022579,
+      "resource_state": 3,
+      "name": "Kendrick to the River",
+      "activity_type": "Ride",
+      "distance": 856.1,
+      "average_grade": -0.3,
+      "maximum_grade": 4.8,
+      "elevation_high": 162.5,
+      "elevation_low": 156.0,
+      "start_latlng": [
+            43.116873,
+            -77.631924
+      ],
+      "end_latlng": [
+            43.120963,
+            -77.640014
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LZOIZFXZPAKDKVDQFYO6LRPWEDSDKSHSS3EM3XWUNAJJEREWHKRHLLKMU54L2IKDMSRDPSEFNPSQV3NJ6NLLM===",
+      "start_latitude": 43.116873,
+      "start_longitude": -77.631924,
+      "end_latitude": 43.120963,
+      "end_longitude": -77.640014,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-05-30T19:04:21Z",
+      "updated_at": "2021-05-20T08:04:15Z",
+      "total_elevation_gain": 6.0,
+      "map": {
+            "id": "s15022579",
+            "polyline": "mgdfGpnyxMJ^@RARETQ\\a@lAsAzBQ^]vAEFKh@SvBGCQh@Id@K^M\\i@j@GNWCAJKDIj@_@r@Qh@ECKLEPINOfAk@l@Ux@]r@]HYLIH[r@K`@}A`D?LER_@x@GD",
+            "resource_state": 3
+      },
+      "effort_count": 22522,
+      "athlete_count": 3714,
+      "star_count": 11,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:18",
+            "qom": "1:27",
+            "destination": {
+                  "href": "strava://segments/15022579/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10439897,
+            "title": "Marge Demagistris",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10439897/12256028/1/large.jpg",
+            "effort_description": "40 efforts in the last 90 days",
+            "effort_count": "40",
+            "effort_counts": {
+                  "overall": "40 efforts",
+                  "female": "40 efforts"
+            },
+            "destination": "strava://segments/15022579/local_legend?categories%5B%5D=overall"
+      }
 }

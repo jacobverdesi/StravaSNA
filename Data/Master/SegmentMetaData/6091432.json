@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6091432,
+      "resource_state": 3,
+      "name": "Pittsford Palmyra Bridge to Rt 490 Bridge",
+      "activity_type": "Ride",
+      "distance": 1228.9,
+      "average_grade": 0.2,
+      "maximum_grade": 9.6,
+      "elevation_high": 136.8,
+      "elevation_low": 134.6,
+      "start_latlng": [
+            43.074286,
+            -77.464597
+      ],
+      "end_latlng": [
+            43.064698,
+            -77.472008
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/V3DAQM4VCB6JSN3OCKSBSPEIT5Z7OB62UKFT4YGVOMRZVAIWJGDR7DXGDGYXKDNBJP5FBPZIO7M2N4KUM2PJE===",
+      "start_latitude": 43.074286,
+      "start_longitude": -77.464597,
+      "end_latitude": 43.064698,
+      "end_longitude": -77.472008,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-11-25T22:03:15Z",
+      "updated_at": "2021-05-20T08:02:48Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s6091432",
+            "polyline": "g}{eGvxxwMNN`BdA~BdBbCtAbErCfGxDdB`AzAdA`BzAdAr@lAj@rJhGjCrBfAhANNj@lA",
+            "resource_state": 3
+      },
+      "effort_count": 16803,
+      "athlete_count": 3743,
+      "star_count": 15,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:36",
+            "qom": "2:11",
+            "destination": {
+                  "href": "strava://segments/6091432/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "52 efforts in the last 90 days",
+            "effort_count": "52",
+            "effort_counts": {
+                  "overall": "52 efforts",
+                  "female": "14 efforts"
+            },
+            "destination": "strava://segments/6091432/local_legend?categories%5B%5D=overall"
+      }
 }

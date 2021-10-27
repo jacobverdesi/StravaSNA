@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4068265,
+      "resource_state": 3,
+      "name": "RIT Loop",
+      "activity_type": "Ride",
+      "distance": 4764.3,
+      "average_grade": -0.1,
+      "maximum_grade": 13.6,
+      "elevation_high": 196.6,
+      "elevation_low": 184.4,
+      "start_latlng": [
+            43.087691,
+            -77.679619
+      ],
+      "end_latlng": [
+            43.087716,
+            -77.679303
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZGLFJEBNS2245EJX7WVX6PK7JULJWCRTJRG4KGOILH7L5M2R7JCXOEPJ574TXP6RU3VCW4CRGBJ7OSK4WCBA====",
+      "start_latitude": 43.087691,
+      "start_longitude": -77.679619,
+      "end_latitude": 43.087716,
+      "end_longitude": -77.679303,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-10T20:01:00Z",
+      "updated_at": "2021-05-15T02:13:07Z",
+      "total_elevation_gain": 13.6,
+      "map": {
+            "id": "s4068265",
+            "polyline": "aq~eGrxbyM@tAF|AHjALjA`@~BXjA`@hATn@f@bAj@|@l@x@^b@xBrB`@\\b@Xb@P`@L^H^BfEApDFnDA~@Cj@ITGl@[|@u@x@cAZs@`@uAL}@H}AA}@]aKOkCKeAO}@[iAyDqI_@cAGWGs@AoABs@Jq@Po@Rk@h@y@jCmCZc@t@oAt@mBl@yBNq@TcBJkBBiCKgCQgBa@gCg@gBs@aB}@uAaAkAgA_ASG}@a@k@Mi@Kk@EmBG_CMcA@cAF{AAuIHoCFu@H[?q@GoAH]Hq@Vm@b@]\\e@v@Wh@YfAQpACtAFvANv@Rv@`CxGj@dB\\lBPrBBtA@|GQpARrADr@?pJF~L",
+            "resource_state": 3
+      },
+      "effort_count": 751,
+      "athlete_count": 94,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "7:11",
+            "qom": "10:36",
+            "destination": {
+                  "href": "strava://segments/4068265/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2678937,
+            "title": "Ben  Braun",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2678937/1989906/2/large.jpg",
+            "effort_description": "33 efforts in the last 90 days",
+            "effort_count": "33",
+            "effort_counts": {
+                  "overall": "33 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4068265/local_legend?categories%5B%5D=overall"
+      }
 }

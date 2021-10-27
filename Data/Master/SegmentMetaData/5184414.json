@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5184414,
+      "resource_state": 3,
+      "name": "Access road Slam post climb bypass trail",
+      "activity_type": "Ride",
+      "distance": 455.6,
+      "average_grade": 4.5,
+      "maximum_grade": 40.8,
+      "elevation_high": 119.0,
+      "elevation_low": 90.5,
+      "start_latlng": [
+            43.167213,
+            -77.535142
+      ],
+      "end_latlng": [
+            43.165712,
+            -77.537823
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OS3OUAFXCBCHUV2RKOA6BRT6CRY3RVKLWXFXQFIRQJBUJW4EFBL6FLKNODWSISXLSPQVCD4CP23N3JU7XZQQ====",
+      "start_latitude": 43.167213,
+      "start_longitude": -77.535142,
+      "end_latitude": 43.165712,
+      "end_longitude": -77.537823,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-08-19T13:16:14Z",
+      "updated_at": "2021-05-17T08:04:38Z",
+      "total_elevation_gain": 46.6,
+      "map": {
+            "id": "s5184414",
+            "polyline": "abnfGtqfxM@DFL\\Rv@t@Xf@B@j@It@AjA\\b@DNR^jANTLn@Bh@?zAARMl@Bh@E?aAi@Q?OH",
+            "resource_state": 3
+      },
+      "effort_count": 5573,
+      "athlete_count": 628,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:04",
+            "qom": "1:13",
+            "destination": {
+                  "href": "strava://segments/5184414/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62615463,
+            "title": "Dave Tasber",
+            "profile": "https://graph.facebook.com/10102801878205695/picture?height=256&width=256",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/5184414/local_legend?categories%5B%5D=overall"
+      }
 }

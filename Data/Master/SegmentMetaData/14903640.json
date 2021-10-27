@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14903640,
+      "resource_state": 3,
+      "name": "* 5km LOUD HILL TRAINING LOOP * FAIRPORTS FINEST * ",
+      "activity_type": "Ride",
+      "distance": 4938.3,
+      "average_grade": -0.0,
+      "maximum_grade": 9.4,
+      "elevation_high": 261.0,
+      "elevation_low": 159.0,
+      "start_latlng": [
+            43.064194,
+            -77.407248
+      ],
+      "end_latlng": [
+            43.064431,
+            -77.407571
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QCCWZB2UF63MMQC2U7OK6PTLDXGMSW7MIQ5MCGJNQIH5C4JTHFLGQZNFS4LQ743CZLKDTB3RECYUNI6XHTCA====",
+      "start_latitude": 43.064194,
+      "start_longitude": -77.407248,
+      "end_latitude": 43.064431,
+      "end_longitude": -77.407571,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-05-17T16:31:49Z",
+      "updated_at": "2021-05-17T08:06:56Z",
+      "total_elevation_gain": 118.8,
+      "map": {
+            "id": "s14903640",
+            "polyline": "e~yeGhrmwMlBRV@fAG|DCv@EvA?fFIhFO\\?p@El@BLBfB~@zATzBCbAIl@?PBf@BLCn@?HB~AMpCEx@@z@CPE|@?fAE^@zAAX@pCCJCd@LJBf@^hBtATLDH\\LHF`@JnAh@`Dv@hA^dFjAXXAXYbCOnBg@rK]bCW|@Wt@Yh@e@fAeBvCyA~Ca@h@SPk@ZUFY?_BGk@@SFa@\\KTOn@EVCfAKj@e@NO@aCCwJFgFGaB]m@]m@a@}@}@c@m@o@eAk@wAe@_As@_Ag@a@WQqBcBoF}Eq@g@y@g@[K]E]AuMAyCBqCFM?KCQKEI@_@\\}ANiAJcBCaX",
+            "resource_state": 3
+      },
+      "effort_count": 460,
+      "athlete_count": 73,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "9:21",
+            "qom": "14:02",
+            "destination": {
+                  "href": "strava://segments/14903640/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2718728,
+            "title": "Matthew Howard",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2718728/6979589/4/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/14903640/local_legend?categories%5B%5D=overall"
+      }
 }

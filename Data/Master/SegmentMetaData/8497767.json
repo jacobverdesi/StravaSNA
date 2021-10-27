@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8497767,
+      "resource_state": 3,
+      "name": "* TWISTED *",
+      "activity_type": "Ride",
+      "distance": 268.0,
+      "average_grade": -4.6,
+      "maximum_grade": 11.8,
+      "elevation_high": 193.0,
+      "elevation_low": 179.0,
+      "start_latlng": [
+            43.132196,
+            -77.604211
+      ],
+      "end_latlng": [
+            43.133809,
+            -77.605783
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GRAYSQGTJA7DMRUPHCY2BMZLA5VJKAHTYWBVHIKWOREKXFBBNEQKSJIVBCLS6TWIJQVAHUQSTV35FP734K77G===",
+      "start_latitude": 43.132196,
+      "start_longitude": -77.604211,
+      "end_latitude": 43.133809,
+      "end_longitude": -77.605783,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-12T02:09:34Z",
+      "updated_at": "2021-05-15T02:15:50Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8497767",
+            "polyline": "eggfGjatxMIMIIW@[DEFCPOvAERINYXe@Fy@GQBSFONa@x@En@FR",
+            "resource_state": 3
+      },
+      "effort_count": 938,
+      "athlete_count": 279,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "18s",
+            "qom": "21s",
+            "destination": {
+                  "href": "strava://segments/8497767/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 73846932,
+            "title": "Jason Smith",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GjtO89v4Ns9twdmerGwBGDOS5HYM8XzbbAg2Tgzkw=s96-c",
+            "effort_description": "17 efforts in the last 90 days",
+            "effort_count": "17",
+            "effort_counts": {
+                  "overall": "17 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/8497767/local_legend?categories%5B%5D=overall"
+      }
 }

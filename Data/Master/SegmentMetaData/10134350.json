@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10134350,
+      "resource_state": 3,
+      "name": "* EGYPT HILLS * NOSE DIVE *",
+      "activity_type": "Ride",
+      "distance": 778.8,
+      "average_grade": -5.1,
+      "maximum_grade": 0.0,
+      "elevation_high": 251.4,
+      "elevation_low": 211.8,
+      "start_latlng": [
+            43.048362,
+            -77.41466
+      ],
+      "end_latlng": [
+            43.049389,
+            -77.418663
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QPADCXKWSSAMM4BSZOI2NEXAWT7XEE5XYYANJMIOIMBB5EYFGJ37JV63GQHT5IJIHZ3GIO6EJRVB3NAJSU5Q====",
+      "start_latitude": 43.048362,
+      "start_longitude": -77.41466,
+      "end_latitude": 43.049389,
+      "end_longitude": -77.418663,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-08-05T02:22:46Z",
+      "updated_at": "2021-05-19T08:03:22Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s10134350",
+            "polyline": "g{veGr`owMoAbCgA`C_@p@c@h@k@\\UJYDo@@yACg@FQJQNUf@EVCr@?xCXtDDXTp@NLNDVCRIn@k@nD{B",
+            "resource_state": 3
+      },
+      "effort_count": 2849,
+      "athlete_count": 420,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "53s",
+            "qom": "1:01",
+            "destination": {
+                  "href": "strava://segments/10134350/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62652222,
+            "title": "Alexander Shestopalov",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/62652222/20628553/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/10134350/local_legend?categories%5B%5D=overall"
+      }
 }

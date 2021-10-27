@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4103275,
+      "resource_state": 3,
+      "name": "Scottsville Rd North",
+      "activity_type": "Ride",
+      "distance": 9160.6,
+      "average_grade": -0.3,
+      "maximum_grade": 6.9,
+      "elevation_high": 125.6,
+      "elevation_low": 101.8,
+      "start_latlng": [
+            43.028731,
+            -77.742797
+      ],
+      "end_latlng": [
+            43.092172,
+            -77.681659
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GNFDCK343S5LQY6F446WV7M6TS5LPDXGLY2WK6ZJGIEHZ3AKZWBW2WDK6SJTPY3YJFMGSZJRDNUSF6U6PL4Q====",
+      "start_latitude": 43.028731,
+      "start_longitude": -77.742797,
+      "end_latitude": 43.092172,
+      "end_longitude": -77.681659,
+      "climb_category": 0,
+      "city": "Scottsville",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-14T06:01:28Z",
+      "updated_at": "2021-05-15T02:13:09Z",
+      "total_elevation_gain": 28.2,
+      "map": {
+            "id": "s4103275",
+            "polyline": "q`seGncoyMsCyA{HsD_ZiNyAw@{AwAaB}BeFwHuQ_YgIkLkAuAaCyBaBkAwBcAsF}BgBcAoSuM{B{Ak@g@cAgAaL_N_c@uf@qNgPa]q_@q@o@eAs@c@S{A_@qB]aBUeBDcJtAkDl@oEj@cCNyDAmAEqBQSEkBm@gBiAkAsAu@mAYk@_AmCw@sCs@wDc@_EYaEaBa\\U}D]aDg@wDOs@o@sBwAmBmPePkK_J}KwIcPcQeBoAqB{@eCq@_EmA",
+            "resource_state": 3
+      },
+      "effort_count": 1342,
+      "athlete_count": 402,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "12:50",
+            "qom": "14:09",
+            "destination": {
+                  "href": "strava://segments/4103275/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/4103275/local_legend?categories%5B%5D=overall"
+      }
 }

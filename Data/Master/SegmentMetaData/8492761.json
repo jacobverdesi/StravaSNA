@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8492761,
+      "resource_state": 3,
+      "name": "* Y LEFT *",
+      "activity_type": "Ride",
+      "distance": 1169.9,
+      "average_grade": -1.9,
+      "maximum_grade": 7.5,
+      "elevation_high": 189.6,
+      "elevation_low": 166.0,
+      "start_latlng": [
+            43.007712,
+            -77.554418
+      ],
+      "end_latlng": [
+            42.997409,
+            -77.556774
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ODIMY37OCD2ZANDA55T2FWGPVY3HUB6OBOHIO7D3YC4WJIDKHLZ5UI475RX5WGXPW4VS6BGOPIO673NR53PV6===",
+      "start_latitude": 43.007712,
+      "start_longitude": -77.554418,
+      "end_latitude": 42.997409,
+      "end_longitude": -77.556774,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-11T04:16:58Z",
+      "updated_at": "2021-05-20T08:03:13Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s8492761",
+            "polyline": "e}neGbjjxMn@PfNrCvA\\~AXhNzCpIbBd@Bf@?lBCtB@nEG",
+            "resource_state": 3
+      },
+      "effort_count": 4815,
+      "athlete_count": 784,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:04",
+            "qom": "1:32",
+            "destination": {
+                  "href": "strava://segments/8492761/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8662305,
+            "title": "Dean Romanick",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8662305/5051266/2/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/8492761/local_legend?categories%5B%5D=overall"
+      }
 }

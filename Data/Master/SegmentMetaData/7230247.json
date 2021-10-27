@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7230247,
+      "resource_state": 3,
+      "name": "Dell Avenue Climb",
+      "activity_type": "Ride",
+      "distance": 112.1,
+      "average_grade": 5.4,
+      "maximum_grade": 12.0,
+      "elevation_high": 178.6,
+      "elevation_low": 172.2,
+      "start_latlng": [
+            43.131809,
+            -77.617036
+      ],
+      "end_latlng": [
+            43.130979,
+            -77.616675
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/REGD53ITYIR4D2TGSI5P2RX4GUGTBLEUOZKY5E4VAP4WSSUDWQOR7OZUDQBG5K4GTVFGSFGSAAE7ZNWBO4WQ====",
+      "start_latitude": 43.131809,
+      "start_longitude": -77.617036,
+      "end_latitude": 43.130979,
+      "end_longitude": -77.616675,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-17T18:07:28Z",
+      "updated_at": "2021-05-17T08:05:06Z",
+      "total_elevation_gain": 6.4,
+      "map": {
+            "id": "s7230247",
+            "polyline": "wdgfGnqvxMvB_@PKZ[",
+            "resource_state": 3
+      },
+      "effort_count": 666,
+      "athlete_count": 116,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "12s",
+            "qom": "21s",
+            "destination": {
+                  "href": "strava://segments/7230247/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3176763,
+            "title": "Daniel Breslawski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3176763/6460992/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/7230247/local_legend?categories%5B%5D=overall"
+      }
 }

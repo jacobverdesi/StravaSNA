@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20620312,
+      "resource_state": 3,
+      "name": "Erie Station from Scottsville EB",
+      "activity_type": "Ride",
+      "distance": 1906.3,
+      "average_grade": 0.5,
+      "maximum_grade": 6.6,
+      "elevation_high": 201.4,
+      "elevation_low": 192.0,
+      "start_latlng": [
+            43.036909,
+            -77.718974
+      ],
+      "end_latlng": [
+            43.040359,
+            -77.698367
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QU66I7YXCY3CVLI6TFFLBWARS2GH3ONTZKIL5HJPLLI5KULT6R7DFAH56M74UGHK23ZPJYMH2HFBOBMQ3LGQ====",
+      "start_latitude": 43.036909,
+      "start_longitude": -77.718974,
+      "end_latitude": 43.040359,
+      "end_longitude": -77.698367,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-05-18T00:16:03Z",
+      "updated_at": "2021-05-15T02:23:10Z",
+      "total_elevation_gain": 16.6,
+      "map": {
+            "id": "s20620312",
+            "polyline": "ssteGrnjyMw@MsA[[Ow@g@g@a@}@_A_@i@_A_B[y@c@uAqBaIiD_La@aBUiBQyCk@ob@MuGKsH?gBJyBLeAJk@ZsAnBgGl@iC",
+            "resource_state": 3
+      },
+      "effort_count": 795,
+      "athlete_count": 299,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:00",
+            "qom": "3:18",
+            "destination": {
+                  "href": "strava://segments/20620312/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 44358378,
+            "title": "David Ranelli",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/44358378/16921257/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/20620312/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24049875,
+      "resource_state": 3,
+      "name": "Auburn cut",
+      "activity_type": "Ride",
+      "distance": 461.3,
+      "average_grade": -0.7,
+      "maximum_grade": 6.0,
+      "elevation_high": 151.2,
+      "elevation_low": 147.6,
+      "start_latlng": [
+            43.050982,
+            -77.498361
+      ],
+      "end_latlng": [
+            43.054094,
+            -77.501947
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DIMCHZXBKV6OMK2XH6UQJ4CIODIAQN7KORL6ISID3BVNG6IPSK5MI7IIP7ICP7OJYCWAYGHDGHVOEZTOINBA====",
+      "start_latitude": 43.050982,
+      "start_longitude": -77.498361,
+      "end_latitude": 43.054094,
+      "end_longitude": -77.501947,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-05-17T18:10:20Z",
+      "updated_at": "2021-05-20T08:05:28Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s24049875",
+            "polyline": "skweGxk_xMS`@mAdBa@v@[^U\\mAxAWTuAzAgArA{@`AwArA_@V",
+            "resource_state": 3
+      },
+      "effort_count": 1624,
+      "athlete_count": 332,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "45s",
+            "qom": "54s",
+            "destination": {
+                  "href": "strava://segments/24049875/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 139983,
+            "title": "Brett Matzke",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/139983/2035268/4/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/24049875/local_legend?categories%5B%5D=overall"
+      }
 }

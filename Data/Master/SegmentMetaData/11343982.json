@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 11343982,
+      "resource_state": 3,
+      "name": "ccl evan's farm lap",
+      "activity_type": "Ride",
+      "distance": 1874.9,
+      "average_grade": -0.1,
+      "maximum_grade": 5.4,
+      "elevation_high": 120.8,
+      "elevation_low": 109.8,
+      "start_latlng": [
+            43.109627,
+            -77.566389
+      ],
+      "end_latlng": [
+            43.10964,
+            -77.566381
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/25P52RGWVXRTSWECT6O3INCYDP6TLSARATBYUCCCK4FSUTKPFP35TRUJRX52Z2H3OP5KNXHRN4VNTWD4I76X4===",
+      "start_latitude": 43.109627,
+      "start_longitude": -77.566389,
+      "end_latitude": 43.10964,
+      "end_longitude": -77.566381,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-02-07T20:09:20Z",
+      "updated_at": "2021-05-15T02:17:28Z",
+      "total_elevation_gain": 8.8,
+      "map": {
+            "id": "s11343982",
+            "polyline": "czbfG|tlxMcCgAa@Ki@?c@FOFS@OGKIMQIWc@y@_@]QKsB}@eB}@_DuAoBcA]KSFONSd@uAhHCTBlAJt@Ll@n@lA|@n@zJhE^H^B\\?h@KXXh@|@pAdAxB|@bF~BLBLAP]Dk@MaMGk@Qy@k@_Ak@a@",
+            "resource_state": 3
+      },
+      "effort_count": 223,
+      "athlete_count": 10,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:09",
+            "qom": "8:59",
+            "destination": {
+                  "href": "strava://segments/11343982/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2215701,
+            "title": "brian c",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2215701/1118053/2/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/11343982/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17877502,
+      "resource_state": 3,
+      "name": "Attridge NE",
+      "activity_type": "Ride",
+      "distance": 879.2,
+      "average_grade": 1.8,
+      "maximum_grade": 5.2,
+      "elevation_high": 173.2,
+      "elevation_low": 155.8,
+      "start_latlng": [
+            43.105995,
+            -77.823501
+      ],
+      "end_latlng": [
+            43.111809,
+            -77.816274
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RP3UNVSG5QK3VGNEMBR3QNJRP3AB6SSD4BNMGM7LIJ67ZXVD4RJNOOL7WNUIAWA4M5GH7MMO2M7AC73HKKZQ====",
+      "start_latitude": 43.105995,
+      "start_longitude": -77.823501,
+      "end_latitude": 43.111809,
+      "end_longitude": -77.816274,
+      "climb_category": 0,
+      "city": "Churchville",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-06-06T11:45:35Z",
+      "updated_at": "2021-05-20T08:04:40Z",
+      "total_elevation_gain": 17.4,
+      "map": {
+            "id": "s17877502",
+            "polyline": "mcbfG|{~yMuEgJqAcC_AuAmCyDeCaDmAsA_MsL",
+            "resource_state": 3
+      },
+      "effort_count": 954,
+      "athlete_count": 157,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:29",
+            "qom": "2:10",
+            "destination": {
+                  "href": "strava://segments/17877502/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 86930922,
+            "title": "Greg Wright",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GgW-6e7bCzKGXg7yfCk1cpeM16GJNCkOBSPZJd2=s96-c",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/17877502/local_legend?categories%5B%5D=overall"
+      }
 }

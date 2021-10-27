@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6957068,
+      "resource_state": 3,
+      "name": "Rudman Slog",
+      "activity_type": "Ride",
+      "distance": 244.9,
+      "average_grade": 16.6,
+      "maximum_grade": 45.3,
+      "elevation_high": 118.7,
+      "elevation_low": 78.1,
+      "start_latlng": [
+            43.213918,
+            -77.544305
+      ],
+      "end_latlng": [
+            43.212974,
+            -77.546869
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/K5GZAPRAYZHH6SYEXAZR33MLEKA2MLX7AWDWVBQJH6KJXCTCS42BFRWSVPXKBHVSD5FIWKBTAERLGPPECQBA====",
+      "start_latitude": 43.213918,
+      "start_longitude": -77.544305,
+      "end_latitude": 43.212974,
+      "end_longitude": -77.546869,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-04-05T23:48:48Z",
+      "updated_at": "2021-05-17T08:05:00Z",
+      "total_elevation_gain": 40.6,
+      "map": {
+            "id": "s6957068",
+            "polyline": "}ewfG|jhxMT`CFJv@z@f@x@Pb@XbABv@DZBv@BF",
+            "resource_state": 3
+      },
+      "effort_count": 514,
+      "athlete_count": 105,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:14",
+            "qom": "2:08",
+            "destination": {
+                  "href": "strava://segments/6957068/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5708897,
+            "title": "Jeff Finewood",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5708897/3530037/2/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/6957068/local_legend?categories%5B%5D=overall"
+      }
 }

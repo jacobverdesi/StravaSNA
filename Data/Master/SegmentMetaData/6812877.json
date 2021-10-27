@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6812877,
+      "resource_state": 3,
+      "name": "Woodcliff climb",
+      "activity_type": "Ride",
+      "distance": 486.8,
+      "average_grade": 6.9,
+      "maximum_grade": 14.1,
+      "elevation_high": 216.8,
+      "elevation_low": 183.4,
+      "start_latlng": [
+            43.046763,
+            -77.44812
+      ],
+      "end_latlng": [
+            43.04613,
+            -77.453185
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CFHSPFNMCXAU57CCMWACCK3SXSB5GK7XRBYGNFFOXHNVPAP2DCBFLOSCSXBFBUTUCM6JUN3BNFUB7MV2WPWDO===",
+      "start_latitude": 43.046763,
+      "start_longitude": -77.44812,
+      "end_latitude": 43.04613,
+      "end_longitude": -77.453185,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-03-09T22:38:37Z",
+      "updated_at": "2021-05-20T08:02:54Z",
+      "total_elevation_gain": 33.4,
+      "map": {
+            "id": "s6812877",
+            "polyline": "gqveGvquwMK~@A~@Fj@V`AZb@`BrAr@n@Xf@Jt@?tBEj@c@lCaApE",
+            "resource_state": 3
+      },
+      "effort_count": 409,
+      "athlete_count": 125,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "49s",
+            "qom": "1:40",
+            "destination": {
+                  "href": "strava://segments/6812877/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 31685796,
+            "title": "Don Frank",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/31685796/12561459/12/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/6812877/local_legend?categories%5B%5D=overall"
+      }
 }

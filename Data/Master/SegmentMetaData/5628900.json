@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5628900,
+      "resource_state": 3,
+      "name": "Calkins Rd Climb",
+      "activity_type": "Ride",
+      "distance": 590.5,
+      "average_grade": 3.4,
+      "maximum_grade": 6.1,
+      "elevation_high": 189.0,
+      "elevation_low": 168.8,
+      "start_latlng": [
+            43.068803,
+            -77.584188
+      ],
+      "end_latlng": [
+            43.06891,
+            -77.576939
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2NUUPTKI4LXZTD4F5VKQSU5I3NWRLVDDPE65ACC3Q6SIK5P7PLTQQYDBBOCFZMOPWR4J7AQB3JZJ6T3A26CA====",
+      "start_latitude": 43.068803,
+      "start_longitude": -77.584188,
+      "end_latitude": 43.06891,
+      "end_longitude": -77.576939,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-28T22:38:45Z",
+      "updated_at": "2021-05-15T02:14:06Z",
+      "total_elevation_gain": 20.2,
+      "map": {
+            "id": "s5628900",
+            "polyline": "_{zeGddpxME_E@iFCaECi@@uAEk@@g@CmF@cDEwE",
+            "resource_state": 3
+      },
+      "effort_count": 1161,
+      "athlete_count": 379,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "54s",
+            "qom": "1:16",
+            "destination": {
+                  "href": "strava://segments/5628900/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 770315,
+            "title": "Dean Sherwood",
+            "profile": "https://graph.facebook.com/10204641242379360/picture?height=256&width=256",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/5628900/local_legend?categories%5B%5D=overall"
+      }
 }

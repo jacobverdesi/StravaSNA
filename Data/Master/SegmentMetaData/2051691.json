@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2051691,
+      "resource_state": 3,
+      "name": "South Ave - Gregory St to Reservoir Ave",
+      "activity_type": "Ride",
+      "distance": 1208.79,
+      "average_grade": 2.0,
+      "maximum_grade": 6.7,
+      "elevation_high": 185.4,
+      "elevation_low": 158.8,
+      "start_latlng": [
+            43.14184589315498,
+            -77.6043673419185
+      ],
+      "end_latlng": [
+            43.13184586357617,
+            -77.60930017575399
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OKPQVHG7UCEXJSS3FTMHSCBWXCLJWOFIOSCBSPCHLOTVVUXPADJWUOTDPROFQCBVZJV6UR4XQHBDOTJ6B5T4Y===",
+      "start_latitude": 43.14184589315498,
+      "start_longitude": -77.6043673419185,
+      "end_latitude": 43.13184586357617,
+      "end_longitude": -77.60930017575399,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-08-09T21:12:07Z",
+      "updated_at": "2021-05-15T02:12:20Z",
+      "total_elevation_gain": 26.8148,
+      "map": {
+            "id": "s2051691",
+            "polyline": "ocifGhbtxMd@H\\Pp@f@\\DjAf@f@NXTb@Fb@JTJh@^nAr@fAp@tAb@VTp@Xd@B`AZdBdAh@`@bAXr@d@PHl@Ph@H|@VhB\\TAv@P~AFZHf@Fh@?tALd@RZFn@bAXTPf@p@`ATHR@",
+            "resource_state": 3
+      },
+      "effort_count": 840,
+      "athlete_count": 261,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:03",
+            "qom": "1:51",
+            "destination": {
+                  "href": "strava://segments/2051691/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 20499105,
+            "title": "Gina Cardarelli",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/20499105/21930457/1/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/2051691/local_legend?categories%5B%5D=overall"
+      }
 }

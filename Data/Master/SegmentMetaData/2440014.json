@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2440014,
+      "resource_state": 3,
+      "name": "Hidden Bridge Climb",
+      "activity_type": "Ride",
+      "distance": 953.75,
+      "average_grade": 8.6,
+      "maximum_grade": 36.0,
+      "elevation_high": 242.0,
+      "elevation_low": 160.2,
+      "start_latlng": [
+            43.053549709769946,
+            -77.46417146183313
+      ],
+      "end_latlng": [
+            43.04774897177056,
+            -77.46005896486105
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GJN4SJBHTDAQJWFBXVE3BJJ7NAYRGLVSGXVPNUISOLMOR6XRIWKFMINDR5VO75L52MTFXJSTI5TCOXFSB3ZQ====",
+      "start_latitude": 43.053549709769946,
+      "start_longitude": -77.46417146183313,
+      "end_latitude": 43.04774897177056,
+      "end_longitude": -77.46005896486105,
+      "climb_category": 1,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-09-23T13:03:02Z",
+      "updated_at": "2021-05-17T08:04:06Z",
+      "total_elevation_gain": 84.6203,
+      "map": {
+            "id": "s2440014",
+            "polyline": "u{weGbvxwMh@MT@RAPONQROJQTo@Pu@LYLqB?MKc@CQDMHC^_@t@eAHEd@K`@DP?ZOHQHGRUFCD@?GDCRYLq@?QHBRRL\\PSPGLUNGPABDNBt@UN[LMP@NHHXDJHDF@JJTHL?B@FNb@XFALDFAJCNSCODMH@Fc@HKDm@Ha@Pk@NQFXHH`@@LKD@DNFLNI",
+            "resource_state": 3
+      },
+      "effort_count": 89,
+      "athlete_count": 36,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "6:31",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/2440014/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 553051,
+            "title": "\ud83c\udd79\ud83c\udd7e\ud83c\udd7d\ud83c\udd70\ud83c\udd77 \ud83c\udd73\ud83c\udd78\ud83c\udd7f\ud83c\udd70\ud83c\udd82\ud83c\udd80\ud83c\udd84\ud83c\udd70\ud83c\udd7b\ud83c\udd74",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/553051/131390/1/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/2440014/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12647541,
+      "resource_state": 3,
+      "name": "St Paul Screamer - Collingwood to Titus",
+      "activity_type": "Ride",
+      "distance": 1649.5,
+      "average_grade": -0.1,
+      "maximum_grade": 1.3,
+      "elevation_high": 140.4,
+      "elevation_low": 135.8,
+      "start_latlng": [
+            43.196915,
+            -77.617405
+      ],
+      "end_latlng": [
+            43.210258,
+            -77.612755
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3F373LVIMHL3NQ27LQSEX4HUM6TZZVG7N3UVJSUB3KUTVGPAU3H5Y4LG7WCRBGHO43BOU7L26GZAUIPVCVD44===",
+      "start_latitude": 43.196915,
+      "start_longitude": -77.617405,
+      "end_latitude": 43.210258,
+      "end_longitude": -77.612755,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-07-17T23:02:49Z",
+      "updated_at": "2021-05-20T08:03:53Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s12647541",
+            "polyline": "u{sfGxsvxMgBBiAHo@JmB`@mIvB{JzByBTsAMmAc@gAy@sE_E{Y{WuC{Bg@c@",
+            "resource_state": 3
+      },
+      "effort_count": 3169,
+      "athlete_count": 481,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:00",
+            "qom": "2:45",
+            "destination": {
+                  "href": "strava://segments/12647541/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62680199,
+            "title": "Ken Smoker",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/62680199/16388405/2/large.jpg",
+            "effort_description": "27 efforts in the last 90 days",
+            "effort_count": "27",
+            "effort_counts": {
+                  "overall": "27 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/12647541/local_legend?categories%5B%5D=overall"
+      }
 }

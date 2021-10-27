@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5343839,
+      "resource_state": 3,
+      "name": "259 to Washington",
+      "activity_type": "Ride",
+      "distance": 5333.7,
+      "average_grade": 0.2,
+      "maximum_grade": 5.3,
+      "elevation_high": 194.3,
+      "elevation_low": 175.9,
+      "start_latlng": [
+            43.119902,
+            -77.805545
+      ],
+      "end_latlng": [
+            43.108876,
+            -77.869213
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TMHM7QVTB3V2IJD43RYALT5SARQ3KOMTWXB2T3LNMK4757GZZG7N7A4IX6M4JK44ISFAGJ4CNA2EDAAOYH5B2===",
+      "start_latitude": 43.119902,
+      "start_longitude": -77.805545,
+      "end_latitude": 43.108876,
+      "end_longitude": -77.869213,
+      "climb_category": 0,
+      "city": "North Chili",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-01T15:39:17Z",
+      "updated_at": "2021-05-17T08:04:40Z",
+      "total_elevation_gain": 37.9,
+      "map": {
+            "id": "s5343839",
+            "polyline": "kzdfGtk{yMJTF\\HfAP|Ah@jIrBl_@H`B?v@Dt@\\vFFfB`@dGZ~CTvDl@nHPbBv@dJhBrTvApORlC`@nDl@|HrA|NVtCZnCn@dIzAtOl@`Ij@rF^|EhCxYdBhPfAlMj@`F\\lE|@lJTdB~@rKx@nHd@|Cp@xD\\dBt@zCjApEpEdR",
+            "resource_state": 3
+      },
+      "effort_count": 404,
+      "athlete_count": 128,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "8:38",
+            "qom": "10:04",
+            "destination": {
+                  "href": "strava://segments/5343839/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10551892,
+            "title": "Josh Magrum",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10551892/14640659/6/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/5343839/local_legend?categories%5B%5D=overall"
+      }
 }

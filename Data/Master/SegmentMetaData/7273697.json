@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7273697,
+      "resource_state": 3,
+      "name": "Clark Half Fast",
+      "activity_type": "Ride",
+      "distance": 672.0,
+      "average_grade": -1.1,
+      "maximum_grade": 6.0,
+      "elevation_high": 139.3,
+      "elevation_low": 125.3,
+      "start_latlng": [
+            43.147164,
+            -77.494534
+      ],
+      "end_latlng": [
+            43.145346,
+            -77.486848
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UDBV75ZOYH4KNROOK7DSBKJOOIWAJJHXB3KQIAZK2YIJMCZ3UZ5L4VZA3IWUAH24XQ5NOHOU3ZOF4FMKFGS7M===",
+      "start_latitude": 43.147164,
+      "start_longitude": -77.494534,
+      "end_latitude": 43.145346,
+      "end_longitude": -77.486848,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-23T14:26:47Z",
+      "updated_at": "2021-05-15T02:15:04Z",
+      "total_elevation_gain": 6.8,
+      "map": {
+            "id": "s7273697",
+            "polyline": "wdjfGzs~wMh@uAn@aCr@aCZ_A`A{Df@oAh@uBL_B@cAH_BDaEL_H",
+            "resource_state": 3
+      },
+      "effort_count": 1820,
+      "athlete_count": 250,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "46s",
+            "qom": "55s",
+            "destination": {
+                  "href": "strava://segments/7273697/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 41922893,
+            "title": "Dan Sant",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/41922893/12018556/1/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/7273697/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24448366,
+      "resource_state": 3,
+      "name": "Flow with traffic Landing S to N",
+      "activity_type": "Ride",
+      "distance": 309.1,
+      "average_grade": 0.8,
+      "maximum_grade": 6.1,
+      "elevation_high": 135.1,
+      "elevation_low": 128.3,
+      "start_latlng": [
+            43.137777,
+            -77.532625
+      ],
+      "end_latlng": [
+            43.138572,
+            -77.530075
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4JA3JA7W44QEJDL3XFKU7GXYUVKCBADLGNF2GXNW7W2DO2G35HDPDC2BWUFAI72MNXSETSSODLGURARANGYQ====",
+      "start_latitude": 43.137777,
+      "start_longitude": -77.532625,
+      "end_latitude": 43.138572,
+      "end_longitude": -77.530075,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-06-12T20:51:47Z",
+      "updated_at": "2021-05-15T02:24:50Z",
+      "total_elevation_gain": 6.8,
+      "map": {
+            "id": "s24448366",
+            "polyline": "ajhfG|afxM?BKsACuCOeE?SFcAC_@OMK?g@La@FKBQX",
+            "resource_state": 3
+      },
+      "effort_count": 1252,
+      "athlete_count": 453,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "19s",
+            "qom": "27s",
+            "destination": {
+                  "href": "strava://segments/24448366/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 55488593,
+            "title": "Michael Gardella",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/55488593/14950954/1/large.jpg",
+            "effort_description": "19 efforts in the last 90 days",
+            "effort_count": "19",
+            "effort_counts": {
+                  "overall": "19 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/24448366/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 11887217,
+      "resource_state": 3,
+      "name": "Hickory to Alexander",
+      "activity_type": "Ride",
+      "distance": 255.6,
+      "average_grade": -0.8,
+      "maximum_grade": 0.3,
+      "elevation_high": 159.0,
+      "elevation_low": 156.9,
+      "start_latlng": [
+            43.143159,
+            -77.60463
+      ],
+      "end_latlng": [
+            43.145409,
+            -77.605283
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/US5IGE33MTTZ7RJBBAHYYVGCKSAO3THO7QFJ2XT2NWNUJBPYHO2GXONN4ADI6XHJJVJBOQVF7MLRW53NX4B4A===",
+      "start_latitude": 43.143159,
+      "start_longitude": -77.60463,
+      "end_latitude": 43.145409,
+      "end_longitude": -77.605283,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-04-22T18:10:42Z",
+      "updated_at": "2021-05-15T02:17:45Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s11887217",
+            "polyline": "ukifG|ctxMyFjAgEv@",
+            "resource_state": 3
+      },
+      "effort_count": 2636,
+      "athlete_count": 442,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "15s",
+            "qom": "26s",
+            "destination": {
+                  "href": "strava://segments/11887217/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 17613772,
+            "title": "Brian Simon",
+            "profile": "https://graph.facebook.com/10208763244311723/picture?height=256&width=256",
+            "effort_description": "33 efforts in the last 90 days",
+            "effort_count": "33",
+            "effort_counts": {
+                  "overall": "33 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/11887217/local_legend?categories%5B%5D=overall"
+      }
 }

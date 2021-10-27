@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7367225,
+      "resource_state": 3,
+      "name": "Basil Park North",
+      "activity_type": "Ride",
+      "distance": 915.5,
+      "average_grade": -0.8,
+      "maximum_grade": 0.5,
+      "elevation_high": 114.2,
+      "elevation_low": 106.9,
+      "start_latlng": [
+            43.231238,
+            -77.677429
+      ],
+      "end_latlng": [
+            43.237766,
+            -77.673698
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3ZRHNW5EBMJSBUHTNUVU24XNFYZCIYY7BO2FM7F2XGJHSGQ2JJKV2HU235HJDJF5P4RFAD5F2TUAW7NTBQ4Q====",
+      "start_latitude": 43.231238,
+      "start_longitude": -77.677429,
+      "end_latitude": 43.237766,
+      "end_longitude": -77.673698,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-05T20:26:43Z",
+      "updated_at": "2021-05-15T08:03:34Z",
+      "total_elevation_gain": 3.4,
+      "map": {
+            "id": "s7367225",
+            "polyline": "erzfG|jbyMC_AkAa@WaAc@iCqBNqB\\iBaAs@gB}@q@i@gA{@MaBAkAu@i@e@mBe@}AcCoB?YTy@x@",
+            "resource_state": 3
+      },
+      "effort_count": 1442,
+      "athlete_count": 426,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:33",
+            "qom": "2:04",
+            "destination": {
+                  "href": "strava://segments/7367225/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 64674995,
+            "title": "Angelena Tentilucci",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/64674995/17046709/4/large.jpg",
+            "effort_description": "24 efforts in the last 90 days",
+            "effort_count": "24",
+            "effort_counts": {
+                  "overall": "24 efforts",
+                  "female": "24 efforts"
+            },
+            "destination": "strava://segments/7367225/local_legend?categories%5B%5D=overall"
+      }
 }

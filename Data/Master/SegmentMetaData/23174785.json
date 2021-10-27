@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 23174785,
+      "resource_state": 3,
+      "name": "Milford Rd Sprint",
+      "activity_type": "Ride",
+      "distance": 533.8,
+      "average_grade": -0.7,
+      "maximum_grade": 1.2,
+      "elevation_high": 127.2,
+      "elevation_low": 123.2,
+      "start_latlng": [
+            43.141541,
+            -77.526783
+      ],
+      "end_latlng": [
+            43.141416,
+            -77.520265
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RJDI2OGLE5OHAM4PBA45MRTHG7YYVOWQHSCNQODPY355BYWA64HW3DJBCN636DLPY5QBN3RJYZSXDJCQ7UNQ====",
+      "start_latitude": 43.141541,
+      "start_longitude": -77.526783,
+      "end_latitude": 43.141416,
+      "end_longitude": -77.520265,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-03-26T18:10:04Z",
+      "updated_at": "2021-05-18T08:05:54Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s23174785",
+            "polyline": "saifGl}dxMFKFg@?gBFkIAaBDuEEWBmBA_I@q@",
+            "resource_state": 3
+      },
+      "effort_count": 926,
+      "athlete_count": 120,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "35s",
+            "qom": "1:01",
+            "destination": {
+                  "href": "strava://segments/23174785/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3068486,
+            "title": "John Osburg",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3068486/3023806/1/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/23174785/local_legend?categories%5B%5D=overall"
+      }
 }

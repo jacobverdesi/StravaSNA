@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1858371,
+      "resource_state": 3,
+      "name": "Orchard Park Hill Climb",
+      "activity_type": "Ride",
+      "distance": 318.401,
+      "average_grade": 10.8,
+      "maximum_grade": 20.2,
+      "elevation_high": 116.1,
+      "elevation_low": 81.7,
+      "start_latlng": [
+            43.183814627158625,
+            -77.52947939567038
+      ],
+      "end_latlng": [
+            43.18268780600576,
+            -77.53186404712268
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MOALJJO63GOLMA4PJLAAFS7UN3TTSJHEPIHFBMIGDJW6KSZ47442L6HRM4PHJLVWOHRGP2KP7F7F37YAGTAA====",
+      "start_latitude": 43.183814627158625,
+      "start_longitude": -77.52947939567038,
+      "end_latitude": 43.18268780600576,
+      "end_longitude": -77.53186404712268,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-27T13:47:03Z",
+      "updated_at": "2021-05-15T08:02:45Z",
+      "total_elevation_gain": 33.9562,
+      "map": {
+            "id": "s1858371",
+            "polyline": "yiqfGfnexMUdD?`@ATOpABt@Vf@d@n@FLRRt@T^F^G\\OVG",
+            "resource_state": 3
+      },
+      "effort_count": 5312,
+      "athlete_count": 817,
+      "star_count": 15,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "28s",
+            "qom": "32s",
+            "destination": {
+                  "href": "strava://segments/1858371/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1334463,
+            "title": "Er\u2699\ufe0fc W\u2699\ufe0flters",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1334463/19430522/7/large.jpg",
+            "effort_description": "13 efforts in the last 90 days",
+            "effort_count": "13",
+            "effort_counts": {
+                  "overall": "13 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/1858371/local_legend?categories%5B%5D=overall"
+      }
 }

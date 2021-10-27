@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12804653,
+      "resource_state": 3,
+      "name": "Winton Climb from Highland",
+      "activity_type": "Ride",
+      "distance": 575.7,
+      "average_grade": 1.8,
+      "maximum_grade": 4.5,
+      "elevation_high": 156.4,
+      "elevation_low": 145.8,
+      "start_latlng": [
+            43.137222,
+            -77.559725
+      ],
+      "end_latlng": [
+            43.142035,
+            -77.557136
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/I7KF6X7RLHYKJ77F5LTT4MJ2RT22XCBDEP3J3F5Z6ONPWUIS3IME7WKD7I2WSVVB52BAURLICVOF6TI6EZ2SQ===",
+      "start_latitude": 43.137222,
+      "start_longitude": -77.559725,
+      "end_latitude": 43.142035,
+      "end_longitude": -77.557136,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-08-04T15:12:59Z",
+      "updated_at": "2021-05-15T02:18:16Z",
+      "total_elevation_gain": 10.6,
+      "map": {
+            "id": "s12804653",
+            "polyline": "sfhfGhkkxMaBs@_@Ku@]uAk@sB}@u@c@uCiAsCuAu@]OCg@YuAk@[Q",
+            "resource_state": 3
+      },
+      "effort_count": 3156,
+      "athlete_count": 635,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "35s",
+            "qom": "1:07",
+            "destination": {
+                  "href": "strava://segments/12804653/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24499231,
+            "title": "Dalia Ghoneim",
+            "profile": "https://graph.facebook.com/1335166319939255/picture?height=256&width=256",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": "23 efforts"
+            },
+            "destination": "strava://segments/12804653/local_legend?categories%5B%5D=overall"
+      }
 }

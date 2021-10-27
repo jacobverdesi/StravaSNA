@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7537117,
+      "resource_state": 3,
+      "name": "Knife's Edge",
+      "activity_type": "Ride",
+      "distance": 669.6,
+      "average_grade": -6.4,
+      "maximum_grade": 17.9,
+      "elevation_high": 120.7,
+      "elevation_low": 75.6,
+      "start_latlng": [
+            43.161199,
+            -77.533795
+      ],
+      "end_latlng": [
+            43.163191,
+            -77.528938
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6F2CXY53MIN6YYTMRYL6AXPUA5OYGTC6JQ3EBXFKNMKSGRHIQEZD5CTOSKKJXU4CKASGM6NKYBMWVQPBD7VA====",
+      "start_latitude": 43.161199,
+      "start_longitude": -77.533795,
+      "end_latitude": 43.163191,
+      "end_longitude": -77.528938,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-29T17:13:02Z",
+      "updated_at": "2021-05-17T08:05:11Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s7537117",
+            "polyline": "m|lfGfifxMc@gAMSQS?q@ESSc@Su@OQGSKCq@EWIIKoBeEANE@W?KEYg@Ou@Q[QSQGG@OF[VE@CECI@OrAoC@HTJH?DGAKQGCGD]AGBGLM@e@J]LK",
+            "resource_state": 3
+      },
+      "effort_count": 3968,
+      "athlete_count": 389,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:30",
+            "qom": "1:57",
+            "destination": {
+                  "href": "strava://segments/7537117/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24193119,
+            "title": "Ernie W ",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/24193119/13149858/5/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/7537117/local_legend?categories%5B%5D=overall"
+      }
 }

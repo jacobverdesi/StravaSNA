@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7522256,
+      "resource_state": 3,
+      "name": "Pagoda Run",
+      "activity_type": "Ride",
+      "distance": 359.0,
+      "average_grade": -8.7,
+      "maximum_grade": 20.7,
+      "elevation_high": 117.1,
+      "elevation_low": 81.7,
+      "start_latlng": [
+            43.166655,
+            -77.528627
+      ],
+      "end_latlng": [
+            43.168842,
+            -77.526499
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IE7EWRKSKZQ64CTKVASCBK2YN324RMCFQCUJOHPJ23L7KTFP2BSRRJESZHXR326KQQT2R3JZ3ISDMYCX2DYQ====",
+      "start_latitude": 43.166655,
+      "start_longitude": -77.528627,
+      "end_latitude": 43.168842,
+      "end_longitude": -77.526499,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-27T12:43:32Z",
+      "updated_at": "2021-05-15T08:03:36Z",
+      "total_elevation_gain": 4.2,
+      "map": {
+            "id": "s7522256",
+            "polyline": "q~mfG|hexMCQ@m@Cc@c@T[JOAGCgCkBEQaAcAs@cAOGEBKLECWkAAFEMGCC@?M",
+            "resource_state": 3
+      },
+      "effort_count": 879,
+      "athlete_count": 247,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "39s",
+            "qom": "59s",
+            "destination": {
+                  "href": "strava://segments/7522256/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 15670772,
+            "title": "John Courain",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/15670772/4405473/1/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7522256/local_legend?categories%5B%5D=overall"
+      }
 }

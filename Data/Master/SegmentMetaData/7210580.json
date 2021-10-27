@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7210580,
+      "resource_state": 3,
+      "name": "East River Uphill Start",
+      "activity_type": "Ride",
+      "distance": 1767.1,
+      "average_grade": 1.3,
+      "maximum_grade": 5.9,
+      "elevation_high": 193.1,
+      "elevation_low": 169.6,
+      "start_latlng": [
+            43.032891,
+            -77.700593
+      ],
+      "end_latlng": [
+            43.018294,
+            -77.708354
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/W6VQCAZE7LKUAG6U5GVCLYEYOGBEF5RLADIFXFP5GA5HO3ZPV46LTWD6HO6OY2DFEV2SCBZM5VRCX6GJAJDQ====",
+      "start_latitude": 43.032891,
+      "start_longitude": -77.700593,
+      "end_latitude": 43.018294,
+      "end_longitude": -77.708354,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-14T15:50:17Z",
+      "updated_at": "2021-05-20T08:02:59Z",
+      "total_elevation_gain": 24.0,
+      "map": {
+            "id": "s7210580",
+            "polyline": "qzseGv{fyMVTTXXNbOrM|AbAhEdChDfBjAd@|@TrBb@dBXxKd@`AJn@L`DpAvX|L",
+            "resource_state": 3
+      },
+      "effort_count": 2825,
+      "athlete_count": 519,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:39",
+            "qom": "3:17",
+            "destination": {
+                  "href": "strava://segments/7210580/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 44358378,
+            "title": "David Ranelli",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/44358378/16921257/1/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/7210580/local_legend?categories%5B%5D=overall"
+      }
 }

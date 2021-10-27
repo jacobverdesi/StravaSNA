@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20789293,
+      "resource_state": 3,
+      "name": "*BRICKYARD TRAIL*",
+      "activity_type": "Ride",
+      "distance": 1224.1,
+      "average_grade": -0.3,
+      "maximum_grade": 1.7,
+      "elevation_high": 154.5,
+      "elevation_low": 149.7,
+      "start_latlng": [
+            43.115933,
+            -77.581845
+      ],
+      "end_latlng": [
+            43.125646,
+            -77.577688
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BT63YV2OZ23MKPUYQL4PZHVSJ4PMHC7MIL2OOTRUIYIBBSGLICPH6M6EHBOMVXFTQLZOYCNDLIARYK7QIWXA4===",
+      "start_latitude": 43.115933,
+      "start_longitude": -77.581845,
+      "end_latitude": 43.125646,
+      "end_longitude": -77.577688,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-06-05T10:43:17Z",
+      "updated_at": "2021-05-15T02:23:17Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s20789293",
+            "polyline": "qadfGpuoxMm@WQEeEeBq@Uc@EgAFQAsBBQBw@\\SDS@SAe@OeB_A{G}CiCsA_A]}@QiA{@_@u@w@gAMISa@]eASmAS_@[Ym@KO?YHg@TYBi@IM@e@RSZCR",
+            "resource_state": 3
+      },
+      "effort_count": 1784,
+      "athlete_count": 261,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:51",
+            "qom": "2:28",
+            "destination": {
+                  "href": "strava://segments/20789293/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62671882,
+            "title": "Luke Homerin",
+            "profile": "https://graph.facebook.com/10101761007119576/picture?height=256&width=256",
+            "effort_description": "29 efforts in the last 90 days",
+            "effort_count": "29",
+            "effort_counts": {
+                  "overall": "29 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/20789293/local_legend?categories%5B%5D=overall"
+      }
 }

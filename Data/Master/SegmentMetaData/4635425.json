@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4635425,
+      "resource_state": 3,
+      "name": "pinnacle climb",
+      "activity_type": "Ride",
+      "distance": 555.5,
+      "average_grade": 3.0,
+      "maximum_grade": 6.3,
+      "elevation_high": 211.0,
+      "elevation_low": 194.2,
+      "start_latlng": [
+            43.018046,
+            -77.615009
+      ],
+      "end_latlng": [
+            43.013403,
+            -77.617509
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WXOCJHHAHXQZEPS4FHZVUJHQM4UVOIJWMAZNLRAO7N37HRNOEFFW3WCNQCETLV2HXGJ2YIMVXCIX5M3BNBTHI===",
+      "start_latitude": 43.018046,
+      "start_longitude": -77.615009,
+      "end_latitude": 43.013403,
+      "end_longitude": -77.617509,
+      "climb_category": 0,
+      "city": "Rush",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-06T18:56:47Z",
+      "updated_at": "2021-05-18T08:03:10Z",
+      "total_elevation_gain": 16.8,
+      "map": {
+            "id": "s4635425",
+            "polyline": "w}peGxdvxMbAl@bBv@vVlK",
+            "resource_state": 3
+      },
+      "effort_count": 3975,
+      "athlete_count": 541,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "46s",
+            "qom": "57s",
+            "destination": {
+                  "href": "strava://segments/4635425/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 770315,
+            "title": "Dean Sherwood",
+            "profile": "https://graph.facebook.com/10204641242379360/picture?height=256&width=256",
+            "effort_description": "53 efforts in the last 90 days",
+            "effort_count": "53",
+            "effort_counts": {
+                  "overall": "53 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/4635425/local_legend?categories%5B%5D=overall"
+      }
 }

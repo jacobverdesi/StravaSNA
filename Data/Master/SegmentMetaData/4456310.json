@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4456310,
+      "resource_state": 3,
+      "name": "All the Way!!!",
+      "activity_type": "Ride",
+      "distance": 2250.8,
+      "average_grade": 0.6,
+      "maximum_grade": 24.1,
+      "elevation_high": 187.4,
+      "elevation_low": 152.5,
+      "start_latlng": [
+            43.115692,
+            -77.401569
+      ],
+      "end_latlng": [
+            43.116043,
+            -77.37391
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/NIL3JMLVZPVXJQLMNOHOPXHY3YUYGZM3ZQYEJWKIJCGWFW7QVSHCMI5DA3CWBSI6VMGARGLO6IKCCPAGYACA====",
+      "start_latitude": 43.115692,
+      "start_longitude": -77.401569,
+      "end_latitude": 43.116043,
+      "end_longitude": -77.37391,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-18T23:14:12Z",
+      "updated_at": "2021-05-15T02:13:21Z",
+      "total_elevation_gain": 65.6,
+      "map": {
+            "id": "s4456310",
+            "polyline": "a`dfGxnlwMA_OCmAB_HAcDCg@@k@A}C?eHEkF@gDKeMAcEGgDCoEGuE@cGCs@KwHCaOB_FGqBA_F@aBDi@GuBBgFCwB",
+            "resource_state": 3
+      },
+      "effort_count": 7957,
+      "athlete_count": 610,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:18",
+            "qom": "3:52",
+            "destination": {
+                  "href": "strava://segments/4456310/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1603801,
+            "title": "Greg Brett",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1603801/5871395/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/4456310/local_legend?categories%5B%5D=overall"
+      }
 }

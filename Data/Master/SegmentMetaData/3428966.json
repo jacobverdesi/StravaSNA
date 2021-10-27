@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3428966,
+      "resource_state": 3,
+      "name": "Railroad Creek to Windmill Summit",
+      "activity_type": "Ride",
+      "distance": 1732.2,
+      "average_grade": 2.7,
+      "maximum_grade": 11.7,
+      "elevation_high": 186.7,
+      "elevation_low": 136.6,
+      "start_latlng": [
+            43.027586,
+            -77.479817
+      ],
+      "end_latlng": [
+            43.029323,
+            -77.498614
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BMGVB7LM7TFP6N6YSQS5HPHCOH5X7WMULGKZSSE5GXLGZKHW4V6L3KUKDOA2JLMLMTDCXWJEYC6AAYXIJ2ZDY===",
+      "start_latitude": 43.027586,
+      "start_longitude": -77.479817,
+      "end_latitude": 43.029323,
+      "end_longitude": -77.498614,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-02-13T23:29:10Z",
+      "updated_at": "2021-05-15T02:12:49Z",
+      "total_elevation_gain": 54.6492,
+      "map": {
+            "id": "s3428966",
+            "polyline": "kyreGzw{wMxBtFX|@Lv@Br@GvBy@rPKrDNde@Mv@Lx@LbZ}@VcBt@cDfBkC|A",
+            "resource_state": 3
+      },
+      "effort_count": 313,
+      "athlete_count": 102,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:30",
+            "qom": "4:30",
+            "destination": {
+                  "href": "strava://segments/3428966/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 55488593,
+            "title": "Michael Gardella",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/55488593/14950954/1/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/3428966/local_legend?categories%5B%5D=overall"
+      }
 }

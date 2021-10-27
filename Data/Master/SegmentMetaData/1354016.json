@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1354016,
+      "resource_state": 3,
+      "name": "Purple from Blue to the top of the hill out",
+      "activity_type": "Ride",
+      "distance": 445.709,
+      "average_grade": 3.2,
+      "maximum_grade": 20.6,
+      "elevation_high": 116.0,
+      "elevation_low": 98.7,
+      "start_latlng": [
+            43.18511,
+            -77.53195
+      ],
+      "end_latlng": [
+            43.18269,
+            -77.53188
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/T72CK5DSVGEU57U327QJR3OCL4KV6TZKZ3EFVGARQUAGU52TKNNSC77CNVMHPLRYMFCPZPXJRSD2HAWTLC4Q====",
+      "start_latitude": 43.18511,
+      "start_longitude": -77.53195,
+      "end_latitude": 43.18269,
+      "end_longitude": -77.53188,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-09T13:26:44Z",
+      "updated_at": "2021-05-20T08:02:11Z",
+      "total_elevation_gain": 29.1037,
+      "map": {
+            "id": "s1354016",
+            "polyline": "}qqfGt}exMCPSb@BPHLHDNXBr@DJTER@LHN?HC`@TR\\L?PNFHFVFDJKD]ES@QN]HGCOJ_@VQVGHIAQRIPW^G\\HHAPMPAFCDM@Q",
+            "resource_state": 3
+      },
+      "effort_count": 16464,
+      "athlete_count": 1156,
+      "star_count": 12,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:18",
+            "qom": "1:37",
+            "destination": {
+                  "href": "strava://segments/1354016/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 4849467,
+            "title": "Caleb Freitas",
+            "profile": "https://graph.facebook.com/100002332774415/picture?height=256&width=256",
+            "effort_description": "30 efforts in the last 90 days",
+            "effort_count": "30",
+            "effort_counts": {
+                  "overall": "30 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/1354016/local_legend?categories%5B%5D=overall"
+      }
 }

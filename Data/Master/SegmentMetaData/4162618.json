@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4162618,
+      "resource_state": 3,
+      "name": "Norman to Jefferson",
+      "activity_type": "Ride",
+      "distance": 4621.6,
+      "average_grade": -0.1,
+      "maximum_grade": 3.4,
+      "elevation_high": 162.8,
+      "elevation_low": 156.0,
+      "start_latlng": [
+            43.113904,
+            -77.639418
+      ],
+      "end_latlng": [
+            43.093319,
+            -77.678714
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5W7C6B2ML4VNHCGRC36ZH73O2IDJTAZCN3UB7CJB2BW4UC7PK6WFOL6H2UXUIY6QMXL7SLZWVF6MHJIJO6OA====",
+      "start_latitude": 43.113904,
+      "start_longitude": -77.639418,
+      "end_latitude": 43.093319,
+      "end_longitude": -77.678714,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-20T15:33:23Z",
+      "updated_at": "2021-05-15T02:13:11Z",
+      "total_elevation_gain": 8.0,
+      "map": {
+            "id": "s4162618",
+            "polyline": "{tcfGj}zxM@pAHnBA\\BzBh@p`@NtO?jBVd^?vAN~ADXh@zBxBbHh@rAx@lA^b@dAdARJb@^`AfAd@`A^fAd@xB|Dnc@lAdIp@vDbAfEtEvQv@pBVj@h@z@`A`A`@\\zA|@z@\\pA^f@L|BRz@DhBD~@CrAItAMpACbAM`A?j@BNHj@?x@RxBXTFjAd@x@VfE~ApGvC`Bn@pAZpCd@|Bd@xBj@lAd@",
+            "resource_state": 3
+      },
+      "effort_count": 4531,
+      "athlete_count": 800,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "6:30",
+            "qom": "6:58",
+            "destination": {
+                  "href": "strava://segments/4162618/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/4162618/local_legend?categories%5B%5D=overall"
+      }
 }

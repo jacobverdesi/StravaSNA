@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2888885,
+      "resource_state": 3,
+      "name": "Pine Forest-Long Segment ",
+      "activity_type": "Ride",
+      "distance": 904.534,
+      "average_grade": 6.4,
+      "maximum_grade": 34.8,
+      "elevation_high": 251.7,
+      "elevation_low": 189.6,
+      "start_latlng": [
+            43.062315,
+            -77.423965
+      ],
+      "end_latlng": [
+            43.056738,
+            -77.422253
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CFKTI2N3VQ6PWQKCIHBARSZLJO3LQXJKEIKQYLVYTIZTKLYSLARX6JUCGFTKH7JI3IAIIWG6M7A4HHE6GDAQ====",
+      "start_latitude": 43.062315,
+      "start_longitude": -77.423965,
+      "end_latitude": 43.056738,
+      "end_longitude": -77.422253,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-12-02T21:48:51Z",
+      "updated_at": "2021-05-20T08:02:22Z",
+      "total_elevation_gain": 66.4542,
+      "map": {
+            "id": "s2888885",
+            "polyline": "mryeGxzpwMEa@K]NYzAUf@Bl@RXVVJRP|@FXHHAXSl@?ZE`A?LHHNVPFHBR?~@PARHBDLDrANDAJBNTNDRBLCLBv@l@@LLCTINMDKf@_@l@SXUN[HCV_@G]Ce@@e@CcAL[@QEa@N_@NaA@c@",
+            "resource_state": 3
+      },
+      "effort_count": 686,
+      "athlete_count": 53,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:24",
+            "qom": "7:17",
+            "destination": {
+                  "href": "strava://segments/2888885/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10657183,
+            "title": "Zack M",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10657183/3215265/1/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/2888885/local_legend?categories%5B%5D=overall"
+      }
 }

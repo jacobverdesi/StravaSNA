@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7748746,
+      "resource_state": 3,
+      "name": "Parkway Isle Cott. to Greenleaf",
+      "activity_type": "Ride",
+      "distance": 3217.6,
+      "average_grade": 0.3,
+      "maximum_grade": 27.5,
+      "elevation_high": 60.0,
+      "elevation_low": 40.0,
+      "start_latlng": [
+            43.268354,
+            -77.661654
+      ],
+      "end_latlng": [
+            43.256857,
+            -77.628331
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/43GJUIQBMTCCWW43WYB4GT6H64X6KKVSCCGVPDITY5I3SF2PJO2JUTDDHYFIPOBIOXCC45J4CXHXGRVHT2RJ4===",
+      "start_latitude": 43.268354,
+      "start_longitude": -77.661654,
+      "end_latitude": 43.256857,
+      "end_longitude": -77.628331,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-27T20:39:27Z",
+      "updated_at": "2021-05-20T08:03:05Z",
+      "total_elevation_gain": 112.0,
+      "map": {
+            "id": "s7748746",
+            "polyline": "ezagGjh_yMx@eA\\m@Rg@nAwBRa@hE_Hh@cAnAuD~@wBP[bA_AJMz@cBP[Rc@Nc@Dk@DwADQHAHQTMDGVs@BYJyBLeADMBQPq@j@mALg@JDFSHKR{@@WJ[NeEEiAH}CCQF_C?u@D_AA[@IB_AH_@FkAIqA@q@J{AZaBN_@TYTQRUzAeAP[Ha@HeANuA@cCJeANM`@MTUBFH@TS`@g@ZUJMHQFSXu@LAXWb@aA^gA`@e@vA_Dd@oAb@sA^wBNQDAN]^gAR{@FDHc@FC@OHSFG|@kDDk@Je@Rq@LSP_AHaAXyA^aDRcAPcBHWVsBFM@]BIL}A@a@CwAs@iFMg@a@aA?K@E",
+            "resource_state": 3
+      },
+      "effort_count": 5629,
+      "athlete_count": 604,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:01",
+            "qom": "6:43",
+            "destination": {
+                  "href": "strava://segments/7748746/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 89654311,
+            "title": "Peter Englerth",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89654311/21427141/1/large.jpg",
+            "effort_description": "111 efforts in the last 90 days",
+            "effort_count": "111",
+            "effort_counts": {
+                  "overall": "111 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/7748746/local_legend?categories%5B%5D=overall"
+      }
 }

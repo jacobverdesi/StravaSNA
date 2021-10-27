@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16138813,
+      "resource_state": 3,
+      "name": "East Ave. - Main to Goodman",
+      "activity_type": "Ride",
+      "distance": 1317.5,
+      "average_grade": -0.5,
+      "maximum_grade": 8.2,
+      "elevation_high": 163.1,
+      "elevation_low": 156.1,
+      "start_latlng": [
+            43.15744,
+            -77.603764
+      ],
+      "end_latlng": [
+            43.153519,
+            -77.588416
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CXY3GJ56TVUTRFP7EW67HV5K46CLZMLZWA57R5P6J5EMTQJOWND2CYANAJ4X355COOJAG6WI3WDSLOU6AFHPE===",
+      "start_latitude": 43.15744,
+      "start_longitude": -77.603764,
+      "end_latitude": 43.153519,
+      "end_longitude": -77.588416,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-09-28T03:37:46Z",
+      "updated_at": "2021-05-15T08:05:05Z",
+      "total_elevation_gain": 3.2,
+      "map": {
+            "id": "s16138813",
+            "polyline": "_elfGp~sxMFIh@yCLkAFyAf@gC?MDQTy@BeATw@JUD@BIf@gDZsADc@n@kDZyBZoAdAeI\\kBP_@b@kD?On@wDJ{@Ty@Hk@jA}GLeAl@qDd@aD",
+            "resource_state": 3
+      },
+      "effort_count": 1795,
+      "athlete_count": 362,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:16",
+            "qom": "2:55",
+            "destination": {
+                  "href": "strava://segments/16138813/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 22141045,
+            "title": "Steve Schwartz",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/16138813/local_legend?categories%5B%5D=overall"
+      }
 }

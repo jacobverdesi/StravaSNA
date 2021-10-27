@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10821206,
+      "resource_state": 3,
+      "name": "* HURTS SO BAD *",
+      "activity_type": "Ride",
+      "distance": 851.6,
+      "average_grade": 2.4,
+      "maximum_grade": 10.0,
+      "elevation_high": 214.0,
+      "elevation_low": 191.3,
+      "start_latlng": [
+            42.997149,
+            -77.556703
+      ],
+      "end_latlng": [
+            43.004675,
+            -77.555257
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PWUW6I2U2Q5K35PFPVR4XWW25J6NEQAARSXLQ77YUSQRBJCZEARXQN22YQI2E5766EWJMTA2IN5VWXSVPH7Q====",
+      "start_latitude": 42.997149,
+      "start_longitude": -77.556703,
+      "end_latitude": 43.004675,
+      "end_longitude": -77.555257,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-11-05T03:28:15Z",
+      "updated_at": "2021-05-17T08:06:00Z",
+      "total_elevation_gain": 22.7,
+      "map": {
+            "id": "s10821206",
+            "polyline": "c{leGlxjxM{A?yAAyABgFBuBOgAUmBg@wE}@iBe@}AYw@Se@I}A_@aB]",
+            "resource_state": 3
+      },
+      "effort_count": 5308,
+      "athlete_count": 802,
+      "star_count": 13,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:15",
+            "qom": "1:51",
+            "destination": {
+                  "href": "strava://segments/10821206/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 22279972,
+            "title": "Leigh Rundell",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/10821206/local_legend?categories%5B%5D=overall"
+      }
 }

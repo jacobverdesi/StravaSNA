@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18716156,
+      "resource_state": 3,
+      "name": "* ADLINGTON TO GROVE TO 5TH *",
+      "activity_type": "Ride",
+      "distance": 1035.3,
+      "average_grade": 1.5,
+      "maximum_grade": 4.4,
+      "elevation_high": 251.4,
+      "elevation_low": 235.6,
+      "start_latlng": [
+            43.124787,
+            -77.624755
+      ],
+      "end_latlng": [
+            43.129053,
+            -77.616331
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/L3JYOKMQJZ2UEIFQC6GTPJMGT5YHPU7UXXXYRCQK3H5AFLBNHZAVHAWEBP7JYHFAAFBSGMYAF25AYVVBO7SQ====",
+      "start_latitude": 43.124787,
+      "start_longitude": -77.624755,
+      "end_latitude": 43.129053,
+      "end_longitude": -77.616331,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-08-31T23:58:39Z",
+      "updated_at": "2021-05-15T02:21:51Z",
+      "total_elevation_gain": 15.8,
+      "map": {
+            "id": "s18716156",
+            "polyline": "{xefGvaxxMkQ_AOCo@_AKm@CuAa@qCWaAyAiCIa@Cc@?{HIuDEsIGaD",
+            "resource_state": 3
+      },
+      "effort_count": 98,
+      "athlete_count": 64,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:07",
+            "qom": "2:11",
+            "destination": {
+                  "href": "strava://segments/18716156/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 92951152,
+            "title": "Monica McCabe Icone",
+            "profile": "https://graph.facebook.com/4182383561811612/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/18716156/local_legend?categories%5B%5D=overall"
+      }
 }

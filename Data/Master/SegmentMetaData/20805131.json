@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20805131,
+      "resource_state": 3,
+      "name": "Fisher hill",
+      "activity_type": "Ride",
+      "distance": 426.0,
+      "average_grade": 3.4,
+      "maximum_grade": 6.4,
+      "elevation_high": 172.3,
+      "elevation_low": 157.5,
+      "start_latlng": [
+            43.034658,
+            -77.468635
+      ],
+      "end_latlng": [
+            43.038196,
+            -77.469332
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XBZBENNUQCPL4BATAU2PIZG4JTU6FRGKVLJBUSRAG5PCLCU53MKYFZBVRXNUMSAQU72ZGYS3STIBEJTZ3N3A====",
+      "start_latitude": 43.034658,
+      "start_longitude": -77.468635,
+      "end_latitude": 43.038196,
+      "end_longitude": -77.469332,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-06-07T02:50:22Z",
+      "updated_at": "2021-05-20T08:05:07Z",
+      "total_elevation_gain": 14.8,
+      "map": {
+            "id": "s20805131",
+            "polyline": "qeteG~qywM{@Ju@^c@Xk@p@o@j@cAr@o@Xo@Bq@GkBe@UGGIICgBe@",
+            "resource_state": 3
+      },
+      "effort_count": 8342,
+      "athlete_count": 801,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "29s",
+            "qom": "45s",
+            "destination": {
+                  "href": "strava://segments/20805131/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 87787014,
+            "title": "Erica D",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/87787014/20987188/2/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/20805131/local_legend?categories%5B%5D=overall"
+      }
 }

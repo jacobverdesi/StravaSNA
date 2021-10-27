@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20429352,
+      "resource_state": 3,
+      "name": "REI to Westfall (NB)",
+      "activity_type": "Ride",
+      "distance": 562.9,
+      "average_grade": 2.5,
+      "maximum_grade": 6.8,
+      "elevation_high": 175.3,
+      "elevation_low": 160.9,
+      "start_latlng": [
+            43.110363,
+            -77.614537
+      ],
+      "end_latlng": [
+            43.114611,
+            -77.616086
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VWFJUPHN3LROFPE4KFOVLV4YEOACZAFCC347SCHCBTDUHB4B3WYTKZI65C3GYXDEHA7LBVZIALJWAO6IXP4R2===",
+      "start_latitude": 43.110363,
+      "start_longitude": -77.614537,
+      "end_latitude": 43.114611,
+      "end_longitude": -77.616086,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-04-27T01:33:34Z",
+      "updated_at": "2021-05-17T08:08:09Z",
+      "total_elevation_gain": 14.4,
+      "map": {
+            "id": "s20429352",
+            "polyline": "w~bfGzavxMEHKBWPUFOCSMOCKHO\\EDQB_AEg@@e@Gg@FaA@ICQ?GCM@MCQ@eA@u@Bo@EOBQCa@@QDMJEFE^KV?t@ETg@z@CFF@ERG@",
+            "resource_state": 3
+      },
+      "effort_count": 223,
+      "athlete_count": 67,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:28",
+            "qom": "1:58",
+            "destination": {
+                  "href": "strava://segments/20429352/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1388383,
+            "title": "Tyler Ekwell",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1388383/727838/4/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/20429352/local_legend?categories%5B%5D=overall"
+      }
 }

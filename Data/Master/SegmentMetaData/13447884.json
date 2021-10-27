@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13447884,
+      "resource_state": 3,
+      "name": "Graveyard Climb",
+      "activity_type": "Ride",
+      "distance": 1077.7,
+      "average_grade": 1.0,
+      "maximum_grade": 4.5,
+      "elevation_high": 169.0,
+      "elevation_low": 158.0,
+      "start_latlng": [
+            43.124513,
+            -77.628249
+      ],
+      "end_latlng": [
+            43.1272,
+            -77.617195
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BLJT3YZ4OCAYE35FBCOPDFS5543BWRERWRQHTPVRYKCIN2SOGLH25FOEUFYXVLLESWCMZLVLZTGK5ZTHELVQ====",
+      "start_latitude": 43.124513,
+      "start_longitude": -77.628249,
+      "end_latitude": 43.1272,
+      "end_longitude": -77.617195,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-15T23:39:02Z",
+      "updated_at": "2021-05-17T08:06:37Z",
+      "total_elevation_gain": 11.0,
+      "map": {
+            "id": "s13447884",
+            "polyline": "ewefGpwxxME_GGsDAsGImE?aBYiYEcACIKQc@WaD{AiGkC",
+            "resource_state": 3
+      },
+      "effort_count": 764,
+      "athlete_count": 160,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:35",
+            "qom": "1:58",
+            "destination": {
+                  "href": "strava://segments/13447884/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 65779419,
+            "title": "Anthony Casabianca",
+            "profile": "https://graph.facebook.com/10103135350833875/picture?height=256&width=256",
+            "effort_description": "17 efforts in the last 90 days",
+            "effort_count": "17",
+            "effort_counts": {
+                  "overall": "17 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/13447884/local_legend?categories%5B%5D=overall"
+      }
 }

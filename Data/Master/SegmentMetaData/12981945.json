@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12981945,
+      "resource_state": 3,
+      "name": "decent after woodcliff drive",
+      "activity_type": "Ride",
+      "distance": 1031.7,
+      "average_grade": -3.3,
+      "maximum_grade": 17.4,
+      "elevation_high": 235.7,
+      "elevation_low": 200.2,
+      "start_latlng": [
+            43.044531,
+            -77.455689
+      ],
+      "end_latlng": [
+            43.039529,
+            -77.451366
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2XDGV53LJ5YDPOOLWG6ZAB6YTGXQKMDOQLJ6HA5NNHH2HN4WKEAKDIXA4KHXYKTOUEFCHOCBH2I5RNYDO7SQ====",
+      "start_latitude": 43.044531,
+      "start_longitude": -77.455689,
+      "end_latitude": 43.039529,
+      "end_longitude": -77.451366,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-08-22T22:06:08Z",
+      "updated_at": "2021-05-19T08:03:49Z",
+      "total_elevation_gain": 20.3,
+      "map": {
+            "id": "s12981945",
+            "polyline": "icveG`awwMDG`@GF@NHHJF?LOH?DFN@PGXARILD@HTHDH^VHJlA`@`@?d@SZJJ?LFRN^FHBNAN?\\LNB`@KL@BD@PDRNNNCN?JQJk@@OA[@cAMy@HcAH[Fi@DORSPI@YBGNYNKDIA_@B[XkA?i@D_@HMd@KNGj@s@`@UJW?QFS@_@IOE?IQY_@_@m@AKHKHEEBFZ?JCOLQ",
+            "resource_state": 3
+      },
+      "effort_count": 809,
+      "athlete_count": 117,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:30",
+            "qom": "3:54",
+            "destination": {
+                  "href": "strava://segments/12981945/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/12981945/local_legend?categories%5B%5D=overall"
+      }
 }

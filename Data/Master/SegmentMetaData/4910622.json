@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4910622,
+      "resource_state": 3,
+      "name": "The 1/4 Mile",
+      "activity_type": "Ride",
+      "distance": 682.0,
+      "average_grade": 0.5,
+      "maximum_grade": 4.3,
+      "elevation_high": 166.5,
+      "elevation_low": 160.0,
+      "start_latlng": [
+            43.084393,
+            -77.66865
+      ],
+      "end_latlng": [
+            43.084291,
+            -77.676918
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6FEHSZ2RQ4GEMHYJ3KZ7AUKMPDNMRK3B2G2ZUXHI4GE5OGAS3BKA4CJQRAEGS54H6DC4G34RRFVZ6OLDJWEA====",
+      "start_latitude": 43.084393,
+      "start_longitude": -77.66865,
+      "end_latitude": 43.084291,
+      "end_longitude": -77.676918,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-29T02:28:50Z",
+      "updated_at": "2021-05-17T08:04:34Z",
+      "total_elevation_gain": 6.5,
+      "map": {
+            "id": "s4910622",
+            "polyline": "m|}eG`t`yMCdAB|@Jb@@`AC`@Kd@FTAz@EZF|CAxCFV@jBB\\?nBCn@?jAAXDl@?hABTC\\LxAGZAz@@~ACv@",
+            "resource_state": 3
+      },
+      "effort_count": 266,
+      "athlete_count": 48,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "52s",
+            "qom": "1:22",
+            "destination": {
+                  "href": "strava://segments/4910622/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 73386312,
+            "title": "Eric Trinkle",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/73386312/17831964/1/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/4910622/local_legend?categories%5B%5D=overall"
+      }
 }

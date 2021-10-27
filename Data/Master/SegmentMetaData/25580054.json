@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25580054,
+      "resource_state": 3,
+      "name": "Golf Course Shortcut CCW (Crittenden to E River Rd)",
+      "activity_type": "Ride",
+      "distance": 1325.0,
+      "average_grade": 0.0,
+      "maximum_grade": 2.1,
+      "elevation_high": 159.8,
+      "elevation_low": 157.4,
+      "start_latlng": [
+            43.103769,
+            -77.65573
+      ],
+      "end_latlng": [
+            43.113389,
+            -77.648348
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/REZ62D2HPEFLRE5A3VLS7WGCO2KZQUCKQR2UO5FCK6VQNIURTJZQF3KPTO6VG27G63TDTBH4GYZWAF5C7TXL2===",
+      "start_latitude": 43.103769,
+      "start_longitude": -77.65573,
+      "end_latitude": 43.113389,
+      "end_longitude": -77.648348,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-09-03T22:37:40Z",
+      "updated_at": "2021-05-20T08:05:38Z",
+      "total_elevation_gain": 2.4,
+      "map": {
+            "id": "s25580054",
+            "polyline": "ouafGjc~xM?QMw@@MGYF[AOIq@Eu@I_@IQASWs@Ga@Og@Y]GMMEIIUMm@WK?EIUGSQMES?YUYAKWKEOAICeAa@GGM?KEk@EKEK?a@OSESKGIQ?[OKAEISEUQCOKKIOKCQMIKe@[UIYQWISOQEWAUG[OSGIAKGYGy@c@M?YEQQ]@KESSKCWQIAGIWKKIq@W_@_@K?OKO?WGIGKCSQ]OUEo@WGKWOSMI?]WICOOc@UOOWKIAUS",
+            "resource_state": 3
+      },
+      "effort_count": 101,
+      "athlete_count": 58,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:09",
+            "qom": "2:31",
+            "destination": {
+                  "href": "strava://segments/25580054/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 13628480,
+            "title": "Dustin Hannum",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/13628480/5816871/6/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/25580054/local_legend?categories%5B%5D=overall"
+      }
 }

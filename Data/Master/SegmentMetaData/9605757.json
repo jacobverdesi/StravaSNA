@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9605757,
+      "resource_state": 3,
+      "name": "* TO THE PERINTON SIGN *",
+      "activity_type": "Ride",
+      "distance": 541.8,
+      "average_grade": -4.9,
+      "maximum_grade": 6.2,
+      "elevation_high": 173.0,
+      "elevation_low": 144.0,
+      "start_latlng": [
+            43.031402,
+            -77.470768
+      ],
+      "end_latlng": [
+            43.035603,
+            -77.469041
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QUUV5XWYYARN4FMB64E2TZANSUANTSZKNRV6XWNZEPMFCLJDOT5ULZM4CSZLPBMXJICONDMBAZLHMSMZ72ZFK===",
+      "start_latitude": 43.031402,
+      "start_longitude": -77.470768,
+      "end_latitude": 43.035603,
+      "end_longitude": -77.469041,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-30T02:43:54Z",
+      "updated_at": "2021-05-20T08:03:24Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s9605757",
+            "polyline": "gqseGh_zwMk@c@uBgAy@m@c@e@q@cAsAcCQUWUYO]Gy@I[@u@JyB`@s@`@e@j@",
+            "resource_state": 3
+      },
+      "effort_count": 2059,
+      "athlete_count": 434,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "33s",
+            "qom": "42s",
+            "destination": {
+                  "href": "strava://segments/9605757/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 190982,
+            "title": "john ramsey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/190982/34502/2/large.jpg",
+            "effort_description": "19 efforts in the last 90 days",
+            "effort_count": "19",
+            "effort_counts": {
+                  "overall": "19 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/9605757/local_legend?categories%5B%5D=overall"
+      }
 }

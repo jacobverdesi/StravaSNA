@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9554192,
+      "resource_state": 3,
+      "name": "* UP DOWN *",
+      "activity_type": "Ride",
+      "distance": 831.2,
+      "average_grade": -2.1,
+      "maximum_grade": 8.6,
+      "elevation_high": 176.6,
+      "elevation_low": 150.2,
+      "start_latlng": [
+            43.13887,
+            -77.292558
+      ],
+      "end_latlng": [
+            43.131376,
+            -77.292531
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SZGJXLGZRHAAAJ6UZFGIXJHQZR6MMNZQPPKUDBWBR3LTIGXG2AXU4HRJ2KJ27FOHBKPBLLFUUPJPZU3VCGLA====",
+      "start_latitude": 43.13887,
+      "start_longitude": -77.292558,
+      "end_latitude": 43.131376,
+      "end_longitude": -77.292531,
+      "climb_category": 0,
+      "city": "Walworth",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-23T20:10:26Z",
+      "updated_at": "2021-05-15T02:16:26Z",
+      "total_elevation_gain": 8.8,
+      "map": {
+            "id": "s9554192",
+            "polyline": "}phfGnewvMXFdCHt@Aj@@n@CbADhFCn@B|KBjDApACdC@\\EJQ",
+            "resource_state": 3
+      },
+      "effort_count": 416,
+      "athlete_count": 159,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:07",
+            "qom": "1:25",
+            "destination": {
+                  "href": "strava://segments/9554192/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5108717,
+            "title": "Mark Frey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5108717/1742373/1/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9554192/local_legend?categories%5B%5D=overall"
+      }
 }

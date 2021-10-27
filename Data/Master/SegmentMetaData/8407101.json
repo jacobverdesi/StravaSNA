@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8407101,
+      "resource_state": 3,
+      "name": "Ballantyne Hill ",
+      "activity_type": "Ride",
+      "distance": 312.8,
+      "average_grade": 3.6,
+      "maximum_grade": 5.6,
+      "elevation_high": 174.5,
+      "elevation_low": 163.1,
+      "start_latlng": [
+            43.069557,
+            -77.749623
+      ],
+      "end_latlng": [
+            43.069478,
+            -77.745836
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/22TWJAI46XFIJ5ZUXUODTWL6EX6VBGDRQDXZLLIVTDEMFQF2O5BXU7XITIREEYZR4I4O26IU6HL6SW4KBB5A====",
+      "start_latitude": 43.069557,
+      "start_longitude": -77.749623,
+      "end_latitude": 43.069478,
+      "end_longitude": -77.745836,
+      "climb_category": 0,
+      "city": "Scottsville",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-26T15:01:49Z",
+      "updated_at": "2021-05-18T08:03:47Z",
+      "total_elevation_gain": 11.4,
+      "map": {
+            "id": "s8407101",
+            "polyline": "u_{eGdnpyMC]B{AD[@aAC[EmBHq@CS@SBUFSFg@?g@CY@k@G]?{A",
+            "resource_state": 3
+      },
+      "effort_count": 961,
+      "athlete_count": 225,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "24s",
+            "qom": "38s",
+            "destination": {
+                  "href": "strava://segments/8407101/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 106859,
+            "title": "Andy Wooding",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/106859/13346163/4/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/8407101/local_legend?categories%5B%5D=overall"
+      }
 }

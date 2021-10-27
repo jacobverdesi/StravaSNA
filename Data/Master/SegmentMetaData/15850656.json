@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15850656,
+      "resource_state": 3,
+      "name": "* 50' HILL TOP *",
+      "activity_type": "Ride",
+      "distance": 321.9,
+      "average_grade": 4.7,
+      "maximum_grade": 10.4,
+      "elevation_high": 150.2,
+      "elevation_low": 135.1,
+      "start_latlng": [
+            43.12243,
+            -77.45819
+      ],
+      "end_latlng": [
+            43.125318,
+            -77.458123
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4YPF4UBI2VY2IGA6NFWDIHLVJX45DK3UNSO52VQKLABW4IXQ3IWM25UYAB54DPYXQEHYDFSX7LURSKBQL23A====",
+      "start_latitude": 43.12243,
+      "start_longitude": -77.45819,
+      "end_latitude": 43.125318,
+      "end_longitude": -77.458123,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-08-26T15:12:52Z",
+      "updated_at": "2021-05-18T08:04:56Z",
+      "total_elevation_gain": 15.1,
+      "map": {
+            "id": "s15850656",
+            "polyline": "ejefGtpwwMmHCsA@YCcDE",
+            "resource_state": 3
+      },
+      "effort_count": 154,
+      "athlete_count": 26,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "39s",
+            "qom": "1:12",
+            "destination": {
+                  "href": "strava://segments/15850656/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 295448,
+            "title": "Rouge Rob",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/295448/133377/1/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/15850656/local_legend?categories%5B%5D=overall"
+      }
 }

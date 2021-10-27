@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24793826,
+      "resource_state": 3,
+      "name": "Culver 490 to Monroe",
+      "activity_type": "Ride",
+      "distance": 542.1,
+      "average_grade": 1.0,
+      "maximum_grade": 5.1,
+      "elevation_high": 159.1,
+      "elevation_low": 152.3,
+      "start_latlng": [
+            43.142769,
+            -77.575623
+      ],
+      "end_latlng": [
+            43.138256,
+            -77.578141
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BVUMKMZP26KQFNQB7UIFYJCTY6C4NMQGA3KQNNNTOO5OICNMIWEDU5W4HH7DPMMZOLB5OKHW2YSJ5G7IX4H2K===",
+      "start_latitude": 43.142769,
+      "start_longitude": -77.575623,
+      "end_latitude": 43.138256,
+      "end_longitude": -77.578141,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-07-07T20:33:39Z",
+      "updated_at": "2021-05-15T02:24:58Z",
+      "total_elevation_gain": 6.8,
+      "map": {
+            "id": "s24793826",
+            "polyline": "giifGtnnxMzFhCbDpAtDhBl@TnDnBpAj@",
+            "resource_state": 3
+      },
+      "effort_count": 2158,
+      "athlete_count": 648,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "46s",
+            "qom": "59s",
+            "destination": {
+                  "href": "strava://segments/24793826/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 41063427,
+            "title": "Adym Flowerday",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/41063427/11892996/4/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/24793826/local_legend?categories%5B%5D=overall"
+      }
 }

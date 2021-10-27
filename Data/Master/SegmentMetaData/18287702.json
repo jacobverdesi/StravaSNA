@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18287702,
+      "resource_state": 3,
+      "name": "Drop to Panorama",
+      "activity_type": "Ride",
+      "distance": 837.7,
+      "average_grade": -3.9,
+      "maximum_grade": 4.7,
+      "elevation_high": 85.0,
+      "elevation_low": 50.8,
+      "start_latlng": [
+            43.140551,
+            -77.494179
+      ],
+      "end_latlng": [
+            43.133761,
+            -77.491884
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FWBZIKNN6JVCUOWCZTMCVXARWH6OOWZUHGM4ZOIL6AHECHANFXRCJTIX7LKUTJ36AQPW25W5UNQCD5K4XLIHO===",
+      "start_latitude": 43.140551,
+      "start_longitude": -77.494179,
+      "end_latitude": 43.133761,
+      "end_longitude": -77.491884,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-07-20T19:07:57Z",
+      "updated_at": "2021-05-17T08:07:41Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s18287702",
+            "polyline": "m{hfGrq~wMl@{Ad@cA^m@b@i@j@e@VOjAa@dB_@hDk@hBa@hBWjGiAlACt@Dt@J`AZ`@RVV",
+            "resource_state": 3
+      },
+      "effort_count": 1862,
+      "athlete_count": 322,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "47s",
+            "qom": "1:01",
+            "destination": {
+                  "href": "strava://segments/18287702/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1251153,
+            "title": "dan reichman",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1251153/1033247/2/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/18287702/local_legend?categories%5B%5D=overall"
+      }
 }

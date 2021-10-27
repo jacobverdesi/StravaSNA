@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1951367,
+      "resource_state": 3,
+      "name": "Ballantyne TT",
+      "activity_type": "Ride",
+      "distance": 3809.07,
+      "average_grade": 0.1,
+      "maximum_grade": 0.9,
+      "elevation_high": 162.1,
+      "elevation_low": 158.8,
+      "start_latlng": [
+            43.0932413,
+            -77.6871655
+      ],
+      "end_latlng": [
+            43.0923864,
+            -77.7310638
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SSBGN5PM4KWD3JURL7XBEIRW6TVDJ7SZGGF3G4UONHDOBDTQXF67CVKNP5CGL3F2U2H7YQGX2DMLOLACICC4C===",
+      "start_latitude": 43.0932413,
+      "start_longitude": -77.6871655,
+      "end_latitude": 43.0923864,
+      "end_longitude": -77.7310638,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-08-02T21:24:26Z",
+      "updated_at": "2021-05-15T02:12:19Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s1951367",
+            "polyline": "ws_fGxgdyMiC~bA?vD\\~C`Ibo@~OvsAn@pFl@bGHdDGpEY~Co@jDcA|CgA`CwArB{JhK",
+            "resource_state": 3
+      },
+      "effort_count": 697,
+      "athlete_count": 243,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:12",
+            "qom": "6:31",
+            "destination": {
+                  "href": "strava://segments/1951367/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1334463,
+            "title": "Er\u2699\ufe0fc W\u2699\ufe0flters",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1334463/19430522/7/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1951367/local_legend?categories%5B%5D=overall"
+      }
 }

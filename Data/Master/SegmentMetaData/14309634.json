@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14309634,
+      "resource_state": 3,
+      "name": "Scottsville DASH",
+      "activity_type": "Ride",
+      "distance": 1796.9,
+      "average_grade": 0.0,
+      "maximum_grade": 9.1,
+      "elevation_high": 165.2,
+      "elevation_low": 157.6,
+      "start_latlng": [
+            43.108507,
+            -77.675416
+      ],
+      "end_latlng": [
+            43.093267,
+            -77.681467
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/H72RNWUDF475LXOYAKGNOPPVLLY6SLZ7FBEKOPDZE2WSJILAW3J3H62KLQV46R6U7ENPSIWT3V2CCR2KW7DRI===",
+      "start_latitude": 43.108507,
+      "start_longitude": -77.675416,
+      "end_latitude": 43.093267,
+      "end_longitude": -77.681467,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-03-08T17:05:36Z",
+      "updated_at": "2021-05-15T02:19:03Z",
+      "total_elevation_gain": 20.6,
+      "map": {
+            "id": "s14309634",
+            "polyline": "csbfGj~ayMpB~AfBfAbAd@rCx@lDn@dD`@vER`CBhGAlCHbAHrC`@zAZvBl@~@\\bBx@n@`@ZXz@f@nCpA|Ax@nBnAjCtB~B`B`Af@jBp@",
+            "resource_state": 3
+      },
+      "effort_count": 3450,
+      "athlete_count": 811,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:14",
+            "qom": "3:11",
+            "destination": {
+                  "href": "strava://segments/14309634/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 795671,
+            "title": "Paul Lysiak",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/795671/1277573/1/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/14309634/local_legend?categories%5B%5D=overall"
+      }
 }

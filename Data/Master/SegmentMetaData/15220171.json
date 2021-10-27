@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15220171,
+      "resource_state": 3,
+      "name": "Don't put the coffee on I am not staying",
+      "activity_type": "Ride",
+      "distance": 657.1,
+      "average_grade": 1.3,
+      "maximum_grade": 8.0,
+      "elevation_high": 181.4,
+      "elevation_low": 169.2,
+      "start_latlng": [
+            43.049335,
+            -77.658197
+      ],
+      "end_latlng": [
+            43.049364,
+            -77.66626
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JXVDFW364SVAUFCI7REC55FFTLVDDHBARGX6UDLDIUVVQLHISZDEZYXBYZHDY6XDK6YZTBJ6P3REY7GY2LIQ====",
+      "start_latitude": 43.049335,
+      "start_longitude": -77.658197,
+      "end_latitude": 43.049364,
+      "end_longitude": -77.66626,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-21T20:34:25Z",
+      "updated_at": "2021-05-17T08:07:00Z",
+      "total_elevation_gain": 12.2,
+      "map": {
+            "id": "s15220171",
+            "polyline": "iaweGvr~xMQvDMjDAvBZnb@",
+            "resource_state": 3
+      },
+      "effort_count": 102,
+      "athlete_count": 48,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "55s",
+            "qom": "1:16",
+            "destination": {
+                  "href": "strava://segments/15220171/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5031574,
+            "title": "Jeff Parrish",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5031574/2928002/2/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/15220171/local_legend?categories%5B%5D=overall"
+      }
 }

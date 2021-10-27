@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1202067,
+      "resource_state": 3,
+      "name": "Pitts Mdn Center Rd Climb",
+      "activity_type": "Ride",
+      "distance": 964.48,
+      "average_grade": 10.8,
+      "maximum_grade": 173.8,
+      "elevation_high": 222.2,
+      "elevation_low": 117.8,
+      "start_latlng": [
+            43.03383434191346,
+            -77.53658071160316
+      ],
+      "end_latlng": [
+            43.03365773521364,
+            -77.5484461337328
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZFC7MAPYUPJGWAMW3WB5QLBMZG3IIZ7E6GH26DWHI22OW5XKQZHKIPFXTX54BGJ4DAUEUTU6LIFXZJZNUNGA====",
+      "start_latitude": 43.03383434191346,
+      "start_longitude": -77.53658071160316,
+      "end_latitude": 43.03365773521364,
+      "end_longitude": -77.5484461337328,
+      "climb_category": 1,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-04-09T01:11:00Z",
+      "updated_at": "2021-05-15T02:11:57Z",
+      "total_elevation_gain": 104.4,
+      "map": {
+            "id": "s1202067",
+            "polyline": "m`teGtzfxMSEG@GBAJHM\\?^FV?`AIZARE@AsEdMDlRBvBC|@?j@HlBTlCBtAAdFDlCR~Ad@fBBPBv@Mr@Wn@",
+            "resource_state": 3
+      },
+      "effort_count": 121,
+      "athlete_count": 40,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:27",
+            "qom": "3:06",
+            "destination": {
+                  "href": "strava://segments/1202067/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 20606115,
+            "title": "Trevor August",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/20606115/6587743/7/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/1202067/local_legend?categories%5B%5D=overall"
+      }
 }

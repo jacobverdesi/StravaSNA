@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12706273,
+      "resource_state": 3,
+      "name": "Douglas Rd hill section",
+      "activity_type": "Ride",
+      "distance": 346.1,
+      "average_grade": 5.1,
+      "maximum_grade": 10.2,
+      "elevation_high": 201.0,
+      "elevation_low": 183.0,
+      "start_latlng": [
+            43.022556,
+            -77.576322
+      ],
+      "end_latlng": [
+            43.023288,
+            -77.580153
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2N3D6BR62M53O7Q2QEBZ75AR6US5UIR3VNIGEYJB7Z6ZGK22NVNGJH7CTNCOV5O7YWWSWV4GHIMVE2SK3T4CY===",
+      "start_latitude": 43.022556,
+      "start_longitude": -77.576322,
+      "end_latitude": 43.023288,
+      "end_longitude": -77.580153,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-07-24T13:45:08Z",
+      "updated_at": "2021-05-17T08:06:26Z",
+      "total_elevation_gain": 18.0,
+      "map": {
+            "id": "s12706273",
+            "polyline": "}yqeG`snxMiArB_AtAQn@Gv@AjBThEAtC",
+            "resource_state": 3
+      },
+      "effort_count": 12567,
+      "athlete_count": 1301,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "31s",
+            "qom": "42s",
+            "destination": {
+                  "href": "strava://segments/12706273/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 81303762,
+            "title": "Allan stern",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81303762/19605661/1/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/12706273/local_legend?categories%5B%5D=overall"
+      }
 }

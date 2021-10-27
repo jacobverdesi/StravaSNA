@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28743215,
+      "resource_state": 3,
+      "name": "Jefferson Ave WB (John to E River)",
+      "activity_type": "Ride",
+      "distance": 2027.0,
+      "average_grade": 0.1,
+      "maximum_grade": 9.6,
+      "elevation_high": 162.9,
+      "elevation_low": 158.7,
+      "start_latlng": [
+            43.092938,
+            -77.653909
+      ],
+      "end_latlng": [
+            43.092517,
+            -77.678602
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RBLEMNMVA7SMD7KF3BG6CVNAXY2DIKJYHJNLSRP2MQC3CWSFJP6IHAUD2OLHQA5NNMNM4TUL6XX77LLJ3VMQ====",
+      "start_latitude": 43.092938,
+      "start_longitude": -77.653909,
+      "end_latitude": 43.092517,
+      "end_longitude": -77.678602,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-06-08T16:24:33Z",
+      "updated_at": "2021-06-08T16:24:33Z",
+      "total_elevation_gain": 3.7,
+      "map": {
+            "id": "s28743215",
+            "polyline": "yq_fG|w}xMMpAMvDAdEFdIFpENlFj@n[DhHZbQB~FJ|LPzMCxAH|GA`DOdCKz@AB?CC@",
+            "resource_state": 3
+      },
+      "effort_count": 512,
+      "athlete_count": 225,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:37",
+            "qom": "3:27",
+            "destination": {
+                  "href": "strava://segments/28743215/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 27076526,
+            "title": "Ron Follansbee",
+            "profile": "https://graph.facebook.com/10155987751693948/picture?height=256&width=256",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/28743215/local_legend?categories%5B%5D=overall"
+      }
 }

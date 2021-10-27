@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5630425,
+      "resource_state": 3,
+      "name": "Parkpoint dash!!",
+      "activity_type": "Ride",
+      "distance": 721.2,
+      "average_grade": -0.2,
+      "maximum_grade": 1.9,
+      "elevation_high": 162.0,
+      "elevation_low": 158.3,
+      "start_latlng": [
+            43.086663,
+            -77.657137
+      ],
+      "end_latlng": [
+            43.092675,
+            -77.653913
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FO3NQKHW3WA64NDCSL4XVKUBIIC46V37GFTAHWFRUA2ZGE46CQO4PXPUX7S67SDQ4PTEOKXQVTY6VXHGLZCQ====",
+      "start_latitude": 43.086663,
+      "start_longitude": -77.657137,
+      "end_latitude": 43.092675,
+      "end_longitude": -77.653913,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-29T04:02:18Z",
+      "updated_at": "2021-05-20T08:02:44Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s5630425",
+            "polyline": "sj~eGbl~xMKMo@O_@ScBs@}Aw@]Ki@[oAe@OMoAe@e@]c@SOMs@Uo@[o@WWOeAc@qGaC}@c@",
+            "resource_state": 3
+      },
+      "effort_count": 5875,
+      "athlete_count": 782,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "54s",
+            "qom": "1:22",
+            "destination": {
+                  "href": "strava://segments/5630425/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 58127621,
+            "title": "shockin audrey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/58127621/14964295/1/large.jpg",
+            "effort_description": "48 efforts in the last 90 days",
+            "effort_count": "48",
+            "effort_counts": {
+                  "overall": "48 efforts",
+                  "female": "48 efforts"
+            },
+            "destination": "strava://segments/5630425/local_legend?categories%5B%5D=overall"
+      }
 }

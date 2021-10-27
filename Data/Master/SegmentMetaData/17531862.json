@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17531862,
+      "resource_state": 3,
+      "name": "Westfall - Edgewood to Winton WB",
+      "activity_type": "Ride",
+      "distance": 993.6,
+      "average_grade": 0.8,
+      "maximum_grade": 6.1,
+      "elevation_high": 150.9,
+      "elevation_low": 142.0,
+      "start_latlng": [
+            43.11641,
+            -77.558557
+      ],
+      "end_latlng": [
+            43.116025,
+            -77.570727
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TFUAMCFC3TNEVPZLTJD7XKT6DSTAAJMS2F6E5TOXLJK4355IUXFBF27WERFNWZNUTT3H4NEAB2GRU74ZGHOQS===",
+      "start_latitude": 43.11641,
+      "start_longitude": -77.558557,
+      "end_latitude": 43.116025,
+      "end_longitude": -77.570727,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-04-30T19:31:18Z",
+      "updated_at": "2021-05-19T08:04:30Z",
+      "total_elevation_gain": 11.1,
+      "map": {
+            "id": "s17531862",
+            "polyline": "qddfG~ckxMHpGFrH?pCDhB?lARzHArDBtBDv@?dBHlBAdCHtCAfCD~AAlADl@",
+            "resource_state": 3
+      },
+      "effort_count": 2032,
+      "athlete_count": 395,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:26",
+            "qom": "1:34",
+            "destination": {
+                  "href": "strava://segments/17531862/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 42373597,
+            "title": "Ben Turiano",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GhertBqsWXO0zkk1lsc21mZKCqXCxCz32C6n4osoNg=s96-c",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/17531862/local_legend?categories%5B%5D=overall"
+      }
 }

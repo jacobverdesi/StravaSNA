@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15085493,
+      "resource_state": 3,
+      "name": "Pass the jet",
+      "activity_type": "Ride",
+      "distance": 1235.0,
+      "average_grade": 0.7,
+      "maximum_grade": 3.3,
+      "elevation_high": 160.2,
+      "elevation_low": 150.0,
+      "start_latlng": [
+            43.107382,
+            -77.69785
+      ],
+      "end_latlng": [
+            43.106762,
+            -77.712943
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6YX2KNX5O2KKU2LGX745ODJYWNXB7EBAJ2CDKD5QGAWNSTSLZMWZZTUO3WPR77XMK4YTGUO5CILUE2WHTVJA2===",
+      "start_latitude": 43.107382,
+      "start_longitude": -77.69785,
+      "end_latitude": 43.106762,
+      "end_longitude": -77.712943,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-06T16:11:18Z",
+      "updated_at": "2021-05-20T08:04:15Z",
+      "total_elevation_gain": 13.8,
+      "map": {
+            "id": "s15085493",
+            "polyline": "clbfGpjfyMzBj}A",
+            "resource_state": 3
+      },
+      "effort_count": 1874,
+      "athlete_count": 262,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:46",
+            "qom": "2:09",
+            "destination": {
+                  "href": "strava://segments/15085493/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24735007,
+            "title": "Bob Hartman",
+            "profile": "https://lh5.googleusercontent.com/-b5TGAn1inDI/AAAAAAAAAAI/AAAAAAAAI7I/KaImjnIbmjQ/photo.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/15085493/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1437345,
+      "resource_state": 3,
+      "name": "Up Cobb's Hill using left dirt path",
+      "activity_type": "Ride",
+      "distance": 123.021,
+      "average_grade": 15.9,
+      "maximum_grade": 23.5,
+      "elevation_high": 184.5,
+      "elevation_low": 164.9,
+      "start_latlng": [
+            43.13735474,
+            -77.57696839
+      ],
+      "end_latlng": [
+            43.13796084,
+            -77.57571429
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SAVJBDCPXQAQGD4ONFHBIHD6GWPH6YZGWZABK54CMKJXS6U6S52OCLIA7OJ4VFBKQSJNI3YTACAQMHIESANQ====",
+      "start_latitude": 43.13735474,
+      "start_longitude": -77.57696839,
+      "end_latitude": 43.13796084,
+      "end_longitude": -77.57571429,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-24T02:40:55Z",
+      "updated_at": "2021-05-15T02:12:04Z",
+      "total_elevation_gain": 19.5875,
+      "map": {
+            "id": "s1437345",
+            "polyline": "mghfG`wnxMSi@]sAm@iAYq@",
+            "resource_state": 3
+      },
+      "effort_count": 3125,
+      "athlete_count": 319,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "17s",
+            "qom": "20s",
+            "destination": {
+                  "href": "strava://segments/1437345/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 22716776,
+            "title": "Thomas Waterhouse",
+            "profile": "https://graph.facebook.com/10155013260292284/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/1437345/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 29244636,
+      "resource_state": 3,
+      "name": "Edgewood Safe Sprint",
+      "activity_type": "Ride",
+      "distance": 555.2,
+      "average_grade": 2.2,
+      "maximum_grade": 5.5,
+      "elevation_high": 168.2,
+      "elevation_low": 155.4,
+      "start_latlng": [
+            43.092484,
+            -77.570489
+      ],
+      "end_latlng": [
+            43.087863,
+            -77.573085
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/N4UNZIUPCAKTF2HW5A7LFSL7FKDWEWLQDLEKM6OID3K3HVK6SWIJGC2HQ233VI2WWLFF3I2FDN6EKYSISNSRC===",
+      "start_latitude": 43.092484,
+      "start_longitude": -77.570489,
+      "end_latitude": 43.087863,
+      "end_longitude": -77.573085,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-07-23T22:43:29Z",
+      "updated_at": "2021-07-23T22:43:29Z",
+      "total_elevation_gain": 12.8,
+      "map": {
+            "id": "s29244636",
+            "polyline": "_o_fGpnmxMtBbA`Ah@zDjBlCdAxKfF",
+            "resource_state": 3
+      },
+      "effort_count": 2549,
+      "athlete_count": 538,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "33s",
+            "qom": "1:09",
+            "destination": {
+                  "href": "strava://segments/29244636/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3299172,
+            "title": "Matthew McNamara",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3299172/1069972/3/large.jpg",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/29244636/local_legend?categories%5B%5D=overall"
+      }
 }

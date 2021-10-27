@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28217805,
+      "resource_state": 3,
+      "name": "School#1 to BB Court",
+      "activity_type": "Ride",
+      "distance": 871.4,
+      "average_grade": -0.1,
+      "maximum_grade": 1.0,
+      "elevation_high": 154.2,
+      "elevation_low": 152.5,
+      "start_latlng": [
+            43.143558,
+            -77.56355
+      ],
+      "end_latlng": [
+            43.141465,
+            -77.57332
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VPVACW76PZPQRAF2RBJQUNZKJ4CY5JUDQTBDQ7JTMXDFMRUGPIQ2JS5K4SVJ32I3EJHKN37PGQEWB76OVNXY4===",
+      "start_latitude": 43.143558,
+      "start_longitude": -77.56355,
+      "end_latitude": 43.141465,
+      "end_longitude": -77.57332,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-04-28T15:02:45Z",
+      "updated_at": "2021-05-20T08:05:54Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s28217805",
+            "polyline": "enifGfclxMw@|CG|@?z@D~@VnCArAFx@Px@Vt@|@vBvA|Bh@jATr@X|AFb@?TDNFfAJhDFp@Nv@ZfAPhATr@d@xB",
+            "resource_state": 3
+      },
+      "effort_count": 3271,
+      "athlete_count": 521,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "59s",
+            "qom": "1:28",
+            "destination": {
+                  "href": "strava://segments/28217805/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 13628480,
+            "title": "Dustin Hannum",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/13628480/5816871/6/large.jpg",
+            "effort_description": "20 efforts in the last 90 days",
+            "effort_count": "20",
+            "effort_counts": {
+                  "overall": "20 efforts",
+                  "female": "12 efforts"
+            },
+            "destination": "strava://segments/28217805/local_legend?categories%5B%5D=overall"
+      }
 }

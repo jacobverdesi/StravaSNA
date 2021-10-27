@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1726791,
+      "resource_state": 3,
+      "name": "Bowen to Wickens on Union",
+      "activity_type": "Ride",
+      "distance": 3677.42,
+      "average_grade": 0.6,
+      "maximum_grade": 4.5,
+      "elevation_high": 192.5,
+      "elevation_low": 164.4,
+      "start_latlng": [
+            43.0768975,
+            -77.7960652
+      ],
+      "end_latlng": [
+            43.0438164,
+            -77.7958844
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2LLWHY3ZRN2OY3DDWN74LUXBEVETVV3IWHT3TEVUWJ2PPMBTW5BQDZ5VYVUYYOJMRJNK27CPQ4TUTPFLE32FK===",
+      "start_latitude": 43.0768975,
+      "start_longitude": -77.7960652,
+      "end_latitude": 43.0438164,
+      "end_longitude": -77.7958844,
+      "climb_category": 0,
+      "city": "Churchville",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-10T23:53:09Z",
+      "updated_at": "2021-05-15T02:12:13Z",
+      "total_elevation_gain": 41.6442,
+      "map": {
+            "id": "s1726791",
+            "polyline": "qm|eGlpyyMpC?rEDjMEvH?pBBvHIrCKlDBnIGzBBfAC`CMjFAbFD`KQrMBvDIdOOzNGzFInFAlGBfBA`IH`CJdF^",
+            "resource_state": 3
+      },
+      "effort_count": 818,
+      "athlete_count": 123,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:58",
+            "qom": "7:37",
+            "destination": {
+                  "href": "strava://segments/1726791/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14403,
+            "title": "Rich Keefe",
+            "profile": "https://lh3.googleusercontent.com/-38z0cFGoU2A/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfki3pwSX22lJnZd40vOIV0Q8TAWg/photo.jpg",
+            "effort_description": "25 efforts in the last 90 days",
+            "effort_count": "25",
+            "effort_counts": {
+                  "overall": "25 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/1726791/local_legend?categories%5B%5D=overall"
+      }
 }

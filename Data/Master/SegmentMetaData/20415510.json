@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20415510,
+      "resource_state": 3,
+      "name": "John to Lucius Gordon (WB)",
+      "activity_type": "Ride",
+      "distance": 1520.5,
+      "average_grade": -0.6,
+      "maximum_grade": 1.5,
+      "elevation_high": 171.1,
+      "elevation_low": 162.0,
+      "start_latlng": [
+            43.072356,
+            -77.665298
+      ],
+      "end_latlng": [
+            43.072059,
+            -77.683952
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4GC3YKLXVZF7YXKKDLNHZYGYLZOSTBOBHVLPU4JDC3MYGFNYZMCU7IZKDUPFJO4ZVH2HX4I6MUYIIQ3KRHFCO===",
+      "start_latitude": 43.072356,
+      "start_longitude": -77.665298,
+      "end_latitude": 43.072059,
+      "end_longitude": -77.683952,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-04-25T13:16:07Z",
+      "updated_at": "2021-05-15T08:05:46Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s20415510",
+            "polyline": "eq{eGb_`yMEfA?v@DjDJ~XBz@JfXDtF?jELhR@zHHzI",
+            "resource_state": 3
+      },
+      "effort_count": 1209,
+      "athlete_count": 298,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:10",
+            "qom": "2:35",
+            "destination": {
+                  "href": "strava://segments/20415510/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 36871946,
+            "title": "matt f",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/36871946/10850269/1/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/20415510/local_legend?categories%5B%5D=overall"
+      }
 }

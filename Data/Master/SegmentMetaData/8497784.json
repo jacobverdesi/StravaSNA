@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8497784,
+      "resource_state": 3,
+      "name": "* JOHNS *",
+      "activity_type": "Ride",
+      "distance": 1932.1,
+      "average_grade": 0.0,
+      "maximum_grade": 5.7,
+      "elevation_high": 170.4,
+      "elevation_low": 167.6,
+      "start_latlng": [
+            43.058772,
+            -77.67605
+      ],
+      "end_latlng": [
+            43.071968,
+            -77.665199
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/USODH5TSEJTOOECTZ4VAO6FUTNWLS7WYPQ4LGV3ZOY2SB2E5F2XTWZV63E74J4A3KF3RDH757WG4LLMJ7P2A====",
+      "start_latitude": 43.058772,
+      "start_longitude": -77.67605,
+      "end_latitude": 43.071968,
+      "end_longitude": -77.665199,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-12T02:19:48Z",
+      "updated_at": "2021-05-20T08:03:13Z",
+      "total_elevation_gain": 2.8,
+      "map": {
+            "id": "s8497784",
+            "polyline": "i|xeGhbbyMwABw@JoE~@k@FoB@iBO[G}Ak@cBcAaB_BmAgBoC}EwA}ByDuGiA_Ca@oC?sBFyCCkA[_Cy@kBo@y@yA_AuAUgEUqBOuA]iGuC_CqA",
+            "resource_state": 3
+      },
+      "effort_count": 544,
+      "athlete_count": 250,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:23",
+            "qom": "3:24",
+            "destination": {
+                  "href": "strava://segments/8497784/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 84730125,
+            "title": "Christopher Osgood",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/84730125/21473536/1/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8497784/local_legend?categories%5B%5D=overall"
+      }
 }

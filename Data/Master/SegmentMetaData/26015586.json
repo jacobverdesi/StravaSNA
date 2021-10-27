@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26015586,
+      "resource_state": 3,
+      "name": "Lehigh Valley Trail SB (Erie Station to E Henrietta)",
+      "activity_type": "Ride",
+      "distance": 1743.3,
+      "average_grade": 0.6,
+      "maximum_grade": 4.7,
+      "elevation_high": 183.6,
+      "elevation_low": 172.6,
+      "start_latlng": [
+            43.040933,
+            -77.636203
+      ],
+      "end_latlng": [
+            43.025973,
+            -77.630559
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IATGPFOE2ZDB7GRUYCA46G22THVVML6AZH4GFJ6VEVANWGSCEANDDKPP5VWQX7NNWVBZJJ64SGRH6QYSAT5Q====",
+      "start_latitude": 43.040933,
+      "start_longitude": -77.636203,
+      "end_latitude": 43.025973,
+      "end_longitude": -77.630559,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-10-10T16:51:36Z",
+      "updated_at": "2021-05-20T08:05:41Z",
+      "total_elevation_gain": 11.0,
+      "map": {
+            "id": "s26015586",
+            "polyline": "ylueGhizxM\\K^[NEJAd@Qt@WXC|B_AtC{@\\IdAKxAYrAOF?l@MVAn@Ml@If@?VI^AJEb@C~@OVAlASp@ClAOdAQrDc@xCc@fBa@^G|@SD@LGj@M\\QdAYbAg@TE^Qj@O`@S^KRO`@OHIJCf@[FAj@a@h@YRIfCaBbAa@`@Q^YTSfBy@",
+            "resource_state": 3
+      },
+      "effort_count": 1475,
+      "athlete_count": 436,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:11",
+            "qom": "3:52",
+            "destination": {
+                  "href": "strava://segments/26015586/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 81746446,
+            "title": "Pete Kolts",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81746446/20905752/1/large.jpg",
+            "effort_description": "13 efforts in the last 90 days",
+            "effort_count": "13",
+            "effort_counts": {
+                  "overall": "13 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/26015586/local_legend?categories%5B%5D=overall"
+      }
 }

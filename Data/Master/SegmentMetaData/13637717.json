@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13637717,
+      "resource_state": 3,
+      "name": "* EAST PARKWAY *",
+      "activity_type": "Ride",
+      "distance": 1344.8,
+      "average_grade": 1.1,
+      "maximum_grade": 8.1,
+      "elevation_high": 166.9,
+      "elevation_low": 145.5,
+      "start_latlng": [
+            43.070561,
+            -77.361267
+      ],
+      "end_latlng": [
+            43.064478,
+            -77.370095
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XTOMRK7QPUDVMO6TFX3GEGBJJZUVRBKSU65HQXCKUP4O6B6IJMEDALWD5PFPSTOFHHSKQLKCJUKGQLFMHFNUQ===",
+      "start_latitude": 43.070561,
+      "start_longitude": -77.361267,
+      "end_latitude": 43.064478,
+      "end_longitude": -77.370095,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-11-13T02:57:55Z",
+      "updated_at": "2021-05-15T02:18:43Z",
+      "total_elevation_gain": 21.4,
+      "map": {
+            "id": "s13637717",
+            "polyline": "_f{eG|rdwM@xFC~EBhAJj@J\\N^^d@b@Xl@L|@@~HGrCBjACLR?`CGtGPdFDpE?zC\\d@d@DlDA|AK\\Gz@E",
+            "resource_state": 3
+      },
+      "effort_count": 357,
+      "athlete_count": 67,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:16",
+            "qom": "3:50",
+            "destination": {
+                  "href": "strava://segments/13637717/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 61642645,
+            "title": "Lonnie Kaczka",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/61642645/21916220/1/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/13637717/local_legend?categories%5B%5D=overall"
+      }
 }

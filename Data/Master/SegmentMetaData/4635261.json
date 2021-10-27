@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4635261,
+      "resource_state": 3,
+      "name": "Bay climbs north",
+      "activity_type": "Ride",
+      "distance": 3350.9,
+      "average_grade": 1.4,
+      "maximum_grade": 15.0,
+      "elevation_high": 121.2,
+      "elevation_low": 75.5,
+      "start_latlng": [
+            43.190899,
+            -77.53103
+      ],
+      "end_latlng": [
+            43.203499,
+            -77.54136
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/F7WLR4EDOXSY2N5S3IWKYLAQ4DBBIOIXQRSGXRS2HT6Y7IXWI7UCDD3XQQUMUOI6BXHOTWHLBNJDOQF6VC5SQ===",
+      "start_latitude": 43.190899,
+      "start_longitude": -77.53103,
+      "end_latitude": 43.203499,
+      "end_longitude": -77.54136,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-06T18:42:35Z",
+      "updated_at": "2021-05-15T02:13:28Z",
+      "total_elevation_gain": 94.9,
+      "map": {
+            "id": "s4635261",
+            "polyline": "avrfG|wexM{@J[J[F_A`@IJELCh@DVl@zAh@dBXp@V^HH\\Jl@Hn@@FBRPFX@TE^IXGb@Qf@G^Eb@A^BjAAhAFnBFnEP~HLvIEXGHwB~@{BlAkAt@eAh@[JM@]EeA]eAe@qBu@cAe@YI[OKCYMMOM]G}AEg@CsB?gCA_AGeA?_@Gw@AgBRkGByBDeAAw@C[Mm@KKa@?uBj@eABYGk@QsEcAaAQU?aAPuCLq@L_A\\QJ{C`CcCrBa@^w@bAa@p@iBlD_@v@IXIf@CZIrESrAEfAOjA]jBiApC",
+            "resource_state": 3
+      },
+      "effort_count": 1300,
+      "athlete_count": 250,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "6:58",
+            "qom": "7:29",
+            "destination": {
+                  "href": "strava://segments/4635261/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 40749544,
+            "title": "Aman Andhisbikes",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/40749544/16825004/1/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/4635261/local_legend?categories%5B%5D=overall"
+      }
 }

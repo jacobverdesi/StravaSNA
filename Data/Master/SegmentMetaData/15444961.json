@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15444961,
+      "resource_state": 3,
+      "name": "Lake Shore Climb to Tri Stage Area",
+      "activity_type": "Ride",
+      "distance": 2420.7,
+      "average_grade": 0.0,
+      "maximum_grade": 6.8,
+      "elevation_high": 88.0,
+      "elevation_low": 80.7,
+      "start_latlng": [
+            43.231106,
+            -77.554705
+      ],
+      "end_latlng": [
+            43.241961,
+            -77.576281
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KGLJQ5AZWNY55V7KEHFT6TRZUENI34FWYKIY7KYNZTGWGNXDPXA6DZMFL5STMDRMVWDTLN5ISY4K7RNCJ6SA====",
+      "start_latitude": 43.231106,
+      "start_longitude": -77.554705,
+      "end_latitude": 43.241961,
+      "end_longitude": -77.576281,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-07-16T19:13:54Z",
+      "updated_at": "2021-05-17T08:07:04Z",
+      "total_elevation_gain": 15.8,
+      "map": {
+            "id": "s15444961",
+            "polyline": "kqzfG|kjxMo@EmA]gB_@_Bq@k@]oBy@}@?GE[?YBIAWJWPKJ]Xe@j@aA~A{ApBk@nA[`AS~@UxA_@vD]`C[nBo@pCY~AYpC_@xCUnA_BpJYxAiArGQf@CZYnAGh@U~@O~@q@fDeAbE]fASjAe@fBKp@IVoAhFcB~FOx@_@rAG`@I`@k@rBq@zCs@jC",
+            "resource_state": 3
+      },
+      "effort_count": 4607,
+      "athlete_count": 717,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:22",
+            "qom": "3:51",
+            "destination": {
+                  "href": "strava://segments/15444961/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14149986,
+            "title": "Joe Falvo",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "28 efforts in the last 90 days",
+            "effort_count": "28",
+            "effort_counts": {
+                  "overall": "28 efforts",
+                  "female": "12 efforts"
+            },
+            "destination": "strava://segments/15444961/local_legend?categories%5B%5D=overall"
+      }
 }

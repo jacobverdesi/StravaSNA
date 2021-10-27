@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7715820,
+      "resource_state": 3,
+      "name": "Titus from Culver to Kings",
+      "activity_type": "Ride",
+      "distance": 1592.2,
+      "average_grade": -0.3,
+      "maximum_grade": 3.1,
+      "elevation_high": 121.8,
+      "elevation_low": 108.3,
+      "start_latlng": [
+            43.211457,
+            -77.560276
+      ],
+      "end_latlng": [
+            43.211255,
+            -77.579819
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BJPCVNPACIKTF4TF7UBWNA3UUNPCDXGWIWM5AMJHMPDRBFX2FA7N5RHIUNA3J3V33YAMQ4SOXDLWHXWJR4MQ====",
+      "start_latitude": 43.211457,
+      "start_longitude": -77.560276,
+      "end_latitude": 43.211255,
+      "end_longitude": -77.579819,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-23T15:40:26Z",
+      "updated_at": "2021-05-20T08:03:04Z",
+      "total_elevation_gain": 18.9,
+      "map": {
+            "id": "s7715820",
+            "polyline": "qvvfGvnkxMOnCDfGw@dGArCF`GRlLBbHL|JBpCDlCFfBAbCF~B?`CH|BFzGJdGFpG",
+            "resource_state": 3
+      },
+      "effort_count": 2860,
+      "athlete_count": 414,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:07",
+            "qom": "2:51",
+            "destination": {
+                  "href": "strava://segments/7715820/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 44854743,
+            "title": "Matthew Quinlan",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/44854743/17385927/1/large.jpg",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/7715820/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14309618,
+      "resource_state": 3,
+      "name": "Out of the GATE",
+      "activity_type": "Ride",
+      "distance": 1411.2,
+      "average_grade": -0.4,
+      "maximum_grade": 1.4,
+      "elevation_high": 173.4,
+      "elevation_low": 167.4,
+      "start_latlng": [
+            43.149866,
+            -77.690679
+      ],
+      "end_latlng": [
+            43.149962,
+            -77.673343
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3VKXGDNJHDVZ7HLZOWCZE7VHF4WWFHT3P35EFYYRCNLLVLZYLHMDB47GUJDVWPCDDB6YFFL633MYXJFRD4MQ====",
+      "start_latitude": 43.149866,
+      "start_longitude": -77.690679,
+      "end_latitude": 43.149962,
+      "end_longitude": -77.673343,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-03-08T17:02:32Z",
+      "updated_at": "2021-05-15T02:19:03Z",
+      "total_elevation_gain": 2.8,
+      "map": {
+            "id": "s14309618",
+            "polyline": "sujfGv}dyMAsSS{m@@yg@",
+            "resource_state": 3
+      },
+      "effort_count": 1327,
+      "athlete_count": 208,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:20",
+            "qom": "2:25",
+            "destination": {
+                  "href": "strava://segments/14309618/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8808493,
+            "title": "Dan Strine",
+            "profile": "https://graph.facebook.com/518551074/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/14309618/local_legend?categories%5B%5D=overall"
+      }
 }

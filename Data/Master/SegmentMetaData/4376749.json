@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4376749,
+      "resource_state": 3,
+      "name": "Five Mile Line - Plank to Atlantic",
+      "activity_type": "Ride",
+      "distance": 3177.7,
+      "average_grade": 0.2,
+      "maximum_grade": 5.6,
+      "elevation_high": 157.7,
+      "elevation_low": 146.4,
+      "start_latlng": [
+            43.182042,
+            -77.474854
+      ],
+      "end_latlng": [
+            43.153778,
+            -77.475398
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/572EFIOQK6GMCXT7GABTTRZQMHPEGGTWTZN5CVVGICB37V7NXRRV6UNHI5OGWHHRGWXXXGIRYNSAY7FQBSBA====",
+      "start_latitude": 43.182042,
+      "start_longitude": -77.474854,
+      "end_latitude": 43.153778,
+      "end_longitude": -77.475398,
+      "climb_category": 0,
+      "city": "Monroe, NY, USA",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-11T02:38:32Z",
+      "updated_at": "2021-05-15T02:13:19Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s4376749",
+            "polyline": "w~pfGzxzwMb@?LFj@EHB\\AHBT?JBpCKt@Bn@FHBj@AJBf@CXBd@Ez@DLEL?DBfAClADXAZDhAKb@?RF\\?TH\\GTFxADJGLAnBBLCV@LCt@AXBd@CHEL?TNLO\\IPJXDHIJ?L@HDLCL@t@LLAj@Fh@GL@^F^?PB`@E|@C`@?^DxAC\\C|@B\\G~@FnBC^Dj@@z@Cb@BlAAPF~@@j@GL?NDj@?\\F`@@^GX@LAb@BJB`A@b@DnAE`@BNCfAFj@AlB@z@F|@C^B\\C|@@x@C|@BNAh@?t@BXDRA\\HNALBl@G\\Bn@?f@GLBNEZ@r@Ht@?Z@VBx@EtA?VBNEJ@V?LBVEH?JDPCh@D^Ab@@JDl@HpEAx@Ev@Dh@?LD`@Af@FNGLA\\@t@E\\@",
+            "resource_state": 3
+      },
+      "effort_count": 1426,
+      "athlete_count": 376,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:03",
+            "qom": "5:14",
+            "destination": {
+                  "href": "strava://segments/4376749/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5074395,
+            "title": "Jimmy Rossi",
+            "profile": "https://graph.facebook.com/749044671/picture?height=256&width=256",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4376749/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7365157,
+      "resource_state": 3,
+      "name": "* SMITH TO CANFIELD *",
+      "activity_type": "Ride",
+      "distance": 2130.0,
+      "average_grade": -0.2,
+      "maximum_grade": 8.6,
+      "elevation_high": 211.8,
+      "elevation_low": 197.4,
+      "start_latlng": [
+            43.016043,
+            -77.552163
+      ],
+      "end_latlng": [
+            43.033284,
+            -77.543319
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/43BF7KL6B6BVUE5HTQ3RVI6ALZP5QD4NFWNFHSKV4RUZNP4T675KSU3R6YRURTL7FDZUA3QSTDBVXWCNGQOQ====",
+      "start_latitude": 43.016043,
+      "start_longitude": -77.552163,
+      "end_latitude": 43.033284,
+      "end_longitude": -77.543319,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-05T16:06:42Z",
+      "updated_at": "2021-05-15T02:15:08Z",
+      "total_elevation_gain": 16.4,
+      "map": {
+            "id": "s7365157",
+            "polyline": "gqpeG`|ixM}A[mGcA}G}@qHw@kCa@_Ck@_@Sa@YeAoAcEkGuCkFiAoB]a@wAmAiIiEmAc@wFaCcBk@eC_@wM_BcAUiA_@m@]",
+            "resource_state": 3
+      },
+      "effort_count": 8286,
+      "athlete_count": 813,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:41",
+            "qom": "2:52",
+            "destination": {
+                  "href": "strava://segments/7365157/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 81303762,
+            "title": "Allan stern",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81303762/19605661/1/large.jpg",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/7365157/local_legend?categories%5B%5D=overall"
+      }
 }

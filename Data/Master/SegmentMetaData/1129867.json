@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1129867,
+      "resource_state": 3,
+      "name": "Meadow Circuit",
+      "activity_type": "Ride",
+      "distance": 5756.65,
+      "average_grade": 0.0,
+      "maximum_grade": 3.0,
+      "elevation_high": 154.5,
+      "elevation_low": 149.1,
+      "start_latlng": [
+            43.10512558333333,
+            -77.58845648333333
+      ],
+      "end_latlng": [
+            43.10521253333333,
+            -77.58839101666668
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3Y62TA5BQCDZ4VFYNN3NPN2VICWXOZA7KZSGAC7OGYJZY4PBFEAPJ32M6FW6R3F7JWH7G2FUTHIGKGATS4SEG===",
+      "start_latitude": 43.10512558333333,
+      "start_longitude": -77.58845648333333,
+      "end_latitude": 43.10521253333333,
+      "end_longitude": -77.58839101666668,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-03-24T21:02:45Z",
+      "updated_at": "2021-05-15T02:11:55Z",
+      "total_elevation_gain": 134.001,
+      "map": {
+            "id": "s1129867",
+            "polyline": "_~afGz~pxMSc@YkAU[YU]Ea@Da@Kc@Su@q@]E]^Sl@On@W`@_@T_ALUb@?|AGn@[vAHf@XRx@LZTz@v@ZGXJl@z@\\V^?T[Du@E{@Ku@Es@Lk@b@Ud@E`@KZ]Vc@Nm@Do@Go@Qi@[a@_@Mc@Ng@Ie@S{@y@a@G_@VUb@Qh@Sd@[VaAN[XKd@BdBMt@Qn@@l@^RbAL\\Vj@v@ZDZ@XPP`@V\\VP^OT[Bi@WcBGq@Hk@XY`AWX[V_@Re@Hk@@k@Ei@Wc@UY]A_@Dc@Gc@Q_@WY][Oa@JSd@]nAU`@]PeAHWZKf@?pAIf@Mf@Ah@Lf@NV\\@\\HnAl@ZH\\A\\Lr@v@\\J^FP]Dk@Ko@Ko@Gk@Fi@Pc@\\Eb@AZQZ_@Te@Li@Bo@Mq@Sc@c@Se@Bc@Fa@Oa@[Ya@]W_@AYZk@lAY`@a@PgATSb@El@?l@Ej@]pAFh@VX\\J`@B^HZTVZTPXBVLbA`AZNZMRe@Bs@ScBAm@Li@XY^A\\Il@{@Pc@Fm@@k@Gi@Sa@UY]Aa@N_@K_@Qw@q@[I]CY`@_@bAU\\YT_@H_@@]JSb@Cj@@j@Eh@_@pA?j@T\\ZLb@G\\@j@z@ZPt@LVRh@t@ZP`@KRe@?u@Q}ACo@Li@TW\\G\\AZQXURa@Ji@Fm@Gi@Ua@YY]Q]Ea@D_@O[Sm@m@UM]H[XOb@[rAY\\WP]BWPOb@FpAEh@Sf@Kj@Jj@VLv@LXNTXVTVD\\@ZHXNV`@ZT\\?Z[?o@Mq@Om@Cm@Ni@^Y^I^MXWX]Li@Bm@",
+            "resource_state": 3
+      },
+      "effort_count": 26,
+      "athlete_count": 3,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:33",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/1129867/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3278427,
+      "resource_state": 3,
+      "name": "Mt Hope Ave (Ford St-Highland Ave)",
+      "activity_type": "Ride",
+      "distance": 1126.14,
+      "average_grade": 2.6,
+      "maximum_grade": 7.5,
+      "elevation_high": 91.6,
+      "elevation_low": 62.0,
+      "start_latlng": [
+            43.14091642387211,
+            -77.61351535096765
+      ],
+      "end_latlng": [
+            43.131122421473265,
+            -77.61395774781704
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FKDNQ3XAE34TMHZREIW4ULNLYMJY4SRW25D64OM4KOGYIEO5INEYHVKNC5A5Y5SGI5S2243IDBG4KXBSFXYA====",
+      "start_latitude": 43.14091642387211,
+      "start_longitude": -77.61351535096765,
+      "end_latitude": 43.131122421473265,
+      "end_longitude": -77.61395774781704,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-01-17T01:03:19Z",
+      "updated_at": "2021-05-15T02:12:46Z",
+      "total_elevation_gain": 29.6,
+      "map": {
+            "id": "s3278427",
+            "polyline": "u}hfGn{uxMjAd@zBn@hFnBj@N\\@^?`ESxCg@fEgAvBc@zBYzBa@nDa@`@An@Fl@J`@L`A`@`BbA",
+            "resource_state": 3
+      },
+      "effort_count": 1097,
+      "athlete_count": 301,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:08",
+            "qom": "2:31",
+            "destination": {
+                  "href": "strava://segments/3278427/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 33606320,
+            "title": "Jack Ruppert",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/33606320/9985826/3/large.jpg",
+            "effort_description": "24 efforts in the last 90 days",
+            "effort_count": "24",
+            "effort_counts": {
+                  "overall": "24 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/3278427/local_legend?categories%5B%5D=overall"
+      }
 }

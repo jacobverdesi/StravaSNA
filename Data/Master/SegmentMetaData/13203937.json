@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13203937,
+      "resource_state": 3,
+      "name": "Pittsford Railroad Trail North",
+      "activity_type": "Ride",
+      "distance": 5744.3,
+      "average_grade": 0.1,
+      "maximum_grade": 3.6,
+      "elevation_high": 142.3,
+      "elevation_low": 130.0,
+      "start_latlng": [
+            43.096828,
+            -77.519188
+      ],
+      "end_latlng": [
+            43.136472,
+            -77.551152
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/B5KZGOVVG7JJFZWJ4WVHO7VMYFGOMMYQXLBTJ7LZUOSZJRZ2ANQCQDFPLBDINQZ5DOHOIIOHPCIUD5C3TMI5U===",
+      "start_latitude": 43.096828,
+      "start_longitude": -77.519188,
+      "end_latitude": 43.136472,
+      "end_longitude": -77.551152,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-09-15T17:44:03Z",
+      "updated_at": "2021-05-20T08:03:59Z",
+      "total_elevation_gain": 12.3,
+      "map": {
+            "id": "s13203937",
+            "polyline": "cj`fG|mcxMwBrDq@xAc@`ByAdEa@`AeBlFuCdIuBvFw@bBu@pBcBbE{@~B}BxHMV[`A}CvKo@jCoEnO{BhI_@|@aAfDuBrFsArCg@~@I\\MVa@j@oAvBaAjAOVWn@QTa@h@aA~@s@|@i@d@sAbBsAxAY`@_@\\cAjAq@p@_@n@c@h@oAtB[t@QDUBIDGHGXKVK@_@EOBQJsAdAcC|AeAf@s@b@uAn@[VSJiChA{DpAQ?[PcAV_Cf@oD^yBLqABiDBwACoB?qADo@C_AG{ACgFDe@Cw@BsJAc@Dc@Gk@Hs@E_C@qGG{KAo@AkA@oH?kEC_CGiGB",
+            "resource_state": 3
+      },
+      "effort_count": 1384,
+      "athlete_count": 314,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "10:22",
+            "qom": "12:52",
+            "destination": {
+                  "href": "strava://segments/13203937/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 13040873,
+            "title": "David Lent",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/13040873/12896431/1/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/13203937/local_legend?categories%5B%5D=overall"
+      }
 }

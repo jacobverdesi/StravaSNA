@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9554219,
+      "resource_state": 3,
+      "name": "* SHERB CRUSE *",
+      "activity_type": "Ride",
+      "distance": 1566.2,
+      "average_grade": 0.1,
+      "maximum_grade": 10.1,
+      "elevation_high": 163.8,
+      "elevation_low": 145.4,
+      "start_latlng": [
+            43.131346,
+            -77.292046
+      ],
+      "end_latlng": [
+            43.131435,
+            -77.272844
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RRL4DO7C6JUWUZBNZCOXEA6G4PRCJU36HM47F73J5LXJ7DIU7QCIUORTHCKWSG3Z7LEV72XTSUQD6XL3VP6MM===",
+      "start_latitude": 43.131346,
+      "start_longitude": -77.292046,
+      "end_latitude": 43.131435,
+      "end_longitude": -77.272844,
+      "climb_category": 0,
+      "city": "Walworth",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-23T20:12:45Z",
+      "updated_at": "2021-05-15T02:16:26Z",
+      "total_elevation_gain": 23.0,
+      "map": {
+            "id": "s9554219",
+            "polyline": "{agfGhbwvMCiF@aBCkCB_AC{BC{A@}JImh@BwDBa]EkBA}B",
+            "resource_state": 3
+      },
+      "effort_count": 194,
+      "athlete_count": 49,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:33",
+            "qom": "3:44",
+            "destination": {
+                  "href": "strava://segments/9554219/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2895287,
+            "title": "Mark Mazzo",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2895287/1553326/3/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9554219/local_legend?categories%5B%5D=overall"
+      }
 }

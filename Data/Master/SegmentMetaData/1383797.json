@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1383797,
+      "resource_state": 3,
+      "name": "Durand Slam ",
+      "activity_type": "Ride",
+      "distance": 5115.77,
+      "average_grade": -0.5,
+      "maximum_grade": 8.8,
+      "elevation_high": 108.3,
+      "elevation_low": 77.7,
+      "start_latlng": [
+            43.2277521025792,
+            -77.54771028652559
+      ],
+      "end_latlng": [
+            43.24765937406872,
+            -77.59718983441367
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AJQT2GJULR47U2MNE4XOYA5LEEPWK4TYHRFEPWMNQ4VJI3KWSJPC33LZ3QFVYPUPHDIALFXK45STKMYVKUGA====",
+      "start_latitude": 43.2277521025792,
+      "start_longitude": -77.54771028652559,
+      "end_latitude": 43.24765937406872,
+      "end_longitude": -77.59718983441367,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-14T21:15:29Z",
+      "updated_at": "2021-05-15T02:12:03Z",
+      "total_elevation_gain": 35.6993,
+      "map": {
+            "id": "s1383797",
+            "polyline": "m|yfGd`ixMK~CBj@AnADn@Mt@PxAFlABn@E|@?pAM`Ea@`AcAv@s@LsBBkARsBfAmAhC_AnA_AT{AMy@Yo@o@c@Mq@_@iA]gC_AkA@e@JiAp@]V[\\mAnBYXsArB[t@WfAUvAa@nEg@pDaAlFOl@a@lE[bCeD|QE\\c@`CSrACh@Sf@e@tCsH~Z}CjLgB|HmB|HShAMlAGzA?pAQrBQjAYz@k@fCE\\a@xAk@dBwAfGYn@wAjGqB|Hs@`DgDtMs@hDUv@wAlFgA~EeAjDo@|CIhABdAT`CN`A`@tD?z@{@H",
+            "resource_state": 3
+      },
+      "effort_count": 1509,
+      "athlete_count": 350,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "7:38",
+            "qom": "9:06",
+            "destination": {
+                  "href": "strava://segments/1383797/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 13791888,
+            "title": "Mike Farrington",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/13791888/19933389/2/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1383797/local_legend?categories%5B%5D=overall"
+      }
 }

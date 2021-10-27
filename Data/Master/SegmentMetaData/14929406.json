@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14929406,
+      "resource_state": 3,
+      "name": "Powder Mills steep section",
+      "activity_type": "Ride",
+      "distance": 440.0,
+      "average_grade": 6.6,
+      "maximum_grade": 18.8,
+      "elevation_high": 68.4,
+      "elevation_low": 39.4,
+      "start_latlng": [
+            43.040329,
+            -77.474062
+      ],
+      "end_latlng": [
+            43.038242,
+            -77.470144
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6WASF3AXUZYDVOSYKLZRQ46DJANJ2CF4TEDRZJ6CCJYHJPCBTUSBSJUV5NRAJIAJNSEXQJ4PXQLHIDBCSUEDG===",
+      "start_latitude": 43.040329,
+      "start_longitude": -77.474062,
+      "end_latitude": 43.038242,
+      "end_longitude": -77.470144,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-05-20T19:41:09Z",
+      "updated_at": "2021-05-20T08:04:14Z",
+      "total_elevation_gain": 29.0,
+      "map": {
+            "id": "s14929406",
+            "polyline": "_iueG|szwMMc@IaA?c@Nm@Vi@d@YDKz@QrAm@RQP[PUb@y@n@gBl@aCFKNm@@e@",
+            "resource_state": 3
+      },
+      "effort_count": 3573,
+      "athlete_count": 594,
+      "star_count": 11,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "47s",
+            "qom": "1:10",
+            "destination": {
+                  "href": "strava://segments/14929406/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 38593722,
+            "title": "Jeff Peacock",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/38593722/11365455/1/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/14929406/local_legend?categories%5B%5D=overall"
+      }
 }

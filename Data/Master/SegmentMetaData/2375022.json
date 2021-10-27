@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2375022,
+      "resource_state": 3,
+      "name": "Robinson Rd Climb",
+      "activity_type": "Ride",
+      "distance": 161.0,
+      "average_grade": 5.7,
+      "maximum_grade": 9.7,
+      "elevation_high": 175.0,
+      "elevation_low": 165.8,
+      "start_latlng": [
+            43.13374285586178,
+            -77.61014758609235
+      ],
+      "end_latlng": [
+            43.13307909294963,
+            -77.60845527984202
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IEMBWYADHJATBSXVTLEGE7D2BZZFY3XYYFWEWNJKIRKQFPY3X56AC3GRSFCI7UFTQK7FFQUJBXSZWQPSPQEQ====",
+      "start_latitude": 43.13374285586178,
+      "start_longitude": -77.61014758609235,
+      "end_latitude": 43.13307909294963,
+      "end_longitude": -77.60845527984202,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-09-14T05:51:37Z",
+      "updated_at": "2021-05-15T02:12:29Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s2375022",
+            "polyline": "{pgfGlfuxMP_@v@aCPk@@MZo@BIF{@",
+            "resource_state": 3
+      },
+      "effort_count": 2354,
+      "athlete_count": 495,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "15s",
+            "qom": "18s",
+            "destination": {
+                  "href": "strava://segments/2375022/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3176763,
+            "title": "Daniel Breslawski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3176763/6460992/1/large.jpg",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/2375022/local_legend?categories%5B%5D=overall"
+      }
 }

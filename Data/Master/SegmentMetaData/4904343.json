@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4904343,
+      "resource_state": 3,
+      "name": "Turning Point Climb to Park Entrance",
+      "activity_type": "Ride",
+      "distance": 367.4,
+      "average_grade": 5.8,
+      "maximum_grade": 11.0,
+      "elevation_high": 97.8,
+      "elevation_low": 76.6,
+      "start_latlng": [
+            43.230207,
+            -77.616746
+      ],
+      "end_latlng": [
+            43.227529,
+            -77.6177
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DJWRXPMOBVLNJ67YBCWBON4QBUZAP4KLY72ED3IGOMXRK4RHAYBTYH4KBOJAGE2L6UKJYALIGFICQX2RV4NN2===",
+      "start_latitude": 43.230207,
+      "start_longitude": -77.616746,
+      "end_latitude": 43.227529,
+      "end_longitude": -77.6177,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-28T18:11:09Z",
+      "updated_at": "2021-05-20T08:02:38Z",
+      "total_elevation_gain": 21.2,
+      "map": {
+            "id": "s4904343",
+            "polyline": "wkzfGtovxMPN?v@l@zBhBUpBBzAMl@HpBN",
+            "resource_state": 3
+      },
+      "effort_count": 1587,
+      "athlete_count": 445,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "46s",
+            "qom": "1:16",
+            "destination": {
+                  "href": "strava://segments/4904343/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14101151,
+            "title": "Bob Muldowney",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/14101151/7675659/1/large.jpg",
+            "effort_description": "52 efforts in the last 90 days",
+            "effort_count": "52",
+            "effort_counts": {
+                  "overall": "52 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4904343/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3691198,
+      "resource_state": 3,
+      "name": "Tracy's \".7\"",
+      "activity_type": "Ride",
+      "distance": 1124.47,
+      "average_grade": -1.2,
+      "maximum_grade": 0.0,
+      "elevation_high": 190.4,
+      "elevation_low": 177.4,
+      "start_latlng": [
+            43.07210183702409,
+            -77.46238854713738
+      ],
+      "end_latlng": [
+            43.06348264217377,
+            -77.46909876354039
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TQ7CUIYPUIUTHQI3AZ542B6O4AEEYRU63GB4YUEXDHSSBD7J7JVKKLTXZAQPRJKCGCTIVXSBDC2FZKGMJMWSQ===",
+      "start_latitude": 43.07210183702409,
+      "start_longitude": -77.46238854713738,
+      "end_latitude": 43.06348264217377,
+      "end_longitude": -77.46909876354039,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-03-27T19:51:14Z",
+      "updated_at": "2021-05-15T02:12:56Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s3691198",
+            "polyline": "so{eG|jxwMjAp@jD|A~A|@NBn@XlInEhAp@zAp@jBdAr@ZrB`AzD|B^Vv@v@vApBdAbC`AlBf@fA",
+            "resource_state": 3
+      },
+      "effort_count": 3248,
+      "athlete_count": 461,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:06",
+            "qom": "1:41",
+            "destination": {
+                  "href": "strava://segments/3691198/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 295448,
+            "title": "Rouge Rob",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/295448/133377/1/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/3691198/local_legend?categories%5B%5D=overall"
+      }
 }

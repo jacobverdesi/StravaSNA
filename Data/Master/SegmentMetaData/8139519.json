@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8139519,
+      "resource_state": 3,
+      "name": "* BAIRD PEAK *",
+      "activity_type": "Ride",
+      "distance": 571.6,
+      "average_grade": 3.5,
+      "maximum_grade": 11.0,
+      "elevation_high": 136.2,
+      "elevation_low": 116.4,
+      "start_latlng": [
+            43.112353,
+            -77.461849
+      ],
+      "end_latlng": [
+            43.117442,
+            -77.4616
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HHF3WFUZQV5D4CZ3XEPEM32YQE73MMCTB5W3ED4CE7ZUOJZ5OKPF7SSU52YBAMRZO2EIX5VC6KWF24DGI5YA====",
+      "start_latitude": 43.112353,
+      "start_longitude": -77.461849,
+      "end_latitude": 43.117442,
+      "end_longitude": -77.4616,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-09-14T23:44:40Z",
+      "updated_at": "2021-05-20T08:03:09Z",
+      "total_elevation_gain": 19.8,
+      "map": {
+            "id": "s8139519",
+            "polyline": "ekcfGpgxwM{AWyCIiIEoFKcBFo@Eu@?",
+            "resource_state": 3
+      },
+      "effort_count": 2177,
+      "athlete_count": 329,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "59s",
+            "qom": "1:15",
+            "destination": {
+                  "href": "strava://segments/8139519/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 295448,
+            "title": "Rouge Rob",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/295448/133377/1/large.jpg",
+            "effort_description": "59 efforts in the last 90 days",
+            "effort_count": "59",
+            "effort_counts": {
+                  "overall": "59 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/8139519/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6091497,
+      "resource_state": 3,
+      "name": "Bushnell's Basin Bridge to Mitchell Rd. Bridge",
+      "activity_type": "Ride",
+      "distance": 3366.9,
+      "average_grade": 0.0,
+      "maximum_grade": 0.0,
+      "elevation_high": 134.6,
+      "elevation_low": 134.6,
+      "start_latlng": [
+            43.062887,
+            -77.477937
+      ],
+      "end_latlng": [
+            43.083325,
+            -77.505953
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DPFVKZ5FYPXK54NB4NTH644CA7PTY6XTYMKGYZMZDD3CZ6NE5OJNOZR7PMKLP2KOTXPQXOMJ2YVAMU37HUHOQ===",
+      "start_latitude": 43.062887,
+      "start_longitude": -77.477937,
+      "end_latitude": 43.083325,
+      "end_longitude": -77.505953,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-11-25T22:16:52Z",
+      "updated_at": "2021-05-20T08:02:48Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s6091497",
+            "polyline": "_vyeGbl{wMAxBMrF?lCC|BMpBUpBSfAeC|GyCpHk@hBk@dAiAxA}@`A_Av@uG`EcCbB}ClB]V}@h@aEnCaDlBaLrHmBz@mA|@cBrB}@nAqAzBi@dAuE|HqApBq@jAo@pAs@fAs@p@QTMZe@rAyClE_@jAk@pAm@x@{AhC}@lAe@f@y@lAw@~@m@hAUf@wBnDo@t@mCfC",
+            "resource_state": 3
+      },
+      "effort_count": 15637,
+      "athlete_count": 3582,
+      "star_count": 13,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:17",
+            "qom": "6:24",
+            "destination": {
+                  "href": "strava://segments/6091497/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "42 efforts in the last 90 days",
+            "effort_count": "42",
+            "effort_counts": {
+                  "overall": "42 efforts",
+                  "female": "25 efforts"
+            },
+            "destination": "strava://segments/6091497/local_legend?categories%5B%5D=overall"
+      }
 }

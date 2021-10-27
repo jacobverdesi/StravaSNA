@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1739274,
+      "resource_state": 3,
+      "name": "Shepard Street Sprint",
+      "activity_type": "Ride",
+      "distance": 368.025,
+      "average_grade": -2.7,
+      "maximum_grade": 7.3,
+      "elevation_high": 158.0,
+      "elevation_low": 148.0,
+      "start_latlng": [
+            43.14024310563052,
+            -77.583170430807
+      ],
+      "end_latlng": [
+            43.13724661715621,
+            -77.58503884084297
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LQDZLNQE2BR35XK4EWOICA6AZAORGVPJQWW2Z2GK63NJJEPW27XQ7H3SNXTYUBSAVGE3VDCXADP4YOKGHVYVK===",
+      "start_latitude": 43.14024310563052,
+      "start_longitude": -77.583170430807,
+      "end_latitude": 43.13724661715621,
+      "end_longitude": -77.58503884084297,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-13T02:36:06Z",
+      "updated_at": "2021-05-15T02:12:14Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s1739274",
+            "polyline": "oyhfGx}oxMpBlA`@^^Xh@NpAh@^TRDbAr@nBx@~@h@",
+            "resource_state": 3
+      },
+      "effort_count": 243,
+      "athlete_count": 76,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "29s",
+            "qom": "49s",
+            "destination": {
+                  "href": "strava://segments/1739274/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 715047,
+            "title": "Matt Corbett",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/715047/5767655/2/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/1739274/local_legend?categories%5B%5D=overall"
+      }
 }

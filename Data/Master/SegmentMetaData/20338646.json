@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20338646,
+      "resource_state": 3,
+      "name": "River Rd - Crittenden to GVP",
+      "activity_type": "Ride",
+      "distance": 3432.4,
+      "average_grade": 0.2,
+      "maximum_grade": 6.7,
+      "elevation_high": 193.6,
+      "elevation_low": 185.4,
+      "start_latlng": [
+            43.103888,
+            -77.675894
+      ],
+      "end_latlng": [
+            43.113887,
+            -77.639114
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QSDSUMX4MM3OR2A3HNQ4ULK7ACROVNM6JX6WS34HJU2CL2VF5OGH7H4WEFGB6OJMKR3L7KSZ62MDNF3V64VZ4===",
+      "start_latitude": 43.103888,
+      "start_longitude": -77.675894,
+      "end_latitude": 43.113887,
+      "end_longitude": -77.639114,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-04-17T18:40:59Z",
+      "updated_at": "2021-05-18T08:05:34Z",
+      "total_elevation_gain": 16.6,
+      "map": {
+            "id": "s20338646",
+            "polyline": "gvafGjabyM}BSsAUwBo@sAm@oA}@_@[i@o@q@gAi@sA_AyCq@kCkD_No@eDuA_JKs@[_DwAaPq@yI[wCYeB[eAo@uAYg@{@aAqA_Ai@g@u@cAu@oAiCeIg@qBGe@Ci@CyIMaICmM[eOCsHQcJCoEGyBC{EImDEmE",
+            "resource_state": 3
+      },
+      "effort_count": 3947,
+      "athlete_count": 763,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:32",
+            "qom": "4:43",
+            "destination": {
+                  "href": "strava://segments/20338646/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/20338646/local_legend?categories%5B%5D=overall"
+      }
 }

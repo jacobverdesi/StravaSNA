@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8457611,
+      "resource_state": 3,
+      "name": "* NO BRIDGE *",
+      "activity_type": "Ride",
+      "distance": 367.2,
+      "average_grade": 0.0,
+      "maximum_grade": 0.0,
+      "elevation_high": 143.2,
+      "elevation_low": 143.2,
+      "start_latlng": [
+            43.088479,
+            -77.418449
+      ],
+      "end_latlng": [
+            43.089815,
+            -77.422122
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6IQUXS5ACXUXJWT3GPAYPXHIJTJITPJBIWHMVXGSKHXX2L373A6GXLSH5GZPKBEEFWHPBESKI6F4AHJEZHLA====",
+      "start_latitude": 43.088479,
+      "start_longitude": -77.418449,
+      "end_latitude": 43.089815,
+      "end_longitude": -77.422122,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-04T02:16:35Z",
+      "updated_at": "2021-05-17T08:05:26Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8457611",
+            "polyline": "}u~eGhxowMwFbRSzB",
+            "resource_state": 3
+      },
+      "effort_count": 860,
+      "athlete_count": 159,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "25s",
+            "qom": "34s",
+            "destination": {
+                  "href": "strava://segments/8457611/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32212911,
+            "title": "Dave Bischoff",
+            "profile": "https://graph.facebook.com/10201903979376593/picture?height=256&width=256",
+            "effort_description": "19 efforts in the last 90 days",
+            "effort_count": "19",
+            "effort_counts": {
+                  "overall": "19 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8457611/local_legend?categories%5B%5D=overall"
+      }
 }

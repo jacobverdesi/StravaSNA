@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21881741,
+      "resource_state": 3,
+      "name": "MCC Campus Loop",
+      "activity_type": "Ride",
+      "distance": 3266.4,
+      "average_grade": 0.0,
+      "maximum_grade": 2.9,
+      "elevation_high": 174.8,
+      "elevation_low": 162.0,
+      "start_latlng": [
+            43.102602,
+            -77.614201
+      ],
+      "end_latlng": [
+            43.102397,
+            -77.614157
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OVNITEKQ7KKJSGTQJMPAIJ5BQTWG6T7URNKYQJDQJ3GOCSB4QPJ257GXDIPYNWGEKWU75ES3H2H3D7ZOVWIQ====",
+      "start_latitude": 43.102602,
+      "start_longitude": -77.614201,
+      "end_latitude": 43.102397,
+      "end_longitude": -77.614157,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-09-23T17:19:01Z",
+      "updated_at": "2021-05-15T02:23:56Z",
+      "total_elevation_gain": 14.4,
+      "map": {
+            "id": "s21881741",
+            "polyline": "gnafGx_vxMdBWjE}@|B_@pAc@tBcAbFiBbEiBl@a@ZY`@q@R_A?{CEmABwBd@kDJwA?}@IqGByAM{BWcBIWc@cAMSOOe@We@MUCg@@e@HmAZaHrBuHtBwD|@w@DoB@}CCiDLoAn@kAx@W^Ud@Uz@U`BI|Bb@bUFxBBPX|At@`CdAtCVf@PTt@^d@FXEhJcB",
+            "resource_state": 3
+      },
+      "effort_count": 268,
+      "athlete_count": 33,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:10",
+            "qom": "6:36",
+            "destination": {
+                  "href": "strava://segments/21881741/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 87260696,
+            "title": "Brant Crouse",
+            "profile": "https://graph.facebook.com/6351576361534970/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/21881741/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4253202,
+      "resource_state": 3,
+      "name": "Eileen-Tioga Mile Loop",
+      "activity_type": "Ride",
+      "distance": 1609.3,
+      "average_grade": 0.0,
+      "maximum_grade": 1.4,
+      "elevation_high": 103.3,
+      "elevation_low": 101.3,
+      "start_latlng": [
+            43.241375,
+            -77.663799
+      ],
+      "end_latlng": [
+            43.241403,
+            -77.663865
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RLXZNW4W75CQ7D4RDH55QL6MOO6T52HZO3W42FF2S5X2ECWB7S4VQGGGRYOIEGLPKBRG53HCJPYHENN4RJ5Q====",
+      "start_latitude": 43.241375,
+      "start_longitude": -77.663799,
+      "end_latitude": 43.241403,
+      "end_longitude": -77.663865,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-30T12:03:21Z",
+      "updated_at": "2021-05-15T02:13:14Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s4253202",
+            "polyline": "qq|fGvu_yMJa@BQ@eOBSDKHCdC?LBJHBHDrBH~^B~ADTNVnBhAX\\Ph@FV@X?p@E`@KXIJg@Nc@MmFeCWWEMGa@A_AGeRCe@Um@?e@",
+            "resource_state": 3
+      },
+      "effort_count": 1066,
+      "athlete_count": 7,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:35",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/4253202/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 86084270,
+            "title": "Chris Michaels",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/86084270/20696508/2/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/4253202/local_legend?categories%5B%5D=overall"
+      }
 }

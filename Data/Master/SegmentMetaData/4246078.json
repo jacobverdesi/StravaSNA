@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4246078,
+      "resource_state": 3,
+      "name": "down low ",
+      "activity_type": "Ride",
+      "distance": 1592.9,
+      "average_grade": 0.6,
+      "maximum_grade": 18.8,
+      "elevation_high": 48.0,
+      "elevation_low": 23.6,
+      "start_latlng": [
+            43.234571,
+            -77.614849
+      ],
+      "end_latlng": [
+            43.221654,
+            -77.614352
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PHC5TNURMGPDXXC65DVF2Y7JO2IXBCVB6YWGDKFUBAN2YGE6VWKTZ6RHBFWXZ7ALJ7MQBFJH63MMDKNDN2ZQ====",
+      "start_latitude": 43.234571,
+      "start_longitude": -77.614849,
+      "end_latitude": 43.221654,
+      "end_longitude": -77.614352,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-29T14:00:20Z",
+      "updated_at": "2021-05-15T02:13:14Z",
+      "total_elevation_gain": 26.4,
+      "map": {
+            "id": "s4246078",
+            "polyline": "ag{fGxcvxMHPLL\\f@d@`@RT`@X^h@VRj@t@^IV[Ra@zA{@`Aw@h@Wd@kAPUVIZQ\\[j@[RGLIN_@DWBCp@GXK\\@h@CXW^B`@N`@BRCZDnCv@lBb@dADNAp@NZAv@[^K\\DZ]`@Hz@@d@PlAp@PV`@Xh@Xp@@r@Gb@O^BNF`AEd@Mj@IdARj@?RGLQFEF@XL\\GNGTQd@G",
+            "resource_state": 3
+      },
+      "effort_count": 936,
+      "athlete_count": 143,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:03",
+            "qom": "7:44",
+            "destination": {
+                  "href": "strava://segments/4246078/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 6597189,
+            "title": "Mark Padoleski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/6597189/2908798/1/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/4246078/local_legend?categories%5B%5D=overall"
+      }
 }

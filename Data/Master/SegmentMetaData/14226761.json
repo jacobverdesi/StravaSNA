@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14226761,
+      "resource_state": 3,
+      "name": "* WINTS OTHER WAY *",
+      "activity_type": "Ride",
+      "distance": 1353.2,
+      "average_grade": 0.0,
+      "maximum_grade": 18.5,
+      "elevation_high": 135.2,
+      "elevation_low": 131.0,
+      "start_latlng": [
+            43.089957,
+            -77.412372
+      ],
+      "end_latlng": [
+            43.093577,
+            -77.427659
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/74GWLYR5TEPMIB5Q3AZDTHQLKFHRGOFS4BDCBYDSN4YWMSZIDL6GZYW5FSGIAHYO7FSXAUMC3IVWNMLWVT5Q====",
+      "start_latitude": 43.089957,
+      "start_longitude": -77.412372,
+      "end_latitude": 43.093577,
+      "end_longitude": -77.427659,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-02-23T20:32:34Z",
+      "updated_at": "2021-05-19T08:04:00Z",
+      "total_elevation_gain": 4.2,
+      "map": {
+            "id": "s14226761",
+            "polyline": "e__fGjrnwMGHGx@MhFG~@C`BFdBClGGxBB~BEfHE~@]~Cg@bBYxBcA|E]rAOXk@~AkAhCUn@wAjDq@zA_@p@}@rBg@pAUdAW^",
+            "resource_state": 3
+      },
+      "effort_count": 1561,
+      "athlete_count": 196,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:40",
+            "qom": "3:38",
+            "destination": {
+                  "href": "strava://segments/14226761/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 13040873,
+            "title": "David Lent",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/13040873/12896431/1/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/14226761/local_legend?categories%5B%5D=overall"
+      }
 }

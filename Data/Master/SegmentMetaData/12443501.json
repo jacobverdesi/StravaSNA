@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12443501,
+      "resource_state": 3,
+      "name": "* AXLE RIM HILL *",
+      "activity_type": "Ride",
+      "distance": 335.0,
+      "average_grade": 5.9,
+      "maximum_grade": 13.0,
+      "elevation_high": 172.8,
+      "elevation_low": 153.1,
+      "start_latlng": [
+            43.087902,
+            -77.426638
+      ],
+      "end_latlng": [
+            43.086554,
+            -77.423707
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BKFNUBQRI75HU3OEA3D463CPGDSNEQXMIS5CCN6KRBTI5JYNB3YSXI7G2JP3MTEFWD3IJE6ZOPC4Z6TNOC3Q====",
+      "start_latitude": 43.087902,
+      "start_longitude": -77.426638,
+      "end_latitude": 43.086554,
+      "end_longitude": -77.423707,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-06-24T02:34:47Z",
+      "updated_at": "2021-05-15T02:18:03Z",
+      "total_elevation_gain": 19.7,
+      "map": {
+            "id": "s12443501",
+            "polyline": "kr~eGnkqwMfACj@Sf@]fA_ARa@Jk@FaA@gCCeABuB",
+            "resource_state": 3
+      },
+      "effort_count": 67,
+      "athlete_count": 23,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "34s",
+            "qom": "1:24",
+            "destination": {
+                  "href": "strava://segments/12443501/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32212911,
+            "title": "Dave Bischoff",
+            "profile": "https://graph.facebook.com/10201903979376593/picture?height=256&width=256",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/12443501/local_legend?categories%5B%5D=overall"
+      }
 }

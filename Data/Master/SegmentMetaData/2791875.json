@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2791875,
+      "resource_state": 3,
+      "name": "Blossom Descent from Landing",
+      "activity_type": "Ride",
+      "distance": 665.2,
+      "average_grade": -6.9,
+      "maximum_grade": 0.0,
+      "elevation_high": 51.6,
+      "elevation_low": 5.4,
+      "start_latlng": [
+            43.14945842139423,
+            -77.52816989086568
+      ],
+      "end_latlng": [
+            43.1484152097255,
+            -77.52022828906775
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZHLRT5SPOEUVESZZGSWFYFH3QQA2UNEBZUH3FDJOZBJZSD35SQLOQITOPJ6CLEJXL2A7PAG3ZVASR2DCZZTQ====",
+      "start_latitude": 43.14945842139423,
+      "start_longitude": -77.52816989086568,
+      "end_latitude": 43.1484152097255,
+      "end_longitude": -77.52022828906775,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-11-21T22:55:44Z",
+      "updated_at": "2021-05-15T02:12:40Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s2791875",
+            "polyline": "asjfG`fexMC_@HqBAyABsCFuBL}Bt@yHzBeS",
+            "resource_state": 3
+      },
+      "effort_count": 4070,
+      "athlete_count": 543,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "30s",
+            "qom": "37s",
+            "destination": {
+                  "href": "strava://segments/2791875/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 205531,
+            "title": "Anthony Castiglia",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/205531/588259/1/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/2791875/local_legend?categories%5B%5D=overall"
+      }
 }

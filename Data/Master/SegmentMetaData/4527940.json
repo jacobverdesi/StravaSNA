@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4527940,
+      "resource_state": 3,
+      "name": "Ayrault Turk Hill east to Matthew (high pt.)",
+      "activity_type": "Ride",
+      "distance": 2070.3,
+      "average_grade": 0.5,
+      "maximum_grade": 14.4,
+      "elevation_high": 174.6,
+      "elevation_low": 151.3,
+      "start_latlng": [
+            43.079002,
+            -77.43216
+      ],
+      "end_latlng": [
+            43.079296,
+            -77.406737
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/25IZY7Q6756WGCD6RN2NSYMIAEFKWMOLAMW65QQCRQAFPJCS2M72YH3B6OIMHGZBMH45VMZJZZ4FT42EKB74E===",
+      "start_latitude": 43.079002,
+      "start_longitude": -77.43216,
+      "end_latitude": 43.079296,
+      "end_longitude": -77.406737,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-25T21:24:56Z",
+      "updated_at": "2021-05-18T08:03:08Z",
+      "total_elevation_gain": 40.5,
+      "map": {
+            "id": "s4527940",
+            "polyline": "wz|eG~mrwMBg@Cy@?m@ES?_CC}A@wGEcB?_AC_AAuBB}FCu@Bi@CcDDkACkBEu@Dk@Bu@C_JEiNWk_@GwSAgT",
+            "resource_state": 3
+      },
+      "effort_count": 937,
+      "athlete_count": 183,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:10",
+            "qom": "4:06",
+            "destination": {
+                  "href": "strava://segments/4527940/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 399187,
+            "title": "Sfs Gd",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4527940/local_legend?categories%5B%5D=overall"
+      }
 }

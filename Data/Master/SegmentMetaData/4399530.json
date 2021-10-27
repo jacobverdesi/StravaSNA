@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4399530,
+      "resource_state": 3,
+      "name": "Wilber Rd. to Plank Rd up Empire",
+      "activity_type": "Ride",
+      "distance": 1564.6,
+      "average_grade": 3.6,
+      "maximum_grade": 8.3,
+      "elevation_high": 144.4,
+      "elevation_low": 87.2,
+      "start_latlng": [
+            43.174956,
+            -77.520716
+      ],
+      "end_latlng": [
+            43.182257,
+            -77.507886
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FLIOQKOMFCQGHVNBWK64B3CPXFMPVSPHMG4ORT5BSARZ5UJNXKOECHXRRY6UEDHFMSFNMWJ4E3K7ZVJD22WQ====",
+      "start_latitude": 43.174956,
+      "start_longitude": -77.520716,
+      "end_latitude": 43.182257,
+      "end_longitude": -77.507886,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-13T15:19:28Z",
+      "updated_at": "2021-05-17T08:04:27Z",
+      "total_elevation_gain": 59.0,
+      "map": {
+            "id": "s4399530",
+            "polyline": "mrofGnwcxMjAkDh@}BRmAHw@NyBFeB?}@E_BIoAm@eHIi@g@qC{@uCWo@y@_Bq@aA}AaBkAy@uCaByAaAmCwAsDgB{FeCwCuA_EaB",
+            "resource_state": 3
+      },
+      "effort_count": 3991,
+      "athlete_count": 570,
+      "star_count": 13,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:01",
+            "qom": "4:12",
+            "destination": {
+                  "href": "strava://segments/4399530/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24499231,
+            "title": "Dalia Ghoneim",
+            "profile": "https://graph.facebook.com/1335166319939255/picture?height=256&width=256",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "16 efforts"
+            },
+            "destination": "strava://segments/4399530/local_legend?categories%5B%5D=overall"
+      }
 }

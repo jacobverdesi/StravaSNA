@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14447495,
+      "resource_state": 3,
+      "name": "Selborne Bottom to Top",
+      "activity_type": "Ride",
+      "distance": 2122.2,
+      "average_grade": 2.2,
+      "maximum_grade": 16.4,
+      "elevation_high": 250.2,
+      "elevation_low": 198.8,
+      "start_latlng": [
+            43.072307,
+            -77.456081
+      ],
+      "end_latlng": [
+            43.058681,
+            -77.45163
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/W2LDDOEB7GEOTLXPOH4FRXTH6DCWUYDPDSHP4LKXRLR5BDE7YTEDEJGHCK376XOLMWEJZUPRPMKKKUZ3PKVRU===",
+      "start_latitude": 43.072307,
+      "start_longitude": -77.456081,
+      "end_latitude": 43.058681,
+      "end_longitude": -77.45163,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-03-27T17:33:07Z",
+      "updated_at": "2021-05-15T02:19:07Z",
+      "total_elevation_gain": 64.2,
+      "map": {
+            "id": "s14447495",
+            "polyline": "{p{eGpcwwMJEXMPUFMNq@T}CNeAXeAHOTONERARBJDn@x@d@r@l@r@\\N^BVE\\UXa@j@iANONKPER?l@NR@R?\\KvAs@RG^?^D|D|@b@PrAv@^L`@H~@?TDVPZb@NL|@Kf@BRHZXPd@DZHtBLf@R^XV\\Lv@BfACb@O^c@Ri@Fo@Ac@Kq@Q]m@u@IOGUEq@@YDYVi@pAwBlCcFn@aAf@e@t@e@^Kj@IpDGlA@|@HtAV",
+            "resource_state": 3
+      },
+      "effort_count": 151,
+      "athlete_count": 46,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:11",
+            "qom": "6:51",
+            "destination": {
+                  "href": "strava://segments/14447495/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 89090574,
+            "title": "Angus Thompson",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/14447495/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1528425,
+      "resource_state": 3,
+      "name": "Dart to Province",
+      "activity_type": "Ride",
+      "distance": 1662.67,
+      "average_grade": -0.3,
+      "maximum_grade": 2.0,
+      "elevation_high": 165.6,
+      "elevation_low": 158.3,
+      "start_latlng": [
+            43.08428019754876,
+            -77.6759575121828
+      ],
+      "end_latlng": [
+            43.08668287009288,
+            -77.65732060193797
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IXAJFIEBQJPLADNNFLPOK4MO3W4MR6JNFHUOXLYWQTU7ESZNZTOZ2UBMD7RCUW7V5MTUEN3S7ZJGJ2FME6TQ====",
+      "start_latitude": 43.08428019754876,
+      "start_longitude": -77.6759575121828,
+      "end_latitude": 43.08668287009288,
+      "end_longitude": -77.65732060193797,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-06-08T17:22:57Z",
+      "updated_at": "2021-05-15T02:12:07Z",
+      "total_elevation_gain": 6.58007,
+      "map": {
+            "id": "s1528425",
+            "polyline": "w{}eGvabyMBg@AaBHw@]yA?UJk@Dm@Ae@@g@Eu@@s@H}AA_@@]QkCEaEQi@yCeC_@c@Gm@EuBQy@QqAa@m@Ys@@u@Hk@JeB[aASgAUaAHoADkA[aAq@yAQq@A{Bj@s@Hi@Bk@Lq@CwBK}@]y@\\iAHkCQs@IiAi@w@Ew@BaAQ{CBq@",
+            "resource_state": 3
+      },
+      "effort_count": 213,
+      "athlete_count": 37,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:44",
+            "qom": "3:54",
+            "destination": {
+                  "href": "strava://segments/1528425/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

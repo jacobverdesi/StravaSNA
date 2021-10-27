@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 29219443,
+      "resource_state": 3,
+      "name": "Canal Path @ Winton to FRES EB",
+      "activity_type": "Ride",
+      "distance": 757.1,
+      "average_grade": -0.8,
+      "maximum_grade": 1.1,
+      "elevation_high": 156.3,
+      "elevation_low": 149.1,
+      "start_latlng": [
+            43.099459,
+            -77.579029
+      ],
+      "end_latlng": [
+            43.099208,
+            -77.569736
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DMMJKSQ23M44EJI7E7HU4RL6DLQ6PAA5JGODAVUA5MSXF3VAAGI4QWXMLTNSGY5VBSBVX3CSL7KWAJH6Q22XO===",
+      "start_latitude": 43.099459,
+      "start_longitude": -77.579029,
+      "end_latitude": 43.099208,
+      "end_longitude": -77.569736,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-07-21T17:28:42Z",
+      "updated_at": "2021-07-21T17:28:42Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s29219443",
+            "polyline": "qz`fG|coxM\\yBDmATqAZeEWib@KwF",
+            "resource_state": 3
+      },
+      "effort_count": 456,
+      "athlete_count": 167,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:09",
+            "qom": "1:40",
+            "destination": {
+                  "href": "strava://segments/29219443/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 21281560,
+            "title": "Keith B",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/21281560/20580631/1/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/29219443/local_legend?categories%5B%5D=overall"
+      }
 }

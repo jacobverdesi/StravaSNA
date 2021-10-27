@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15399369,
+      "resource_state": 3,
+      "name": "* FULL CART *",
+      "activity_type": "Ride",
+      "distance": 2407.1,
+      "average_grade": -0.7,
+      "maximum_grade": 1.5,
+      "elevation_high": 162.1,
+      "elevation_low": 143.4,
+      "start_latlng": [
+            43.13017,
+            -77.400614
+      ],
+      "end_latlng": [
+            43.108896,
+            -77.402514
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KSJ2XALHNMHZFD4HW4T4BDHIOEUX52S5YSC6TSJVJGPPB7BFESRBFHHA22HL7EFII7NIX5RCHU4OM3ARJ7PQ====",
+      "start_latitude": 43.13017,
+      "start_longitude": -77.400614,
+      "end_latitude": 43.108896,
+      "end_longitude": -77.402514,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-07-11T18:55:52Z",
+      "updated_at": "2021-05-15T02:19:41Z",
+      "total_elevation_gain": 4.6,
+      "map": {
+            "id": "s15399369",
+            "polyline": "qzffGzhlwMbEMlEE~ECb@?rDExA@|@BlCE`B?^@`BJ|A^zAr@|@j@|CjChBhA\\P`@LpAZt@JdAHdC?~NMjSGbBCnD?hBA~BBlHC",
+            "resource_state": 3
+      },
+      "effort_count": 1068,
+      "athlete_count": 250,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:05",
+            "qom": "4:10",
+            "destination": {
+                  "href": "strava://segments/15399369/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 399187,
+            "title": "Sfs Gd",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/15399369/local_legend?categories%5B%5D=overall"
+      }
 }

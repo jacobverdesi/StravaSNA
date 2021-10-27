@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16616593,
+      "resource_state": 3,
+      "name": "El Camino trail North",
+      "activity_type": "Ride",
+      "distance": 2788.9,
+      "average_grade": -0.7,
+      "maximum_grade": 5.3,
+      "elevation_high": 147.0,
+      "elevation_low": 123.8,
+      "start_latlng": [
+            43.174781,
+            -77.618875
+      ],
+      "end_latlng": [
+            43.197597,
+            -77.617273
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/S5HDJ33JB6RBOKNAYFP7JT4736XEZJIRTLG72NSCJKOOCJPCLX5ISDDPMUMZKIS5IU5RJVVJ4EWNYIJ77NAAM===",
+      "start_latitude": 43.174781,
+      "start_longitude": -77.618875,
+      "end_latitude": 43.197597,
+      "end_longitude": -77.617273,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-12-07T07:17:37Z",
+      "updated_at": "2021-05-18T08:05:02Z",
+      "total_elevation_gain": 6.2,
+      "map": {
+            "id": "s16616593",
+            "polyline": "kqofG~|vxM[NgCDaFNcD^wA@cGRsA?sAFqACwAJwFLkAEa@Ga@Kk@UkBcAi@i@oBaBkAgAy@q@a@W[_@c@[OKe@Ee@@[EGy@Co@O}@Oc@e@[qBeA}@k@i@WoA_Ak@[_Ac@cAY{B]m@GeCMqGi@o@Ak@Dk@JiBr@_DjBkFrCkDzBg@JSJmA`Ae@Tc@F]Po@j@e@\\",
+            "resource_state": 3
+      },
+      "effort_count": 394,
+      "athlete_count": 104,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:48",
+            "qom": "6:33",
+            "destination": {
+                  "href": "strava://segments/16616593/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 78678100,
+            "title": "Lisa Norwood '86",
+            "profile": "https://graph.facebook.com/10160497050153238/picture?height=256&width=256",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/16616593/local_legend?categories%5B%5D=overall"
+      }
 }

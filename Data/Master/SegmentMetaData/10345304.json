@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10345304,
+      "resource_state": 3,
+      "name": "Traffic Circle Climb",
+      "activity_type": "Ride",
+      "distance": 86.7,
+      "average_grade": 5.2,
+      "maximum_grade": 5.2,
+      "elevation_high": 165.7,
+      "elevation_low": 161.2,
+      "start_latlng": [
+            43.128623,
+            -77.632965
+      ],
+      "end_latlng": [
+            43.127905,
+            -77.632603
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4DF3NAJ5MNS5VDO4CCYUU2NU2LHVPRCO3O5KPM7QO5IDVRJNV4QGX6KWUUH4TL7355ZHOUQLE3NFQSI7SMXT4===",
+      "start_latitude": 43.128623,
+      "start_longitude": -77.632965,
+      "end_latitude": 43.127905,
+      "end_longitude": -77.632603,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-08-29T14:02:53Z",
+      "updated_at": "2021-05-20T08:03:32Z",
+      "total_elevation_gain": 5.5,
+      "map": {
+            "id": "s10345304",
+            "polyline": "{pffG`uyxMvBk@V[",
+            "resource_state": 3
+      },
+      "effort_count": 18630,
+      "athlete_count": 3119,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5s",
+            "qom": "6s",
+            "destination": {
+                  "href": "strava://segments/10345304/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 624485,
+            "title": "Mike Milnikiewicz",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/624485/744543/1/large.jpg",
+            "effort_description": "35 efforts in the last 90 days",
+            "effort_count": "35",
+            "effort_counts": {
+                  "overall": "35 efforts",
+                  "female": "24 efforts"
+            },
+            "destination": "strava://segments/10345304/local_legend?categories%5B%5D=overall"
+      }
 }

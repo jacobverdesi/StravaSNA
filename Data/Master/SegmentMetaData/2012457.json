@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2012457,
+      "resource_state": 3,
+      "name": "Quick Clover Sprint",
+      "activity_type": "Ride",
+      "distance": 258.74,
+      "average_grade": 0.9,
+      "maximum_grade": 5.2,
+      "elevation_high": 170.8,
+      "elevation_low": 167.2,
+      "start_latlng": [
+            43.055646819993854,
+            -77.55942248739302
+      ],
+      "end_latlng": [
+            43.053906401619315,
+            -77.56144956685603
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MH5THDA6EB6WQAPZW23OS56BP7FPEYH7J3B46WT7HYFJ52H54PDRWE2SPMQZ526WCFQDS3K3VJ3UZXPUTCWQ====",
+      "start_latitude": 43.055646819993854,
+      "start_longitude": -77.55942248739302,
+      "end_latitude": 43.053906401619315,
+      "end_longitude": -77.56144956685603,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-08-07T00:26:48Z",
+      "updated_at": "2021-05-17T08:04:02Z",
+      "total_elevation_gain": 3.6,
+      "map": {
+            "id": "s2012457",
+            "polyline": "whxeGlikxMfFdGrBlC",
+            "resource_state": 3
+      },
+      "effort_count": 9438,
+      "athlete_count": 1228,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "11s",
+            "qom": "17s",
+            "destination": {
+                  "href": "strava://segments/2012457/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23357095,
+            "title": "Chuck Koffenberger",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/2012457/local_legend?categories%5B%5D=overall"
+      }
 }

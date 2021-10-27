@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 11989460,
+      "resource_state": 3,
+      "name": "east ave - goodman to alexander",
+      "activity_type": "Ride",
+      "distance": 508.2,
+      "average_grade": 0.6,
+      "maximum_grade": 1.9,
+      "elevation_high": 160.0,
+      "elevation_low": 156.5,
+      "start_latlng": [
+            43.153509,
+            -77.588254
+      ],
+      "end_latlng": [
+            43.154999,
+            -77.594148
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WLM4ZLNB4RPGZ5W2SZVKTGOADGZ63AYD7M6FYJVZGQRY5O7W3DTVEG5RF2ZXA6J7DHBF4BYQGGAYSJNQKDHIC===",
+      "start_latitude": 43.153509,
+      "start_longitude": -77.588254,
+      "end_latitude": 43.154999,
+      "end_longitude": -77.594148,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-05-04T16:54:55Z",
+      "updated_at": "2021-05-15T02:17:48Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s11989460",
+            "polyline": "klkfGr}pxMIv@EJI|@EJQhAMl@W~AEFYdBk@vDe@jC{@dGc@zB",
+            "resource_state": 3
+      },
+      "effort_count": 6764,
+      "athlete_count": 945,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "40s",
+            "qom": "40s",
+            "destination": {
+                  "href": "strava://segments/11989460/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 616390,
+            "title": "Daniel Fairbrother",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/616390/17921401/1/large.jpg",
+            "effort_description": "26 efforts in the last 90 days",
+            "effort_count": "26",
+            "effort_counts": {
+                  "overall": "26 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/11989460/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21980456,
+      "resource_state": 3,
+      "name": "Dash For Gates",
+      "activity_type": "Ride",
+      "distance": 435.9,
+      "average_grade": 1.1,
+      "maximum_grade": 4.6,
+      "elevation_high": 170.6,
+      "elevation_low": 164.2,
+      "start_latlng": [
+            43.186363,
+            -77.701329
+      ],
+      "end_latlng": [
+            43.182445,
+            -77.701715
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SXPYOYOBPUSFH25LU6JFV4VYV2CLCHMJGZYPKTATXJECYDDVXEU62VYCRZDKFB3QTV27QCYRGWRQUYQDGXBQ====",
+      "start_latitude": 43.186363,
+      "start_longitude": -77.701329,
+      "end_latitude": 43.182445,
+      "end_longitude": -77.701715,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-10-05T15:34:15Z",
+      "updated_at": "2021-05-20T08:05:16Z",
+      "total_elevation_gain": 6.4,
+      "map": {
+            "id": "s21980456",
+            "polyline": "wyqfGh`gyM~B`@tCVbAFdFHnE@",
+            "resource_state": 3
+      },
+      "effort_count": 1816,
+      "athlete_count": 297,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "37s",
+            "qom": "47s",
+            "destination": {
+                  "href": "strava://segments/21980456/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1388383,
+            "title": "Tyler Ekwell",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1388383/727838/4/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/21980456/local_legend?categories%5B%5D=overall"
+      }
 }

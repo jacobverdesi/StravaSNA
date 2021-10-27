@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7230301,
+      "resource_state": 3,
+      "name": "Hillside Ave to Prospect Ave Northbound Climb",
+      "activity_type": "Ride",
+      "distance": 193.8,
+      "average_grade": 1.5,
+      "maximum_grade": 13.2,
+      "elevation_high": 176.8,
+      "elevation_low": 169.6,
+      "start_latlng": [
+            43.131154,
+            -77.615867
+      ],
+      "end_latlng": [
+            43.132306,
+            -77.61459
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LJOQ5WI4YD33UCJ4PAPOSQIXUZIGF5WNXWQ4LIOF3R2ML7H3S32JFDKJ55CAN2VVUXIRIXAPGQMY5CTGCT7A====",
+      "start_latitude": 43.131154,
+      "start_longitude": -77.615867,
+      "end_latitude": 43.132306,
+      "end_longitude": -77.61459,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-17T18:15:36Z",
+      "updated_at": "2021-05-17T08:05:06Z",
+      "total_elevation_gain": 10.0,
+      "map": {
+            "id": "s7230301",
+            "polyline": "u`gfGdjvxMOEy@GQGOOk@y@w@]KIAI@q@Io@?I",
+            "resource_state": 3
+      },
+      "effort_count": 122,
+      "athlete_count": 38,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "31s",
+            "qom": "48s",
+            "destination": {
+                  "href": "strava://segments/7230301/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16841969,
+            "title": "Erin Berg",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/16841969/9767784/2/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7230301/local_legend?categories%5B%5D=overall"
+      }
 }

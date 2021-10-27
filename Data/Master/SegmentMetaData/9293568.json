@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9293568,
+      "resource_state": 3,
+      "name": "Brooks to Bull's Head",
+      "activity_type": "Ride",
+      "distance": 1965.1,
+      "average_grade": 0.3,
+      "maximum_grade": 2.3,
+      "elevation_high": 165.9,
+      "elevation_low": 159.7,
+      "start_latlng": [
+            43.131653,
+            -77.636016
+      ],
+      "end_latlng": [
+            43.149271,
+            -77.636074
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/S6V5RABXMKAZPPZSLL5RVHBQ2MMP7WOZWYUBRRU6FX5PDJ36LNZQNZFRO4DKHFQOVARAQWS2D2UXC4I72GOB2===",
+      "start_latitude": 43.131653,
+      "start_longitude": -77.636016,
+      "end_latitude": 43.149271,
+      "end_longitude": -77.636074,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-04-19T12:43:24Z",
+      "updated_at": "2021-05-15T02:16:17Z",
+      "total_elevation_gain": 8.2,
+      "map": {
+            "id": "s9293568",
+            "polyline": "ycgfGbhzxMoEAKKQAO@QJuk@@OSQBaAB_@AQLgs@J",
+            "resource_state": 3
+      },
+      "effort_count": 198,
+      "athlete_count": 51,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:53",
+            "qom": "4:50",
+            "destination": {
+                  "href": "strava://segments/9293568/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 87828363,
+            "title": "Riberet Almeida",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/87828363/21184382/1/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/9293568/local_legend?categories%5B%5D=overall"
+      }
 }

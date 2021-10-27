@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 29801647,
+      "resource_state": 3,
+      "name": "Whipple dirt",
+      "activity_type": "Ride",
+      "distance": 454.2,
+      "average_grade": -0.0,
+      "maximum_grade": 5.1,
+      "elevation_high": 152.8,
+      "elevation_low": 150.2,
+      "start_latlng": [
+            43.109381,
+            -77.640405
+      ],
+      "end_latlng": [
+            43.109403,
+            -77.64039
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LTUN4UUY6BD25IZ2HHEW6YCSLMH5P2Z6GQTAIBNTXNY2EDIQ6AQJORN3FFMQLWLHHWEZCXO7L23TPKEXTIF24===",
+      "start_latitude": 43.109381,
+      "start_longitude": -77.640405,
+      "end_latitude": 43.109403,
+      "end_longitude": -77.64039,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-09-09T23:31:19Z",
+      "updated_at": "2021-09-09T23:31:20Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s29801647",
+            "polyline": "sxbfGpc{xML[Ru@Ai@Ha@P_@BU?c@Ew@HsA@yA@OJWAGE@ARC|@Mf@?PFr@@ZW|A?n@e@~AIr@@H",
+            "resource_state": 3
+      },
+      "effort_count": 79,
+      "athlete_count": 27,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:42",
+            "qom": "1:42",
+            "destination": {
+                  "href": "strava://segments/29801647/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 67713836,
+            "title": "Alex Ferrante",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/67713836/20016765/1/large.jpg",
+            "effort_description": "33 efforts in the last 90 days",
+            "effort_count": "33",
+            "effort_counts": {
+                  "overall": "33 efforts",
+                  "female": "33 efforts"
+            },
+            "destination": "strava://segments/29801647/local_legend?categories%5B%5D=overall"
+      }
 }

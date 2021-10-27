@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12865087,
+      "resource_state": 3,
+      "name": "Middle to Martin UP",
+      "activity_type": "Ride",
+      "distance": 2584.5,
+      "average_grade": 0.6,
+      "maximum_grade": 8.2,
+      "elevation_high": 215.7,
+      "elevation_low": 194.4,
+      "start_latlng": [
+            43.003652,
+            -77.656967
+      ],
+      "end_latlng": [
+            43.025734,
+            -77.648213
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EZILFYBXT6MZUGDDBYNJAH4NNWVNOYL7M5NWI2MS2OI2U23H4UO3ZJAS56LYUJRR76NMVXRD472BHB27CYDA====",
+      "start_latitude": 43.003652,
+      "start_longitude": -77.656967,
+      "end_latitude": 43.025734,
+      "end_longitude": -77.648213,
+      "climb_category": 0,
+      "city": "Rush",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-08-10T19:00:01Z",
+      "updated_at": "2021-05-15T02:18:18Z",
+      "total_elevation_gain": 36.4,
+      "map": {
+            "id": "s12865087",
+            "polyline": "ycneG`k~xM[Ik@YKA[Sc@KSO]Oo@Qi@UYIsBeAMCy@YCEKAWKg@][IYOUE_@SUEQM_@Mm@YuAi@kBaAkA_@oB{@eD}Ae@YwCiAeAg@g@OwAu@a@Oa@S_@Me@W[Ku@a@w@S_@WmAa@[So@Sg@YsBy@e@Wu@YaAk@UEg@[qBu@_Ae@k@Oe@Qm@EyAWa@EK@YAg@Gi@Iu@GcCWwAGm@I_@AU@cC]I@oBYaBG}@McCSwAGeC[mCS",
+            "resource_state": 3
+      },
+      "effort_count": 599,
+      "athlete_count": 132,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:40",
+            "qom": "5:30",
+            "destination": {
+                  "href": "strava://segments/12865087/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3299172,
+            "title": "Matthew McNamara",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3299172/1069972/3/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/12865087/local_legend?categories%5B%5D=overall"
+      }
 }

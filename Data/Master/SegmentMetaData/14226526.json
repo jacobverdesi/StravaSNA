@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14226526,
+      "resource_state": 3,
+      "name": "* STRAIGHT TRAIL *",
+      "activity_type": "Ride",
+      "distance": 697.2,
+      "average_grade": 0.3,
+      "maximum_grade": 4.1,
+      "elevation_high": 150.4,
+      "elevation_low": 147.0,
+      "start_latlng": [
+            43.088062,
+            -77.385735
+      ],
+      "end_latlng": [
+            43.093592,
+            -77.387063
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XLWOIPDTIUV3EVFNHRCJJX26S4STOAWC246QNOVAFMNBB2MABFX4JTBL3PUAIIGTAF7Z32DKNALE3U6PFICA====",
+      "start_latitude": 43.088062,
+      "start_longitude": -77.385735,
+      "end_latitude": 43.093592,
+      "end_longitude": -77.387063,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-02-23T19:56:49Z",
+      "updated_at": "2021-05-15T02:19:00Z",
+      "total_elevation_gain": 3.4,
+      "map": {
+            "id": "s14226526",
+            "polyline": "ks~eGzkiwMQJU`@Eb@Ad@IV[NONYf@U?[Qg@I{@Bc@][IUNSBQUS?_@VaAT{BFWCe@OUAMDGFQf@WPmAA{ANUJY@]Ce@KO@KA",
+            "resource_state": 3
+      },
+      "effort_count": 295,
+      "athlete_count": 70,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:30",
+            "qom": "2:38",
+            "destination": {
+                  "href": "strava://segments/14226526/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 11391475,
+            "title": "Rick White",
+            "profile": "https://graph.facebook.com/10205611509273978/picture?height=256&width=256",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/14226526/local_legend?categories%5B%5D=overall"
+      }
 }

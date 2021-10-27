@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15283980,
+      "resource_state": 3,
+      "name": "* GOING TO COACH LILLY'S *",
+      "activity_type": "Ride",
+      "distance": 976.9,
+      "average_grade": -1.1,
+      "maximum_grade": 2.0,
+      "elevation_high": 192.4,
+      "elevation_low": 181.4,
+      "start_latlng": [
+            43.059865,
+            -77.53255
+      ],
+      "end_latlng": [
+            43.068241,
+            -77.529185
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KIYXT4JINSXDX7AN7KCPHLM74R3SJFATTIEWZDIF2E2ZV6E3GMY6YXX67QD7EDU4DSRHDT53PUWQ5565QC3A====",
+      "start_latitude": 43.059865,
+      "start_longitude": -77.53255,
+      "end_latitude": 43.068241,
+      "end_longitude": -77.529185,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-29T00:16:28Z",
+      "updated_at": "2021-05-18T08:04:51Z",
+      "total_elevation_gain": 3.8,
+      "map": {
+            "id": "s15283980",
+            "polyline": "ccyeGlafxMk]gMmBo@mHkC{@S{AIkC@",
+            "resource_state": 3
+      },
+      "effort_count": 6510,
+      "athlete_count": 836,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "52s",
+            "qom": "1:12",
+            "destination": {
+                  "href": "strava://segments/15283980/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 81303762,
+            "title": "Allan stern",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81303762/19605661/1/large.jpg",
+            "effort_description": "17 efforts in the last 90 days",
+            "effort_count": "17",
+            "effort_counts": {
+                  "overall": "17 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/15283980/local_legend?categories%5B%5D=overall"
+      }
 }

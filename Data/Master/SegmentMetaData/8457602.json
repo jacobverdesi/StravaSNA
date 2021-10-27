@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8457602,
+      "resource_state": 3,
+      "name": "* PEBBLE SPEEDWAY *",
+      "activity_type": "Ride",
+      "distance": 809.9,
+      "average_grade": -1.5,
+      "maximum_grade": 7.1,
+      "elevation_high": 158.6,
+      "elevation_low": 142.6,
+      "start_latlng": [
+            43.088131,
+            -77.431185
+      ],
+      "end_latlng": [
+            43.089568,
+            -77.422983
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PZDFZA7WZUCU5GCN5WY5MF4OX75XOYOISAGWWYCKJUXB4MVLDR5DYAVAO3LJGX6LNM3SCBZQ7RND4JYB6PUQ====",
+      "start_latitude": 43.088131,
+      "start_longitude": -77.431185,
+      "end_latitude": 43.089568,
+      "end_longitude": -77.422983,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-04T02:09:54Z",
+      "updated_at": "2021-05-15T02:15:49Z",
+      "total_elevation_gain": 9.2,
+      "map": {
+            "id": "s8457602",
+            "polyline": "ys~eG|grwMEwA@_KEeBSaEPyFBmHB{@@{ACu@I}AY]QCm@DwB?{@F",
+            "resource_state": 3
+      },
+      "effort_count": 100,
+      "athlete_count": 40,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:05",
+            "qom": "1:33",
+            "destination": {
+                  "href": "strava://segments/8457602/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 4981236,
+            "title": "Sky Kalkman",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/4981236/12705615/1/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/8457602/local_legend?categories%5B%5D=overall"
+      }
 }

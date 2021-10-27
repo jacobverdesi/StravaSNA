@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6964297,
+      "resource_state": 3,
+      "name": "Rainbow bridge",
+      "activity_type": "Ride",
+      "distance": 389.7,
+      "average_grade": 1.3,
+      "maximum_grade": 14.5,
+      "elevation_high": 167.5,
+      "elevation_low": 160.9,
+      "start_latlng": [
+            43.149465,
+            -77.671818
+      ],
+      "end_latlng": [
+            43.146603,
+            -77.67176
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LDNW5EHXBFTLEY6DVNX4CW6JOSUIAF5RKRZLZQ5VIHLKX22AKDD2BXXDXWCQ22XUETRBDF6XB6ROLJT3EK5A====",
+      "start_latitude": 43.149465,
+      "start_longitude": -77.671818,
+      "end_latitude": 43.146603,
+      "end_longitude": -77.67176,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-04-07T00:45:11Z",
+      "updated_at": "2021-05-20T08:02:55Z",
+      "total_elevation_gain": 9.5,
+      "map": {
+            "id": "s6964297",
+            "polyline": "csjfGzgayMx@Yj@MdBCdBg@b@IP?NBPNJTHj@Bj@Hd@RTL@VIlAwADI",
+            "resource_state": 3
+      },
+      "effort_count": 10814,
+      "athlete_count": 2982,
+      "star_count": 17,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "32s",
+            "qom": "45s",
+            "destination": {
+                  "href": "strava://segments/6964297/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2055069,
+            "title": "Brad Paul",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2055069/20073863/1/large.jpg",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/6964297/local_legend?categories%5B%5D=overall"
+      }
 }

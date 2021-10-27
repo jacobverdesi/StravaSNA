@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7537073,
+      "resource_state": 3,
+      "name": "Bay East DH A",
+      "activity_type": "Ride",
+      "distance": 703.8,
+      "average_grade": -2.5,
+      "maximum_grade": 41.4,
+      "elevation_high": 99.0,
+      "elevation_low": 75.4,
+      "start_latlng": [
+            43.160558,
+            -77.519599
+      ],
+      "end_latlng": [
+            43.164891,
+            -77.522801
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7RP6RWQUFG5BYWNOBGCYMBNMRC3E6ZZX72UDBM4KDQQ3MUYKGZTSAXJ55CLYFZEP42RB7QY7ZFVFGWFT532Q====",
+      "start_latitude": 43.160558,
+      "start_longitude": -77.519599,
+      "end_latitude": 43.164891,
+      "end_longitude": -77.522801,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-29T17:08:21Z",
+      "updated_at": "2021-05-20T08:03:03Z",
+      "total_elevation_gain": 22.6,
+      "map": {
+            "id": "s7537073",
+            "polyline": "mxlfGnpcxMCK@GGCISeB]@@EBo@C_@J[Xc@BGDUPGJQ`@STm@RY@KECBEAq@d@BIEOC?[PYd@WZGDE?OGWPWDG?EKAJU\\]fA[b@YlAS^E\\KTGRGJBHKJBDGJ?PYx@IDFI",
+            "resource_state": 3
+      },
+      "effort_count": 3983,
+      "athlete_count": 357,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:03",
+            "qom": "3:28",
+            "destination": {
+                  "href": "strava://segments/7537073/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1334463,
+            "title": "Er\u2699\ufe0fc W\u2699\ufe0flters",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1334463/19430522/7/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7537073/local_legend?categories%5B%5D=overall"
+      }
 }

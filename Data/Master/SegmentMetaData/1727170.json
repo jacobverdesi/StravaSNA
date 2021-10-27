@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1727170,
+      "resource_state": 3,
+      "name": "la muerte de la colina",
+      "activity_type": "Ride",
+      "distance": 480.08,
+      "average_grade": 8.0,
+      "maximum_grade": 22.8,
+      "elevation_high": 120.7,
+      "elevation_low": 82.1,
+      "start_latlng": [
+            43.194888252805164,
+            -77.53463041044542
+      ],
+      "end_latlng": [
+            43.19501155060082,
+            -77.5401415117807
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TJEJA4F33WFIDGV6B4GTFXN2YT2PCVUWBNC5SSDDJ3FDNSZV3HV363BRHPMUZ4ZNE3VJ3JX5FG4SKVGFSFOA====",
+      "start_latitude": 43.194888252805164,
+      "start_longitude": -77.53463041044542,
+      "end_latitude": 43.19501155060082,
+      "end_longitude": -77.5401415117807,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-11T01:21:52Z",
+      "updated_at": "2021-05-15T08:02:44Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s1727170",
+            "polyline": "_osfGnnfxMYHILEj@@f@Ff@CrCM`BEBIJ@JHL@LAh@CNGD@JDFGXH|@H^@j@JnA?JGDFdBDjE",
+            "resource_state": 3
+      },
+      "effort_count": 2479,
+      "athlete_count": 372,
+      "star_count": 16,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:01",
+            "qom": "1:46",
+            "destination": {
+                  "href": "strava://segments/1727170/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 44854743,
+            "title": "Matthew Quinlan",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/44854743/17385927/1/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/1727170/local_legend?categories%5B%5D=overall"
+      }
 }

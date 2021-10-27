@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10186684,
+      "resource_state": 3,
+      "name": "Pinnacle Rd (Princess - Bradford)",
+      "activity_type": "Ride",
+      "distance": 3943.1,
+      "average_grade": 1.0,
+      "maximum_grade": 9.1,
+      "elevation_high": 195.6,
+      "elevation_low": 153.2,
+      "start_latlng": [
+            43.0744,
+            -77.585156
+      ],
+      "end_latlng": [
+            43.041152,
+            -77.602712
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TOGYSZDX6U6MJ5GUKC3NYARSNELOXR6FWP7GSOXTPIR6VXRKQLLKVYSGBKRPAEX4GILTH5XTFGZ6N3UD4U5Q====",
+      "start_latitude": 43.0744,
+      "start_longitude": -77.585156,
+      "end_latitude": 43.041152,
+      "end_longitude": -77.602712,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-08-11T02:07:51Z",
+      "updated_at": "2021-05-18T08:04:04Z",
+      "total_elevation_gain": 42.4,
+      "map": {
+            "id": "s10186684",
+            "polyline": "_~{eGfjpxMtDdBnSxI|FjCn@\\|CpAp@Tl_@|O`GdCbDzA|CrAVN~IxDhC~@pF|BbQtHdf@jSlNnGvQvH",
+            "resource_state": 3
+      },
+      "effort_count": 2231,
+      "athlete_count": 301,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "6:22",
+            "qom": "6:49",
+            "destination": {
+                  "href": "strava://segments/10186684/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 770315,
+            "title": "Dean Sherwood",
+            "profile": "https://graph.facebook.com/10204641242379360/picture?height=256&width=256",
+            "effort_description": "43 efforts in the last 90 days",
+            "effort_count": "43",
+            "effort_counts": {
+                  "overall": "43 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/10186684/local_legend?categories%5B%5D=overall"
+      }
 }

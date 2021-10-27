@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 11383421,
+      "resource_state": 3,
+      "name": "Evan's Farm CW",
+      "activity_type": "Ride",
+      "distance": 1851.1,
+      "average_grade": 0.1,
+      "maximum_grade": 9.5,
+      "elevation_high": 140.2,
+      "elevation_low": 131.4,
+      "start_latlng": [
+            43.109616,
+            -77.56648
+      ],
+      "end_latlng": [
+            43.109593,
+            -77.566513
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/Y6W6EAEQBAJN6TKQ27AZBE2ZZNJTDHEGEROK5AB6DWPHXBYZVJCN2KE7JBK3THEYOHJIYT7DFBFRZP4VMMPQ====",
+      "start_latitude": 43.109616,
+      "start_longitude": -77.56648,
+      "end_latitude": 43.109593,
+      "end_longitude": -77.566513,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-02-14T15:09:32Z",
+      "updated_at": "2021-05-15T02:17:29Z",
+      "total_elevation_gain": 12.6,
+      "map": {
+            "id": "s11383421",
+            "polyline": "azbfGnulxM`@^\\f@^zA@LNfKEjBOX[CGEcHaD{Aw@_AiAWg@OG}AF{@Q}@e@aHyCeAs@_@m@_@mAGiADmADY|@kDb@{BJQFCPBfHdDfD`Bz@f@j@d@l@lA`@Rl@Ez@?NBd@N~BdA",
+            "resource_state": 3
+      },
+      "effort_count": 61,
+      "athlete_count": 10,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:05",
+            "qom": "6:13",
+            "destination": {
+                  "href": "strava://segments/11383421/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62064189,
+            "title": "Charles Turner",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/11383421/local_legend?categories%5B%5D=overall"
+      }
 }

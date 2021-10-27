@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 865447,
+      "resource_state": 3,
+      "name": "East River Trio O' Hills Northbound",
+      "activity_type": "Ride",
+      "distance": 2394.04,
+      "average_grade": -0.0,
+      "maximum_grade": 8.8,
+      "elevation_high": 191.3,
+      "elevation_low": 159.8,
+      "start_latlng": [
+            43.044711,
+            -77.695169
+      ],
+      "end_latlng": [
+            43.065542,
+            -77.689296
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/76YPKALH2BAPX6ZF6M6FXY3CO2QHZVZ4VGU2R6P47NWBCORYUESENA4JKTNE22TGEPLLVL23WUKZGNFOLFMJE===",
+      "start_latitude": 43.044711,
+      "start_longitude": -77.695169,
+      "end_latitude": 43.065542,
+      "end_longitude": -77.689296,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2011-12-20T16:33:09Z",
+      "updated_at": "2021-05-15T08:02:36Z",
+      "total_elevation_gain": 50.667,
+      "map": {
+            "id": "s865447",
+            "polyline": "mdveGxyeyM{LwD_Ba@a@QwC_AwGoB_Ba@}CmAeLiDgLsDsHyBaA]cASiDmA}C_A{Bk@_AM}@@s\\x@{AJ",
+            "resource_state": 3
+      },
+      "effort_count": 2345,
+      "athlete_count": 533,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:01",
+            "qom": "4:02",
+            "destination": {
+                  "href": "strava://segments/865447/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5031574,
+            "title": "Jeff Parrish",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5031574/2928002/2/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/865447/local_legend?categories%5B%5D=overall"
+      }
 }

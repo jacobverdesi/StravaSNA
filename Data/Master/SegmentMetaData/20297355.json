@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20297355,
+      "resource_state": 3,
+      "name": "Westfall - Clinton to E Hen",
+      "activity_type": "Ride",
+      "distance": 1486.5,
+      "average_grade": 0.7,
+      "maximum_grade": 11.8,
+      "elevation_high": 206.4,
+      "elevation_low": 184.2,
+      "start_latlng": [
+            43.115438,
+            -77.597364
+      ],
+      "end_latlng": [
+            43.114786,
+            -77.615556
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HFB7ZDGCPJ7C7DMIJPCOT7S7CKGLHDFSTKLS6YZUBQOCOIQUQRLGSBOM4UNC2GCRI6Q4EO2Y2EIG7YTOA7H4I===",
+      "start_latitude": 43.115438,
+      "start_longitude": -77.597364,
+      "end_latitude": 43.114786,
+      "end_longitude": -77.615556,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-04-13T00:30:34Z",
+      "updated_at": "2021-05-15T02:22:55Z",
+      "total_elevation_gain": 22.2,
+      "map": {
+            "id": "s20297355",
+            "polyline": "m~cfGpvrxMLnLPvHTnPAxBD`D^|TBhDJfILjGBlGFtAFnDAd@CHAAAB",
+            "resource_state": 3
+      },
+      "effort_count": 1182,
+      "athlete_count": 304,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:18",
+            "qom": "2:47",
+            "destination": {
+                  "href": "strava://segments/20297355/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 42373597,
+            "title": "Ben Turiano",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GhertBqsWXO0zkk1lsc21mZKCqXCxCz32C6n4osoNg=s96-c",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/20297355/local_legend?categories%5B%5D=overall"
+      }
 }

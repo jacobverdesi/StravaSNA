@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24634804,
+      "resource_state": 3,
+      "name": "Penhurst uphill",
+      "activity_type": "Ride",
+      "distance": 418.1,
+      "average_grade": 1.5,
+      "maximum_grade": 4.0,
+      "elevation_high": 140.6,
+      "elevation_low": 134.1,
+      "start_latlng": [
+            43.138678,
+            -77.530763
+      ],
+      "end_latlng": [
+            43.140997,
+            -77.534681
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SJYWLOHV7LLSPRU2TFPNQF4WWVJHQ7ZSIDWLQUKYQDWZ5AG5HTALREQZ6UNGAJGUZTJFTCIRKI7C2YZJ3V726===",
+      "start_latitude": 43.138678,
+      "start_longitude": -77.530763,
+      "end_latitude": 43.140997,
+      "end_longitude": -77.534681,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-06-26T00:16:40Z",
+      "updated_at": "2021-05-15T02:24:54Z",
+      "total_elevation_gain": 6.5,
+      "map": {
+            "id": "s24634804",
+            "polyline": "uohfGhvexMAt@Cb@ENQZu@x@m@v@_BvCeA~Ae@bAg@x@_AvBYh@",
+            "resource_state": 3
+      },
+      "effort_count": 1831,
+      "athlete_count": 234,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "39s",
+            "qom": "46s",
+            "destination": {
+                  "href": "strava://segments/24634804/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23776293,
+            "title": "Bill Beyerbach",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/23776293/16685850/1/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/24634804/local_legend?categories%5B%5D=overall"
+      }
 }

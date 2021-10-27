@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1363719,
+      "resource_state": 3,
+      "name": "Railroad Mills Hill",
+      "activity_type": "Ride",
+      "distance": 698.893,
+      "average_grade": 5.1,
+      "maximum_grade": 25.1,
+      "elevation_high": 179.3,
+      "elevation_low": 136.4,
+      "start_latlng": [
+            43.026849952569286,
+            -77.48214414831946
+      ],
+      "end_latlng": [
+            43.02732711267148,
+            -77.47460752171142
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZNZMRLHRCAKAGSQUHPSBYGO4HTPWYB5Z36PTL6RZI624K4XSITENHY7KZGQ6YFPGIR6TYFQGPTBJ773RSD42M===",
+      "start_latitude": 43.026849952569286,
+      "start_longitude": -77.48214414831946,
+      "end_latitude": 43.02732711267148,
+      "end_longitude": -77.47460752171142,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-11T17:48:57Z",
+      "updated_at": "2021-05-19T08:02:02Z",
+      "total_elevation_gain": 42.8746,
+      "map": {
+            "id": "s1363719",
+            "polyline": "ytreGlf|wMB{@IiAQcAs@_CUi@uA}CiAqCWw@MeAEcAAgA@g@R{@b@_A^_Af@s@LeA@y@PiBZa@PQ",
+            "resource_state": 3
+      },
+      "effort_count": 1806,
+      "athlete_count": 305,
+      "star_count": 11,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "59s",
+            "qom": "1:42",
+            "destination": {
+                  "href": "strava://segments/1363719/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 11816131,
+            "title": "Mark Stone",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/11816131/3585035/1/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/1363719/local_legend?categories%5B%5D=overall"
+      }
 }

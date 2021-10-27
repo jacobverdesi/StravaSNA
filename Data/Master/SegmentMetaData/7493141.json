@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7493141,
+      "resource_state": 3,
+      "name": "The Flats",
+      "activity_type": "Ride",
+      "distance": 474.3,
+      "average_grade": -5.0,
+      "maximum_grade": 8.4,
+      "elevation_high": 125.9,
+      "elevation_low": 100.5,
+      "start_latlng": [
+            43.164336,
+            -77.53818
+      ],
+      "end_latlng": [
+            43.161075,
+            -77.537361
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IO7APWOPRIGANETOYI6KUNCGF7UIPY5WD2KDEOZKIIFA3WX3VPFPQ7A4XLCZ3URA7OAPN6OHAJ7MRDZSERIQ====",
+      "start_latitude": 43.164336,
+      "start_longitude": -77.53818,
+      "end_latitude": 43.161075,
+      "end_longitude": -77.537361,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-23T11:09:33Z",
+      "updated_at": "2021-05-17T08:05:10Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s7493141",
+            "polyline": "apmfGrdgxMIKAONQBKRGDSNAj@DP?\\\\RDPGRMTYHCL?HKXd@j@XXTPJRRP?|AQBBHBh@O`AGHKAy@Nc@?WBE",
+            "resource_state": 3
+      },
+      "effort_count": 6362,
+      "athlete_count": 680,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:14",
+            "qom": "1:51",
+            "destination": {
+                  "href": "strava://segments/7493141/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1334463,
+            "title": "Er\u2699\ufe0fc W\u2699\ufe0flters",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1334463/19430522/7/large.jpg",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/7493141/local_legend?categories%5B%5D=overall"
+      }
 }

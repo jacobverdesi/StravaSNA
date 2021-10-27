@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1739291,
+      "resource_state": 3,
+      "name": "South Clinton - Pinnacle Hill Climb",
+      "activity_type": "Ride",
+      "distance": 1024.02,
+      "average_grade": 1.7,
+      "maximum_grade": 13.6,
+      "elevation_high": 177.0,
+      "elevation_low": 155.3,
+      "start_latlng": [
+            43.12575829685025,
+            -77.5927848090209
+      ],
+      "end_latlng": [
+            43.1343653798505,
+            -77.59133080027773
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GXZCAWDXLMTAAKIYFVT7JQKVMQIIVSMO54JV5PKETULJN3E5KDP7BMK3IJ3E7IX3CNQ5R6GFINDQPSZFIAHA2===",
+      "start_latitude": 43.12575829685025,
+      "start_longitude": -77.5927848090209,
+      "end_latitude": 43.1343653798505,
+      "end_longitude": -77.59133080027773,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-13T02:43:13Z",
+      "updated_at": "2021-05-15T02:12:14Z",
+      "total_elevation_gain": 21.6905,
+      "map": {
+            "id": "s1739291",
+            "polyline": "}~efG|yqxM}@e@}@Y]S{@Q[Si@UY?IKWMi@KaBy@a@A]SSEgA_@]SaAW]S]Me@KSSOGQBYI[[i@Ya@B_@M{@QQDOGK?]I]EW@a@Hg@G_@?[B[Je@Tg@`@}@f@eAXcAp@i@h@",
+            "resource_state": 3
+      },
+      "effort_count": 1740,
+      "athlete_count": 416,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:27",
+            "qom": "1:17",
+            "destination": {
+                  "href": "strava://segments/1739291/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 40550829,
+            "title": "Dan Cleary",
+            "profile": "https://graph.facebook.com/3053457078005193/picture?height=256&width=256",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1739291/local_legend?categories%5B%5D=overall"
+      }
 }

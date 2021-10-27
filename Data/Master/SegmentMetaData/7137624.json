@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7137624,
+      "resource_state": 3,
+      "name": "Edgewood North, French to Westfall",
+      "activity_type": "Ride",
+      "distance": 2021.9,
+      "average_grade": 0.3,
+      "maximum_grade": 4.1,
+      "elevation_high": 146.6,
+      "elevation_low": 140.4,
+      "start_latlng": [
+            43.099458,
+            -77.5665
+      ],
+      "end_latlng": [
+            43.116347,
+            -77.557335
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GDAHEAUODEH45NMWU7736QQFECMJ7U6N3TKDTTCV3PHLDMJBP4X7LRSBPEAEIAI5NWXZJPNFX7VD2NIYIJ4MY===",
+      "start_latitude": 43.099458,
+      "start_longitude": -77.5665,
+      "end_latitude": 43.116347,
+      "end_longitude": -77.557335,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-03T20:46:58Z",
+      "updated_at": "2021-05-20T08:02:58Z",
+      "total_elevation_gain": 6.2,
+      "map": {
+            "id": "s7137624",
+            "polyline": "qz`fGtulxMiM}FqF{B_YeMeMoFqLmFyLuFcFwB_H}C",
+            "resource_state": 3
+      },
+      "effort_count": 4191,
+      "athlete_count": 531,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:37",
+            "qom": "3:26",
+            "destination": {
+                  "href": "strava://segments/7137624/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3068486,
+            "title": "John Osburg",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3068486/3023806/1/large.jpg",
+            "effort_description": "28 efforts in the last 90 days",
+            "effort_count": "28",
+            "effort_counts": {
+                  "overall": "28 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/7137624/local_legend?categories%5B%5D=overall"
+      }
 }

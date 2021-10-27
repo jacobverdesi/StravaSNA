@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7342791,
+      "resource_state": 3,
+      "name": "Reeves Road Run into the West",
+      "activity_type": "Ride",
+      "distance": 2247.7,
+      "average_grade": -0.4,
+      "maximum_grade": 6.2,
+      "elevation_high": 207.3,
+      "elevation_low": 192.0,
+      "start_latlng": [
+            43.04479,
+            -77.570312
+      ],
+      "end_latlng": [
+            43.045693,
+            -77.596821
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UE4E6CW45IPRYWIZD3V6XFXLTSE6OFSTQHXFMJKK4MMODI64XSCPBPJ4Z6V4UPJPUJZGWGAWA6LQLGM6PJFA====",
+      "start_latitude": 43.04479,
+      "start_longitude": -77.570312,
+      "end_latitude": 43.045693,
+      "end_longitude": -77.596821,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-02T12:58:33Z",
+      "updated_at": "2021-05-20T08:03:00Z",
+      "total_elevation_gain": 20.9,
+      "map": {
+            "id": "s7342791",
+            "polyline": "}dveGnmmxMHRIGOv@mCpGy@tBSr@]bB[xBM|AEpBAnOBhJRzAv@bEF`AA_@DpCb@laAFjZ",
+            "resource_state": 3
+      },
+      "effort_count": 1106,
+      "athlete_count": 217,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:59",
+            "qom": "3:55",
+            "destination": {
+                  "href": "strava://segments/7342791/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 49526160,
+            "title": "Kash Midhra",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/7342791/local_legend?categories%5B%5D=overall"
+      }
 }

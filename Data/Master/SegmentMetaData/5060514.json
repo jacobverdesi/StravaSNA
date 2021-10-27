@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5060514,
+      "resource_state": 3,
+      "name": "Bike Path South Parkway to English Road",
+      "activity_type": "Ride",
+      "distance": 3427.1,
+      "average_grade": 0.8,
+      "maximum_grade": 4.9,
+      "elevation_high": 106.9,
+      "elevation_low": 75.6,
+      "start_latlng": [
+            43.267056,
+            -77.666029
+      ],
+      "end_latlng": [
+            43.238331,
+            -77.673571
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/F3WIS6NWHVGEFXDMSNMXQ7JXKTBPK4X4DUY5UNNVPUZRIFGXYR6KMTQBMUB7AR4MA5HU5S27XXCZ3DS6VYVUG===",
+      "start_latitude": 43.267056,
+      "start_longitude": -77.666029,
+      "end_latitude": 43.238331,
+      "end_longitude": -77.673571,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-08-10T14:03:32Z",
+      "updated_at": "2021-05-15T02:13:44Z",
+      "total_elevation_gain": 40.5,
+      "map": {
+            "id": "s5060514",
+            "polyline": "aragGtc`yMxHzDbAb@pBn@jB`@pBXnBRlBLdADjA]pBIh@?t@H~@l@~ECpCGpB?h@AzHDxAJbFt@\\FlAb@lBj@`ANf@Ep@NjB]lBGnBAdFBdEIfHG|BHtECvABtATxC\\lBZhBf@lBp@jBz@nEpCfBf@z@@lBt@h@^n@bAJHb@l@j@jE?rCDj@V]",
+            "resource_state": 3
+      },
+      "effort_count": 1110,
+      "athlete_count": 387,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "6:51",
+            "qom": "9:06",
+            "destination": {
+                  "href": "strava://segments/5060514/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 15211519,
+            "title": "Brian Hahn \u24cb",
+            "profile": "https://graph.facebook.com/10101712137045675/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/5060514/local_legend?categories%5B%5D=overall"
+      }
 }

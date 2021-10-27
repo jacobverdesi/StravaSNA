@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21486932,
+      "resource_state": 3,
+      "name": "Edgewood north to the Canal",
+      "activity_type": "Ride",
+      "distance": 886.3,
+      "average_grade": -1.6,
+      "maximum_grade": 1.8,
+      "elevation_high": 171.4,
+      "elevation_low": 156.2,
+      "start_latlng": [
+            43.087743,
+            -77.57302
+      ],
+      "end_latlng": [
+            43.095135,
+            -77.568925
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7TNTNGSZBZM5JVHV6GXGIBC3ARQ2PZR3PF552GN2UEQKQ3SEX7TSWQICK7FBX3B5E3VLXBH4DMNO6GWQGLVSE===",
+      "start_latitude": 43.087743,
+      "start_longitude": -77.57302,
+      "end_latitude": 43.095135,
+      "end_longitude": -77.568925,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-08-15T18:30:45Z",
+      "updated_at": "2021-05-20T08:05:13Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s21486932",
+            "polyline": "kq~eGj~mxMem@qX",
+            "resource_state": 3
+      },
+      "effort_count": 1716,
+      "athlete_count": 326,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:02",
+            "qom": "1:16",
+            "destination": {
+                  "href": "strava://segments/21486932/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62680199,
+            "title": "Ken Smoker",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/62680199/16388405/2/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/21486932/local_legend?categories%5B%5D=overall"
+      }
 }

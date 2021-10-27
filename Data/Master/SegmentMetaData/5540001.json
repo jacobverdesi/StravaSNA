@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5540001,
+      "resource_state": 3,
+      "name": "Canal Path Curve",
+      "activity_type": "Ride",
+      "distance": 1413.3,
+      "average_grade": 0.0,
+      "maximum_grade": 1.2,
+      "elevation_high": 141.8,
+      "elevation_low": 140.7,
+      "start_latlng": [
+            43.102613,
+            -77.442865
+      ],
+      "end_latlng": [
+            43.100242,
+            -77.456388
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WVO4ZDX4CWLFJRL67JIF6CSBIUAIQLBRAJMQDITAI3XDTZ25S4QCAWYYGIT2OZYP7GXOEFXSLPJL33B6M3UJY===",
+      "start_latitude": 43.102613,
+      "start_longitude": -77.442865,
+      "end_latitude": 43.100242,
+      "end_longitude": -77.456388,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-19T16:28:24Z",
+      "updated_at": "2021-05-20T08:02:44Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s5540001",
+            "polyline": "inafG|ptwMs@hBqCdEiApB{@vB_@rA]vBOxAMdC?pBFlBR`CHt@nDfSn@|Bj@dBz@tAv@fAzA|AhA`A~@p@dBx@n@JVAv@FNH",
+            "resource_state": 3
+      },
+      "effort_count": 13731,
+      "athlete_count": 2440,
+      "star_count": 19,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:03",
+            "qom": "2:41",
+            "destination": {
+                  "href": "strava://segments/5540001/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2054323,
+            "title": "Art Weinstein",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2054323/687738/1/large.jpg",
+            "effort_description": "33 efforts in the last 90 days",
+            "effort_count": "33",
+            "effort_counts": {
+                  "overall": "33 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/5540001/local_legend?categories%5B%5D=overall"
+      }
 }

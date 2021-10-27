@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 22179341,
+      "resource_state": 3,
+      "name": "Elmwood Westfall Connector (SB)",
+      "activity_type": "Ride",
+      "distance": 1560.0,
+      "average_grade": -0.1,
+      "maximum_grade": 7.6,
+      "elevation_high": 158.7,
+      "elevation_low": 155.9,
+      "start_latlng": [
+            43.124934,
+            -77.603917
+      ],
+      "end_latlng": [
+            43.115298,
+            -77.603656
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7I3EW3LSUH6TDO2QOYI7EXTXO67UZXJSA3TRJRNWBR4VX6WCANVFOOPZ5EJ2WKDCVU2IAENVH2S5VYOFG5CRK===",
+      "start_latitude": 43.124934,
+      "start_longitude": -77.603917,
+      "end_latitude": 43.115298,
+      "end_longitude": -77.603656,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-10-30T14:47:55Z",
+      "updated_at": "2021-05-18T08:05:48Z",
+      "total_elevation_gain": 2.1,
+      "map": {
+            "id": "s22179341",
+            "polyline": "yyefGn_txMFBL@\\TjA\\LFr@Fj@Ld@PP?]TBLNJ^LPA?HfBHEJDBj@ZFHd@PHFBF`@LDF|@Lj@RJ@EC?KDKAQCMMWEs@FWCWBOGY?k@EBD_@Ac@Hq@FKFAHL~@f@XFl@HN@b@MLSFu@Tq@DQFyACWKc@EWBc@x@uApA_@V?PGH?JCFDL?BHH?FDFNXFTLd@HHJZHJPvA`@FDLVJGPDNLZBNFLDD?Tj@HIHBH?@Kp@`@NBTVDEd@XNRt@NT@\\XRDNLF?JJ?NNJ",
+            "resource_state": 3
+      },
+      "effort_count": 392,
+      "athlete_count": 122,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:52",
+            "qom": "3:39",
+            "destination": {
+                  "href": "strava://segments/22179341/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 33393913,
+            "title": "David K\u00e4ppynen",
+            "profile": "https://graph.facebook.com/10113187676212974/picture?height=256&width=256",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/22179341/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15501865,
+      "resource_state": 3,
+      "name": "Canal to French gate corrected",
+      "activity_type": "Ride",
+      "distance": 1037.6,
+      "average_grade": 0.0,
+      "maximum_grade": 0.0,
+      "elevation_high": 133.2,
+      "elevation_low": 133.2,
+      "start_latlng": [
+            43.091148,
+            -77.538693
+      ],
+      "end_latlng": [
+            43.099912,
+            -77.542026
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5WNQSWNMLKX6KE3O2OZEOOZUOMPTKKBW7RNGGQUZGXHFPX7VSJUTJECI2776SLXNCIXCNXSAZPVVYSHWRGE5O===",
+      "start_latitude": 43.091148,
+      "start_longitude": -77.538693,
+      "end_latitude": 43.099912,
+      "end_longitude": -77.542026,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-07-22T15:43:12Z",
+      "updated_at": "2021-05-20T08:04:19Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s15501865",
+            "polyline": "sf_fGzggxMk@pAe@v@eArA]\\eAn@gBdAe@LqBZqFl@e@DcNbBo@TuAT{C`@iADe@AoAR",
+            "resource_state": 3
+      },
+      "effort_count": 2010,
+      "athlete_count": 442,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:34",
+            "qom": "2:04",
+            "destination": {
+                  "href": "strava://segments/15501865/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 67713836,
+            "title": "Alex Ferrante",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/67713836/20016765/1/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/15501865/local_legend?categories%5B%5D=overall"
+      }
 }

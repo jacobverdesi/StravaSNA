@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9969156,
+      "resource_state": 3,
+      "name": "Howard Buffalo to 490 Overpass",
+      "activity_type": "Ride",
+      "distance": 770.2,
+      "average_grade": -0.4,
+      "maximum_grade": 2.5,
+      "elevation_high": 164.4,
+      "elevation_low": 157.8,
+      "start_latlng": [
+            43.150361,
+            -77.690968
+      ],
+      "end_latlng": [
+            43.157285,
+            -77.691015
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2EWLXHLZIFB6LFLI5VLPFBPQZ4WUD6JFLY5OKVWAJHDRIZMBRY4N23CBIE5KJTZ2KKC76H6WG3DBE5G4XBZQ====",
+      "start_latitude": 43.150361,
+      "start_longitude": -77.690968,
+      "end_latitude": 43.157285,
+      "end_longitude": -77.691015,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-07-16T12:06:47Z",
+      "updated_at": "2021-05-20T08:03:28Z",
+      "total_elevation_gain": 5.0,
+      "map": {
+            "id": "s9969156",
+            "polyline": "wxjfGp_eyMEEi@Cwh@R",
+            "resource_state": 3
+      },
+      "effort_count": 972,
+      "athlete_count": 136,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "58s",
+            "qom": "1:20",
+            "destination": {
+                  "href": "strava://segments/9969156/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14937577,
+            "title": "Nick \ud83d\udeb2 Kane",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/14937577/4223526/11/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9969156/local_legend?categories%5B%5D=overall"
+      }
 }

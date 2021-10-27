@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3811791,
+      "resource_state": 3,
+      "name": "State-Plank-Jackson",
+      "activity_type": "Ride",
+      "distance": 7772.41,
+      "average_grade": 0.0,
+      "maximum_grade": 4.4,
+      "elevation_high": 157.2,
+      "elevation_low": 144.4,
+      "start_latlng": [
+            43.1822712,
+            -77.46985632
+      ],
+      "end_latlng": [
+            43.18231507,
+            -77.47019931
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/S26SVN5AAH4Z27YMQS3TE7Y2N4X64TACNNQW2TCEI5S33UM7M3WJR7KOYNGXLV2FPCNEQOTKHZSRO4DLTDFA====",
+      "start_latitude": 43.1822712,
+      "start_longitude": -77.46985632,
+      "end_latitude": 43.18231507,
+      "end_longitude": -77.47019931,
+      "climb_category": 0,
+      "city": "Monroe, NY, USA",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-12T00:16:57Z",
+      "updated_at": "2021-05-15T02:13:00Z",
+      "total_elevation_gain": 30.072,
+      "map": {
+            "id": "s3811791",
+            "polyline": "e`qfGryywMDwBGeA@[Ce@Bi@PiAGsAAm@BMEuBG{@DqBYCV_Ar@uAIkAQAISIy@DaDIc@Ce@?]D[JUHIGgAL{@[yIBiECa@Ma@JM?TVqAOuCII?WLKKyB@oHDwD?gAJgCVs@Ky@nBvDz@~CkB{Hq@kDWgECkDMAA}Ab@RO_BCwA@sBLk@So@E_@OQZe@EsAL]BaAIyAB[EaNC]IW]OAL]i@a@bBc@m@c@I_@Ai@BGKeBA_@Oc@JcABs@Ek@KiHVc@Ui@Gi@?IRa@EaAGgAJ_Af@Gk@YE]C[L[UkDF[NUr@Si@_@OqFWq@BkBOEJM?RlDkHcESJa@KY@KZe@YYE[?qAXc@PI@?\\JLDN`@`AZ^Xh@JZPTHD\\t@p@fARd@X`@JRNLp@xAVx@NRPf@Tb@PDVv@Vp@bAlBv@hBr@zB^r@Zv@Zl@Tl@n@~@^lA\\h@T|@f@|AZ^Zj@P`@Xb@Vh@Jf@Gj@`AvBDl@d@|@\\tAJBRx@b@fAPm@\\]OzCFZRh@FDTn@e@h@TXn@hBRy@f@~ADEL^Ll@Lb@LCKx@[kAd@p@Rx@?|AX^NVAINWT[PIH|ETZf@rAXfAXh@D\\tCq@vAsAd@eBqEvJDVE?@FE?BLTJHh@b@nAV[`ApDhCzHH^b@z@IPc@b@RY~AhC^p@Xw@PzADt@N\\QDItAYhApIlK",
+            "resource_state": 3
+      },
+      "effort_count": 7,
+      "athlete_count": 6,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "11:16",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/3811791/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

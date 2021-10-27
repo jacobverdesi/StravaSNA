@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 19113230,
+      "resource_state": 3,
+      "name": "Reverse Humpy",
+      "activity_type": "Ride",
+      "distance": 605.7,
+      "average_grade": -1.0,
+      "maximum_grade": 6.0,
+      "elevation_high": 132.6,
+      "elevation_low": 120.2,
+      "start_latlng": [
+            43.079711,
+            -77.753776
+      ],
+      "end_latlng": [
+            43.076291,
+            -77.75709
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TH7OSQKUUH3BU4LKR5H6ENNXQGACCZZEZ7MKIVFVT3Y7YCFBY7YHNB3HJZGAMYK4KYGUWWIWFSZZ6KN6UOEEC===",
+      "start_latitude": 43.079711,
+      "start_longitude": -77.753776,
+      "end_latitude": 43.076291,
+      "end_longitude": -77.75709,
+      "climb_category": 0,
+      "city": "Scottsville",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-10-15T16:29:33Z",
+      "updated_at": "2021-05-15T08:05:34Z",
+      "total_elevation_gain": 6.4,
+      "map": {
+            "id": "s19113230",
+            "polyline": "e_}eGbhqyMAlK@`ARz@JXLX^f@`@VNFb@DvADzAEhE@fBF`@?",
+            "resource_state": 3
+      },
+      "effort_count": 2089,
+      "athlete_count": 342,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "48s",
+            "qom": "53s",
+            "destination": {
+                  "href": "strava://segments/19113230/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 106859,
+            "title": "Andy Wooding",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/106859/13346163/4/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/19113230/local_legend?categories%5B%5D=overall"
+      }
 }

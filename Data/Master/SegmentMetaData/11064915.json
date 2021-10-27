@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 11064915,
+      "resource_state": 3,
+      "name": "Rochester Fitness + Cycling to Trailhead",
+      "activity_type": "Ride",
+      "distance": 1726.7,
+      "average_grade": -2.2,
+      "maximum_grade": 4.3,
+      "elevation_high": 122.0,
+      "elevation_low": 76.8,
+      "start_latlng": [
+            43.153732,
+            -77.50824
+      ],
+      "end_latlng": [
+            43.157769,
+            -77.528097
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2DDEOBJSDSWSKVEQIPXBMEXPHVICFY4ETOMBPVTCMQGUTDLUBDUBIYGRGGBVOWW2F2JJAYYKRM3YUXXHLF7A====",
+      "start_latitude": 43.153732,
+      "start_longitude": -77.50824,
+      "end_latitude": 43.157769,
+      "end_longitude": -77.528097,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-12-22T06:20:48Z",
+      "updated_at": "2021-05-15T02:17:20Z",
+      "total_elevation_gain": 7.6,
+      "map": {
+            "id": "s11064915",
+            "polyline": "ymkfGniaxMB~EHrICnBO|BQ|ASlAeBbIUnBKzAG~AAbBTtGFvDGpBIhAMhAQbAS|@u@fCgAlCiEhLoAhDgAlDYjAc@rBa@rD",
+            "resource_state": 3
+      },
+      "effort_count": 565,
+      "athlete_count": 237,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:08",
+            "qom": "2:23",
+            "destination": {
+                  "href": "strava://segments/11064915/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 37483230,
+            "title": "Tyler Burke",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/37483230/16232817/1/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/11064915/local_legend?categories%5B%5D=overall"
+      }
 }

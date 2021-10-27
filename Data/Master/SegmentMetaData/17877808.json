@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17877808,
+      "resource_state": 3,
+      "name": "Gtour - Chili Lap",
+      "activity_type": "Ride",
+      "distance": 6213.3,
+      "average_grade": 0.0,
+      "maximum_grade": 12.7,
+      "elevation_high": 174.0,
+      "elevation_low": 157.0,
+      "start_latlng": [
+            43.072554,
+            -77.736246
+      ],
+      "end_latlng": [
+            43.072573,
+            -77.736244
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HWELTWB6FJNGXPFREMLOFSPH5G45XEY4V2LFITMEOYXZSS3ZM736R2UVQMACYHH3ZVIDFE7ODWZ575DUNHMQ====",
+      "start_latitude": 43.072554,
+      "start_longitude": -77.736246,
+      "end_latitude": 43.072573,
+      "end_longitude": -77.736244,
+      "climb_category": 0,
+      "city": "Scottsville",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-06-06T12:23:10Z",
+      "updated_at": "2021-05-20T08:04:40Z",
+      "total_elevation_gain": 44.7,
+      "map": {
+            "id": "s17877808",
+            "polyline": "mr{eGpzmyMhDpFjJrOVh@Rj@Ln@Hl@BrAOr\\?fMKnSKf_@Ej@INODQ?wBGyVYyHI}B@wCEkGCy@Gg@QUMQQQU[q@I[E[Ey@B{MFeCByF@qIC}CH_l@AqE@gGAsT@qKQ}UBiG?UDQJIL@nClAlGjCzAv@r@l@h@v@jLhRxAzBjGhK",
+            "resource_state": 3
+      },
+      "effort_count": 3906,
+      "athlete_count": 184,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "8:37",
+            "qom": "10:22",
+            "destination": {
+                  "href": "strava://segments/17877808/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 72025924,
+            "title": "Brian Colwell",
+            "profile": "https://graph.facebook.com/10158849165827557/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/17877808/local_legend?categories%5B%5D=overall"
+      }
 }

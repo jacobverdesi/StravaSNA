@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9946256,
+      "resource_state": 3,
+      "name": "Howard Lyell to Buffalo",
+      "activity_type": "Ride",
+      "distance": 1469.0,
+      "average_grade": -0.2,
+      "maximum_grade": 5.9,
+      "elevation_high": 173.1,
+      "elevation_low": 165.9,
+      "start_latlng": [
+            43.163855,
+            -77.691184
+      ],
+      "end_latlng": [
+            43.15069,
+            -77.69102
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SSWIWP4IUSFPG4YVYGF7JP4NPEJTI4MW7UE5C3GN4AOXE265M36GGLVFRX3F7I4HDF2ZXTXT2M3RZRFUHTDVU===",
+      "start_latitude": 43.163855,
+      "start_longitude": -77.691184,
+      "end_latitude": 43.15069,
+      "end_longitude": -77.69102,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-07-13T14:49:36Z",
+      "updated_at": "2021-05-15T02:16:41Z",
+      "total_elevation_gain": 6.7,
+      "map": {
+            "id": "s9946256",
+            "polyline": "ammfG|`eyMj@@z@ANCZAhA@JAd@BnECPB`ACv@@DCTFt@@N?\\IjAA`@Er@DzACpCBbACTBjACX@\\CV@nBAd@CbABf@CNBv@?nBAN@FCZAxAB^Bx@CPChABb@CFCtAAt@ET@HE\\FdC?ZC~@?",
+            "resource_state": 3
+      },
+      "effort_count": 248,
+      "athlete_count": 131,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:34",
+            "qom": "2:42",
+            "destination": {
+                  "href": "strava://segments/9946256/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 81277018,
+            "title": "Richard Leyland",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81277018/19523650/3/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9946256/local_legend?categories%5B%5D=overall"
+      }
 }

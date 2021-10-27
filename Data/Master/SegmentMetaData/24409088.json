@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24409088,
+      "resource_state": 3,
+      "name": "Launch Down List Ave",
+      "activity_type": "Ride",
+      "distance": 1241.9,
+      "average_grade": -0.5,
+      "maximum_grade": 1.9,
+      "elevation_high": 119.5,
+      "elevation_low": 113.6,
+      "start_latlng": [
+            43.214943,
+            -77.592356
+      ],
+      "end_latlng": [
+            43.226021,
+            -77.593017
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XINNAASKHR4OTXF7APGBFIYBQANO2ZJTLEK4VOTGOWWYU6CTZUDXBRKNNJIIXH4XKLV5PPZKM4TSJJD3EBR3E===",
+      "start_latitude": 43.214943,
+      "start_longitude": -77.592356,
+      "end_latitude": 43.226021,
+      "end_longitude": -77.593017,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-06-09T20:18:42Z",
+      "updated_at": "2021-05-15T02:24:49Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s24409088",
+            "polyline": "klwfGfwqxM]\\I?GBQGq@D]IQBi@IYFiCLkAB[DOCk@Bk@FQAaDLuABQAQ@KDgACq@H]E]Bs@?s@BOBsAH_A@OCKDM?QE}@?_AG[BeA@kADU?]BMBq@?[@ODm@C{@?i@FgAAwBLMA",
+            "resource_state": 3
+      },
+      "effort_count": 619,
+      "athlete_count": 189,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:38",
+            "qom": "2:38",
+            "destination": {
+                  "href": "strava://segments/24409088/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14149986,
+            "title": "Joe Falvo",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "32 efforts in the last 90 days",
+            "effort_count": "32",
+            "effort_counts": {
+                  "overall": "32 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/24409088/local_legend?categories%5B%5D=overall"
+      }
 }

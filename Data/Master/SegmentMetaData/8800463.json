@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8800463,
+      "resource_state": 3,
+      "name": "Ford to Court",
+      "activity_type": "Ride",
+      "distance": 1195.0,
+      "average_grade": -0.6,
+      "maximum_grade": 0.8,
+      "elevation_high": 159.3,
+      "elevation_low": 152.6,
+      "start_latlng": [
+            43.142965,
+            -77.615714
+      ],
+      "end_latlng": [
+            43.152748,
+            -77.611183
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5X4HGAGJMKDVK6CGDSR4H3SDLB5VJ4TD2DVBO2BAUHIU6RNE2B3KQGTVPZAPCHEOUGAFLGUIIO325CPUYDIA====",
+      "start_latitude": 43.142965,
+      "start_longitude": -77.615714,
+      "end_latitude": 43.152748,
+      "end_longitude": -77.611183,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-01-19T23:49:37Z",
+      "updated_at": "2021-05-15T02:16:00Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8800463",
+            "polyline": "ojifGfivxMSUW{@MUUc@k@u@[_@wAuAk@c@{@e@mC_BOEm@[yBcAsAu@cCiAmAg@wDeBkBk@SEg@Eg@?kASkFYM@aDCoBr@",
+            "resource_state": 3
+      },
+      "effort_count": 4905,
+      "athlete_count": 1057,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:27",
+            "qom": "1:49",
+            "destination": {
+                  "href": "strava://segments/8800463/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 33606320,
+            "title": "Jack Ruppert",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/33606320/9985826/3/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/8800463/local_legend?categories%5B%5D=overall"
+      }
 }

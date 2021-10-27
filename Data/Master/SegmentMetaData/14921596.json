@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14921596,
+      "resource_state": 3,
+      "name": "Chestnut go",
+      "activity_type": "Ride",
+      "distance": 1008.4,
+      "average_grade": 0.5,
+      "maximum_grade": 4.4,
+      "elevation_high": 176.2,
+      "elevation_low": 168.4,
+      "start_latlng": [
+            43.116355,
+            -77.731785
+      ],
+      "end_latlng": [
+            43.116289,
+            -77.744252
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IZ37KMQBMT6LTEZRCVPGEOGLBSZZIXFPLWJVY5IFGT2CXKXPMAR6E7HOYGP5IS3I5PUGVPFM3LYRMFPFUJ4Q====",
+      "start_latitude": 43.116355,
+      "start_longitude": -77.731785,
+      "end_latitude": 43.116289,
+      "end_longitude": -77.744252,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-05-19T19:30:07Z",
+      "updated_at": "2021-05-15T02:19:23Z",
+      "total_elevation_gain": 7.8,
+      "map": {
+            "id": "s14921596",
+            "polyline": "eddfGt~lyMC|CLbe@?rWB`C?dE",
+            "resource_state": 3
+      },
+      "effort_count": 620,
+      "athlete_count": 96,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:02",
+            "qom": "2:07",
+            "destination": {
+                  "href": "strava://segments/14921596/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43166295,
+            "title": "kyra pellegrino",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43166295/12237801/4/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/14921596/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25580034,
+      "resource_state": 3,
+      "name": "East River Rd NB (Jefferson to Crittenden)",
+      "activity_type": "Ride",
+      "distance": 1279.8,
+      "average_grade": -0.3,
+      "maximum_grade": 2.3,
+      "elevation_high": 161.8,
+      "elevation_low": 157.7,
+      "start_latlng": [
+            43.092427,
+            -77.679258
+      ],
+      "end_latlng": [
+            43.103412,
+            -77.675857
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/B7Y57BBMYCFGXC2CMZY4S6WFYF6ASOM2JZEYWY4R4P6LGKQMJHRONO44CB2WV5RVYACHSL5WDZRJBAIJEEFQ====",
+      "start_latitude": 43.092427,
+      "start_longitude": -77.679258,
+      "end_latitude": 43.103412,
+      "end_longitude": -77.675857,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-09-03T22:34:46Z",
+      "updated_at": "2021-05-20T08:05:38Z",
+      "total_elevation_gain": 2.8,
+      "map": {
+            "id": "s25580034",
+            "polyline": "sn_fGjvbyM@OEYGISOcAUqAa@qD_Ai@Iu@SoDo@w@QcBi@}CqAs@WWMaA_@oDkA}@Um@WaBe@kFq@qBMsB@iFX[E",
+            "resource_state": 3
+      },
+      "effort_count": 4196,
+      "athlete_count": 713,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:41",
+            "qom": "1:59",
+            "destination": {
+                  "href": "strava://segments/25580034/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 795671,
+            "title": "Paul Lysiak",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/795671/1277573/1/large.jpg",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/25580034/local_legend?categories%5B%5D=overall"
+      }
 }

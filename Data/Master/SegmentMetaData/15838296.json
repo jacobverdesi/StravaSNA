@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15838296,
+      "resource_state": 3,
+      "name": "* NEUCHATEL * PAVED, DIRT, PAVED *",
+      "activity_type": "Ride",
+      "distance": 2175.5,
+      "average_grade": -1.3,
+      "maximum_grade": 8.7,
+      "elevation_high": 251.8,
+      "elevation_low": 203.3,
+      "start_latlng": [
+            43.041995,
+            -77.432213
+      ],
+      "end_latlng": [
+            43.039733,
+            -77.450762
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WAWYCVHU7YIEHWGKQT44GL4G2I6OASF7MUO7QAQMJNS3LR7OQXG2453N5EQVOZZEHNYZL5XAB5R36RSZTI======",
+      "start_latitude": 43.041995,
+      "start_longitude": -77.432213,
+      "end_latitude": 43.039733,
+      "end_longitude": -77.450762,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-08-25T03:10:26Z",
+      "updated_at": "2021-05-20T08:04:23Z",
+      "total_elevation_gain": 26.4,
+      "map": {
+            "id": "s15838296",
+            "polyline": "msueGjnrwMw@hCQTYp@_@d@YdAGt@@\\Dp@R`AYj@}EzEk@bA_@v@a@~AKxAAvAJ|AN~@Nl@Rj@^v@z@pAhAdCP|@FlAEdAOhAaBpE}@fDS`BE|@@VJ`ABPFNJv@dAxA`@TtDh@f@AhCwA`@K|@GpBPND\\Tv@l@LBJLHPJDHHHLjAtA\\z@VnAFz@?|@KvAeAjGWdB",
+            "resource_state": 3
+      },
+      "effort_count": 36,
+      "athlete_count": 22,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:54",
+            "qom": "6:40",
+            "destination": {
+                  "href": "strava://segments/15838296/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

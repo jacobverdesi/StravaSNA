@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4029150,
+      "resource_state": 3,
+      "name": "Greenway From Morgan to Brook",
+      "activity_type": "Ride",
+      "distance": 3441.4,
+      "average_grade": -0.1,
+      "maximum_grade": 5.6,
+      "elevation_high": 162.2,
+      "elevation_low": 159.7,
+      "start_latlng": [
+            43.050549,
+            -77.728144
+      ],
+      "end_latlng": [
+            43.076273,
+            -77.709089
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RGSYAZWYLXWOOOEJF5W33X3L2GVWFRNZCUSESAHB7KBHR5OMXCH4SG36XTB4GRVZS2XH7NW4O6WLP5V5N74DE===",
+      "start_latitude": 43.050549,
+      "start_longitude": -77.728144,
+      "end_latitude": 43.076273,
+      "end_longitude": -77.709089,
+      "climb_category": 0,
+      "city": "Scottsville",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-06T14:48:07Z",
+      "updated_at": "2021-05-19T08:02:21Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s4029150",
+            "polyline": "{hweG|glyMo@i@AGYW_CkCuAuAkB{BwDcEiAgAi@c@YQa@QgBa@g@EmCCu@Fw@Im@Aw@IU?_@@MDG?EFG@KA]?}AKaBGe@Bi@G[BsAEoAAo@CYB{@?aAEkAAq@Gq@Og@OOIa@[g@]qCoC}@eAMIMUOO_@UKQa@[QWCGa@]eAgAq@{@_BuA_AgAuAsA}AiByAqAwA}AGAE@KGO]W]EBAHFHBECDEAE?BED@M?NGBEEMaCaCeAiAw@u@W]eCeCUO{@eA_AaA}AqAmF_GeFoF}@y@]_@cA{@e@m@}CgDk@g@mDsD",
+            "resource_state": 3
+      },
+      "effort_count": 2968,
+      "athlete_count": 724,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:28",
+            "qom": "6:33",
+            "destination": {
+                  "href": "strava://segments/4029150/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 46590753,
+            "title": "O John Dailey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/46590753/12866386/1/large.jpg",
+            "effort_description": "65 efforts in the last 90 days",
+            "effort_count": "65",
+            "effort_counts": {
+                  "overall": "65 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/4029150/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4061986,
+      "resource_state": 3,
+      "name": "A K & A Half Canal Style",
+      "activity_type": "Ride",
+      "distance": 1268.4,
+      "average_grade": -2.7,
+      "maximum_grade": 7.7,
+      "elevation_high": 174.7,
+      "elevation_low": 140.3,
+      "start_latlng": [
+            43.079014,
+            -77.445507
+      ],
+      "end_latlng": [
+            43.079108,
+            -77.461044
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TCCVSE2A2UVXB3DI4ET52C77ZOX6SUGDANJX6R47J5R5CTQDVSW4EOJP2WZPBO7CP6EMFZI2QAIYTPB2SK4Q====",
+      "start_latitude": 43.079014,
+      "start_longitude": -77.445507,
+      "end_latitude": 43.079108,
+      "end_longitude": -77.461044,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-10T00:46:43Z",
+      "updated_at": "2021-05-15T02:13:07Z",
+      "total_elevation_gain": 7.0,
+      "map": {
+            "id": "s4061986",
+            "polyline": "yz|eGlauwMA\\@|AC~@LxCIvDGtIF|@G`D?nHIlC?pBE~BCdC?XFl@@b@Ar@@hC@ZG|AFbC@XA|AB\\Er@BR?^EzD@P@j@Cn@@xA",
+            "resource_state": 3
+      },
+      "effort_count": 1939,
+      "athlete_count": 250,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:27",
+            "qom": "1:16",
+            "destination": {
+                  "href": "strava://segments/4061986/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "19 efforts in the last 90 days",
+            "effort_count": "19",
+            "effort_counts": {
+                  "overall": "19 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/4061986/local_legend?categories%5B%5D=overall"
+      }
 }

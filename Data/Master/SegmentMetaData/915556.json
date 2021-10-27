@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 915556,
+      "resource_state": 3,
+      "name": "Blue trail",
+      "activity_type": "Ride",
+      "distance": 444.89,
+      "average_grade": 6.7,
+      "maximum_grade": 20.0,
+      "elevation_high": 120.4,
+      "elevation_low": 90.6,
+      "start_latlng": [
+            43.185976,
+            -77.538578
+      ],
+      "end_latlng": [
+            43.186196,
+            -77.543331
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UUEQIY3OET6DSS5AL5HENBFJRXBSLWZTTOUGJOJHJZG3XUMK6OOE5ZKMJPUHRIAQ6YSBFNUJVGOANL2XCJZQ====",
+      "start_latitude": 43.185976,
+      "start_longitude": -77.538578,
+      "end_latitude": 43.186196,
+      "end_longitude": -77.543331,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-01-13T02:48:28Z",
+      "updated_at": "2021-05-20T08:02:07Z",
+      "total_elevation_gain": 29.8,
+      "map": {
+            "id": "s915556",
+            "polyline": "iwqfGbggxME^An@D`@@~@[zAAjADTDBL@DBFL?FCPULGN?b@FZ@TCVKV@FJ?ZQB@@FMz@MX[PCFQl@Kr@AVDl@H^Dj@BHBB",
+            "resource_state": 3
+      },
+      "effort_count": 11808,
+      "athlete_count": 987,
+      "star_count": 20,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:31",
+            "qom": "2:16",
+            "destination": {
+                  "href": "strava://segments/915556/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10477404,
+            "title": "Tim Wall",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10477404/9852718/1/large.jpg",
+            "effort_description": "27 efforts in the last 90 days",
+            "effort_count": "27",
+            "effort_counts": {
+                  "overall": "27 efforts",
+                  "female": "12 efforts"
+            },
+            "destination": "strava://segments/915556/local_legend?categories%5B%5D=overall"
+      }
 }

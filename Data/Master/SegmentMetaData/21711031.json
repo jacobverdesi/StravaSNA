@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21711031,
+      "resource_state": 3,
+      "name": "*GVP-Canal bridges* West",
+      "activity_type": "Ride",
+      "distance": 564.2,
+      "average_grade": 0.3,
+      "maximum_grade": 11.7,
+      "elevation_high": 172.6,
+      "elevation_low": 168.0,
+      "start_latlng": [
+            43.121459,
+            -77.639708
+      ],
+      "end_latlng": [
+            43.121476,
+            -77.64479
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PXA55OB5MN4O5NSF2TYQKPISJKS2GIFA6C4IT4NMDVQBLHHLI4GYDAANJVSYHHPEPYATSL63YV66ZM4WE2DQ====",
+      "start_latitude": 43.121459,
+      "start_longitude": -77.639708,
+      "end_latitude": 43.121476,
+      "end_longitude": -77.64479,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-09-06T03:13:37Z",
+      "updated_at": "2021-05-20T08:05:14Z",
+      "total_elevation_gain": 4.6,
+      "map": {
+            "id": "s21711031",
+            "polyline": "adefGd_{xMkEPOBERGpBErF@`@^`ANrBPx@h@vAxAfD\\`ADR",
+            "resource_state": 3
+      },
+      "effort_count": 16764,
+      "athlete_count": 2904,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:02",
+            "qom": "1:24",
+            "destination": {
+                  "href": "strava://segments/21711031/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10439897,
+            "title": "Marge Demagistris",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10439897/12256028/1/large.jpg",
+            "effort_description": "41 efforts in the last 90 days",
+            "effort_count": "41",
+            "effort_counts": {
+                  "overall": "41 efforts",
+                  "female": "41 efforts"
+            },
+            "destination": "strava://segments/21711031/local_legend?categories%5B%5D=overall"
+      }
 }

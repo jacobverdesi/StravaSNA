@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7342785,
+      "resource_state": 3,
+      "name": "Ward Hill HuffinPuff",
+      "activity_type": "Ride",
+      "distance": 1489.5,
+      "average_grade": -0.4,
+      "maximum_grade": 6.3,
+      "elevation_high": 218.9,
+      "elevation_low": 189.5,
+      "start_latlng": [
+            43.027246,
+            -77.610255
+      ],
+      "end_latlng": [
+            43.026994,
+            -77.62814
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/S6UWBIOK7IBADOQANTVDOVMNLRB6GFN4DTIZUCYBYMX73KUJL4NCF6BVO5RKHG3EO54ORLMBH3RGV37ZQR7EU===",
+      "start_latitude": 43.027246,
+      "start_longitude": -77.610255,
+      "end_latitude": 43.026994,
+      "end_longitude": -77.62814,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-02T12:57:47Z",
+      "updated_at": "2021-05-17T08:05:08Z",
+      "total_elevation_gain": 24.0,
+      "map": {
+            "id": "s7342785",
+            "polyline": "gwreGbguxML`@CRBXEjAMx@Bd@Cn@BRAn@HhCKhBBfAEjABXCZFbAEl@@`@NnA@z@AjA@hA@NKT?RDb@BlBEt@D`@A`@HhA@`@C~@Gf@BL@h@RhAIz@H`@CPBTMr@@xACV@DBR@r@Eb@BNCJFj@?TI^Hr@Af@HdAAp@ERLn@F@Ib@CXDXAXDdAGxA@b@@vAALDdL",
+            "resource_state": 3
+      },
+      "effort_count": 983,
+      "athlete_count": 250,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:28",
+            "qom": "2:55",
+            "destination": {
+                  "href": "strava://segments/7342785/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 34657245,
+            "title": "Pete Hagmire",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/7342785/local_legend?categories%5B%5D=overall"
+      }
 }

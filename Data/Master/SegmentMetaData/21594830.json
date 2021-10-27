@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21594830,
+      "resource_state": 3,
+      "name": "* FARASH HALF MILE SPEEDWAY * ",
+      "activity_type": "Ride",
+      "distance": 771.5,
+      "average_grade": -0.2,
+      "maximum_grade": 6.2,
+      "elevation_high": 222.2,
+      "elevation_low": 212.4,
+      "start_latlng": [
+            43.024581,
+            -77.547676
+      ],
+      "end_latlng": [
+            43.018599,
+            -77.551602
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZP4TF3X3JLVDYHEU436WR3NUE3BIVGQW5JGUTHAZJ4GTPX442D5YURNOJOATKQPCXYLFP3V5RQORF7H25GGYO===",
+      "start_latitude": 43.024581,
+      "start_longitude": -77.547676,
+      "end_latitude": 43.018599,
+      "end_longitude": -77.551602,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-08-26T01:55:37Z",
+      "updated_at": "2021-05-17T08:08:25Z",
+      "total_elevation_gain": 8.6,
+      "map": {
+            "id": "s21594830",
+            "polyline": "sfreG~_ixMfBzCfBlCfClD|AjBbBz@pBd@pBXhGn@dD`@",
+            "resource_state": 3
+      },
+      "effort_count": 6066,
+      "athlete_count": 958,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "56s",
+            "qom": "1:02",
+            "destination": {
+                  "href": "strava://segments/21594830/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8662305,
+            "title": "Dean Romanick",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8662305/5051266/2/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/21594830/local_legend?categories%5B%5D=overall"
+      }
 }

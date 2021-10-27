@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10345324,
+      "resource_state": 3,
+      "name": "(Wilson Blvd.) Pedestrian Bridge to Light",
+      "activity_type": "Ride",
+      "distance": 761.2,
+      "average_grade": 0.2,
+      "maximum_grade": 7.8,
+      "elevation_high": 169.3,
+      "elevation_low": 160.1,
+      "start_latlng": [
+            43.130602,
+            -77.632458
+      ],
+      "end_latlng": [
+            43.12412,
+            -77.631502
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ASYKODWU2P2C7ZWY7ROJ24ZZ6HEX4EJEBJS3U2QSTYUT3QXOEU44GSHXR3HZG75NUDH4KWKTT6HAMIIQ5DHQ====",
+      "start_latitude": 43.130602,
+      "start_longitude": -77.632458,
+      "end_latitude": 43.12412,
+      "end_longitude": -77.631502,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-08-29T14:04:47Z",
+      "updated_at": "2021-05-17T08:05:53Z",
+      "total_elevation_gain": 10.2,
+      "map": {
+            "id": "s10345324",
+            "polyline": "g}ffGzqyxM|@v@l@Xr@Rd@Hf@DnA?f@C|Cw@b@i@xAcAhC}AdAe@f@Kh@GvAGj@?z@Ll@@r@Fd@?b@A",
+            "resource_state": 3
+      },
+      "effort_count": 5429,
+      "athlete_count": 1099,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:04",
+            "qom": "1:20",
+            "destination": {
+                  "href": "strava://segments/10345324/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62671882,
+            "title": "Luke Homerin",
+            "profile": "https://graph.facebook.com/10101761007119576/picture?height=256&width=256",
+            "effort_description": "17 efforts in the last 90 days",
+            "effort_count": "17",
+            "effort_counts": {
+                  "overall": "17 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/10345324/local_legend?categories%5B%5D=overall"
+      }
 }

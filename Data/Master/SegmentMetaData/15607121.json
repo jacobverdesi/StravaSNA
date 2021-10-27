@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15607121,
+      "resource_state": 3,
+      "name": "BEAT THE LIGHT downhill @ East Henny and Jeff",
+      "activity_type": "Ride",
+      "distance": 380.0,
+      "average_grade": -1.8,
+      "maximum_grade": 3.7,
+      "elevation_high": 114.2,
+      "elevation_low": 106.0,
+      "start_latlng": [
+            43.084588,
+            -77.608166
+      ],
+      "end_latlng": [
+            43.088033,
+            -77.609377
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OSLAD7KJ7WA6BCQNJVVPISDOLWWJPJB6G5GNLGBJV7AKEA6WYZXORP2JKTKVDN4E76Y7ZZ7RB67T4GD3N46E2===",
+      "start_latitude": 43.084588,
+      "start_longitude": -77.608166,
+      "end_latitude": 43.088033,
+      "end_longitude": -77.609377,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-08-01T23:48:20Z",
+      "updated_at": "2021-05-17T08:07:06Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s15607121",
+            "polyline": "s}}eG`ztxMw@Dw@LcGfBcE~@yBt@",
+            "resource_state": 3
+      },
+      "effort_count": 1056,
+      "athlete_count": 178,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "27s",
+            "qom": "37s",
+            "destination": {
+                  "href": "strava://segments/15607121/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3299172,
+            "title": "Matthew McNamara",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3299172/1069972/3/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/15607121/local_legend?categories%5B%5D=overall"
+      }
 }

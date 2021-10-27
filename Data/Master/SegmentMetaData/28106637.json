@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28106637,
+      "resource_state": 3,
+      "name": "Riverknoll Climb",
+      "activity_type": "Ride",
+      "distance": 368.7,
+      "average_grade": 2.9,
+      "maximum_grade": 6.0,
+      "elevation_high": 178.4,
+      "elevation_low": 167.8,
+      "start_latlng": [
+            43.080026,
+            -77.683662
+      ],
+      "end_latlng": [
+            43.082912,
+            -77.685066
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3SPYAWSWD2AUVHYRUWJYHISJRYXSUEFWAMP4DUKBPDIRSI4GY5Y3YC2IQIX7D6IWVSOSIRWA2BPMJYTNRW7Q====",
+      "start_latitude": 43.080026,
+      "start_longitude": -77.683662,
+      "end_latitude": 43.082912,
+      "end_longitude": -77.685066,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-04-20T23:30:16Z",
+      "updated_at": "2021-05-17T08:09:21Z",
+      "total_elevation_gain": 10.6,
+      "map": {
+            "id": "s28106637",
+            "polyline": "ca}eG|qcyMMd@Yr@Q^]j@SVa@^WPe@Rs@Ro@FgA?sCIu@@",
+            "resource_state": 3
+      },
+      "effort_count": 2191,
+      "athlete_count": 339,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "29s",
+            "qom": "34s",
+            "destination": {
+                  "href": "strava://segments/28106637/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2678937,
+            "title": "Ben  Braun",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2678937/1989906/2/large.jpg",
+            "effort_description": "80 efforts in the last 90 days",
+            "effort_count": "80",
+            "effort_counts": {
+                  "overall": "80 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/28106637/local_legend?categories%5B%5D=overall"
+      }
 }

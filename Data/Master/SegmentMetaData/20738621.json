@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20738621,
+      "resource_state": 3,
+      "name": "Winton - Elmwood to HIghland",
+      "activity_type": "Ride",
+      "distance": 1070.8,
+      "average_grade": -0.5,
+      "maximum_grade": 0.3,
+      "elevation_high": 155.8,
+      "elevation_low": 150.6,
+      "start_latlng": [
+            43.127678,
+            -77.564981
+      ],
+      "end_latlng": [
+            43.136634,
+            -77.560119
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JNOCURIRGGMCNE22AKYVFTWS7BIIP436CSE3PB6LNEHS4KJM23FSXGEIAKZF2VKSH5HKEXDYALHEIHVZG3AUC===",
+      "start_latitude": 43.127678,
+      "start_longitude": -77.564981,
+      "end_latitude": 43.136634,
+      "end_longitude": -77.560119,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-05-30T21:18:46Z",
+      "updated_at": "2021-05-15T02:23:15Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s20738621",
+            "polyline": "}jffGdllxM{LkF_b@eRcF{B",
+            "resource_state": 3
+      },
+      "effort_count": 2434,
+      "athlete_count": 528,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:29",
+            "qom": "1:32",
+            "destination": {
+                  "href": "strava://segments/20738621/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 87787014,
+            "title": "Erica D",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/87787014/20987188/2/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "12 efforts"
+            },
+            "destination": "strava://segments/20738621/local_legend?categories%5B%5D=overall"
+      }
 }

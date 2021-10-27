@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2857327,
+      "resource_state": 3,
+      "name": "Rt 64 (Silco Hill-Van Voorhis Rd)",
+      "activity_type": "Ride",
+      "distance": 3037.05,
+      "average_grade": 0.4,
+      "maximum_grade": 9.5,
+      "elevation_high": 53.0,
+      "elevation_low": 28.0,
+      "start_latlng": [
+            43.071160297840834,
+            -77.51791865564883
+      ],
+      "end_latlng": [
+            43.04421273060143,
+            -77.51747902482748
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/I4MGHDNM42IKZK42YF6UX7JPDAM7XXM5S6OPYC2JSYEQSMU3UKR7TAGWFWCD7Q5HW3RU4KU4WX4Z6YWMBZ2MG===",
+      "start_latitude": 43.071160297840834,
+      "start_longitude": -77.51791865564883,
+      "end_latitude": 43.04421273060143,
+      "end_longitude": -77.51747902482748,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-11-29T01:52:27Z",
+      "updated_at": "2021-05-15T02:12:41Z",
+      "total_elevation_gain": 48.6,
+      "map": {
+            "id": "s2857327",
+            "polyline": "wi{eG~ecxM~@@`AJzBn@xBz@`JbD|Ab@|ARhAFvDF`JFjDHvB@bAE`JWlHk@~Lm@xMu@lDWzCYvE[jJw@zEWnGu@pCQtJ}@",
+            "resource_state": 3
+      },
+      "effort_count": 1646,
+      "athlete_count": 351,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:43",
+            "qom": "5:27",
+            "destination": {
+                  "href": "strava://segments/2857327/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 770315,
+            "title": "Dean Sherwood",
+            "profile": "https://graph.facebook.com/10204641242379360/picture?height=256&width=256",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/2857327/local_legend?categories%5B%5D=overall"
+      }
 }

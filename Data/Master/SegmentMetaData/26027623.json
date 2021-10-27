@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26027623,
+      "resource_state": 3,
+      "name": "Indian Hill to Orange!",
+      "activity_type": "Ride",
+      "distance": 2117.0,
+      "average_grade": 3.5,
+      "maximum_grade": 32.7,
+      "elevation_high": 242.6,
+      "elevation_low": 165.0,
+      "start_latlng": [
+            43.068729,
+            -77.425914
+      ],
+      "end_latlng": [
+            43.056673,
+            -77.422207
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PNADARXZUIHOE3NZ4XCJE43AAHOVRZ3XQADPPA2T6LLCBNHIHZZ47E6CDJSE3VWL5QGMZOZO2OIMOVT4HV2Q====",
+      "start_latitude": 43.068729,
+      "start_longitude": -77.425914,
+      "end_latitude": 43.056673,
+      "end_longitude": -77.422207,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-10-11T16:53:03Z",
+      "updated_at": "2021-05-20T08:05:41Z",
+      "total_elevation_gain": 110.4,
+      "map": {
+            "id": "s26027623",
+            "polyline": "ozzeG~fqwMHHH??QHUBOEQAUNg@NkAMs@C[?QH[PYBS?QF]?c@BYP_@VyBNUb@W@CVEbA?RDTJZBPH?By@NQLY\\Ob@@DD@j@QPBb@V`@h@FR?HMp@Nv@Tz@NP`@D\\LRBnDA`BJFAbAi@^Cb@MP@JAp@o@Lb@?j@TE\\DFIHGVCV@XVRh@bAV`@A^MhBGZEhAB`BBZL|@j@j@h@VD^SX_@F]As@HQTFHFLVFBJ?NGJAHJd@I^^FBN?\\Jd@`@LBVIj@D\\_@PYHG\\Gh@UTYH[JMDe@@KEQD]CK?a@CMDW@g@F[NsAGq@@]",
+            "resource_state": 3
+      },
+      "effort_count": 587,
+      "athlete_count": 55,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "9:19",
+            "qom": "12:27",
+            "destination": {
+                  "href": "strava://segments/26027623/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/26027623/local_legend?categories%5B%5D=overall"
+      }
 }

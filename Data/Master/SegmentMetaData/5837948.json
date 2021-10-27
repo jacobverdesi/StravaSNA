@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5837948,
+      "resource_state": 3,
+      "name": "Sunday Climb",
+      "activity_type": "Ride",
+      "distance": 310.1,
+      "average_grade": 6.6,
+      "maximum_grade": 12.1,
+      "elevation_high": 135.7,
+      "elevation_low": 115.1,
+      "start_latlng": [
+            43.150765,
+            -77.526684
+      ],
+      "end_latlng": [
+            43.150882,
+            -77.528272
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZD6ML5KCP66OPKKSJYY6JHLNZJHXPGZJTWQH7LYQICDG7MGEVR4A2RK7H2VTROU6KDWBVK26OG5IUMIWJ5VRA===",
+      "start_latitude": 43.150765,
+      "start_longitude": -77.526684,
+      "end_latitude": 43.150882,
+      "end_longitude": -77.528272,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-10-22T01:01:59Z",
+      "updated_at": "2021-05-15T02:14:14Z",
+      "total_elevation_gain": 20.6,
+      "map": {
+            "id": "s5837948",
+            "polyline": "g{jfGx|dxM@Tc@LkAPY`@LJd@Dd@CNPQLg@LMTHpCbA@",
+            "resource_state": 3
+      },
+      "effort_count": 1305,
+      "athlete_count": 165,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "19s",
+            "qom": "1:06",
+            "destination": {
+                  "href": "strava://segments/5837948/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

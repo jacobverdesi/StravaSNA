@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7939574,
+      "resource_state": 3,
+      "name": "Mt. Vernon Climb",
+      "activity_type": "Ride",
+      "distance": 828.8,
+      "average_grade": 3.5,
+      "maximum_grade": 9.2,
+      "elevation_high": 186.2,
+      "elevation_low": 156.7,
+      "start_latlng": [
+            43.139308,
+            -77.603028
+      ],
+      "end_latlng": [
+            43.133186,
+            -77.607254
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZC2A2DGYCEBOGCRLG22CRAPSAH5RZXHO4F3TP3AIF6VTZBJGZNJQ7GJMX2ZFWQSU6NX3ETUMSB37IACQBHAA====",
+      "start_latitude": 43.139308,
+      "start_longitude": -77.603028,
+      "end_latitude": 43.133186,
+      "end_longitude": -77.607254,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-08-20T02:00:24Z",
+      "updated_at": "2021-05-15T02:15:31Z",
+      "total_elevation_gain": 29.5,
+      "map": {
+            "id": "s7939574",
+            "polyline": "sshfG|ysxMz@RfBv@jAZtBz@nA\\jAr@v@RbAf@j@\\^PxBlAbAn@\\Lj@D`@Zx@VtAr@dAVX^YtBAbA",
+            "resource_state": 3
+      },
+      "effort_count": 137,
+      "athlete_count": 60,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:25",
+            "qom": "2:35",
+            "destination": {
+                  "href": "strava://segments/7939574/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 52748821,
+            "title": "Alexander Lindsay",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GgLfsXwwTXBUeRD9ohHRJBbuqZ6NsLYdNGj8egQ",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7939574/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9149964,
+      "resource_state": 3,
+      "name": "Quick Kicker",
+      "activity_type": "Ride",
+      "distance": 371.3,
+      "average_grade": 4.6,
+      "maximum_grade": 6.8,
+      "elevation_high": 177.5,
+      "elevation_low": 159.8,
+      "start_latlng": [
+            43.061677,
+            -77.689043
+      ],
+      "end_latlng": [
+            43.065008,
+            -77.689254
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KG4OK3A6BHLXEX6PTAQEQKC7A7LCOEJNLANIPVE4CNZDGDNTQ6HOTX4KOIRHL3ZWQXHJ6DHO32SHAAPNYK6A====",
+      "start_latitude": 43.061677,
+      "start_longitude": -77.689043,
+      "end_latitude": 43.065008,
+      "end_longitude": -77.689254,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-03-29T23:35:42Z",
+      "updated_at": "2021-05-15T08:03:53Z",
+      "total_elevation_gain": 17.7,
+      "map": {
+            "id": "s9149964",
+            "polyline": "mnyeGpsdyMkRb@m@D",
+            "resource_state": 3
+      },
+      "effort_count": 2928,
+      "athlete_count": 701,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "28s",
+            "qom": "38s",
+            "destination": {
+                  "href": "strava://segments/9149964/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5031574,
+            "title": "Jeff Parrish",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5031574/2928002/2/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9149964/local_legend?categories%5B%5D=overall"
+      }
 }

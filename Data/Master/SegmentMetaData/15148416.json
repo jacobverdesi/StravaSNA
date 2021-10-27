@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15148416,
+      "resource_state": 3,
+      "name": "Ford to 490",
+      "activity_type": "Ride",
+      "distance": 1085.9,
+      "average_grade": -0.1,
+      "maximum_grade": 2.6,
+      "elevation_high": 176.0,
+      "elevation_low": 175.0,
+      "start_latlng": [
+            43.142318,
+            -77.613775
+      ],
+      "end_latlng": [
+            43.151001,
+            -77.608092
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WRHA7OUGMRSFQNXZMTOPS3YHCLVJO6X5RV7DMI2UCUS5SSPSCIEM4LPPBWLRJ5C7YEDT7MFUQKDAMFRNAASQ====",
+      "start_latitude": 43.142318,
+      "start_longitude": -77.613775,
+      "end_latitude": 43.151001,
+      "end_longitude": -77.608092,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-13T19:41:44Z",
+      "updated_at": "2021-05-20T08:04:16Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s15148416",
+            "polyline": "mfifGb}uxMeAeAkA_B}CwCiA_@c@Sc@Ka@QqCcB}@q@y@w@]YeBgAa@Mo@_@[]OIs@Sq@W]WwAw@y@s@_DaBQCu@?cAI_@Io@_@gAO",
+            "resource_state": 3
+      },
+      "effort_count": 8084,
+      "athlete_count": 1246,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:25",
+            "qom": "1:50",
+            "destination": {
+                  "href": "strava://segments/15148416/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 335964,
+            "title": "Jay O",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "29 efforts in the last 90 days",
+            "effort_count": "29",
+            "effort_counts": {
+                  "overall": "29 efforts",
+                  "female": "13 efforts"
+            },
+            "destination": "strava://segments/15148416/local_legend?categories%5B%5D=overall"
+      }
 }

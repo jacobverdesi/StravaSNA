@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8139973,
+      "resource_state": 3,
+      "name": "* PEAKS OF BAIRD *",
+      "activity_type": "Ride",
+      "distance": 478.7,
+      "average_grade": 1.5,
+      "maximum_grade": 12.7,
+      "elevation_high": 137.4,
+      "elevation_low": 122.6,
+      "start_latlng": [
+            43.122724,
+            -77.461663
+      ],
+      "end_latlng": [
+            43.118507,
+            -77.461576
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6A5WSF6KNJPCFY5FJGQRJ6EC2QOH7XZ2PSPA3WJIJYRN6UJ7VEFH2JYSSLRI24D5JNB5UWCSVWLDNSBKDA2CY===",
+      "start_latitude": 43.122724,
+      "start_longitude": -77.461663,
+      "end_latitude": 43.118507,
+      "end_longitude": -77.461576,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-09-15T01:42:15Z",
+      "updated_at": "2021-05-18T08:03:44Z",
+      "total_elevation_gain": 14.8,
+      "map": {
+            "id": "s8139973",
+            "polyline": "_lefGlfxwMVMZGf@C|CF`CAh@B|@AxA@hCFbCI",
+            "resource_state": 3
+      },
+      "effort_count": 1751,
+      "athlete_count": 250,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "41s",
+            "qom": "48s",
+            "destination": {
+                  "href": "strava://segments/8139973/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 19817022,
+            "title": "Mike Stoll",
+            "profile": "https://graph.facebook.com/10213009735374275/picture?height=256&width=256",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/8139973/local_legend?categories%5B%5D=overall"
+      }
 }

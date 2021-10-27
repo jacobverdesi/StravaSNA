@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7380508,
+      "resource_state": 3,
+      "name": "* WALNUT HILL TO PEAK *",
+      "activity_type": "Ride",
+      "distance": 1245.1,
+      "average_grade": -0.8,
+      "maximum_grade": 9.7,
+      "elevation_high": 204.0,
+      "elevation_low": 182.2,
+      "start_latlng": [
+            43.034601,
+            -77.523757
+      ],
+      "end_latlng": [
+            43.045704,
+            -77.522818
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/N5YB6QQWZ5ERMHI6IT4YXPPZNUN7VQYDCDUG5EOVQYTCYLB7NOSEYLZBIHGGB2UKWWMYWS5X6J3U2N3JZJHTW===",
+      "start_latitude": 43.034601,
+      "start_longitude": -77.523757,
+      "end_latitude": 43.045704,
+      "end_longitude": -77.522818,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-07T21:22:38Z",
+      "updated_at": "2021-05-15T08:03:34Z",
+      "total_elevation_gain": 13.2,
+      "map": {
+            "id": "s7380508",
+            "polyline": "geteGnjdxMeBHuNfA_H`@{@AaFUgDIyAKEE{AWcJkCmCk@{Dk@",
+            "resource_state": 3
+      },
+      "effort_count": 4635,
+      "athlete_count": 792,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:33",
+            "qom": "1:51",
+            "destination": {
+                  "href": "strava://segments/7380508/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 322908,
+            "title": "James Curtis",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/322908/66116/5/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/7380508/local_legend?categories%5B%5D=overall"
+      }
 }

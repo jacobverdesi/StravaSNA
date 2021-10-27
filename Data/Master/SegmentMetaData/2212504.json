@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2212504,
+      "resource_state": 3,
+      "name": "Merchants (Winton to Queens)",
+      "activity_type": "Ride",
+      "distance": 1397.99,
+      "average_grade": 1.3,
+      "maximum_grade": 3.6,
+      "elevation_high": 141.2,
+      "elevation_low": 123.0,
+      "start_latlng": [
+            43.159498151471794,
+            -77.54756000443437
+      ],
+      "end_latlng": [
+            43.16855407117876,
+            -77.55870010122584
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VDM3HW2RALWS7KNI66TCVWRWQOTO6HAR4S2SP524CIU776PFESIRIV5Z77GL2JQYQNPIRVBGF6F676LV35ZQ====",
+      "start_latitude": 43.159498151471794,
+      "start_longitude": -77.54756000443437,
+      "end_latitude": 43.16855407117876,
+      "end_longitude": -77.55870010122584,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-08-25T01:09:49Z",
+      "updated_at": "2021-05-15T02:12:24Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s2212504",
+            "polyline": "yqlfGf_ixMiElIYn@eAzCk@pBoBzEaBxEcA`Cc@vAm@nA_ArA_B`B}@lAgA`Ae@^eDfBgDxA_CxAqAl@yBlAqAl@]Z",
+            "resource_state": 3
+      },
+      "effort_count": 1089,
+      "athlete_count": 198,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:04",
+            "qom": "2:53",
+            "destination": {
+                  "href": "strava://segments/2212504/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 82226958,
+            "title": "Szetong de Cleir",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/82226958/21743152/2/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/2212504/local_legend?categories%5B%5D=overall"
+      }
 }

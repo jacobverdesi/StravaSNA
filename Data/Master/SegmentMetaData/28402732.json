@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28402732,
+      "resource_state": 3,
+      "name": "indian hill west",
+      "activity_type": "Ride",
+      "distance": 364.1,
+      "average_grade": -11.5,
+      "maximum_grade": 0.0,
+      "elevation_high": -102.6,
+      "elevation_low": -144.4,
+      "start_latlng": [
+            43.066537,
+            -77.425124
+      ],
+      "end_latlng": [
+            43.068554,
+            -77.425781
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KJORZAYSR6BFFLLDUE4ZVSEVCSD73S3C5B5VN2Y5G5W44ZY2XSPKN6UE2MRLVGLYEJOIWIFDEHXQCW3I2BDQ====",
+      "start_latitude": 43.066537,
+      "start_longitude": -77.425124,
+      "end_latitude": 43.068554,
+      "end_longitude": -77.425781,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-05-12T12:48:37Z",
+      "updated_at": "2021-05-20T08:05:55Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s28402732",
+            "polyline": "ylzeG`bqwMP|A`@dB@ZUPWFUJc@BSCgBw@_@?]ESGm@a@YIq@MYA",
+            "resource_state": 3
+      },
+      "effort_count": 110,
+      "athlete_count": 33,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "53s",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/28402732/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10657183,
+            "title": "Zack M",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10657183/3215265/1/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/28402732/local_legend?categories%5B%5D=overall"
+      }
 }

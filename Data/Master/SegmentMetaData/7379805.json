@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7379805,
+      "resource_state": 3,
+      "name": "* DEVILS WAY *",
+      "activity_type": "Ride",
+      "distance": 958.2,
+      "average_grade": -0.3,
+      "maximum_grade": 7.7,
+      "elevation_high": 195.8,
+      "elevation_low": 191.4,
+      "start_latlng": [
+            43.015039,
+            -77.567523
+      ],
+      "end_latlng": [
+            43.02155,
+            -77.57399
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6BIDMCM3BDYHH3Y45EAM2BNDQ4QH2TB4C5BVJXXIJLH53O4RUNPNOV3YE7K3DIG4NYDQPFR54K3O4ZJLIJWQ====",
+      "start_latitude": 43.015039,
+      "start_longitude": -77.567523,
+      "end_latitude": 43.02155,
+      "end_longitude": -77.57399,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-07T19:45:15Z",
+      "updated_at": "2021-05-20T08:03:01Z",
+      "total_elevation_gain": 6.4,
+      "map": {
+            "id": "s7379805",
+            "polyline": "}jpeG`|lxMO|C[vCc@`CK`@e@pAm@p@MJm@XwBj@aA`@mFjDiAl@_C|AwAl@yDjAmAf@y@n@KLS`@",
+            "resource_state": 3
+      },
+      "effort_count": 12963,
+      "athlete_count": 1302,
+      "star_count": 14,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:11",
+            "qom": "1:14",
+            "destination": {
+                  "href": "strava://segments/7379805/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 81303762,
+            "title": "Allan stern",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81303762/19605661/1/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/7379805/local_legend?categories%5B%5D=overall"
+      }
 }

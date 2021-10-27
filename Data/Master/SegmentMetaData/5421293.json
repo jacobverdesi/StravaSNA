@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5421293,
+      "resource_state": 3,
+      "name": "Latte Lite (done right)",
+      "activity_type": "Ride",
+      "distance": 43168.7,
+      "average_grade": -0.1,
+      "maximum_grade": 48.3,
+      "elevation_high": 270.6,
+      "elevation_low": 158.6,
+      "start_latlng": [
+            43.033949,
+            -77.54374
+      ],
+      "end_latlng": [
+            42.994799,
+            -77.474507
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/66JNMTDWIIJ763X5P2IB4NSHHEIMQKNWAV7Y7N5BIF3CVJFJOAN4FYTBKGA32GTMD5Q3EDVANDFU6X5RZBCIE===",
+      "start_latitude": 43.033949,
+      "start_longitude": -77.54374,
+      "end_latitude": 42.994799,
+      "end_longitude": -77.474507,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-08T03:16:04Z",
+      "updated_at": "2021-05-15T02:13:58Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s5421293",
+            "polyline": "cateGjghxMHjAD`A?dCDrDA~BHn@p@dCHx@Ab@ELK^q@|AMh@Gj@EdAAfBAFF|F@rXBp@Nh@LJPDN@tDMtOE`EDbEGXD`@Lv@p@^b@h@v@`CfCfDxC\\Vl@^^N`AN^ZhFvJpDdHbAtB~A|DZd@p@t@h@PTBhB?TBTDz@\\`@XPNv@dANHd@NvALzA^`@F~@DpCCtGQh@B`@FND^`@LTJh@Dj@E`AAlBK`CY|D}@`GWbA_@z@KNaAj@qBl@i@JqAd@kAr@{B|AmB~@mBlAeBr@uC|@sAj@c@V]Za@z@uAzE}BpG}@pBWTe@t@If@GhAHlBAPDrAC~@A|CFfFF~@`@xDDtBApAGt@B`AAHJp@KnBBbCKl[AzNBlFH|DFdQHjP@fI@`@BNNVTJpAb@rTdJ`Bl@dDr@|ATbCd@~IhBrMdC~JrBxBf@~B~@r@\\lAd@nCpAj\\xNNJFHHXB\\?jNDrOB~D?~JHhU@^DLFJVNvEpBrGxC^Nx@VhAn@n@n@d@r@\\v@j@dBZj@T\\h@b@PD`@Nz@PfLxAD@HN_@jRWnV[zVe@|YMlKK|AKh@Qj@CRPPR@fCMdBQxDMrDQn@Mt@Qd@U`B}@TK`AWTKTCJDDJr@jH`@zD@`@BXZrBh@~BzJr^r@vCd@jCZbClBjThCn[L|@H\\Xr@LVn@x@`@\\b@VbA^tCn@z@TxI~DVPd@h@JFJ@j@IV@jCb@zFx@~Dd@jL`BhEp@xAPnJpA`JhAjD^`AFbAEp@Qr@[bHkDpGkDrM}HtOaJhB_Ap@Yb@Mr@OrAIbKGrFMxII~IOhDAtAPfM~BhLzB`AVNG@CCKBw@LuSFqi@Vyi@?e`@H}w@FyDP{DhAsRbD{k@BiAAiAM_B{Gel@aPmrAyCyUWmA]eAeDgH{AgEqBoEESBQb@c@j@u@LEXDhDbAV@VS|@qAtAcBnAmBfBgCh@{@`L}OtQeXn@w@dDwEhBcCfFsHpGcJ\\m@h@oArAeEn@aBf@kARu@Ls@t@}Fv@yEdA}HLmABoAHeUFcDJeAVcAv@_Cn@_B`AwCJ}@LoDD{GEwNGwQK}JEmBG{A{@yME_BBsAJyB~@wNPiDD}AXmNX{L`IarBPeDVmD|BmWZaEFyAByCEsCBe@MgJK{KI{E]{IAmABsAJwAJu@TgAXcAfAcC|EqIr@iBXmAVsAJaAFyAD}ABmPCeIKsBQiIKgBA_AS{HKo@IQU[EO@UVuAb@eDBa@Gs@EO[i@GQqGuU_DuKk@}AYk@aBoCiBwCsDkGcIqMkFmJgAaB_AcAmAmA_HmGiCyBiBqAaE_CcEuBc@SgA_@qMcDkAQkAE}AJ}G`AwHpAoANsAFwCAoLUcICsG@kHFsADmALOJcAlAiBdB}A~Am@f@eRfQmA`A{@f@aA`@aCt@cGfBcBp@iCxAeFlDuCbBoAh@i@Nk@JwAHwA?cAEkFe@w@A_IBaAGaDs@m@Km@CeABwBLo@CWCm@MoBq@m@OcAOeCEaEDw@Ac@Eo@Ko@QiC_AiAUe@EqA?cDPqDD{AFyBByECcABaAHi@Jk@PwAl@iAZu@Fu@BkF@uKF",
+            "resource_state": 3
+      },
+      "effort_count": 111,
+      "athlete_count": 11,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:16:34",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/5421293/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

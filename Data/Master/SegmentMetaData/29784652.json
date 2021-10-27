@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 29784652,
+      "resource_state": 3,
+      "name": "Winton (Elmwood to Westfall)",
+      "activity_type": "Ride",
+      "distance": 1200.9,
+      "average_grade": 0.3,
+      "maximum_grade": 1.8,
+      "elevation_high": 188.2,
+      "elevation_low": 183.4,
+      "start_latlng": [
+            43.126164,
+            -77.565907
+      ],
+      "end_latlng": [
+            43.116125,
+            -77.571379
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5ASVW6AVPEVRSGJFQXGLPLVL44WT6EX76A7ANPIY7F3ND6O2E7AUQ2FYQXL63UWZAFFDUD7QRM4DXH43WYVSO===",
+      "start_latitude": 43.126164,
+      "start_longitude": -77.565907,
+      "end_latitude": 43.116125,
+      "end_longitude": -77.571379,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-09-08T13:04:33Z",
+      "updated_at": "2021-09-08T13:04:34Z",
+      "total_elevation_gain": 4.8,
+      "map": {
+            "id": "s29784652",
+            "polyline": "oaffG|qlxMxB~@hDbBjAd@`J`EpEhBnNlGvI~D`D|AhAb@",
+            "resource_state": 3
+      },
+      "effort_count": 2653,
+      "athlete_count": 471,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:12",
+            "qom": "1:53",
+            "destination": {
+                  "href": "strava://segments/29784652/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9065715,
+            "title": "William Greene",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9065715/12207509/1/large.jpg",
+            "effort_description": "41 efforts in the last 90 days",
+            "effort_count": "41",
+            "effort_counts": {
+                  "overall": "41 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/29784652/local_legend?categories%5B%5D=overall"
+      }
 }

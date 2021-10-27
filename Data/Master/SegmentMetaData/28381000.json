@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28381000,
+      "resource_state": 3,
+      "name": "Greenway Trail - Scottsville Rd to Welcome to Rochester sign",
+      "activity_type": "Ride",
+      "distance": 1577.1,
+      "average_grade": -0.1,
+      "maximum_grade": 1.6,
+      "elevation_high": 161.8,
+      "elevation_low": 159.3,
+      "start_latlng": [
+            43.108573,
+            -77.674033
+      ],
+      "end_latlng": [
+            43.115177,
+            -77.656872
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EWYUZJZS7PJGBZXBJKBRX2NTXJYOYS76GOA4RJGDAY7XA2GWNMES7IYWSACLF2LYJCINWARHXU2SM4U2OPEFU===",
+      "start_latitude": 43.108573,
+      "start_longitude": -77.674033,
+      "end_latitude": 43.115177,
+      "end_longitude": -77.656872,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-05-10T17:48:10Z",
+      "updated_at": "2021-05-20T08:05:55Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s28381000",
+            "polyline": "qsbfGvuayMIe@eAoD_B_HgBcGgBeFyAwFwA}E_AyDmAoEg@aBe@gByAyEe@cBq@sBUeAaA{Cg@oBm@kBYoAs@yBa@{Au@}BSiA",
+            "resource_state": 3
+      },
+      "effort_count": 7597,
+      "athlete_count": 1365,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:15",
+            "qom": "2:45",
+            "destination": {
+                  "href": "strava://segments/28381000/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24735007,
+            "title": "Bob Hartman",
+            "profile": "https://lh5.googleusercontent.com/-b5TGAn1inDI/AAAAAAAAAAI/AAAAAAAAI7I/KaImjnIbmjQ/photo.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/28381000/local_legend?categories%5B%5D=overall"
+      }
 }

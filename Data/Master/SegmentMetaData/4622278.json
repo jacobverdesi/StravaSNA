@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4622278,
+      "resource_state": 3,
+      "name": "Home to Lonza",
+      "activity_type": "Ride",
+      "distance": 16546.5,
+      "average_grade": 0.3,
+      "maximum_grade": 32.6,
+      "elevation_high": 171.1,
+      "elevation_low": 120.2,
+      "start_latlng": [
+            43.124438,
+            -77.530047
+      ],
+      "end_latlng": [
+            43.149907,
+            -77.672106
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JGNUIM6D7YF357D4QWZNTOVUMXCTCSPXLTFWUE6YUMEIBUQOSTSR3L4M3L4DI5DN37D7WRKQNEGHMARPO2VOC===",
+      "start_latitude": 43.124438,
+      "start_longitude": -77.530047,
+      "end_latitude": 43.149907,
+      "end_longitude": -77.672106,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-05T13:32:36Z",
+      "updated_at": "2021-05-15T02:13:27Z",
+      "total_elevation_gain": 153.9,
+      "map": {
+            "id": "s4622278",
+            "polyline": "uvefGxqexMrAn@~@n@f@v@Vz@f@z@b@j@Zr@f@pB~@`BJ`@x@rCl@nAj@~Ab@v@`@hAj@lAX`@Rv@h@`APTb@~@f@|@b@f@\\t@`@h@JXd@v@^|@t@lAV`ADJhAhA^v@FXh@x@L^j@rAJ`@R^j@vAf@dAXT\\pA@v@E|AD|AHx@HzD@fFAz@FnAPXKh@A\\?vAHxDHlHIjAFlBCh@CB@RD@BFDh@CpCBzACb@BRCZBEB?BHEH@`G@CDv@DZB`@Cx@IvAApADf@DnAP`@~@LXH`@XLLNTTJXDHBNLTHl@`@b@Rd@Pl@L~@h@RPn@Zh@Ln@VVRl@ThAj@ZPJLVJpA\\p@ZXHtAr@ZJVVXLz@\\`EjBpAd@\\V`EhB`AXn@X|BjA~B`A~C|A~Af@`@P|CxAr@`@~@`@x@d@rBn@t@b@RN`C~@|@b@|@^zDnB\\HLJx@b@|@^`ATTHdA`AxAb@d@Pp@NXJb@H`@Bj@^\\^Fr@ZlA@XK^a@`AUp@A^@CcBjD@Aa@rAk@lCW~A]zAq@dEm@vCq@lCgBrI_@tB[JSHMLELERA^BHDj@?^Cl@m@dCi@xCc@z@g@r@Wj@g@bBm@tAI\\Gd@?r@_@lAKf@QtAw@`EOdBMt@Gt@QfAi@zBMz@m@zBQtAShAq@tCa@pA{@rEa@xAk@dD}@`Gi@dCWdB[dBu@`DYbBa@~Ac@lCy@fDIl@e@|BAb@m@lB[fBCX[pAOj@_@|@Iz@Uj@IZMnAW~AOl@q@rB}@nEa@|A[tBCb@W~@Ul@QvAUdAM~@Op@[hAOz@SxBSh@OVOn@G`@?JIZBNIn@mBfHG^U|@I^A\\Ed@I`@q@tAQh@a@bCa@vDUnAGx@QrAm@nBUlAm@bCE^[j@KZE\\EtAGf@YpAo@xBWrBUj@Kb@MnA{@nCQdA]pAEd@DREb@On@s@vBy@zDS~Aw@jCKn@]tA[n@y@tCw@lBc@rAaAzBu@vAqA~CeAbBO^Ox@INCAACSZqAvCS\\[`@cAtBIXM|@Wt@UnB[vAc@t@a@x@KAUN[b@_@~@CXUl@Md@kAbBe@fAUXo@XIHOTGVEl@U`Aa@z@]fAOZm@l@GBSC[Y]m@SSSIG?m@JsBBWHQVCXJn@@^ExA@bAKhB?TOZIJjAjAXrA\\p@Pd@HLt@fBdAlCFRCd@GPcAhAa@TOEUYIQIIUG[F]RYZs@fAy@`CYjAg@xA?PG^iAhBYp@_@fAOl@Kn@Gp@Ah@In@gCbBAX_@r@W|@_@dAMXo@lAm@zAW`B[dAs@pAk@pAaAfBw@tBq@xAs@lAgA`Bu@pAuA|AiBhBULsAf@wAfAu@|@OH]Zc@RMBIF_@p@i@ZSRO\\o@pBaDh@@FEFy@~@_@T_@N[RUTsAv@w@x@_At@uBxAk@\\]\\SVy@h@{BhBeBfAyApAuBjAg@JQHk@\\QTk@vAYRq@Xw@b@CH?DFAFIDOQXa@TsA~@{AjA_@Z_@j@g@vAgEbAe@j@{@v@cApAy@z@]d@u@n@i@\\eAh@]NyAd@gCtAo@TWN[b@a@jAYd@m@z@[XKBSIMi@KaBKs@EIKMQC{AZu@VSDe@DuAD_@Ho@XOLm@~@GDCACK",
+            "resource_state": 3
+      },
+      "effort_count": 26,
+      "athlete_count": 1,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "36:04",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/4622278/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

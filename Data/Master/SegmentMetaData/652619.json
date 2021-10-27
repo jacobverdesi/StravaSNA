@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 652619,
+      "resource_state": 3,
+      "name": "Loud Road Climb",
+      "activity_type": "Ride",
+      "distance": 2233.11,
+      "average_grade": 4.2,
+      "maximum_grade": 17.3,
+      "elevation_high": 253.4,
+      "elevation_low": 158.2,
+      "start_latlng": [
+            43.06340904906392,
+            -77.4073071219027
+      ],
+      "end_latlng": [
+            43.04791786707938,
+            -77.41400375962257
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DASY6OTUJJB3GEVGFHPRT6TLKVQL7YCFIAP5U3J4RIONO67BFGNXZHYBCS5WYNWJC4LZSR2CKJORO75IASOA====",
+      "start_latitude": 43.06340904906392,
+      "start_longitude": -77.4073071219027,
+      "end_latitude": 43.04791786707938,
+      "end_longitude": -77.41400375962257,
+      "climb_category": 1,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2011-05-12T00:10:34Z",
+      "updated_at": "2021-05-20T08:02:04Z",
+      "total_elevation_gain": 95.2,
+      "map": {
+            "id": "s652619",
+            "polyline": "gyyeGtrmwM@NB@VG\\EnAEdJObDAzFObA?NDjAn@`@Nb@Hl@Fd@@jAC|BKdADzAAhCOV@bGOzB@zEE`@BLDd@Tn@h@lBvAzBfA^JdMrCXNBZa@hDs@lN[jCKl@Qj@",
+            "resource_state": 3
+      },
+      "effort_count": 2488,
+      "athlete_count": 305,
+      "star_count": 19,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:17",
+            "qom": "6:40",
+            "destination": {
+                  "href": "strava://segments/652619/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2718728,
+            "title": "Matthew Howard",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2718728/6979589/4/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/652619/local_legend?categories%5B%5D=overall"
+      }
 }

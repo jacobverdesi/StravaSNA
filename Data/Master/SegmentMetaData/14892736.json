@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14892736,
+      "resource_state": 3,
+      "name": "Westfall Run",
+      "activity_type": "Ride",
+      "distance": 2056.8,
+      "average_grade": 0.5,
+      "maximum_grade": 7.8,
+      "elevation_high": 162.7,
+      "elevation_low": 151.7,
+      "start_latlng": [
+            43.116092,
+            -77.571579
+      ],
+      "end_latlng": [
+            43.115487,
+            -77.596725
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/B6LDBSON7PZ3KKUJKV7FHFSWOBWY4AZIASDKBRHUIQEOQZDRGS55Q4BTY6OHO3WBNLVOZHG3IXCVWUWXDMUEK===",
+      "start_latitude": 43.116092,
+      "start_longitude": -77.571579,
+      "end_latitude": 43.115487,
+      "end_longitude": -77.596725,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-05-16T13:32:51Z",
+      "updated_at": "2021-05-15T02:19:22Z",
+      "total_elevation_gain": 13.0,
+      "map": {
+            "id": "s14892736",
+            "polyline": "qbdfGjumxMDJDjA?nALjICnBDhAJzEARBjCBfHBxA?dCDvBArADr@An@BbBA^JzEAbAFzBCpCH`CAjAHxCEjDJnBGf@DhA@xDHbGARAfB@dAB`@@dEBdA?zABv@D~BAt@BtAE\\?l@@t@Ap@BLC\\Bb@ChA",
+            "resource_state": 3
+      },
+      "effort_count": 1577,
+      "athlete_count": 287,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:16",
+            "qom": "3:36",
+            "destination": {
+                  "href": "strava://segments/14892736/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9065715,
+            "title": "William Greene",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9065715/12207509/1/large.jpg",
+            "effort_description": "27 efforts in the last 90 days",
+            "effort_count": "27",
+            "effort_counts": {
+                  "overall": "27 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/14892736/local_legend?categories%5B%5D=overall"
+      }
 }

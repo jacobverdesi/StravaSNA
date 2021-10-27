@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4963101,
+      "resource_state": 3,
+      "name": "GVCC Riga TTT - Lap",
+      "activity_type": "Ride",
+      "distance": 15288.0,
+      "average_grade": 0.0,
+      "maximum_grade": 6.7,
+      "elevation_high": 217.8,
+      "elevation_low": 178.1,
+      "start_latlng": [
+            43.040564,
+            -77.830547
+      ],
+      "end_latlng": [
+            43.040743,
+            -77.830219
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LHOXJ3RXZEEIH5CXJEXVKT7FW2BZNQRT7FDSI2FDSAXX7OTFMNLZPHTM4XFU3B2ZTZ7VEKBRIQ5M6YG5KP6A====",
+      "start_latitude": 43.040564,
+      "start_longitude": -77.830547,
+      "end_latitude": 43.040743,
+      "end_longitude": -77.830219,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-08-02T17:53:03Z",
+      "updated_at": "2021-05-15T02:13:41Z",
+      "total_elevation_gain": 162.9,
+      "map": {
+            "id": "s4963101",
+            "polyline": "ojueG|g`zM|HnLbFnHjCnDZj@RDp@|@~EfHtMvR`@d@hB~AvIpHdTjR|AxAhC|BnAt@`@Ur@m@lA{@vAy@|DoCpQmLvAeAhHuEzFyDp@[PAPZCrJ?rKH`LDzWCzY_@zf@CfDEz@KDa@?m@_@aBy@yToJkBS}Q@wECgHAsBEoHCmIBwBEWCoBDyIAgAIaAQoEuAwB[{BM_CEaB@wFAuRBcEDgHB}STuHDkUEqPZaML{B?qACMMEg@?oABkOCcJOm[@gREeCDk[LmHV_F^cDZoC`A{Fj@iHj@}IT{C^wHCkMIuF?uCB_ArAaSx@{NXa@j@ArDR|C@`MIvBBxDA~KKhDI|B?N@pA`@\\Td@h@rD|FdEdGrFlIzE|GxErHpElGjC|D",
+            "resource_state": 3
+      },
+      "effort_count": 1836,
+      "athlete_count": 193,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "20:41",
+            "qom": "23:10",
+            "destination": {
+                  "href": "strava://segments/4963101/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5889,
+            "title": "Brendan Housler - EVOQ.BIKE \ud83e\uddea\ud83e\udd86",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5889/34412/5/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/4963101/local_legend?categories%5B%5D=overall"
+      }
 }

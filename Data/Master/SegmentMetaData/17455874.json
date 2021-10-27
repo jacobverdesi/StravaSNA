@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17455874,
+      "resource_state": 3,
+      "name": "Crittenden Blvd East",
+      "activity_type": "Ride",
+      "distance": 737.5,
+      "average_grade": 1.2,
+      "maximum_grade": 6.2,
+      "elevation_high": 174.2,
+      "elevation_low": 164.0,
+      "start_latlng": [
+            43.121294,
+            -77.628588
+      ],
+      "end_latlng": [
+            43.121672,
+            -77.619567
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PSMJRB77DLCVAQ3HZLBDR4UGFXR24VFB4UCZ4YXE4KLAL5N46O2BLSGTNTX57ES722CCQ5PDPEIUXFJVKBLQ====",
+      "start_latitude": 43.121294,
+      "start_longitude": -77.628588,
+      "end_latitude": 43.121672,
+      "end_longitude": -77.619567,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-04-22T14:55:47Z",
+      "updated_at": "2021-05-17T08:07:29Z",
+      "total_elevation_gain": 10.2,
+      "map": {
+            "id": "s17455874",
+            "polyline": "acefGtyxxMIoDGyHIuAUaIAqABUA_AGgB?g@CgA@OGgAA_EE}B?sB",
+            "resource_state": 3
+      },
+      "effort_count": 560,
+      "athlete_count": 193,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:03",
+            "qom": "1:20",
+            "destination": {
+                  "href": "strava://segments/17455874/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 25630420,
+            "title": "Dale  Maddock",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/17455874/local_legend?categories%5B%5D=overall"
+      }
 }

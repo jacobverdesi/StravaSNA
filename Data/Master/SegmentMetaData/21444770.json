@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21444770,
+      "resource_state": 3,
+      "name": "Nazareth to Sylvania",
+      "activity_type": "Ride",
+      "distance": 1511.8,
+      "average_grade": -0.1,
+      "maximum_grade": 4.8,
+      "elevation_high": 146.6,
+      "elevation_low": 135.4,
+      "start_latlng": [
+            43.10002,
+            -77.513985
+      ],
+      "end_latlng": [
+            43.11329,
+            -77.517187
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/NXYF4KAJT22JW5F24G3CQ5K44P43TPEVUPYY3SSPSJ5DFX7P4DALOFSP4KN6WD63IY7I5VSYJJSOSOOT2EBA====",
+      "start_latitude": 43.10002,
+      "start_longitude": -77.513985,
+      "end_latitude": 43.11329,
+      "end_longitude": -77.517187,
+      "climb_category": 0,
+      "city": null,
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-08-11T20:24:52Z",
+      "updated_at": "2021-05-15T08:05:56Z",
+      "total_elevation_gain": 10.4,
+      "map": {
+            "id": "s21444770",
+            "polyline": "c~`fGlmbxMoDEiBFgAPy@RsC~@mKlE{Ah@_Cf@cC`@yCj@{F|@uBb@}Cj@}BVaAHuADeB?yGK",
+            "resource_state": 3
+      },
+      "effort_count": 6492,
+      "athlete_count": 825,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:26",
+            "qom": "2:19",
+            "destination": {
+                  "href": "strava://segments/21444770/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 87726935,
+            "title": "Neil Thompson",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/87726935/21839932/1/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/21444770/local_legend?categories%5B%5D=overall"
+      }
 }

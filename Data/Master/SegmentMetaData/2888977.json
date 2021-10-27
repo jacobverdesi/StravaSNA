@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2888977,
+      "resource_state": 3,
+      "name": "Indian Hill Backside-Burst",
+      "activity_type": "Ride",
+      "distance": 446.923,
+      "average_grade": 7.0,
+      "maximum_grade": 21.4,
+      "elevation_high": 216.9,
+      "elevation_low": 184.5,
+      "start_latlng": [
+            43.063577,
+            -77.424366
+      ],
+      "end_latlng": [
+            43.066801,
+            -77.423865
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4PZTOAW4YH65FGHBBGZBAVFFWCMBL6LXFV444HD3IPABE2MVGV3SZESNGGCNDFV6F6DTCY3ORVN5SO25YEXO6===",
+      "start_latitude": 43.063577,
+      "start_longitude": -77.424366,
+      "end_latitude": 43.066801,
+      "end_longitude": -77.423865,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-12-02T21:53:56Z",
+      "updated_at": "2021-05-19T08:02:14Z",
+      "total_elevation_gain": 32.377,
+      "map": {
+            "id": "s2888977",
+            "polyline": "izyeGh}pwMJS@GAGGVUR_AAMF{@P_@PWToBAID]A]H[C]DeAWc@WIA]?MIMOYy@CWH[",
+            "resource_state": 3
+      },
+      "effort_count": 361,
+      "athlete_count": 66,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:49",
+            "qom": "3:13",
+            "destination": {
+                  "href": "strava://segments/2888977/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/2888977/local_legend?categories%5B%5D=overall"
+      }
 }

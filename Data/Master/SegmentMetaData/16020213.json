@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16020213,
+      "resource_state": 3,
+      "name": "Lower purple trail to parking lot",
+      "activity_type": "Ride",
+      "distance": 346.6,
+      "average_grade": -5.7,
+      "maximum_grade": 2.1,
+      "elevation_high": 101.3,
+      "elevation_low": 81.7,
+      "start_latlng": [
+            43.183965,
+            -77.532988
+      ],
+      "end_latlng": [
+            43.183806,
+            -77.529357
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LEPP6GPJPJTP3WNUOPP5RFT2Z43YBRPV4XUAW3FPMEGZCFORPP7O2PVYIXYZOOJGWJWZ5SDEYOEV3MZTYRZA====",
+      "start_latitude": 43.183965,
+      "start_longitude": -77.532988,
+      "end_latitude": 43.183806,
+      "end_longitude": -77.529357,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-09-13T19:34:48Z",
+      "updated_at": "2021-05-19T08:04:17Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s16020213",
+            "polyline": "wjqfGddfxMMKEXg@g@[kAIo@H{Ad@wCb@qBPm@HsBPw@",
+            "resource_state": 3
+      },
+      "effort_count": 13633,
+      "athlete_count": 1000,
+      "star_count": 14,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "38s",
+            "qom": "59s",
+            "destination": {
+                  "href": "strava://segments/16020213/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10477404,
+            "title": "Tim Wall",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10477404/9852718/1/large.jpg",
+            "effort_description": "35 efforts in the last 90 days",
+            "effort_count": "35",
+            "effort_counts": {
+                  "overall": "35 efforts",
+                  "female": "13 efforts"
+            },
+            "destination": "strava://segments/16020213/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15556379,
+      "resource_state": 3,
+      "name": "Elmwood - Clover to East",
+      "activity_type": "Ride",
+      "distance": 1382.0,
+      "average_grade": -1.1,
+      "maximum_grade": 1.8,
+      "elevation_high": 138.3,
+      "elevation_low": 122.7,
+      "start_latlng": [
+            43.127031,
+            -77.546187
+      ],
+      "end_latlng": [
+            43.12815,
+            -77.529401
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7T7LXU7AQQXYT2DM6DTAU2REVZZ6E6GXFG5OEFRJLUZNLMAQ326FYLRNHX5ZZHJBB2WWLM6ROZN2RYLNATOII===",
+      "start_latitude": 43.127031,
+      "start_longitude": -77.546187,
+      "end_latitude": 43.12815,
+      "end_longitude": -77.529401,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-07-27T21:01:19Z",
+      "updated_at": "2021-05-15T02:19:47Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s15556379",
+            "polyline": "}fffGtvhxMAYBWAs@OcEIgB@yCCW@mACW?cACm@@SCi@?k@KuDAmBGaCFoBA}BW{CYkCGoDE_@?]GSA]Ba@IgCCaD_@aM@iBI}CIo@SiAQi@",
+            "resource_state": 3
+      },
+      "effort_count": 707,
+      "athlete_count": 236,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:32",
+            "qom": "1:18",
+            "destination": {
+                  "href": "strava://segments/15556379/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/15556379/local_legend?categories%5B%5D=overall"
+      }
 }

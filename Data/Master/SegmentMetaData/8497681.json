@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8497681,
+      "resource_state": 3,
+      "name": "* TRUCKIN *",
+      "activity_type": "Ride",
+      "distance": 533.7,
+      "average_grade": -4.3,
+      "maximum_grade": 0.3,
+      "elevation_high": 194.2,
+      "elevation_low": 171.4,
+      "start_latlng": [
+            43.048764,
+            -77.69349
+      ],
+      "end_latlng": [
+            43.053426,
+            -77.69155
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7IBRXBWJODQKKJXBI6SU5FJDM7NX4G3CJEO5SOMSZTTHQ3336L4FGFYLGAN4OPA77WJMDNG6YZ4OSNARPJQAU===",
+      "start_latitude": 43.048764,
+      "start_longitude": -77.69349,
+      "end_latitude": 43.053426,
+      "end_longitude": -77.69155,
+      "climb_category": 0,
+      "city": "West Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-12T01:39:17Z",
+      "updated_at": "2021-05-20T08:03:13Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8497681",
+            "polyline": "w}veGhoeyMc\\aK",
+            "resource_state": 3
+      },
+      "effort_count": 3384,
+      "athlete_count": 751,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "34s",
+            "qom": "39s",
+            "destination": {
+                  "href": "strava://segments/8497681/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5031574,
+            "title": "Jeff Parrish",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5031574/2928002/2/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8497681/local_legend?categories%5B%5D=overall"
+      }
 }

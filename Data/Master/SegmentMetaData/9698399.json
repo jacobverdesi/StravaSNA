@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9698399,
+      "resource_state": 3,
+      "name": "* UP TO da POND *",
+      "activity_type": "Ride",
+      "distance": 582.5,
+      "average_grade": 0.4,
+      "maximum_grade": 16.0,
+      "elevation_high": 213.2,
+      "elevation_low": 201.2,
+      "start_latlng": [
+            43.013408,
+            -77.52496
+      ],
+      "end_latlng": [
+            43.008171,
+            -77.524952
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4VILNJ3HFPAM6FK7O4NZDMAAGHSAXTK3WGNM4CSUAR7HQVC5MFVQVI5MXBW4H737ACM765BGB2XOTEY5UENA====",
+      "start_latitude": 43.013408,
+      "start_longitude": -77.52496,
+      "end_latitude": 43.008171,
+      "end_longitude": -77.524952,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-10T20:34:43Z",
+      "updated_at": "2021-05-15T08:04:00Z",
+      "total_elevation_gain": 12.0,
+      "map": {
+            "id": "s9698399",
+            "polyline": "w`peG~qdxMtKOlCMzJGdBBN`@",
+            "resource_state": 3
+      },
+      "effort_count": 8375,
+      "athlete_count": 968,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "46s",
+            "qom": "49s",
+            "destination": {
+                  "href": "strava://segments/9698399/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 66279456,
+            "title": "Geoff Scott",
+            "profile": "https://lh5.googleusercontent.com/-2VNo9wQcjw4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyuZUCSRhvGXZsapmMNxlCE9h1tA/s96-c/photo.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/9698399/local_legend?categories%5B%5D=overall"
+      }
 }

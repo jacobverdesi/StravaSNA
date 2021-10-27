@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1103017,
+      "resource_state": 3,
+      "name": "106-baker",
+      "activity_type": "Ride",
+      "distance": 13387.3,
+      "average_grade": 0.4,
+      "maximum_grade": 9.8,
+      "elevation_high": 249.9,
+      "elevation_low": 184.8,
+      "start_latlng": [
+            42.966412995010614,
+            -77.60845930315554
+      ],
+      "end_latlng": [
+            42.92136361822486,
+            -77.53919125534594
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZRIJBDQEXT2RLCBSK62R2FPXMKZ27L653ONKO7DTIQKSNYVLQQ232BGOAYPZ3QEN4F5QDFHSV2MWMDDLYRFVM===",
+      "start_latitude": 42.966412995010614,
+      "start_longitude": -77.60845930315554,
+      "end_latitude": 42.92136361822486,
+      "end_longitude": -77.53919125534594,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-03-18T15:45:38Z",
+      "updated_at": "2021-05-15T02:11:54Z",
+      "total_elevation_gain": 162.845,
+      "map": {
+            "id": "s1103017",
+            "polyline": "a{feGz{txMW?LBQFS@k@AYFOTCZGZKFKKSgDaAeXSwDWcJ[{MIuN[wRG}GB[NMfANz@BT[E{L?}MBu[GmGIoBSaD}BcWiCcUm@sEEu@SeA{@_IIoBIwIKiD_@eHu@sQw@aOE{AGm@i@eEe@qCaByH_BiI{@sDi@qBmAoDiBqE}AeEk@qBoB_LcBuKMaAIcAGeCCgQGeJBkCM}OI}^IcDCsFJ[\\EfA?f@Df@JhAf@hBhAdBjAxBdBrBhBxAvAzG~FpApAnE`Ev@l@z@h@THl@Jp@BjHBtYWpCGzE?vBEvOIbJQ|@BxECnDItA?z@@t@C`D@zIKjAIhAAx@BrCIp@EtEIpCCxBBfBIb@BfARbAZpG`CfAd@tBxAdAfAvBhCf@j@|AlBbBlB`BrB`@j@JZb@^t@x@`@l@jClCn@v@RZRLTDtA@xUDvGFnBAZA^@`@AvE@t@Ct@G\\GhAa@pCcAhC{@lCs@|@MX?XBn@RVNl@`@zApAPJnA`@bAHtDAlBF",
+            "resource_state": 3
+      },
+      "effort_count": 12,
+      "athlete_count": 1,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "31:08",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/1103017/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

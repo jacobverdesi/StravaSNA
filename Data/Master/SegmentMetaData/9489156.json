@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9489156,
+      "resource_state": 3,
+      "name": "South S. Goodman",
+      "activity_type": "Ride",
+      "distance": 519.8,
+      "average_grade": -1.1,
+      "maximum_grade": -0.2,
+      "elevation_high": 163.7,
+      "elevation_low": 158.0,
+      "start_latlng": [
+            43.129674,
+            -77.601549
+      ],
+      "end_latlng": [
+            43.125503,
+            -77.604283
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KMV5W7DLITKTTZJKE4O6BCDVAJVPTRPTXDTJF2O5CDOICF4ZN5YY66GGK4J5ESPCVVQW76BBJKIG75RIIUMQ====",
+      "start_latitude": 43.129674,
+      "start_longitude": -77.601549,
+      "end_latitude": 43.125503,
+      "end_longitude": -77.604283,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-15T03:33:51Z",
+      "updated_at": "2021-05-20T08:03:23Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9489156",
+            "polyline": "mwffGtpsxMx@t@vD~DZXl@`@t@\\bEvA~ElBj@L",
+            "resource_state": 3
+      },
+      "effort_count": 578,
+      "athlete_count": 250,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "26s",
+            "qom": "32s",
+            "destination": {
+                  "href": "strava://segments/9489156/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 49818021,
+            "title": "Andrew Himmelberg",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/9489156/local_legend?categories%5B%5D=overall"
+      }
 }

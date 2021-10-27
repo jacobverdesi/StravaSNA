@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7031235,
+      "resource_state": 3,
+      "name": "Midnight Crit #2",
+      "activity_type": "Ride",
+      "distance": 447.8,
+      "average_grade": -0.0,
+      "maximum_grade": 11.6,
+      "elevation_high": 112.6,
+      "elevation_low": 102.6,
+      "start_latlng": [
+            43.082406,
+            -77.682672
+      ],
+      "end_latlng": [
+            43.082408,
+            -77.682648
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LKHVOO6QQ7WZII2BBYR5BD35PJ7Z7L7RSLHMFTLIPXMCJ5MAGFQAL5HNQG4H6YPRN26JCNRRKHENXP43AHDQ====",
+      "start_latitude": 43.082406,
+      "start_longitude": -77.682672,
+      "end_latitude": 43.082408,
+      "end_longitude": -77.682648,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-04-18T05:15:28Z",
+      "updated_at": "2021-05-15T02:14:55Z",
+      "total_elevation_gain": 11.0,
+      "map": {
+            "id": "s7031235",
+            "polyline": "_p}eGvkcyM?j@CRGPKLKFYACLBLJATQXKR_@JKNCRUAw@BSLIl@GHCDc@KeBESKOMI]?OCm@AIHCN?f@DzD",
+            "resource_state": 3
+      },
+      "effort_count": 31,
+      "athlete_count": 6,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "37s",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/7031235/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

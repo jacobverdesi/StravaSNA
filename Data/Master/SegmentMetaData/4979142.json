@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4979142,
+      "resource_state": 3,
+      "name": "2013 OAK HILL PGA Championship. Irondequoit CC Zipper. Up.",
+      "activity_type": "Ride",
+      "distance": 412.9,
+      "average_grade": 2.0,
+      "maximum_grade": 7.3,
+      "elevation_high": 139.6,
+      "elevation_low": 131.2,
+      "start_latlng": [
+            43.106794,
+            -77.52125
+      ],
+      "end_latlng": [
+            43.106452,
+            -77.516334
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EPJRPQKOHQ3SMPY4SY2KBORB5AYUQ76ZEYWUMLYBJOFFVQQVIUT4UEMHJO6NNTO7URJVAOEXLVQRFDUDGM7JW===",
+      "start_latitude": 43.106794,
+      "start_longitude": -77.52125,
+      "end_latitude": 43.106452,
+      "end_longitude": -77.516334,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-08-04T00:50:51Z",
+      "updated_at": "2021-05-15T02:13:41Z",
+      "total_elevation_gain": 9.0,
+      "map": {
+            "id": "s4979142",
+            "polyline": "mhbfGxzcxMEc@EOCw@JaA@i@Ae@@i@GiDLwAB}@ZwC?_DHWT]",
+            "resource_state": 3
+      },
+      "effort_count": 18,
+      "athlete_count": 18,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "43s",
+            "qom": "1:05",
+            "destination": {
+                  "href": "strava://segments/4979142/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 44483976,
+            "title": "Howard Kravetz",
+            "profile": "https://graph.facebook.com/10218470657531648/picture?height=256&width=256",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/4979142/local_legend?categories%5B%5D=overall"
+      }
 }

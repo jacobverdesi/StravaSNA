@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1193295,
+      "resource_state": 3,
+      "name": "Latte",
+      "activity_type": "Ride",
+      "distance": 46711.0,
+      "average_grade": -0.1,
+      "maximum_grade": 10.7,
+      "elevation_high": 278.3,
+      "elevation_low": 161.3,
+      "start_latlng": [
+            43.034008362113106,
+            -77.5430408785338
+      ],
+      "end_latlng": [
+            42.995004412980876,
+            -77.47441419131766
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LOXGW2S342TS6VXYE6JRLGLOZAWMN7SUVHC6AH4ABHBHRXYCG2PCZHJ5HI53CSUVV2GCHWVKQHXR5UV36HFPU===",
+      "start_latitude": 43.034008362113106,
+      "start_longitude": -77.5430408785338,
+      "end_latitude": 42.995004412980876,
+      "end_longitude": -77.47441419131766,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-04-07T17:53:08Z",
+      "updated_at": "2021-05-20T08:02:09Z",
+      "total_elevation_gain": 529.56,
+      "map": {
+            "id": "s1193295",
+            "polyline": "oateG`chxMDxAV~DF|JDl@Hj@Nb@\\~AHt@Eh@Mb@m@pAW|@K~@AjCBnKAjCDvHEfFFbA`@v@t@P~DQfDBtHCjDBfEG`@@^B^PfA`A`@b@fBvBnAfAvCnCb@Zd@Tj@Pj@Fd@f@lB~DrHzMrAzCb@lAb@dAj@t@r@j@p@Rz@AhA?bA\\v@h@n@p@t@f@xB^t@Xr@Nf@BxAItJUj@Jl@X`@bADzAEjDErAKvAa@`Do@nDQv@Up@[n@c@h@g@X_EjAa@RsAt@mEvC_DdBuAn@iD`Au@Xo@`@i@r@]z@wAfFcAnCiAzBU\\m@f@U`@Qn@Ip@FlC?vAHdDCfE@~@HvBXdCFt@@n@EbF@r@Hn@?jAFxBO`KGnUBtMVvc@DdRFp@b@`@l@Z|HtCtLjFvBv@v@RfKdBhMbCzG|Az@LbFhAz@LvBb@v@TfBr@pCpAzGvCxBx@vBfAfDtAlCpAvD~Ab@TXj@BbAAvCD|EFvSDzE?xKF`RVp@f@`@p@^fJxDrAx@tBbAv@j@j@x@d@bAr@jB`@j@f@b@r@\\tB`@`E\\rDf@Rd@?|@QdCOrEUxRChGOhJIpKm@h]GvEI~CIl@Uv@Np@^N^BtIU`CMrBWh@Mh@StAu@rCaA^HNj@Jz@^lE\\rCJrAX`CRjAfDpMhDtLtAbFPx@`@tB\\~Bl@nGt@pJdAzKv@`L`@fE^zAl@lAr@r@t@`@x@TpEdAtEnB|C`B`@^b@Ld@Ab@@dAL~F~@hGv@lGfAhCZnCVdBZlEp@fARxGv@zEt@fDVhABf@Ef@Gj@QrAq@rBkAvFoCtBwAtGiDtFkDtCyA|HyE`DeBn@[p@Ut@InC?lFEnC?zEGpBErAA`BEfCExGQvA@|ALxF~@rCp@fJhBzCn@d@NJf@@r@K`F@nJ@h@X^b@N`@FpL~AvJ`BtAVzA^fF~@j@Ll@Rh@XtOzK|DjC|GzE|A|@jHhDhDrB`Ap@fA~@l@`AbA|@|A|AXNVGNWHWPoADm@fA{UHsCRwDFyCd@gJNyDDqBJ}BHyAJaAB_BD{@JaATiHVmKNkDF{C`A{STyHn@cLhAc_@XoF\\aIb@uHZwHH_ANcC?_Aa@o@q@WgBa@s@Uq@Yi@o@e@y@UiACmACoLIcHE_BKeGKkDEwAQ{A]wAqHuUyBiHYmAq@kD{CaNUoA{@_Gw@uGe@gD_@gD{@uF_@wC}AmQUwDCcA?UHo@Ch@DsCA}GDuBJyB`@}EPmCHkCNkC^eQPyDDkEXmKJmIXiLDoDPsFBmCAiE@mARkF^iIFcFd@_R^gXDsGEy@c@WkGJ_BH_EAyGLsAFc@WUeAQwAa@mA_CoCa@k@[i@Mc@?_@Lk@x@eC\\gBbA}H|@yFf@}DHaADiABaDAcI@gHBmALkAVgA^cA`B_E\\aARgAHkAHyCDgDE_QO}YKeFiAsQEkA?gALuBRyBv@mKDcANkEFkGPwF@yCHwCnAoZv@_T`@uHl@_RnAiYHsCf@_L^aGp@uI`@wDd@eFX}DLeC@mDEyIKaECcFGeFCcAUsEMcE?aADmBHqAHi@VuAZqAd@cA|AmCp@sAhBkCl@yATu@T_A`@sCJmAF{FGwEE_O[oIU}MGgBIy@Wy@A{@t@iFE_A]aAu@yC}AaFu@sCuBiHmDeLc@aAe@}@{BwDkDeFqBqD_DyEcA_BwFgKo@eAq@aAq@{@u@u@eFcE}CuCo@o@mByAqEmCkE}BcBo@iFuAsD{@qAUe@Gg@Eg@?mAH{HjAaCb@mAJwCd@k@DmBBoBCwEQyBE}CAkBBqF?gDDaBFsC@kCDk@Dg@Hg@^yB~BmBfBsBtBoCvBsAjAwCrCwCtCcBxAy@f@{@b@}@\\yI`CiBp@q@^yDdC{CzBaB`As@`@y@Zy@Ty@LoBDu@CeGu@gAGkC@}DH{@G}@OuBk@_AOaACaABaAH}@@y@Gs@UiBs@q@MkDIsDFaCSeAWmAc@uAc@o@Im@EaR^_DEcCB}@Lw@PoBp@aARaAJcAFcM?oEJ",
+            "resource_state": 3
+      },
+      "effort_count": 2780,
+      "athlete_count": 256,
+      "star_count": 39,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:07:32",
+            "qom": "1:09:35",
+            "destination": {
+                  "href": "strava://segments/1193295/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 46558612,
+            "title": "Pete Aldridge",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/46558612/12867132/5/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1193295/local_legend?categories%5B%5D=overall"
+      }
 }

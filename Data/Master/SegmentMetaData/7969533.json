@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7969533,
+      "resource_state": 3,
+      "name": "* AUBURN TO RR *",
+      "activity_type": "Ride",
+      "distance": 1222.0,
+      "average_grade": -0.0,
+      "maximum_grade": 8.7,
+      "elevation_high": 140.0,
+      "elevation_low": 137.8,
+      "start_latlng": [
+            43.037012,
+            -77.486188
+      ],
+      "end_latlng": [
+            43.026837,
+            -77.482454
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DMHZS5UKIBV7LY5TGZDKY5ZQO3OIRKPGDIIU7P6NOR6O2QXU2DUB3CNVZZ7WPKXMJ3G3WILZN5YU3WOO4SNEI===",
+      "start_latitude": 43.037012,
+      "start_longitude": -77.486188,
+      "end_latitude": 43.026837,
+      "end_longitude": -77.482454,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-08-23T23:51:23Z",
+      "updated_at": "2021-05-20T08:03:08Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s7969533",
+            "polyline": "itteGt_}wM\\Sb@c@lEiDfAi@n@i@LQv@i@h@]lAo@bBwAf@g@ZUxAw@l@Ul@i@X_@XOx@Q~@EtAAhAN~@HrA?^Fn@BzBZjAJ`C@bAE|@GpAS",
+            "resource_state": 3
+      },
+      "effort_count": 9003,
+      "athlete_count": 1337,
+      "star_count": 16,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:42",
+            "qom": "2:03",
+            "destination": {
+                  "href": "strava://segments/7969533/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 39055411,
+            "title": "Kraigh Stewart",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/39055411/13496379/1/large.jpg",
+            "effort_description": "30 efforts in the last 90 days",
+            "effort_count": "30",
+            "effort_counts": {
+                  "overall": "30 efforts",
+                  "female": "18 efforts"
+            },
+            "destination": "strava://segments/7969533/local_legend?categories%5B%5D=overall"
+      }
 }

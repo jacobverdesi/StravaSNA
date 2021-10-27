@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26015400,
+      "resource_state": 3,
+      "name": "S Lehigh Valley Trail (Lehigh to Erie Station Rd)",
+      "activity_type": "Ride",
+      "distance": 2159.5,
+      "average_grade": 0.3,
+      "maximum_grade": 3.8,
+      "elevation_high": 173.9,
+      "elevation_low": 165.7,
+      "start_latlng": [
+            43.05828,
+            -77.629188
+      ],
+      "end_latlng": [
+            43.040685,
+            -77.636056
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6BHCWBDDBZ36FTJEVOISK4XCGVLF7BG27ZZTTJXXIH3TEUK3OIUA32RHHZXLPI7GCVJADPC72RKOMBVWS3YA====",
+      "start_latitude": 43.05828,
+      "start_longitude": -77.629188,
+      "end_latitude": 43.040685,
+      "end_longitude": -77.636056,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-10-10T16:37:47Z",
+      "updated_at": "2021-05-20T08:05:41Z",
+      "total_elevation_gain": 14.3,
+      "map": {
+            "id": "s26015400",
+            "polyline": "gyxeGl}xxMp@h@~@tAHNXXDNJFH@^Pb@LdAh@p@Nf@DVJTNVDDNpAfAL?XHn@V^RjCbAVBVJd@@VJVHHJ\\VPTp@l@`@BFCEALJ@PZP^\\h@|@l@fAFFLFXBNJh@PVHT@RHRHZXn@Tf@^XNNDb@TV\\DBDFjAfA|@~ALf@HDHEJ@vBZx@?JJNGFDd@FRJz@DhBVX?DDr@Hb@Jb@BXA~@Hv@R^DHDNBJAJBNAZB\\NL@h@DR?dAJdAF~@CRE\\ALCl@EbAOjA[t@WXQh@SXQp@URQ",
+            "resource_state": 3
+      },
+      "effort_count": 818,
+      "athlete_count": 250,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:24",
+            "qom": "5:42",
+            "destination": {
+                  "href": "strava://segments/26015400/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 68269356,
+            "title": "Dennis Kinney",
+            "profile": "https://lh4.googleusercontent.com/-u7NEfYlYS6s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmT81dNy78JPHjpRszcs_80C9bejQ/s96-c/photo.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/26015400/local_legend?categories%5B%5D=overall"
+      }
 }

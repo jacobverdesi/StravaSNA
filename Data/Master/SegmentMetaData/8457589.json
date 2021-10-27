@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8457589,
+      "resource_state": 3,
+      "name": "* PEDAL ON PEBBLE *",
+      "activity_type": "Ride",
+      "distance": 868.2,
+      "average_grade": 1.6,
+      "maximum_grade": 12.0,
+      "elevation_high": 157.0,
+      "elevation_low": 143.2,
+      "start_latlng": [
+            43.089733,
+            -77.423006
+      ],
+      "end_latlng": [
+            43.088124,
+            -77.431661
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MVRXM4UYCYNQCHDIFCE52NF7OWRUI576F7AJYFLJBLVYRK7OPYLUVHGKCWNL3FLXYCIPA45PCNQRZFNXFKDA====",
+      "start_latitude": 43.089733,
+      "start_longitude": -77.423006,
+      "end_latitude": 43.088124,
+      "end_longitude": -77.431661,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-04T02:04:08Z",
+      "updated_at": "2021-05-15T02:15:49Z",
+      "total_elevation_gain": 22.2,
+      "map": {
+            "id": "s8457589",
+            "polyline": "y}~eGxtpwMb@HX@bEAVDJJDR@rTGtDP`EAvC@xD@`BHjCAf@",
+            "resource_state": 3
+      },
+      "effort_count": 130,
+      "athlete_count": 43,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:35",
+            "qom": "2:07",
+            "destination": {
+                  "href": "strava://segments/8457589/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 19102654,
+            "title": "Kevin Bambury",
+            "profile": "https://graph.facebook.com/10209555794664868/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/8457589/local_legend?categories%5B%5D=overall"
+      }
 }

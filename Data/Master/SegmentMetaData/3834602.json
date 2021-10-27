@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3834602,
+      "resource_state": 3,
+      "name": "Garnsey Climb",
+      "activity_type": "Ride",
+      "distance": 1321.97,
+      "average_grade": 5.4,
+      "maximum_grade": 29.4,
+      "elevation_high": 223.6,
+      "elevation_low": 147.5,
+      "start_latlng": [
+            43.052438,
+            -77.468913
+      ],
+      "end_latlng": [
+            43.055039,
+            -77.453662
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6RT27ORHRLUBX62H4QQXXT7KHK7NGSL4GH4ODJE35CRV76FL7T2ZZT5BBX3LD3HBLH2QZFMYPWVP46WDVERA====",
+      "start_latitude": 43.052438,
+      "start_longitude": -77.468913,
+      "end_latitude": 43.055039,
+      "end_longitude": -77.453662,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-14T19:21:04Z",
+      "updated_at": "2021-05-20T08:02:28Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s3834602",
+            "polyline": "utweGvsywMeAgDUkASiBKaB@uFKyI@u@K}AQeAYiAe@uAEQc@wAq@eBa@yBeAqEM_ASk@SqAMmBGa@?q@AYBUEa@?G@D@IGy@?k@A[?OBMCOBMAMBFBIGWBM@m@AO@i@E{AIu@@o@EgA",
+            "resource_state": 3
+      },
+      "effort_count": 2393,
+      "athlete_count": 390,
+      "star_count": 17,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:32",
+            "qom": "1:19",
+            "destination": {
+                  "href": "strava://segments/3834602/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5324813,
+            "title": "Ben Forbes",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5324813/19978286/2/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/3834602/local_legend?categories%5B%5D=overall"
+      }
 }

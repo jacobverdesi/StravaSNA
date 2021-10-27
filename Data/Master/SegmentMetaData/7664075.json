@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7664075,
+      "resource_state": 3,
+      "name": "Up to the bridge",
+      "activity_type": "Ride",
+      "distance": 479.9,
+      "average_grade": 1.6,
+      "maximum_grade": 11.2,
+      "elevation_high": 170.0,
+      "elevation_low": 162.2,
+      "start_latlng": [
+            43.112339,
+            -77.621521
+      ],
+      "end_latlng": [
+            43.111033,
+            -77.616158
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CGUYGSDIDELZPKOPO7A6TVY2HGRYAMMJM62BTUVX3TOALQCRGEF4RHWXPNWEAC4H5HOLYDNJHU226BNO2Q5Q====",
+      "start_latitude": 43.112339,
+      "start_longitude": -77.621521,
+      "end_latitude": 43.111033,
+      "end_longitude": -77.616158,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-16T21:27:59Z",
+      "updated_at": "2021-05-20T08:03:04Z",
+      "total_elevation_gain": 7.8,
+      "map": {
+            "id": "s7664075",
+            "polyline": "akcfGpmwxMl@uC`@_B|@gETsAb@cEd@cDTgAFk@@MS[CWLA",
+            "resource_state": 3
+      },
+      "effort_count": 32479,
+      "athlete_count": 4980,
+      "star_count": 19,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "27s",
+            "qom": "41s",
+            "destination": {
+                  "href": "strava://segments/7664075/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 58127621,
+            "title": "shockin audrey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/58127621/14964295/1/large.jpg",
+            "effort_description": "48 efforts in the last 90 days",
+            "effort_count": "48",
+            "effort_counts": {
+                  "overall": "48 efforts",
+                  "female": "48 efforts"
+            },
+            "destination": "strava://segments/7664075/local_legend?categories%5B%5D=overall"
+      }
 }

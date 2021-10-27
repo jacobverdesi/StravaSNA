@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15469658,
+      "resource_state": 3,
+      "name": "Westland to 12 Corners",
+      "activity_type": "Ride",
+      "distance": 1254.9,
+      "average_grade": -0.2,
+      "maximum_grade": 2.5,
+      "elevation_high": 153.0,
+      "elevation_low": 148.1,
+      "start_latlng": [
+            43.125853,
+            -77.581313
+      ],
+      "end_latlng": [
+            43.12628,
+            -77.566042
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7J7PPUJ2THVWPR7Z26M3G2NDUA6VMVEEDEW3G4Q75V4Z6SN2U3NIN6CBXJTZWKN22SSQR27FOANLU2ZXC62Q====",
+      "start_latitude": 43.125853,
+      "start_longitude": -77.581313,
+      "end_latitude": 43.12628,
+      "end_longitude": -77.566042,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-07-19T00:45:06Z",
+      "updated_at": "2021-05-20T08:04:19Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s15469658",
+            "polyline": "q_ffGfroxMEyA@s@IuAI}BBq@CsBBs@EyCBmAAe@GW?wCCmA@OEoAAsEGsA@e@E{DEwAGe@Bq@CUAgABkBAmA@SCqBCQA{@Da@?kAGg@?q@COBa@EWHo@Es@AcCEu@A_ADEAi@",
+            "resource_state": 3
+      },
+      "effort_count": 1190,
+      "athlete_count": 307,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:43",
+            "qom": "1:28",
+            "destination": {
+                  "href": "strava://segments/15469658/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9065715,
+            "title": "William Greene",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9065715/12207509/1/large.jpg",
+            "effort_description": "25 efforts in the last 90 days",
+            "effort_count": "25",
+            "effort_counts": {
+                  "overall": "25 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/15469658/local_legend?categories%5B%5D=overall"
+      }
 }

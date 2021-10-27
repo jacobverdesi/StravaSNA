@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13481545,
+      "resource_state": 3,
+      "name": "Maybe I'll walk",
+      "activity_type": "Ride",
+      "distance": 181.5,
+      "average_grade": 6.8,
+      "maximum_grade": 25.0,
+      "elevation_high": 227.6,
+      "elevation_low": 214.0,
+      "start_latlng": [
+            43.041506,
+            -77.444767
+      ],
+      "end_latlng": [
+            43.042631,
+            -77.443491
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XE22MX32FX5LYIAGSNISS6M57OUDLJMBZLIBTO2ARU6ISHJ5OOVEYJKOL32WSGLUIYLPMYOKFA45CFMT5YGZC===",
+      "start_latitude": 43.041506,
+      "start_longitude": -77.444767,
+      "end_latitude": 43.042631,
+      "end_longitude": -77.443491,
+      "climb_category": 0,
+      "city": "Victor",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-20T12:33:24Z",
+      "updated_at": "2021-05-20T08:04:01Z",
+      "total_elevation_gain": 13.6,
+      "map": {
+            "id": "s13481545",
+            "polyline": "kpueGx|twMGk@MGk@o@k@S{@k@Sa@@YAUECI@SE",
+            "resource_state": 3
+      },
+      "effort_count": 897,
+      "athlete_count": 104,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "40s",
+            "qom": "1:11",
+            "destination": {
+                  "href": "strava://segments/13481545/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/13481545/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1622816,
+      "resource_state": 3,
+      "name": "Prince to Ellison Park",
+      "activity_type": "Ride",
+      "distance": 5472.37,
+      "average_grade": -0.6,
+      "maximum_grade": 4.2,
+      "elevation_high": 159.3,
+      "elevation_low": 123.4,
+      "start_latlng": [
+            43.15430110790129,
+            -77.59158804088607
+      ],
+      "end_latlng": [
+            43.14949190713758,
+            -77.52873248427876
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5HR4TWR65ELODNOVFS5JRLM2SF5B6PCRSXFF2WZKHZNSMBL33NVLXBL3CALW2NSX4HGPCVD7XXKHWNOHADD2A===",
+      "start_latitude": 43.15430110790129,
+      "start_longitude": -77.59158804088607,
+      "end_latitude": 43.14949190713758,
+      "end_longitude": -77.52873248427876,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-06-24T14:37:55Z",
+      "updated_at": "2021-05-15T02:12:10Z",
+      "total_elevation_gain": 14.7715,
+      "map": {
+            "id": "s1622816",
+            "polyline": "kqkfGlrqxMtAuIHk@@i@Ha@n@qEb@_CDi@v@uEPqAJsAh@iDPqATqAFi@Ne@|@oGLe@t@}DDg@RkAXuBx@}HhAuI`@yDVoAZmBb@qBLkAh@uC\\kCLm@BID@BKEUSSiBm@s@]iBw@WMs@q@Xq@?o@Dy@j@eCPe@X{A\\}BVq@Bq@Le@@m@n@_C@g@P}AN[B]Ru@RYJ[Fg@?c@B[b@yAb@{BCuAC_AU{@Kq@_@gAQw@IyCBc@Am@FmAA]RWTkAX_DG}A?k@a@wBMc@Xu@Dm@?}@J}ANw@OwBXeA?i@GqBDQEiBD}@UqDB_AJ_ACuALYBm@Ec@B{@KyAG]?Y@oAL}@BkAGmAFy@Ms@L_@CaABi@Mq@HoCGe@Nq@A}@B[@}@Fe@Ak@Bu@?c@Ba@C}@D_@Lu@O]CWMWBq@@oABWCk@JaABq@CmCAqCEe@Qs@PW@WWgBXu@Fc@EuB@u@HaB@cDGeAEqCO{CHgAC_BKo@Fu@Ek@DyBAm@Ge@Cg@D_@C]@Q]gACUDYA[HaA@}@",
+            "resource_state": 3
+      },
+      "effort_count": 39,
+      "athlete_count": 16,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "9:48",
+            "qom": "12:15",
+            "destination": {
+                  "href": "strava://segments/1622816/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 67518121,
+            "title": "Jonathan Lopez",
+            "profile": "https://graph.facebook.com/10159393875041263/picture?height=256&width=256",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/1622816/local_legend?categories%5B%5D=overall"
+      }
 }

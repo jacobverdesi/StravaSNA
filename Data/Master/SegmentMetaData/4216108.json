@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4216108,
+      "resource_state": 3,
+      "name": "Latona Bump",
+      "activity_type": "Ride",
+      "distance": 520.7,
+      "average_grade": 2.8,
+      "maximum_grade": 5.9,
+      "elevation_high": 81.6,
+      "elevation_low": 66.8,
+      "start_latlng": [
+            43.197265,
+            -77.680441
+      ],
+      "end_latlng": [
+            43.192611,
+            -77.680271
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/332A3GYM4GNTSUITQVVOQFP72ZV5OW6PU2KZOUJJHJ6EUKWK5CRUTWLTPXQSDC77VUJ46FRPBLRBBTKUKH6Q====",
+      "start_latitude": 43.197265,
+      "start_longitude": -77.680441,
+      "end_latitude": 43.192611,
+      "end_longitude": -77.680271,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-26T15:39:09Z",
+      "updated_at": "2021-05-15T08:03:03Z",
+      "total_elevation_gain": 14.8,
+      "map": {
+            "id": "s4216108",
+            "polyline": "{}sfGx}byM~@?~BM`DUlFW`ACrCHdAFt@J",
+            "resource_state": 3
+      },
+      "effort_count": 2333,
+      "athlete_count": 250,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "57s",
+            "qom": "1:23",
+            "destination": {
+                  "href": "strava://segments/4216108/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1388383,
+            "title": "Tyler Ekwell",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1388383/727838/4/large.jpg",
+            "effort_description": "24 efforts in the last 90 days",
+            "effort_count": "24",
+            "effort_counts": {
+                  "overall": "24 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4216108/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8500380,
+      "resource_state": 3,
+      "name": "Main St. Hill",
+      "activity_type": "Ride",
+      "distance": 672.0,
+      "average_grade": -1.6,
+      "maximum_grade": 12.6,
+      "elevation_high": 163.1,
+      "elevation_low": 147.0,
+      "start_latlng": [
+            43.157524,
+            -77.604722
+      ],
+      "end_latlng": [
+            43.155737,
+            -77.612415
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DCJU332CETL7TOYM2KKMVAT4BDJMABXDK2BMJ57XHQKSYALJLLHCZVEQXSEJYAAVSBXW7VPIJXWQBXISRWDYO===",
+      "start_latitude": 43.157524,
+      "start_longitude": -77.604722,
+      "end_latitude": 43.155737,
+      "end_longitude": -77.612415,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-12T17:38:44Z",
+      "updated_at": "2021-05-15T02:15:51Z",
+      "total_elevation_gain": 5.6,
+      "map": {
+            "id": "s8500380",
+            "polyline": "oelfGpdtxMxD|XtBpMt@pF",
+            "resource_state": 3
+      },
+      "effort_count": 2062,
+      "athlete_count": 416,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "54s",
+            "qom": "1:24",
+            "destination": {
+                  "href": "strava://segments/8500380/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2656327,
+            "title": "chris pugsley",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2656327/20472861/2/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8500380/local_legend?categories%5B%5D=overall"
+      }
 }

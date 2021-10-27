@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10484599,
+      "resource_state": 3,
+      "name": "Bump in the Middle",
+      "activity_type": "Ride",
+      "distance": 565.6,
+      "average_grade": 1.8,
+      "maximum_grade": 7.0,
+      "elevation_high": 114.2,
+      "elevation_low": 102.4,
+      "start_latlng": [
+            43.011337,
+            -77.652992
+      ],
+      "end_latlng": [
+            43.006592,
+            -77.655503
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/E24Q7MSUK5B5VUQ5LKAXAGYJNOZAT6YXBWCWVFO5QPNPPL4VS4FEWQGOGI3IGWMACFEKHUSQJ44GCU3B4IFQ====",
+      "start_latitude": 43.011337,
+      "start_longitude": -77.652992,
+      "end_latitude": 43.006592,
+      "end_longitude": -77.655503,
+      "climb_category": 0,
+      "city": "Rush",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-09-16T00:08:19Z",
+      "updated_at": "2021-05-18T08:04:07Z",
+      "total_elevation_gain": 11.8,
+      "map": {
+            "id": "s10484599",
+            "polyline": "ysoeGfr}xMjCdAdH`D`OlG",
+            "resource_state": 3
+      },
+      "effort_count": 972,
+      "athlete_count": 191,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "52s",
+            "qom": "1:21",
+            "destination": {
+                  "href": "strava://segments/10484599/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 68205223,
+            "title": "Louis catapano",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "34 efforts in the last 90 days",
+            "effort_count": "34",
+            "effort_counts": {
+                  "overall": "34 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/10484599/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7549832,
+      "resource_state": 3,
+      "name": "pittsford-fairport#2",
+      "activity_type": "Ride",
+      "distance": 8942.6,
+      "average_grade": -0.0,
+      "maximum_grade": 16.1,
+      "elevation_high": 144.7,
+      "elevation_low": 136.5,
+      "start_latlng": [
+            43.089488,
+            -77.510945
+      ],
+      "end_latlng": [
+            43.099499,
+            -77.4564
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OXTVROH45XLLVHLRNJZFU657WIEUNM2ARM4DZWV5MVWSQMQGOURSB76G6OLBKFSMS4CI3NAVEPGN2NIJ7L4A====",
+      "start_latitude": 43.089488,
+      "start_longitude": -77.510945,
+      "end_latitude": 43.099499,
+      "end_longitude": -77.4564,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-01T11:05:04Z",
+      "updated_at": "2021-05-20T08:03:03Z",
+      "total_elevation_gain": 28.4,
+      "map": {
+            "id": "s7549832",
+            "polyline": "g|~eGlzaxMPQX?VMv@aAb@OTOpBaB^]zAiAJM|FkExAoApByAfBgA`Aq@f@c@b@Y~@s@`CqBrAuAxAyBbAeBN]pAsBh@u@x@_AdA_B~@gBZe@jBgD`A}Av@gAZi@Vs@VaAN]l@g@v@cAfDgGfAcBtHsMfCkDjA_AbCmAd@[tAaAlEoCdEsChBeAzB}AhAq@bEqCxH_FxB}ApAsA~@oAt@wAt@uBbA{BxAoDdCaHPq@PiAL_BB{@?_G@_BFgA?kBFwCI{AWoBc@}EQiAGkBc@oCq@eCg@mAa@y@UWe@]UYMAIIWs@Uc@m@y@wCaC{CuBsDcCqCaBcBkAy@s@qA}@uAcAmAq@yAaA}@o@iD{Bm@e@yDgC_CcBq@_@{@o@e@Ui@QuAkAgHsEuAcAmCcBe@Uc@_@qEuCKCu@e@}CoAKGkAc@qAUeAM[IkCQ_BQgBGi@K{Ag@mAe@iAm@gAs@mAgAi@o@YUO[aAiAmAoAyAgAaAm@mCmAq@UaAWcAIsBE{DAeDF{DEsAIiACmABiBG}E@oFIgBDwANcARa@Da@Ly@FkBZ]H[LOBcA@",
+            "resource_state": 3
+      },
+      "effort_count": 10994,
+      "athlete_count": 3350,
+      "star_count": 14,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "14:10",
+            "qom": "17:14",
+            "destination": {
+                  "href": "strava://segments/7549832/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 61135975,
+            "title": "Daniel Brown",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/61135975/17716231/2/large.jpg",
+            "effort_description": "29 efforts in the last 90 days",
+            "effort_count": "29",
+            "effort_counts": {
+                  "overall": "29 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/7549832/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20526988,
+      "resource_state": 3,
+      "name": "Salty Then Sweet",
+      "activity_type": "Ride",
+      "distance": 2355.3,
+      "average_grade": -0.1,
+      "maximum_grade": 5.3,
+      "elevation_high": 159.6,
+      "elevation_low": 148.2,
+      "start_latlng": [
+            43.130863,
+            -77.400466
+      ],
+      "end_latlng": [
+            43.152049,
+            -77.400539
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WH4QP4OWXEKQMHYSKUSLK53SYG5JBQTMZMWSFGLYKXO7QK4LGKGICZYXJYSHUVA7YQQV7R7XOZFBI5HMSUYA====",
+      "start_latitude": 43.130863,
+      "start_longitude": -77.400466,
+      "end_latitude": 43.152049,
+      "end_longitude": -77.400539,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-05-07T13:34:10Z",
+      "updated_at": "2021-05-17T08:08:10Z",
+      "total_elevation_gain": 11.8,
+      "map": {
+            "id": "s20526988",
+            "polyline": "{~ffG|glwMaTBkPAaB@sBDgJDyHCwC@qHEkEFwD@iNEiI@cM?",
+            "resource_state": 3
+      },
+      "effort_count": 2197,
+      "athlete_count": 366,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:25",
+            "qom": "4:17",
+            "destination": {
+                  "href": "strava://segments/20526988/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 67790567,
+            "title": "Terry Allen",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/67790567/16816664/1/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "15 efforts"
+            },
+            "destination": "strava://segments/20526988/local_legend?categories%5B%5D=overall"
+      }
 }

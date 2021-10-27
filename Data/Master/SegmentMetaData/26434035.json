@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26434035,
+      "resource_state": 3,
+      "name": "From Prison to Pasta",
+      "activity_type": "Ride",
+      "distance": 1605.6,
+      "average_grade": 0.2,
+      "maximum_grade": 6.5,
+      "elevation_high": 187.8,
+      "elevation_low": 182.6,
+      "start_latlng": [
+            42.928401,
+            -77.775741
+      ],
+      "end_latlng": [
+            42.922817,
+            -77.757585
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GXU3JDSKEAQ7OAMBCLRFEVBW7CQDIFGES3MTFMULORASQH7JKGK2BFMN5UAVE2YYX4HHOGMLTH37HQQMWFXS6===",
+      "start_latitude": 42.928401,
+      "start_longitude": -77.775741,
+      "end_latitude": 42.922817,
+      "end_longitude": -77.757585,
+      "climb_category": 0,
+      "city": "Caledonia",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-11-16T02:29:26Z",
+      "updated_at": "2021-05-18T08:06:15Z",
+      "total_elevation_gain": 11.0,
+      "map": {
+            "id": "s26434035",
+            "polyline": "om_eGlquyM^sANeAt@mD`AuDj@gBF]?_@Dc@ZeBR}@Jq@Pq@vBsKl@}AJ_@J{Al@eDV}@^eAJe@FaAXeBx@mDhAyFJ[RkA~A{HfBsHFo@Tu@Da@b@aBNq@Hw@Le@",
+            "resource_state": 3
+      },
+      "effort_count": 746,
+      "athlete_count": 235,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:46",
+            "qom": "3:14",
+            "destination": {
+                  "href": "strava://segments/26434035/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16370724,
+            "title": "Tim Daley",
+            "profile": "https://graph.facebook.com/1966379976906696/picture?height=256&width=256",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/26434035/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13596560,
+      "resource_state": 3,
+      "name": "Going Low - North",
+      "activity_type": "Ride",
+      "distance": 532.1,
+      "average_grade": 1.0,
+      "maximum_grade": 30.8,
+      "elevation_high": 83.5,
+      "elevation_low": 74.6,
+      "start_latlng": [
+            43.158572,
+            -77.517932
+      ],
+      "end_latlng": [
+            43.161754,
+            -77.519423
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ELD2VOTBOWX6IIDNMKUC2OY56KUBWJZ6QNLDLIIEQYBF75KAUULKGLXRCG4SMXYCGYTRUHTBWEOCL2Y7L3G56===",
+      "start_latitude": 43.158572,
+      "start_longitude": -77.517932,
+      "end_latitude": 43.161754,
+      "end_longitude": -77.519423,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-11-06T01:00:27Z",
+      "updated_at": "2021-05-15T02:18:42Z",
+      "total_elevation_gain": 20.2,
+      "map": {
+            "id": "s13596560",
+            "polyline": "allfGbfcxMK[EGIAGDA`@Qd@EV?^GJCt@GNWJKRATBdA[h@Y`@Mr@o@\\[@WNa@@]Cc@Ya@QUGMIEKIIGAM[MMGUQGe@]MEK?YDMH",
+            "resource_state": 3
+      },
+      "effort_count": 1234,
+      "athlete_count": 250,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:37",
+            "qom": "2:46",
+            "destination": {
+                  "href": "strava://segments/13596560/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1334463,
+            "title": "Er\u2699\ufe0fc W\u2699\ufe0flters",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1334463/19430522/7/large.jpg",
+            "effort_description": "13 efforts in the last 90 days",
+            "effort_count": "13",
+            "effort_counts": {
+                  "overall": "13 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/13596560/local_legend?categories%5B%5D=overall"
+      }
 }

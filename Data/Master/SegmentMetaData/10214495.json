@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10214495,
+      "resource_state": 3,
+      "name": "Blossom Rd Climb",
+      "activity_type": "Ride",
+      "distance": 533.4,
+      "average_grade": 7.2,
+      "maximum_grade": 25.6,
+      "elevation_high": 115.9,
+      "elevation_low": 74.8,
+      "start_latlng": [
+            43.147374,
+            -77.51306
+      ],
+      "end_latlng": [
+            43.148801,
+            -77.509537
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ND6VUKLVVYKPYHVXDP4ZSLER5WNTLVBQK75S6IZLTX2EUWXDOPKISFRLT65DRAMW3P7PRANGRMKDJOA2AV4Q====",
+      "start_latitude": 43.147374,
+      "start_longitude": -77.51306,
+      "end_latitude": 43.148801,
+      "end_longitude": -77.509537,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-08-14T02:08:34Z",
+      "updated_at": "2021-05-15T08:04:05Z",
+      "total_elevation_gain": 41.4,
+      "map": {
+            "id": "s10214495",
+            "polyline": "afjfGrgbxMz@uLKyA[_CGOo@u@y@Ye@?q@DUH]FIACBQ\\SG",
+            "resource_state": 3
+      },
+      "effort_count": 3840,
+      "athlete_count": 571,
+      "star_count": 18,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "49s",
+            "qom": "1:07",
+            "destination": {
+                  "href": "strava://segments/10214495/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 4554924,
+            "title": "Jed Crawford",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/4554924/3967623/9/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/10214495/local_legend?categories%5B%5D=overall"
+      }
 }

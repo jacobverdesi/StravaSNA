@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7424804,
+      "resource_state": 3,
+      "name": "*RED RAIDER GNALLS CLIMB *",
+      "activity_type": "Ride",
+      "distance": 1021.3,
+      "average_grade": 2.5,
+      "maximum_grade": 13.6,
+      "elevation_high": 185.6,
+      "elevation_low": 159.8,
+      "start_latlng": [
+            43.071529,
+            -77.408784
+      ],
+      "end_latlng": [
+            43.070566,
+            -77.415191
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HTLM2LQ3QTH4BMHM4DK5CKLL3757M4LRV3MZHFW5DMJPHMPDI6BDFJ5ECZLGBGH44AEXQ6PNXMDSD2BYNVTQ====",
+      "start_latitude": 43.071529,
+      "start_longitude": -77.408784,
+      "end_latitude": 43.070566,
+      "end_longitude": -77.415191,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-14T00:10:55Z",
+      "updated_at": "2021-05-15T02:15:11Z",
+      "total_elevation_gain": 25.8,
+      "map": {
+            "id": "s7424804",
+            "polyline": "_l{eG|{mwMzAZbABpBKx@At@@t@Hr@LtAb@h@b@\\n@Nl@DXDh@EdABvBIfA[Bw@A[@iARO?SFa@Xk@f@U`@_@d@y@`B_@rA[nBKvBH|C",
+            "resource_state": 3
+      },
+      "effort_count": 54,
+      "athlete_count": 11,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:44",
+            "qom": "8:14",
+            "destination": {
+                  "href": "strava://segments/7424804/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16754430,
+            "title": "Andrew Wroblewski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/16754430/4701153/3/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7424804/local_legend?categories%5B%5D=overall"
+      }
 }

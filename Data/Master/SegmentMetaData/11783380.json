@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 11783380,
+      "resource_state": 3,
+      "name": "lactate",
+      "activity_type": "Ride",
+      "distance": 1031.1,
+      "average_grade": -0.9,
+      "maximum_grade": 4.2,
+      "elevation_high": 265.8,
+      "elevation_low": 252.4,
+      "start_latlng": [
+            43.04762,
+            -77.539319
+      ],
+      "end_latlng": [
+            43.052652,
+            -77.54598
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/B6PMQIBRDNLMS46PIDCP5B5JAC2E74UMLBWXKMWZQFWXDBKD7JL3Q2YVZIUOKR3UFT6CPIA4S6GKRFLIAZIUU===",
+      "start_latitude": 43.04762,
+      "start_longitude": -77.539319,
+      "end_latitude": 43.052652,
+      "end_longitude": -77.54598,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-04-10T20:51:00Z",
+      "updated_at": "2021-05-17T08:06:13Z",
+      "total_elevation_gain": 10.6,
+      "map": {
+            "id": "s11783380",
+            "polyline": "svveGvkgxMChJE|@U~AK`@Wp@cAlBoArBs@b@i@Jk@?y@SuEkCi@O[E]A]B[Bg@NWJs@h@e@n@c@v@]bAEXEv@HpH",
+            "resource_state": 3
+      },
+      "effort_count": 622,
+      "athlete_count": 10,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:40",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/11783380/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8662305,
+            "title": "Dean Romanick",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8662305/5051266/2/large.jpg",
+            "effort_description": "20 efforts in the last 90 days",
+            "effort_count": "20",
+            "effort_counts": {
+                  "overall": "20 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/11783380/local_legend?categories%5B%5D=overall"
+      }
 }

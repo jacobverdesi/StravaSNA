@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21404744,
+      "resource_state": 3,
+      "name": "Lake Shore Climb WB",
+      "activity_type": "Ride",
+      "distance": 379.4,
+      "average_grade": 2.4,
+      "maximum_grade": 5.2,
+      "elevation_high": 88.0,
+      "elevation_low": 77.9,
+      "start_latlng": [
+            43.2377,
+            -77.563409
+      ],
+      "end_latlng": [
+            43.238938,
+            -77.567762
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FME3SXD3Y5HAH5NK4DF5HRCSOYVAPCUKJIUIOUK2UZQS2ZAYIBITU2R2BP4PMC5ADF6MJNRTDA6FKYDSDMCPE===",
+      "start_latitude": 43.2377,
+      "start_longitude": -77.563409,
+      "end_latitude": 43.238938,
+      "end_longitude": -77.567762,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-08-07T20:03:19Z",
+      "updated_at": "2021-05-15T08:05:56Z",
+      "total_elevation_gain": 10.1,
+      "map": {
+            "id": "s21404744",
+            "polyline": "sz{fGhblxMmAhH}AlIg@dCa@hB",
+            "resource_state": 3
+      },
+      "effort_count": 4803,
+      "athlete_count": 739,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "34s",
+            "qom": "38s",
+            "destination": {
+                  "href": "strava://segments/21404744/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 67577377,
+            "title": "Jeff Sherwin",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/67577377/18320919/1/large.jpg",
+            "effort_description": "19 efforts in the last 90 days",
+            "effort_count": "19",
+            "effort_counts": {
+                  "overall": "19 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/21404744/local_legend?categories%5B%5D=overall"
+      }
 }

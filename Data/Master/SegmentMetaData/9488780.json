@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9488780,
+      "resource_state": 3,
+      "name": "RPC drag",
+      "activity_type": "Ride",
+      "distance": 442.9,
+      "average_grade": -2.9,
+      "maximum_grade": -0.5,
+      "elevation_high": 172.3,
+      "elevation_low": 159.3,
+      "start_latlng": [
+            43.124815,
+            -77.612427
+      ],
+      "end_latlng": [
+            43.125045,
+            -77.607002
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/A3EJHHTULS6WP37RCV33PWQNIZYGEUVQFWJM2QTDYTRXNRXPZ6RXQTXNS5ZYRHQD76TP7ZLAEIMIR2WWDOEQ====",
+      "start_latitude": 43.124815,
+      "start_longitude": -77.612427,
+      "end_latitude": 43.125045,
+      "end_longitude": -77.607002,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-15T01:19:23Z",
+      "updated_at": "2021-05-20T08:03:23Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9488780",
+            "polyline": "ayefGttuxMI_C@mAGyFCYGqGQgI",
+            "resource_state": 3
+      },
+      "effort_count": 2127,
+      "athlete_count": 435,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "23s",
+            "qom": "27s",
+            "destination": {
+                  "href": "strava://segments/9488780/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 18909627,
+            "title": "David Riccardi",
+            "profile": "https://graph.facebook.com/750327411783622/picture?height=256&width=256",
+            "effort_description": "13 efforts in the last 90 days",
+            "effort_count": "13",
+            "effort_counts": {
+                  "overall": "13 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/9488780/local_legend?categories%5B%5D=overall"
+      }
 }

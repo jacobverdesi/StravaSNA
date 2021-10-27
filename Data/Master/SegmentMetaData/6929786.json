@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6929786,
+      "resource_state": 3,
+      "name": "up peakview",
+      "activity_type": "Ride",
+      "distance": 440.9,
+      "average_grade": 5.1,
+      "maximum_grade": 9.7,
+      "elevation_high": 212.8,
+      "elevation_low": 190.2,
+      "start_latlng": [
+            43.039891,
+            -77.614476
+      ],
+      "end_latlng": [
+            43.0368,
+            -77.615903
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ODSXPAFMJQVGBQ7FSMNJBM4NOBI3PCEQFQXWJWZAGHANOFPRQXGSSV32T4EIESHJIV5AEN472VZL7BJZNEXQ====",
+      "start_latitude": 43.039891,
+      "start_longitude": -77.614476,
+      "end_latitude": 43.0368,
+      "end_longitude": -77.615903,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-03-31T22:03:06Z",
+      "updated_at": "2021-05-15T02:14:51Z",
+      "total_elevation_gain": 22.4,
+      "map": {
+            "id": "s6929786",
+            "polyline": "ifueGnavxMMmA^QNCNBdAb@DHTLbA\\v@d@lBl@z@d@v@h@v@XVXHPVGDZ?d@",
+            "resource_state": 3
+      },
+      "effort_count": 117,
+      "athlete_count": 19,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "59s",
+            "qom": "1:31",
+            "destination": {
+                  "href": "strava://segments/6929786/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 60829344,
+            "title": "Marcia Biata",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/60829344/15502065/2/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/6929786/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10492254,
+      "resource_state": 3,
+      "name": "Brighton Park to Lock 33 (Eastbound)",
+      "activity_type": "Ride",
+      "distance": 3711.4,
+      "average_grade": -0.0,
+      "maximum_grade": 9.2,
+      "elevation_high": 160.4,
+      "elevation_low": 155.6,
+      "start_latlng": [
+            43.109161,
+            -77.610894
+      ],
+      "end_latlng": [
+            43.096233,
+            -77.569685
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2BAPF2RFUI6FBI35WU6SULLV2OJLHDY7XGBZU5QJITGV2MFPQVDRGP6FFXDSRFEJCLSBPNIC6A673UPUO2K2U===",
+      "start_latitude": 43.109161,
+      "start_longitude": -77.610894,
+      "end_latitude": 43.096233,
+      "end_longitude": -77.569685,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-09-17T01:55:12Z",
+      "updated_at": "2021-05-20T08:03:33Z",
+      "total_elevation_gain": 13.6,
+      "map": {
+            "id": "s10492254",
+            "polyline": "gwbfGbkuxMAEBCFQV}AXw@JGBWFOBe@AYBUVw@R{@Ju@Fs@Lq@Z}@D_@FKDg@AUPu@Ju@De@Ns@Na@VaAN_BFQLAVqARW?WPeARm@Ha@BUL_@Ha@HOPq@Fe@p@{DZaAFMLe@FKDYZoADi@d@gBRmAd@uBE_@\\{AHQHe@d@mBN}@Ts@FMTu@Dc@FO^wB`@iBLa@b@iBTmA?[TgB|@aFNmAx@oETw@Jy@Ps@ToAJe@Na@T]Na@JOFSBYJe@BYNy@FQNkA\\}ABWFOJ_AVs@Fg@Pw@LcBb@sDFO@SHO@ULa@Nu@HcAFk@?WBQXo@DSZ{AHy@r@eBJe@Xm@l@o@R[Rk@Hg@FGBM^gCTgAZ}@Lo@Da@@WZuADU?WTo@BSJIBQXoBE[DOrAmFAQBUR]?UNs@La@Hc@JIAu@De@XeALu@L_@Fg@DQFM\\mBt@eCp@wA\\{@h@gAN_@",
+            "resource_state": 3
+      },
+      "effort_count": 32653,
+      "athlete_count": 4279,
+      "star_count": 26,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:00",
+            "qom": "5:46",
+            "destination": {
+                  "href": "strava://segments/10492254/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 335964,
+            "title": "Jay O",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "38 efforts in the last 90 days",
+            "effort_count": "38",
+            "effort_counts": {
+                  "overall": "38 efforts",
+                  "female": "15 efforts"
+            },
+            "destination": "strava://segments/10492254/local_legend?categories%5B%5D=overall"
+      }
 }

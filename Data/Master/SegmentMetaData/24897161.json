@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24897161,
+      "resource_state": 3,
+      "name": "Canal trail clover hill",
+      "activity_type": "Ride",
+      "distance": 560.0,
+      "average_grade": 1.3,
+      "maximum_grade": 4.3,
+      "elevation_high": 148.3,
+      "elevation_low": 140.9,
+      "start_latlng": [
+            43.090963,
+            -77.540111
+      ],
+      "end_latlng": [
+            43.091969,
+            -77.546503
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZHXLS625ZT7MDJYYFBDIPD4A5OLUR5IMF2YBQ2APJCMMRCEIJVLZGZX2FS5QMQZEW6HESUY56OGNAIT2WCLQ====",
+      "start_latitude": 43.090963,
+      "start_longitude": -77.540111,
+      "end_latitude": 43.091969,
+      "end_longitude": -77.546503,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-07-15T15:08:10Z",
+      "updated_at": "2021-05-20T08:05:33Z",
+      "total_elevation_gain": 7.4,
+      "map": {
+            "id": "s24897161",
+            "polyline": "oe_fGvpgxMWrDw@pIA^@tAJnAHXRVHN@NGPe@v@Yl@EPQlBW~Au@fC",
+            "resource_state": 3
+      },
+      "effort_count": 34238,
+      "athlete_count": 5119,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "42s",
+            "qom": "58s",
+            "destination": {
+                  "href": "strava://segments/24897161/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "42 efforts in the last 90 days",
+            "effort_count": "42",
+            "effort_counts": {
+                  "overall": "42 efforts",
+                  "female": "20 efforts"
+            },
+            "destination": "strava://segments/24897161/local_legend?categories%5B%5D=overall"
+      }
 }

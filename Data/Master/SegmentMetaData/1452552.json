@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1452552,
+      "resource_state": 3,
+      "name": "Cobbs Hill Dr from Hillside Ave to Beckwith Ter ",
+      "activity_type": "Ride",
+      "distance": 348.322,
+      "average_grade": 3.2,
+      "maximum_grade": 16.8,
+      "elevation_high": 141.2,
+      "elevation_low": 122.0,
+      "start_latlng": [
+            43.14313127,
+            -77.56058715
+      ],
+      "end_latlng": [
+            43.14061954,
+            -77.56281948
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4GGCYJTRRS3AJZSTFWB7OHIYB7JSAVN4X455XYOVCDZOPRO2FOZ6E2JNM2PRVQ7TPE3L5BB2KRSRY4SR4ZYQ====",
+      "start_latitude": 43.14313127,
+      "start_longitude": -77.56058715,
+      "end_latitude": 43.14061954,
+      "end_longitude": -77.56281948,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-26T23:57:03Z",
+      "updated_at": "2021-05-20T08:02:12Z",
+      "total_elevation_gain": 24.1,
+      "map": {
+            "id": "s1452552",
+            "polyline": "qkifGtpkxMtAb@v@^x@V^Ft@Zh@h@`AvCPVXf@z@z@B?",
+            "resource_state": 3
+      },
+      "effort_count": 1431,
+      "athlete_count": 286,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "31s",
+            "qom": "54s",
+            "destination": {
+                  "href": "strava://segments/1452552/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2443189,
+            "title": "Salaahuddin Karim",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2443189/4488427/1/large.jpg",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/1452552/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13493578,
+      "resource_state": 3,
+      "name": "West Henrietta to East Henrietta",
+      "activity_type": "Ride",
+      "distance": 1829.7,
+      "average_grade": -0.0,
+      "maximum_grade": 23.8,
+      "elevation_high": 172.6,
+      "elevation_low": 161.2,
+      "start_latlng": [
+            42.993451,
+            -77.668889
+      ],
+      "end_latlng": [
+            42.992344,
+            -77.646516
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7U5RJZ2ORLKU3LF2RY3NL76YOS65OBLE2RDO7J4H4SJKDBWZMR3CVMQZFF76EGIMGCWCZVEAQ26ERWYJFPMSS===",
+      "start_latitude": 42.993451,
+      "start_longitude": -77.668889,
+      "end_latitude": 42.992344,
+      "end_longitude": -77.646516,
+      "climb_category": 0,
+      "city": "Rush",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-22T13:24:16Z",
+      "updated_at": "2021-05-15T08:04:39Z",
+      "total_elevation_gain": 11.4,
+      "map": {
+            "id": "s13493578",
+            "polyline": "adleGpu`yM@q@I_CBg@CuFFqBCcB?iATsERqKH}ACO?e@HqBBQAa@FqDLiCHgELoBDgDHgADqCH}BFoEH{BJoHBs@@wAFqAHeGHoDPeFD_C",
+            "resource_state": 3
+      },
+      "effort_count": 3128,
+      "athlete_count": 721,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:55",
+            "qom": "3:39",
+            "destination": {
+                  "href": "strava://segments/13493578/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 18400127,
+            "title": "Michael Wangler",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/18400127/5232800/1/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/13493578/local_legend?categories%5B%5D=overall"
+      }
 }

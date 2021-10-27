@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 29403309,
+      "resource_state": 3,
+      "name": "Bretlyn Circle CCW",
+      "activity_type": "Ride",
+      "distance": 539.0,
+      "average_grade": 0.0,
+      "maximum_grade": 1.4,
+      "elevation_high": 154.6,
+      "elevation_low": 153.5,
+      "start_latlng": [
+            43.107832,
+            -77.592954
+      ],
+      "end_latlng": [
+            43.107892,
+            -77.593228
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7KKJMFIFER74HPKGMCRU53GBVPXLEZQMS2RGWFTLHTRZ6PAD2MBJYWPHJOXWMHZI7ZTQGZXIB7E7YABM3PHYU===",
+      "start_latitude": 43.107832,
+      "start_longitude": -77.592954,
+      "end_latitude": 43.107892,
+      "end_longitude": -77.593228,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-08-06T16:31:41Z",
+      "updated_at": "2021-08-06T16:31:41Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s29403309",
+            "polyline": "}nbfG~zqxMY}@Gs@L{C@g@CSM]YW_@OMAK@MJGNGh@MhDOpCC`A@XJXXZJDT?ZMLIv@{@",
+            "resource_state": 3
+      },
+      "effort_count": 50,
+      "athlete_count": 42,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:00",
+            "qom": "1:11",
+            "destination": {
+                  "href": "strava://segments/29403309/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 92300998,
+            "title": "Jay Anzellotti",
+            "profile": "https://lh3.googleusercontent.com/a/AATXAJyUkBoAKiOjzzGXl2pykPdCx_K27FcDEPEBjmfn=s96-c",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/29403309/local_legend?categories%5B%5D=overall"
+      }
 }

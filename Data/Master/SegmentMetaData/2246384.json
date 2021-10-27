@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2246384,
+      "resource_state": 3,
+      "name": "Cumberland church to main",
+      "activity_type": "Ride",
+      "distance": 736.989,
+      "average_grade": 0.4,
+      "maximum_grade": 4.6,
+      "elevation_high": 162.6,
+      "elevation_low": 155.3,
+      "start_latlng": [
+            43.161636865738,
+            -77.60525096215085
+      ],
+      "end_latlng": [
+            43.158020409795604,
+            -77.60234294466451
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MXU7OBMIG355UCFCTKPDXUANZERTCXZEV2EJQ6T6DBPYOMQEHMX2UMXWPDYYOQEVQUIHDEWDKZZHXQMT6BDEK===",
+      "start_latitude": 43.161636865738,
+      "start_longitude": -77.60525096215085,
+      "end_latitude": 43.158020409795604,
+      "end_longitude": -77.60234294466451,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-08-28T22:52:17Z",
+      "updated_at": "2021-05-15T02:12:25Z",
+      "total_elevation_gain": 6.45342,
+      "map": {
+            "id": "s2246384",
+            "polyline": "e_mfGzgtxMIe@Ck@Dk@Uo@Ou@m@}B]}BOo@HUN@d@N`@Xf@@n@b@NPxBBn@NxAAnAw@dCm@r@Gl@Kl@Yf@A",
+            "resource_state": 3
+      },
+      "effort_count": 8,
+      "athlete_count": 3,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:54",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/2246384/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

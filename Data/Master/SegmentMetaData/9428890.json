@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9428890,
+      "resource_state": 3,
+      "name": "Scio City",
+      "activity_type": "Ride",
+      "distance": 344.5,
+      "average_grade": -1.9,
+      "maximum_grade": 11.6,
+      "elevation_high": 156.0,
+      "elevation_low": 148.4,
+      "start_latlng": [
+            43.164073,
+            -77.596033
+      ],
+      "end_latlng": [
+            43.161228,
+            -77.597716
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ASWCILZAVPW52WG5ERNUMVCDY5FKND55YPVBP34MDQQJGVZYVCQO73TVCSG7HKJFR4DHPXUL7NMVBEZXTJZQK===",
+      "start_latitude": 43.164073,
+      "start_longitude": -77.596033,
+      "end_latitude": 43.161228,
+      "end_longitude": -77.597716,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-07T07:13:41Z",
+      "updated_at": "2021-05-18T08:03:57Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9428890",
+            "polyline": "mnmfGfnrxMxPnI",
+            "resource_state": 3
+      },
+      "effort_count": 280,
+      "athlete_count": 79,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "31s",
+            "qom": "49s",
+            "destination": {
+                  "href": "strava://segments/9428890/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5154931,
+            "title": "Rich Mulvey",
+            "profile": "https://graph.facebook.com/1297821114/picture?height=256&width=256",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9428890/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20683651,
+      "resource_state": 3,
+      "name": "Goodburlet eastbound",
+      "activity_type": "Ride",
+      "distance": 1430.6,
+      "average_grade": 1.1,
+      "maximum_grade": 5.0,
+      "elevation_high": 200.1,
+      "elevation_low": 182.1,
+      "start_latlng": [
+            43.050048,
+            -77.616559
+      ],
+      "end_latlng": [
+            43.050304,
+            -77.599007
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KKBJLN32V3PTXIBJUBOWQS7TSZHLCU3H45AC5NKM4O3NLO73EATIDR4WX4AJ2BGKARA5SD22I5MIMZKPF5IA====",
+      "start_latitude": 43.050048,
+      "start_longitude": -77.616559,
+      "end_latitude": 43.050304,
+      "end_longitude": -77.599007,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-05-25T00:53:27Z",
+      "updated_at": "2021-05-15T08:05:49Z",
+      "total_elevation_gain": 22.2,
+      "map": {
+            "id": "s20683651",
+            "polyline": "weweGnnvxMEuQWiu@Uuc@",
+            "resource_state": 3
+      },
+      "effort_count": 844,
+      "athlete_count": 198,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:12",
+            "qom": "2:57",
+            "destination": {
+                  "href": "strava://segments/20683651/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 770315,
+            "title": "Dean Sherwood",
+            "profile": "https://graph.facebook.com/10204641242379360/picture?height=256&width=256",
+            "effort_description": "54 efforts in the last 90 days",
+            "effort_count": "54",
+            "effort_counts": {
+                  "overall": "54 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/20683651/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4003974,
+      "resource_state": 3,
+      "name": "Salt Road Stretch",
+      "activity_type": "Ride",
+      "distance": 5523.1,
+      "average_grade": 0.4,
+      "maximum_grade": 10.8,
+      "elevation_high": 165.0,
+      "elevation_low": 144.5,
+      "start_latlng": [
+            43.108508,
+            -77.40265
+      ],
+      "end_latlng": [
+            43.157596,
+            -77.40042
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GQYQ577TACOCPBFORPJSYN6TQC2P4JNZA4Z6GHKBETYX5OHBT2Z5OMJHE3XVCKRF5L66GGVFMPSVZFJ4DFBA====",
+      "start_latitude": 43.108508,
+      "start_longitude": -77.40265,
+      "end_latitude": 43.157596,
+      "end_longitude": -77.40042,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": true,
+      "starred": false,
+      "created_at": "2013-05-04T13:49:22Z",
+      "updated_at": "2021-05-15T02:13:06Z",
+      "total_elevation_gain": 47.5,
+      "map": {
+            "id": "s4003974",
+            "polyline": "csbfGpulwMIUGIUE_A@m@Cm@@m@Cq@@}CQeABQCo@@a@DWAQBSAcADUCw@@[Fc@@c@Es@AwAA[BgAEYBaCCW?c@F{@CMBe@@aBE}@BaBC{@F_@CcBBUCgAFsACK@qCKuAYo@Um@WIGm@WmByAY[w@o@_CmAyCw@a@Iq@EsAAeB@[CoBBuBAkAD_@Fo@Ac@Ee@@q@CaEBm@Cm@By@CmAD[Ck@Fc@Aa@FWACEuAHcBGg@@i@Cy@?_@BcE?cCHmAAsADmACmAB{DIeB@cAE]?{@F_DAe@CuDHyA?g@AyDBcACu@D_BG}ADeAAaBBw@Aw@DwDGmEHyGCYFqA@u@?YGY?cAGk@A{BDkAEyBBiAEg@DsACOCOBwAEeADqBGkA@o@DsCA}BByBEm@@YAe@Bo@@k@Eu@BwAC",
+            "resource_state": 3
+      },
+      "effort_count": 794,
+      "athlete_count": 213,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "8:58",
+            "qom": "11:15",
+            "destination": {
+                  "href": "strava://segments/4003974/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

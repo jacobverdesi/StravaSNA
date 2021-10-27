@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1349502,
+      "resource_state": 3,
+      "name": "Green from Bay Front S.",
+      "activity_type": "Ride",
+      "distance": 905.089,
+      "average_grade": 1.2,
+      "maximum_grade": 26.1,
+      "elevation_high": 98.4,
+      "elevation_low": 76.7,
+      "start_latlng": [
+            43.18908,
+            -77.53184
+      ],
+      "end_latlng": [
+            43.18599,
+            -77.53824
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MFJIPYVLASLLWESBFFNKHSPKTWKXIU4ISW6ZUMIKPKUYY25FEXGRBBRAUKBJREUK63ZSEQZA5C73ZW52F7NBK===",
+      "start_latitude": 43.18908,
+      "start_longitude": -77.53184,
+      "end_latitude": 43.18599,
+      "end_longitude": -77.53824,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-08T15:47:17Z",
+      "updated_at": "2021-05-20T08:02:11Z",
+      "total_elevation_gain": 43.308,
+      "map": {
+            "id": "s1349502",
+            "polyline": "wjrfG~|exM?j@MVANDKHCLFZJNPLDRXHBHLDPHHH@F`@HHDNJ@FJBf@\\f@\\ZLVJ\\FV?ZDZBn@CpAKd@ANJX@LCbA@KFG@q@J]PQBMHGHBDJ?LIZEZIFZ_@H?d@ZFRBT?VIZ@\\BPPj@Br@HATDDIGK?IR@R^R@JZF\\NVBJVjB?RRZDLBX",
+            "resource_state": 3
+      },
+      "effort_count": 11189,
+      "athlete_count": 812,
+      "star_count": 15,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:27",
+            "qom": "3:40",
+            "destination": {
+                  "href": "strava://segments/1349502/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10477404,
+            "title": "Tim Wall",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10477404/9852718/1/large.jpg",
+            "effort_description": "28 efforts in the last 90 days",
+            "effort_count": "28",
+            "effort_counts": {
+                  "overall": "28 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/1349502/local_legend?categories%5B%5D=overall"
+      }
 }

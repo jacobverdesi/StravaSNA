@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21258868,
+      "resource_state": 3,
+      "name": "LOSP Eastbound - Island Cottage to Dewey",
+      "activity_type": "Ride",
+      "distance": 1649.6,
+      "average_grade": 0.1,
+      "maximum_grade": 8.5,
+      "elevation_high": 79.4,
+      "elevation_low": 74.8,
+      "start_latlng": [
+            43.270316,
+            -77.660687
+      ],
+      "end_latlng": [
+            43.262778,
+            -77.646967
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EL2GXSH4TF2OZ6LSAYMSLUTH4ZHOPUMKRYGYJMWOPJFXXEISJNCH6WMG7BGREDZCLIQNRCRUIGSRZIDJDKIS6===",
+      "start_latitude": 43.270316,
+      "start_longitude": -77.660687,
+      "end_latitude": 43.262778,
+      "end_longitude": -77.646967,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-07-24T18:00:41Z",
+      "updated_at": "2021-05-20T08:05:11Z",
+      "total_elevation_gain": 8.0,
+      "map": {
+            "id": "s21258868",
+            "polyline": "mfbgGhb_yMJDTPJBj@h@LDj@`@JDz@TZBPTL@ZDp@NTHJAHE`@i@Zm@@OHITi@JMTq@z@oAJK|@kATi@tCwEbAkCb@yATa@^}@Zc@v@y@`@o@Xo@\\g@Vm@J_@FkA?c@DKD[H]HGn@yABa@Aa@Dm@RwANi@Xk@n@yA^sA?MHo@H[FmA?cAN}FAu@Bo@As@DaB@uABcAFO",
+            "resource_state": 3
+      },
+      "effort_count": 5845,
+      "athlete_count": 711,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:25",
+            "qom": "3:12",
+            "destination": {
+                  "href": "strava://segments/21258868/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 89654311,
+            "title": "Peter Englerth",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89654311/21427141/1/large.jpg",
+            "effort_description": "112 efforts in the last 90 days",
+            "effort_count": "112",
+            "effort_counts": {
+                  "overall": "112 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/21258868/local_legend?categories%5B%5D=overall"
+      }
 }

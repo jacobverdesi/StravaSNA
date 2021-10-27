@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1431472,
+      "resource_state": 3,
+      "name": "rich's dugway end to end",
+      "activity_type": "Ride",
+      "distance": 1017.67,
+      "average_grade": 4.1,
+      "maximum_grade": 7.5,
+      "elevation_high": 92.2,
+      "elevation_low": 50.8,
+      "start_latlng": [
+            43.14790374599397,
+            -77.5169510487467
+      ],
+      "end_latlng": [
+            43.147335117682815,
+            -77.52782036550343
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YOV5VK53SXTINRRMJL4KVHA2MB2RUQ6NYULXHTYXBAYCUAIJGR6RYKRU4EA6R7WKHMO4O2SOLGCDBLI5EFXA====",
+      "start_latitude": 43.14790374599397,
+      "start_longitude": -77.5169510487467,
+      "end_latitude": 43.147335117682815,
+      "end_longitude": -77.52782036550343,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-23T01:30:37Z",
+      "updated_at": "2021-05-19T08:02:03Z",
+      "total_elevation_gain": 41.4,
+      "map": {
+            "id": "s1431472",
+            "polyline": "kijfG~_cxMRXl@jA\\nAr@|A\\fAV`BPhDR~ADj@^~B@X?b@C^Ap@Qb@wBtCOXEf@@ZFX@x@GZKVoApBUdAGh@CjABVH\\PZJt@Zv@XfALZ?p@HtA",
+            "resource_state": 3
+      },
+      "effort_count": 6623,
+      "athlete_count": 520,
+      "star_count": 24,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:44",
+            "qom": "2:17",
+            "destination": {
+                  "href": "strava://segments/1431472/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "22 efforts"
+            },
+            "destination": "strava://segments/1431472/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7368398,
+      "resource_state": 3,
+      "name": "* START COUNTING THE ROLLERS *",
+      "activity_type": "Ride",
+      "distance": 1446.9,
+      "average_grade": -0.0,
+      "maximum_grade": 10.0,
+      "elevation_high": 291.2,
+      "elevation_low": 281.6,
+      "start_latlng": [
+            42.934653,
+            -77.520928
+      ],
+      "end_latlng": [
+            42.936178,
+            -77.53845
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/NV6NCVJ4NHIF4BL2XUPPE4CVMMPMTU6ZGSSWLDI6W4VAPIDKDGPB5YP3ROTANXPGOSCRSGXVM7OZBIPL3446K===",
+      "start_latitude": 42.934653,
+      "start_longitude": -77.520928,
+      "end_latitude": 42.936178,
+      "end_longitude": -77.53845,
+      "climb_category": 0,
+      "city": "Bloomfield",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-05T23:39:08Z",
+      "updated_at": "2021-05-15T02:15:08Z",
+      "total_elevation_gain": 11.2,
+      "map": {
+            "id": "s7368398",
+            "polyline": "qt`eGxxcxMmCxp@WbIgBfd@QlDOzE",
+            "resource_state": 3
+      },
+      "effort_count": 3405,
+      "athlete_count": 509,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:52",
+            "qom": "2:16",
+            "destination": {
+                  "href": "strava://segments/7368398/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16212,
+            "title": "Jason Hettenbaugh",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/16212/107027/2/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/7368398/local_legend?categories%5B%5D=overall"
+      }
 }

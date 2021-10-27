@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1769012,
+      "resource_state": 3,
+      "name": "Old-Penfield Road Climb",
+      "activity_type": "Ride",
+      "distance": 700.43,
+      "average_grade": 5.5,
+      "maximum_grade": 9.1,
+      "elevation_high": 122.9,
+      "elevation_low": 84.3,
+      "start_latlng": [
+            43.1368088722229,
+            -77.50001549720764
+      ],
+      "end_latlng": [
+            43.13531756401062,
+            -77.50579833984375
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QDOGCL4NV57HRI3UFHXIMEZ52Y5TQPCWCPPWA2GAK54JOFA5CLXPHIWUL3GM2KONAPXLVDIPFRXIDCRWXI5Q====",
+      "start_latitude": 43.1368088722229,
+      "start_longitude": -77.50001549720764,
+      "end_latitude": 43.13531756401062,
+      "end_longitude": -77.50579833984375,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-17T13:13:59Z",
+      "updated_at": "2021-05-17T08:04:00Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s1769012",
+            "polyline": "_dhfGbv_xMa@`@iAxA{@pBSx@OdAE~ADjCD`@b@l@PN|@n@|@b@|@P~A@l@HPHPTd@xBTXNHFVE`C",
+            "resource_state": 3
+      },
+      "effort_count": 1848,
+      "athlete_count": 268,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:28",
+            "qom": "1:56",
+            "destination": {
+                  "href": "strava://segments/1769012/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 11548844,
+            "title": "Michael Davis",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/11548844/6076912/1/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1769012/local_legend?categories%5B%5D=overall"
+      }
 }

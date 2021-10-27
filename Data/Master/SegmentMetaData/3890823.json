@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3890823,
+      "resource_state": 3,
+      "name": "Canfield Quickie 1",
+      "activity_type": "Ride",
+      "distance": 222.607,
+      "average_grade": 3.6,
+      "maximum_grade": 7.8,
+      "elevation_high": 231.0,
+      "elevation_low": 223.0,
+      "start_latlng": [
+            43.033996531779906,
+            -77.54281768582533
+      ],
+      "end_latlng": [
+            43.03388274744435,
+            -77.545538954509
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/44VV3YCGVACBRQCUZ6I3SPGPPFASA54XOB35B7FJ2XK53GD4VYIU6USH6XQTSMQ2B4PLAAEFKZ4HZLMTWOVXW===",
+      "start_latitude": 43.033996531779906,
+      "start_longitude": -77.54281768582533,
+      "end_latitude": 43.03388274744435,
+      "end_longitude": -77.545538954509,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-21T17:15:43Z",
+      "updated_at": "2021-05-20T08:02:28Z",
+      "total_elevation_gain": 8.0,
+      "map": {
+            "id": "s3890823",
+            "polyline": "mateGrahxMFnCHrAHrCEfD",
+            "resource_state": 3
+      },
+      "effort_count": 12413,
+      "athlete_count": 1288,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "20s",
+            "qom": "33s",
+            "destination": {
+                  "href": "strava://segments/3890823/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 22279972,
+            "title": "Leigh Rundell",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/3890823/local_legend?categories%5B%5D=overall"
+      }
 }

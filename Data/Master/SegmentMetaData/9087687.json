@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9087687,
+      "resource_state": 3,
+      "name": "State/Exchange",
+      "activity_type": "Ride",
+      "distance": 1493.9,
+      "average_grade": 0.4,
+      "maximum_grade": 3.1,
+      "elevation_high": 156.6,
+      "elevation_low": 150.6,
+      "start_latlng": [
+            43.158423,
+            -77.615513
+      ],
+      "end_latlng": [
+            43.146267,
+            -77.612985
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/65MP2GC7DKO4S377HFZS6HYNO4VSFOBZQUTPHHQV2W4JGCHXHZZMPEGZPNV6N3VIDS2VOKM4R5EFCC4KP5KA====",
+      "start_latitude": 43.158423,
+      "start_longitude": -77.615513,
+      "end_latitude": 43.146267,
+      "end_longitude": -77.612985,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-03-19T06:02:00Z",
+      "updated_at": "2021-05-15T02:16:09Z",
+      "total_elevation_gain": 8.8,
+      "map": {
+            "id": "s9087687",
+            "polyline": "cklfG~gvxMt@kAJYzA}B`BeBjEaEnAaA`Bm@^Iv@Ud@[Z@x@]`@IL?fDkAv@Sj@UJAh@Sv@Oj@ArBNZJLCJBZ@z@@ZCJD`A@d@FPDZ?LD\\?ZDZNfA\\f@VbA`@n@`@h@RdHdD",
+            "resource_state": 3
+      },
+      "effort_count": 1303,
+      "athlete_count": 416,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:28",
+            "qom": "3:27",
+            "destination": {
+                  "href": "strava://segments/9087687/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 17613772,
+            "title": "Brian Simon",
+            "profile": "https://graph.facebook.com/10208763244311723/picture?height=256&width=256",
+            "effort_description": "29 efforts in the last 90 days",
+            "effort_count": "29",
+            "effort_counts": {
+                  "overall": "29 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/9087687/local_legend?categories%5B%5D=overall"
+      }
 }

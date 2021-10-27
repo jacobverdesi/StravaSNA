@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7226205,
+      "resource_state": 3,
+      "name": "Ayrault to Hogan on Rail Trail",
+      "activity_type": "Ride",
+      "distance": 1176.6,
+      "average_grade": 0.5,
+      "maximum_grade": 9.8,
+      "elevation_high": 149.2,
+      "elevation_low": 142.8,
+      "start_latlng": [
+            43.078998,
+            -77.426012
+      ],
+      "end_latlng": [
+            43.069961,
+            -77.419433
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/E2S5PNNR7XVJHQUBABDKK6ADRKYI6S4FBLEZIVWOEWJXR5A74SXW7WQND3WMNUE5IOUCAPZ7PINZ4UFS27LA====",
+      "start_latitude": 43.078998,
+      "start_longitude": -77.426012,
+      "end_latitude": 43.069961,
+      "end_longitude": -77.419433,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-05-17T01:33:13Z",
+      "updated_at": "2021-05-17T08:05:06Z",
+      "total_elevation_gain": 6.4,
+      "map": {
+            "id": "s7226205",
+            "polyline": "uz|eGrgqwMdCa@rBSfASP?^EvB_@l@MpE}AnBw@lC{AdAq@tC}BrD_EdCoDtE_IVm@^e@",
+            "resource_state": 3
+      },
+      "effort_count": 4201,
+      "athlete_count": 644,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:56",
+            "qom": "2:39",
+            "destination": {
+                  "href": "strava://segments/7226205/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "24 efforts in the last 90 days",
+            "effort_count": "24",
+            "effort_counts": {
+                  "overall": "24 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/7226205/local_legend?categories%5B%5D=overall"
+      }
 }

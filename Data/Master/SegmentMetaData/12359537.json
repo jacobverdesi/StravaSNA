@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12359537,
+      "resource_state": 3,
+      "name": "Through the Gates Westbound",
+      "activity_type": "Ride",
+      "distance": 731.9,
+      "average_grade": -0.2,
+      "maximum_grade": 11.0,
+      "elevation_high": 142.0,
+      "elevation_low": 133.5,
+      "start_latlng": [
+            43.09329,
+            -77.523683
+      ],
+      "end_latlng": [
+            43.090813,
+            -77.531164
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CK6ZK5JX646AGJ4FPMTUKIQT2YCID7KCLPUTGXWTZHQ2ZRY45IISZFW3BOLEJYPRYYAJCOVGQHI3LSHDGGQQ====",
+      "start_latitude": 43.09329,
+      "start_longitude": -77.523683,
+      "end_latitude": 43.090813,
+      "end_longitude": -77.531164,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-06-13T22:54:31Z",
+      "updated_at": "2021-05-18T08:04:24Z",
+      "total_elevation_gain": 6.6,
+      "map": {
+            "id": "s12359537",
+            "polyline": "at_fG`jdxMNbAZpAHr@RbALn@JPBd@ELGFm@\\KLERAd@Vt@Bl@DRzAhDLRHPhB|Gb@z@f@t@x@bAZTR`@JZ@LJXFt@?V",
+            "resource_state": 3
+      },
+      "effort_count": 19005,
+      "athlete_count": 3429,
+      "star_count": 13,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "57s",
+            "qom": "1:18",
+            "destination": {
+                  "href": "strava://segments/12359537/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "41 efforts in the last 90 days",
+            "effort_count": "41",
+            "effort_counts": {
+                  "overall": "41 efforts",
+                  "female": "14 efforts"
+            },
+            "destination": "strava://segments/12359537/local_legend?categories%5B%5D=overall"
+      }
 }

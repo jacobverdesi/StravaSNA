@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15676559,
+      "resource_state": 3,
+      "name": "Pittsford Railroad Trail North -NB",
+      "activity_type": "Ride",
+      "distance": 977.6,
+      "average_grade": -0.2,
+      "maximum_grade": 7.0,
+      "elevation_high": 140.6,
+      "elevation_low": 138.4,
+      "start_latlng": [
+            43.100329,
+            -77.542128
+      ],
+      "end_latlng": [
+            43.108431,
+            -77.545735
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LSUWZTCKP4FAVKLK4P4LVI7LZGPT7D3GLLADOQVNO2EFSUJULDMEG5GVWQKUUFDR3NAV4RRZOACKBDZ57W7VI===",
+      "start_latitude": 43.100329,
+      "start_longitude": -77.542128,
+      "end_latitude": 43.108431,
+      "end_longitude": -77.545735,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-08-09T00:29:18Z",
+      "updated_at": "2021-05-18T08:04:54Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s15676559",
+            "polyline": "_`afGh}gxM_@HO?[FeBRaDXiB\\qAVmAd@uA`@}Bv@GJJZWb@{DfAyBx@}@`@{@R{@d@u@JI?{@NkAr@e@n@u@p@",
+            "resource_state": 3
+      },
+      "effort_count": 1411,
+      "athlete_count": 250,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:53",
+            "qom": "2:29",
+            "destination": {
+                  "href": "strava://segments/15676559/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 784445,
+            "title": "Steve Coppola",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/784445/7733965/1/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/15676559/local_legend?categories%5B%5D=overall"
+      }
 }

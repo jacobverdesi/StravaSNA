@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9771791,
+      "resource_state": 3,
+      "name": "* HERE WE GO *",
+      "activity_type": "Ride",
+      "distance": 977.3,
+      "average_grade": 0.0,
+      "maximum_grade": 0.0,
+      "elevation_high": 160.0,
+      "elevation_low": 160.0,
+      "start_latlng": [
+            43.132331,
+            -77.620438
+      ],
+      "end_latlng": [
+            43.140222,
+            -77.615262
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FY2TDCR3JDI4MTITQ6RJQOEHZRIGDPASVJHNPH3DIPAXOEMS77BACWAGXCMBCRAEZD6JGQLRLQX6RTZLGAJA====",
+      "start_latitude": 43.132331,
+      "start_longitude": -77.620438,
+      "end_latitude": 43.140222,
+      "end_longitude": -77.615262,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-20T17:58:37Z",
+      "updated_at": "2021-05-20T08:03:26Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9771791",
+            "polyline": "ahgfGvfwxMkAmAmFiEsA{@}DeBkDuAkBy@qCuAiEiByA_AeB}@kBoA}@q@",
+            "resource_state": 3
+      },
+      "effort_count": 17767,
+      "athlete_count": 1856,
+      "star_count": 13,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:10",
+            "qom": "1:28",
+            "destination": {
+                  "href": "strava://segments/9771791/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 846641,
+            "title": "Brad Haberli",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/846641/195199/4/large.jpg",
+            "effort_description": "38 efforts in the last 90 days",
+            "effort_count": "38",
+            "effort_counts": {
+                  "overall": "38 efforts",
+                  "female": "18 efforts"
+            },
+            "destination": "strava://segments/9771791/local_legend?categories%5B%5D=overall"
+      }
 }

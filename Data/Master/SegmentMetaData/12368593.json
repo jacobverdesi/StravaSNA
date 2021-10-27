@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12368593,
+      "resource_state": 3,
+      "name": "North Washington Climb",
+      "activity_type": "Ride",
+      "distance": 488.1,
+      "average_grade": 5.2,
+      "maximum_grade": 12.5,
+      "elevation_high": 122.6,
+      "elevation_low": 97.1,
+      "start_latlng": [
+            43.127071,
+            -77.484268
+      ],
+      "end_latlng": [
+            43.123932,
+            -77.482803
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YOASN2YQQ7U5X5HQ5JULUZBIK6W6CPUP4GUIFQQ52PEWMF6FTYNUKDERHTK6W5WWCHH2H42YMXBTUF3MJLJQ====",
+      "start_latitude": 43.127071,
+      "start_longitude": -77.484268,
+      "end_latitude": 43.123932,
+      "end_longitude": -77.482803,
+      "climb_category": 0,
+      "city": "East Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-06-15T00:55:51Z",
+      "updated_at": "2021-05-18T08:04:24Z",
+      "total_elevation_gain": 25.5,
+      "map": {
+            "id": "s12368593",
+            "polyline": "egffGts|wMFKBg@TyAB_AHc@HOH[LOHURSBIGA?G|@o@b@k@`@?VDBBABBFd@Rh@JbA\\dAH|@b@JJZPd@B",
+            "resource_state": 3
+      },
+      "effort_count": 794,
+      "athlete_count": 129,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:15",
+            "qom": "2:05",
+            "destination": {
+                  "href": "strava://segments/12368593/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14073677,
+            "title": "RCH Chef",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/14073677/5739155/2/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/12368593/local_legend?categories%5B%5D=overall"
+      }
 }

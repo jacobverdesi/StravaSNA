@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1809172,
+      "resource_state": 3,
+      "name": "Highland to Field",
+      "activity_type": "Ride",
+      "distance": 292.201,
+      "average_grade": 2.2,
+      "maximum_grade": 7.4,
+      "elevation_high": 177.0,
+      "elevation_low": 166.3,
+      "start_latlng": [
+            43.131995312909716,
+            -77.59011232301368
+      ],
+      "end_latlng": [
+            43.13433880921745,
+            -77.59145887575819
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QLLXWDJ5YOP2DALPO7CZP4BP4JOJJ4GHU52ES7TK26PDLFHBXTQ266VFBEQMIODPN4QAV6ZRDRB26ZBNKZC7G===",
+      "start_latitude": 43.131995312909716,
+      "start_longitude": -77.59011232301368,
+      "end_latitude": 43.13433880921745,
+      "end_longitude": -77.59145887575819,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-07-23T01:10:35Z",
+      "updated_at": "2021-05-19T08:02:06Z",
+      "total_elevation_gain": 10.6886,
+      "map": {
+            "id": "s1809172",
+            "polyline": "}egfGfiqxMuAG{@Rm@V[XSX_@XcAb@s@`@kArA",
+            "resource_state": 3
+      },
+      "effort_count": 2943,
+      "athlete_count": 601,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "20s",
+            "qom": "22s",
+            "destination": {
+                  "href": "strava://segments/1809172/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 87521794,
+            "title": "Conor Reynolds",
+            "profile": "https://graph.facebook.com/10220328418945692/picture?height=256&width=256",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1809172/local_legend?categories%5B%5D=overall"
+      }
 }

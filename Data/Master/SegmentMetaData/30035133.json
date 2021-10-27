@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 30035133,
+      "resource_state": 3,
+      "name": "PH Townline Road",
+      "activity_type": "Ride",
+      "distance": 1104.3,
+      "average_grade": -1.1,
+      "maximum_grade": 2.4,
+      "elevation_high": 196.8,
+      "elevation_low": 184.9,
+      "start_latlng": [
+            43.059876,
+            -77.572945
+      ],
+      "end_latlng": [
+            43.068752,
+            -77.568166
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5TALELW33HVZY74FN47PCFM5UP2P64VXVG6B4YIIYQNCH3447SHQCNJ42HB5TZHPBKJJTZOHVJKOHM6FJNJQ====",
+      "start_latitude": 43.059876,
+      "start_longitude": -77.572945,
+      "end_latitude": 43.068752,
+      "end_longitude": -77.568166,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-10-03T02:17:56Z",
+      "updated_at": "2021-10-03T02:17:56Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s30035133",
+            "polyline": "ecyeG|}mxMQEkAa@yD_B{F}BkI}D}BiAcF}BmGsCaE{AeAe@OKGM",
+            "resource_state": 3
+      },
+      "effort_count": 341,
+      "athlete_count": 134,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "59s",
+            "qom": "2:00",
+            "destination": {
+                  "href": "strava://segments/30035133/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 82917200,
+            "title": "Scott Leubner",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/82917200/20040506/1/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/30035133/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4228648,
+      "resource_state": 3,
+      "name": "Turk - Mason, Speedway",
+      "activity_type": "Ride",
+      "distance": 2000.2,
+      "average_grade": -0.7,
+      "maximum_grade": 6.2,
+      "elevation_high": 177.8,
+      "elevation_low": 158.9,
+      "start_latlng": [
+            43.068525,
+            -77.43115
+      ],
+      "end_latlng": [
+            43.06442,
+            -77.408173
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BPK544MHGFJEPGDTYJATXZRH4ELKBJYBH7R2CG7X7KJTEJWY3YCMT7VYPAYBWJ47CVR6A5WFGQP2XHPPPR6A====",
+      "start_latitude": 43.068525,
+      "start_longitude": -77.43115,
+      "end_latitude": 43.06442,
+      "end_longitude": -77.408173,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-27T17:16:17Z",
+      "updated_at": "2021-05-15T02:13:13Z",
+      "total_elevation_gain": 15.1,
+      "map": {
+            "id": "s4228648",
+            "polyline": "gyzeGtgrwMKeBAmABYCwBYcHGs@@o@Iu@EeACUCgBBk@EeBIqADs@A_BBS?_@NeBR_ADi@n@yBlBgEn@}Aj@kAd@qAj@yBJWLy@Xu@Z_B`@mAr@sDF]Vw@f@sBVq@Nu@jAkELw@\\{@j@uCFo@Vw@BWLc@NiB?q@Di@FiCAwCD}AEqABkCC{@",
+            "resource_state": 3
+      },
+      "effort_count": 1273,
+      "athlete_count": 295,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:40",
+            "qom": "3:09",
+            "destination": {
+                  "href": "strava://segments/4228648/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1026475,
+            "title": "David Livingston",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1026475/16193229/1/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/4228648/local_legend?categories%5B%5D=overall"
+      }
 }

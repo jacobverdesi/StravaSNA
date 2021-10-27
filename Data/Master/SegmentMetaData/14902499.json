@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14902499,
+      "resource_state": 3,
+      "name": "Out to the Access Road",
+      "activity_type": "Ride",
+      "distance": 372.7,
+      "average_grade": 0.4,
+      "maximum_grade": 6.5,
+      "elevation_high": 121.0,
+      "elevation_low": 118.6,
+      "start_latlng": [
+            43.16078,
+            -77.537192
+      ],
+      "end_latlng": [
+            43.159763,
+            -77.535391
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FH5ZGU3OL7DLK5X7MEWXR7OMPNBJAIRLGGRVQJLJBCEL7I433HISZ2YPINKQ53HW5B53D4ZR7ECIIGF76KMKM===",
+      "start_latitude": 43.16078,
+      "start_longitude": -77.537192,
+      "end_latitude": 43.159763,
+      "end_longitude": -77.535391,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-05-17T14:10:13Z",
+      "updated_at": "2021-05-20T08:04:14Z",
+      "total_elevation_gain": 2.4,
+      "map": {
+            "id": "s14902499",
+            "polyline": "{ylfGn~fxMPED?HDLNLTDNG\\FHRDRd@JNFBHAHIj@u@NUFCNDBA@k@Je@?i@Fk@CWKWEk@KQ?e@Qw@Ay@",
+            "resource_state": 3
+      },
+      "effort_count": 11724,
+      "athlete_count": 886,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "54s",
+            "qom": "1:09",
+            "destination": {
+                  "href": "strava://segments/14902499/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 15941774,
+            "title": "David Lindsay",
+            "profile": "https://graph.facebook.com/10208577687417086/picture?height=256&width=256",
+            "effort_description": "17 efforts in the last 90 days",
+            "effort_count": "17",
+            "effort_counts": {
+                  "overall": "17 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/14902499/local_legend?categories%5B%5D=overall"
+      }
 }

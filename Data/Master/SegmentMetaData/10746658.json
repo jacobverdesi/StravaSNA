@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10746658,
+      "resource_state": 3,
+      "name": "Cemetery Ripper!",
+      "activity_type": "Ride",
+      "distance": 396.3,
+      "average_grade": -3.0,
+      "maximum_grade": 5.0,
+      "elevation_high": 119.4,
+      "elevation_low": 107.0,
+      "start_latlng": [
+            43.21292,
+            -77.626145
+      ],
+      "end_latlng": [
+            43.214631,
+            -77.622197
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VTKMNE2QBKCWDYS2MILUBM7LJE7PONBUOHVB4JXL2KV6JSY3AZX7PEMVZLARREIHONLVW5CIFCWZTA2647SQ====",
+      "start_latitude": 43.21292,
+      "start_longitude": -77.626145,
+      "end_latitude": 43.214631,
+      "end_longitude": -77.622197,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-10-24T12:11:45Z",
+      "updated_at": "2021-05-20T08:03:35Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s10746658",
+            "polyline": "w_wfGljxxMEm@OU[sBI_@OWC[i@{@AYEWBYE]MSc@sAO_A@UCUU{@u@u@[Qe@K",
+            "resource_state": 3
+      },
+      "effort_count": 1609,
+      "athlete_count": 230,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "26s",
+            "qom": "58s",
+            "destination": {
+                  "href": "strava://segments/10746658/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24752282,
+            "title": "Ted Cessna\ud83c\uddfa\ud83c\uddf8",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/24752282/7127891/1/large.jpg",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/10746658/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25206237,
+      "resource_state": 3,
+      "name": "Green 4",
+      "activity_type": "Ride",
+      "distance": 529.9,
+      "average_grade": 4.5,
+      "maximum_grade": 13.7,
+      "elevation_high": 244.0,
+      "elevation_low": 220.0,
+      "start_latlng": [
+            43.022555,
+            -77.557567
+      ],
+      "end_latlng": [
+            43.026116,
+            -77.55491
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MJSJ6KDGDFAETOHN4BBRNXFOMCYG2YEFPINGGCVSGAESULSQXPZN2O4MDW7RRK75C47FKMOAYSC6MUO26X3W2===",
+      "start_latitude": 43.022555,
+      "start_longitude": -77.557567,
+      "end_latitude": 43.026116,
+      "end_longitude": -77.55491,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-08-06T14:59:38Z",
+      "updated_at": "2021-05-15T02:25:06Z",
+      "total_elevation_gain": 24.0,
+      "map": {
+            "id": "s25206237",
+            "polyline": "}yqeGx}jxMCTIBGJIFw@Oa@Ba@CmAQGBMAg@MSAa@OIDs@O}@Ys@o@Ww@]y@ICYm@m@m@c@y@E_@A_@?SDOGYCa@",
+            "resource_state": 3
+      },
+      "effort_count": 129,
+      "athlete_count": 57,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:39",
+            "qom": "3:07",
+            "destination": {
+                  "href": "strava://segments/25206237/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1091967,
+            "title": "Jason Hightower +\ud83e\udd8a",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1091967/17443374/1/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/25206237/local_legend?categories%5B%5D=overall"
+      }
 }

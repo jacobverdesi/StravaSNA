@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20424116,
+      "resource_state": 3,
+      "name": "Clover - Highland down to Allen's Creek",
+      "activity_type": "Ride",
+      "distance": 2287.6,
+      "average_grade": 0.1,
+      "maximum_grade": 6.9,
+      "elevation_high": 139.4,
+      "elevation_low": 132.4,
+      "start_latlng": [
+            43.136701,
+            -77.541271
+      ],
+      "end_latlng": [
+            43.117178,
+            -77.548051
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LLVUOXOMJ5BDWLHZ4JIZHJZ6EXHS3T4MORXCQRINUVRUVANI3YUVLG5DMV6POFHPBISO57QMGNJNUXYZTFPDI===",
+      "start_latitude": 43.136701,
+      "start_longitude": -77.541271,
+      "end_latitude": 43.117178,
+      "end_longitude": -77.548051,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-04-26T12:20:57Z",
+      "updated_at": "2021-05-20T08:05:03Z",
+      "total_elevation_gain": 11.6,
+      "map": {
+            "id": "s20424116",
+            "polyline": "kchfG~wgxMhHdDzFtChBx@vAr@jDzAp@^lEtBvCpAdEpBlBx@nG`DJHAF@AXPZHlBz@xElBnCnAvAd@dAN`@@`AAtACfBKdBCdISpBE`II`BIt@I",
+            "resource_state": 3
+      },
+      "effort_count": 7000,
+      "athlete_count": 870,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:23",
+            "qom": "3:46",
+            "destination": {
+                  "href": "strava://segments/20424116/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 41892149,
+            "title": "Greg nagy",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/41892149/12013341/3/large.jpg",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": "16 efforts"
+            },
+            "destination": "strava://segments/20424116/local_legend?categories%5B%5D=overall"
+      }
 }

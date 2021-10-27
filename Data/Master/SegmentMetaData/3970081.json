@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3970081,
+      "resource_state": 3,
+      "name": "Blossom Ascent (to Landing Rd)",
+      "activity_type": "Ride",
+      "distance": 820.0,
+      "average_grade": 5.3,
+      "maximum_grade": 14.8,
+      "elevation_high": 121.8,
+      "elevation_low": 77.9,
+      "start_latlng": [
+            43.148139,
+            -77.518098
+      ],
+      "end_latlng": [
+            43.149463,
+            -77.527974
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5MLSN7AMSJRU4MJ6IBGZW5CHMWGY5K3WHN2VX6KAGEUPQ5FYX3X4DHFTPU5JM7NX56L22UX3RZJ25PSN5AEA====",
+      "start_latitude": 43.148139,
+      "start_longitude": -77.518098,
+      "end_latitude": 43.149463,
+      "end_longitude": -77.527974,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-30T17:52:15Z",
+      "updated_at": "2021-05-15T02:13:05Z",
+      "total_elevation_gain": 44.1,
+      "map": {
+            "id": "s3970081",
+            "polyline": "yjjfGbgcxMy@nK_DnYWjDIp@QjCCxBBvAA`A?p@Df@",
+            "resource_state": 3
+      },
+      "effort_count": 1471,
+      "athlete_count": 465,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:38",
+            "qom": "2:06",
+            "destination": {
+                  "href": "strava://segments/3970081/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 24499231,
+            "title": "Dalia Ghoneim",
+            "profile": "https://graph.facebook.com/1335166319939255/picture?height=256&width=256",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "15 efforts"
+            },
+            "destination": "strava://segments/3970081/local_legend?categories%5B%5D=overall"
+      }
 }

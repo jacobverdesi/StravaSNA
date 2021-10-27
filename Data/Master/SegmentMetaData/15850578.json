@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15850578,
+      "resource_state": 3,
+      "name": "* VALLEY VIEW *",
+      "activity_type": "Ride",
+      "distance": 465.1,
+      "average_grade": 2.9,
+      "maximum_grade": 5.9,
+      "elevation_high": 149.6,
+      "elevation_low": 136.1,
+      "start_latlng": [
+            43.125784,
+            -77.463916
+      ],
+      "end_latlng": [
+            43.125429,
+            -77.45827
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MBTMUL334HFQHGXLLIIITJXASTYS6HZCGRJMFXJ7LMSB3MET3YAW5IENW5S6X3OAB3NPDILSJGR2AC4N5WQA====",
+      "start_latitude": 43.125784,
+      "start_longitude": -77.463916,
+      "end_latitude": 43.125429,
+      "end_longitude": -77.45827,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-08-26T15:03:49Z",
+      "updated_at": "2021-05-20T08:04:23Z",
+      "total_elevation_gain": 13.5,
+      "map": {
+            "id": "s15850578",
+            "polyline": "c_ffGntxwMBaB\\{B@q@AuA@qA@UZeBBa@C_BDiA?iJ",
+            "resource_state": 3
+      },
+      "effort_count": 28,
+      "athlete_count": 17,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "50s",
+            "qom": "1:57",
+            "destination": {
+                  "href": "strava://segments/15850578/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 90249165,
+            "title": "Glen Zagorski",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/15850578/local_legend?categories%5B%5D=overall"
+      }
 }

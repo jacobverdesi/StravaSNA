@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24761295,
+      "resource_state": 3,
+      "name": "Highland Ave EB (Winton-390)",
+      "activity_type": "Ride",
+      "distance": 556.1,
+      "average_grade": -0.3,
+      "maximum_grade": 3.9,
+      "elevation_high": 146.1,
+      "elevation_low": 141.9,
+      "start_latlng": [
+            43.136772,
+            -77.560123
+      ],
+      "end_latlng": [
+            43.136998,
+            -77.553302
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3C7VSJDEGDIHTSVPE26V34YLXHMHNM2F4DXYI3ZEG7AZOE3EZ2LUDOWU2ASMG4PRQESJ4XXFT47THF2MYHO5U===",
+      "start_latitude": 43.136772,
+      "start_longitude": -77.560123,
+      "end_latitude": 43.136998,
+      "end_longitude": -77.553302,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-07-05T16:22:42Z",
+      "updated_at": "2021-05-20T08:05:33Z",
+      "total_elevation_gain": 2.5,
+      "map": {
+            "id": "s24761295",
+            "polyline": "ychfGxmkxMGgBG_IE{@UoZ",
+            "resource_state": 3
+      },
+      "effort_count": 5797,
+      "athlete_count": 736,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "42s",
+            "qom": "53s",
+            "destination": {
+                  "href": "strava://segments/24761295/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 502861,
+            "title": "Michael Deats",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/502861/1105296/1/large.jpg",
+            "effort_description": "17 efforts in the last 90 days",
+            "effort_count": "17",
+            "effort_counts": {
+                  "overall": "17 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/24761295/local_legend?categories%5B%5D=overall"
+      }
 }

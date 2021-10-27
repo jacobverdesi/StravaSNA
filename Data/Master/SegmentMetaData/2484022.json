@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2484022,
+      "resource_state": 3,
+      "name": "100 Acre Woods Singletrack Ascent",
+      "activity_type": "Ride",
+      "distance": 293.714,
+      "average_grade": 9.1,
+      "maximum_grade": 36.4,
+      "elevation_high": 241.2,
+      "elevation_low": 214.5,
+      "start_latlng": [
+            43.006567,
+            -77.413578
+      ],
+      "end_latlng": [
+            43.005791,
+            -77.411845
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KZV7TOTQGQOUMRR5QBJZ6LWTNKGQWVEPFSDJGTY4B3FIWH3LHUL344YQV3M54U3ZXQSDWCYODWMUO5PYZWFEW===",
+      "start_latitude": 43.006567,
+      "start_longitude": -77.413578,
+      "end_latitude": 43.005791,
+      "end_longitude": -77.411845,
+      "climb_category": 0,
+      "city": "Victor",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-09-30T13:53:21Z",
+      "updated_at": "2021-05-15T02:12:32Z",
+      "total_elevation_gain": 26.775,
+      "map": {
+            "id": "s2484022",
+            "polyline": "_vneGzynwMHKCSBq@NURK@I@UCMW[BEHAJI?GMKAGf@c@Xi@LETBR]",
+            "resource_state": 3
+      },
+      "effort_count": 4,
+      "athlete_count": 1,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:43",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/2484022/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13194896,
+      "resource_state": 3,
+      "name": "Allens Creek Rd",
+      "activity_type": "Ride",
+      "distance": 2075.5,
+      "average_grade": -0.9,
+      "maximum_grade": 2.0,
+      "elevation_high": 138.8,
+      "elevation_low": 119.6,
+      "start_latlng": [
+            43.116668,
+            -77.547713
+      ],
+      "end_latlng": [
+            43.127035,
+            -77.528375
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DEME3JKBBCHXGRC2P3ZTTYY2T3EH3RGGNFHNRRENLEFMBP6NOQBIO2GGSRTXNXE2BQVC2TPWOZIV3S3TAIGTG===",
+      "start_latitude": 43.116668,
+      "start_longitude": -77.547713,
+      "end_latitude": 43.127035,
+      "end_longitude": -77.528375,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-09-14T17:39:51Z",
+      "updated_at": "2021-05-15T08:04:36Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s13194896",
+            "polyline": "cfdfGf`ixMOoHSsRGeAKk@Yy@]w@wFyLiIgOsGmMeK}W_@m@e@a@g@Yg@SyHeCyAo@OIg@g@kB_C",
+            "resource_state": 3
+      },
+      "effort_count": 1715,
+      "athlete_count": 294,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:46",
+            "qom": "3:04",
+            "destination": {
+                  "href": "strava://segments/13194896/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2308060,
+            "title": "Aaron Hunt",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2308060/4359524/1/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/13194896/local_legend?categories%5B%5D=overall"
+      }
 }

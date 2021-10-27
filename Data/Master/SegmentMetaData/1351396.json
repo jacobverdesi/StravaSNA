@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1351396,
+      "resource_state": 3,
+      "name": "Knickerbocker Climb",
+      "activity_type": "Ride",
+      "distance": 1184.71,
+      "average_grade": 3.2,
+      "maximum_grade": 10.2,
+      "elevation_high": 178.2,
+      "elevation_low": 140.0,
+      "start_latlng": [
+            43.07932008057833,
+            -77.50263970345259
+      ],
+      "end_latlng": [
+            43.07355970144272,
+            -77.50839882530272
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2RDTHQSGCN3OZVMZ4JHSNPZKWX42M7DAL6X4T6M7O5LN6KW5QZHO6B2ECMGAOZ6PWTZOOKH5W3S77HTOEBYQ====",
+      "start_latitude": 43.07932008057833,
+      "start_longitude": -77.50263970345259,
+      "end_latitude": 43.07355970144272,
+      "end_longitude": -77.50839882530272,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-08T20:55:35Z",
+      "updated_at": "2021-05-15T02:12:01Z",
+      "total_elevation_gain": 38.2,
+      "map": {
+            "id": "s1351396",
+            "polyline": "w||eGnf`xM~@gBx@aAb@a@bAm@zC{At@a@v@[hCe@dAGd@Dv@`@NLd@fAH\\JhAD~@H`ARdEPhB`@tBnDxORtBAbD",
+            "resource_state": 3
+      },
+      "effort_count": 3073,
+      "athlete_count": 366,
+      "star_count": 14,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:03",
+            "qom": "2:43",
+            "destination": {
+                  "href": "strava://segments/1351396/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "13 efforts in the last 90 days",
+            "effort_count": "13",
+            "effort_counts": {
+                  "overall": "13 efforts",
+                  "female": "13 efforts"
+            },
+            "destination": "strava://segments/1351396/local_legend?categories%5B%5D=overall"
+      }
 }

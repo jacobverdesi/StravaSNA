@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2855815,
+      "resource_state": 3,
+      "name": "Rt 65 (Monroe Ave-French Rd)",
+      "activity_type": "Ride",
+      "distance": 1140.33,
+      "average_grade": 1.6,
+      "maximum_grade": 6.7,
+      "elevation_high": 89.4,
+      "elevation_low": 69.8,
+      "start_latlng": [
+            43.110963525250554,
+            -77.54785755649209
+      ],
+      "end_latlng": [
+            43.10071874409914,
+            -77.5471580028534
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WTTNW64KZOOSTHOG4HSE7X3ZAX3OOKVTANHUMYK3575GC6F6LEULBHBM43V3S3RHYW4GFBCA7NJ6YSTIH6RA====",
+      "start_latitude": 43.110963525250554,
+      "start_longitude": -77.54785755649209,
+      "end_latitude": 43.10071874409914,
+      "end_longitude": -77.5471580028534,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-11-28T21:23:44Z",
+      "updated_at": "2021-05-20T08:02:22Z",
+      "total_elevation_gain": 22.2,
+      "map": {
+            "id": "s2855815",
+            "polyline": "obcfGbaixMlGOhAK|CQzDKtHOzBAlEQdHKlJYz@G",
+            "resource_state": 3
+      },
+      "effort_count": 7193,
+      "athlete_count": 789,
+      "star_count": 15,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:39",
+            "qom": "2:07",
+            "destination": {
+                  "href": "strava://segments/2855815/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 41892149,
+            "title": "Greg nagy",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/41892149/12013341/3/large.jpg",
+            "effort_description": "24 efforts in the last 90 days",
+            "effort_count": "24",
+            "effort_counts": {
+                  "overall": "24 efforts",
+                  "female": "16 efforts"
+            },
+            "destination": "strava://segments/2855815/local_legend?categories%5B%5D=overall"
+      }
 }

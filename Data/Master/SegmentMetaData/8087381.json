@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8087381,
+      "resource_state": 3,
+      "name": "* SPEED SCHOOL *",
+      "activity_type": "Ride",
+      "distance": 715.1,
+      "average_grade": -1.5,
+      "maximum_grade": 5.2,
+      "elevation_high": 156.4,
+      "elevation_low": 144.8,
+      "start_latlng": [
+            43.177631,
+            -77.330517
+      ],
+      "end_latlng": [
+            43.179727,
+            -77.337876
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KPA25KBTWZ7HJOONJEW4YXPIUORP3OTZXOA6SOUADDJJLCU3OICLCS33EHPY52OAUO7YCXBRZTRV2N2I4DEA====",
+      "start_latitude": 43.177631,
+      "start_longitude": -77.330517,
+      "end_latitude": 43.179727,
+      "end_longitude": -77.337876,
+      "climb_category": 0,
+      "city": "Ontario",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-09-07T22:55:05Z",
+      "updated_at": "2021-05-20T08:03:08Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s8087381",
+            "polyline": "ecpfGvr~vM{A`@aAZ]XQp@Ct@H|HAzEObAs@tBeCpFSv@CRHlF",
+            "resource_state": 3
+      },
+      "effort_count": 3892,
+      "athlete_count": 301,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "45s",
+            "qom": "54s",
+            "destination": {
+                  "href": "strava://segments/8087381/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2919930,
+            "title": "Paul B",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2919930/14716373/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/8087381/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15288835,
+      "resource_state": 3,
+      "name": "Bloomin' Onion",
+      "activity_type": "Ride",
+      "distance": 2405.2,
+      "average_grade": 4.1,
+      "maximum_grade": 15.1,
+      "elevation_high": 286.0,
+      "elevation_low": 188.0,
+      "start_latlng": [
+            43.059971,
+            -77.396753
+      ],
+      "end_latlng": [
+            43.046995,
+            -77.408686
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/O66NOASFOOB7B5GDB7BCDVUDXUCBYVIIT5FD3VE6GCXJJH6QFU64QXEF225RYQLNPTZDXAU4TT2PJJOW3NIR2===",
+      "start_latitude": 43.059971,
+      "start_longitude": -77.396753,
+      "end_latitude": 43.046995,
+      "end_longitude": -77.408686,
+      "climb_category": 1,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-29T16:04:01Z",
+      "updated_at": "2021-05-17T08:07:02Z",
+      "total_elevation_gain": 100.2,
+      "map": {
+            "id": "s15288835",
+            "polyline": "ycyeGvpkwM|AMfBYxGwA~Cs@pAQbBIdACh\\AjBJ`Fh@xC^JBFbAg@`KGjB@~@E|B@rBCZBdCEfC@x@E`A?lBDj@F`@`AfDP\\dB|BT`@rAzCb@rALd@F^FbA@lAWdB_@rB",
+            "resource_state": 3
+      },
+      "effort_count": 632,
+      "athlete_count": 145,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:26",
+            "qom": "6:49",
+            "destination": {
+                  "href": "strava://segments/15288835/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 747722,
+            "title": "Scott Parks",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/747722/713390/2/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/15288835/local_legend?categories%5B%5D=overall"
+      }
 }

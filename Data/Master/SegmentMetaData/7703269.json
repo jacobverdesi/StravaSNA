@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7703269,
+      "resource_state": 3,
+      "name": "Norman to Jefferson",
+      "activity_type": "Ride",
+      "distance": 4696.5,
+      "average_grade": 0.1,
+      "maximum_grade": 3.6,
+      "elevation_high": 162.9,
+      "elevation_low": 156.0,
+      "start_latlng": [
+            43.092663,
+            -77.67891
+      ],
+      "end_latlng": [
+            43.113882,
+            -77.639362
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EAB3SWJ52AKNEJPWWUKQNXDDQUOEPCCWMT3Q6LHAFWVUOKS5NBZG6MFTMX5KYKHB7O77JYPFMBS52UQYWWWTI===",
+      "start_latitude": 43.092663,
+      "start_longitude": -77.67891,
+      "end_latitude": 43.113882,
+      "end_longitude": -77.639362,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-22T00:41:00Z",
+      "updated_at": "2021-05-15T02:15:22Z",
+      "total_elevation_gain": 10.0,
+      "map": {
+            "id": "s7703269",
+            "polyline": "cp_fGdtbyMmEqAeCo@uFaA{A]iA_@}GsCkH_CyA_@s@O}BYaDYeAAu@?sEVeA?yAGiBMeAOa@IsA_@q@W_Ae@m@_@i@e@i@k@c@o@o@iA]_A{@sCuAsFa@sAUcAw@uCo@_D{@aFu@}Ee@yDiAiMe@qGWkCOuB_@eCa@uASe@Ue@o@_Aw@w@iA}@YWwAiBk@mAQg@Mk@mBoF_@_BKgB?qMUk\\GkCIiJe@y\\IoH",
+            "resource_state": 3
+      },
+      "effort_count": 3341,
+      "athlete_count": 585,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "6:28",
+            "qom": "6:50",
+            "destination": {
+                  "href": "strava://segments/7703269/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 65870726,
+            "title": "Chelsea Petree",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/65870726/17425861/1/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/7703269/local_legend?categories%5B%5D=overall"
+      }
 }

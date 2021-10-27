@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4068283,
+      "resource_state": 3,
+      "name": "Wilson Blvd Actual Climb",
+      "activity_type": "Ride",
+      "distance": 231.1,
+      "average_grade": 3.2,
+      "maximum_grade": 3.9,
+      "elevation_high": 168.7,
+      "elevation_low": 161.4,
+      "start_latlng": [
+            43.125046,
+            -77.63134
+      ],
+      "end_latlng": [
+            43.127046,
+            -77.631914
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JOC2PF5EO4LYWUVZOCSWPE56EO44JTZLXM6ATKLNZCFLSIU76XR2LEERTCIMVWRKN62N6ELVPTEB5RCHY3PKK===",
+      "start_latitude": 43.125046,
+      "start_longitude": -77.63134,
+      "end_latitude": 43.127046,
+      "end_longitude": -77.631914,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-10T20:03:09Z",
+      "updated_at": "2021-05-20T08:02:30Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s4068283",
+            "polyline": "ozefGzjyxM{@EaABgAPqCx@w@h@",
+            "resource_state": 3
+      },
+      "effort_count": 6411,
+      "athlete_count": 864,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "15s",
+            "qom": "23s",
+            "destination": {
+                  "href": "strava://segments/4068283/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "64 efforts in the last 90 days",
+            "effort_count": "64",
+            "effort_counts": {
+                  "overall": "64 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/4068283/local_legend?categories%5B%5D=overall"
+      }
 }

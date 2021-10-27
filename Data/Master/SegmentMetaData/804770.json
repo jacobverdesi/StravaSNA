@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 804770,
+      "resource_state": 3,
+      "name": "Mendon Ponds Park",
+      "activity_type": "Ride",
+      "distance": 4247.78,
+      "average_grade": 0.1,
+      "maximum_grade": 8.9,
+      "elevation_high": 222.9,
+      "elevation_low": 197.9,
+      "start_latlng": [
+            43.03320374,
+            -77.55594407
+      ],
+      "end_latlng": [
+            43.02320792,
+            -77.58294019
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3HMOCCD65INM7L4IPUWUOWESPZFJP4OZ22WTSBPDTY7OX7YAF3DLLXZD7GHC2QCICF6ELX7U7BFJCBM7O5YA====",
+      "start_latitude": 43.03320374,
+      "start_longitude": -77.55594407,
+      "end_latitude": 43.02320792,
+      "end_longitude": -77.58294019,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2011-10-25T03:44:21Z",
+      "updated_at": "2021-05-20T08:02:06Z",
+      "total_elevation_gain": 65.6,
+      "map": {
+            "id": "s804770",
+            "polyline": "o|seGtsjxMxAElBDvD@~FA`C@dFCb@B`@J`@VXZ|CvDvBpBrBdBh@ZzA\\j@X`@r@pApC~@tA^r@xA~ChAvBpAnCjAxCh@dAr@v@v@l@~@NdA@`APz@b@bB|At@Tz@JnB`@r@LnIGxBGd@@~@Lh@d@\\`AGrFUbDq@jFe@rC[dAg@v@o@d@s@Z{Cz@k@TuGnEqBbAq@b@gBp@oC|@u@^q@b@k@r@]z@o@xBq@pBgAnCg@jAU`@k@|@o@p@Q^Kd@GnA@f@P~F?fFBbAH~BTdCDbAA|@",
+            "resource_state": 3
+      },
+      "effort_count": 8998,
+      "athlete_count": 800,
+      "star_count": 27,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "6:05",
+            "qom": "6:11",
+            "destination": {
+                  "href": "strava://segments/804770/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 770315,
+            "title": "Dean Sherwood",
+            "profile": "https://graph.facebook.com/10204641242379360/picture?height=256&width=256",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/804770/local_legend?categories%5B%5D=overall"
+      }
 }

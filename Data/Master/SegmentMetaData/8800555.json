@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8800555,
+      "resource_state": 3,
+      "name": "Sanford",
+      "activity_type": "Ride",
+      "distance": 533.8,
+      "average_grade": -0.3,
+      "maximum_grade": 3.4,
+      "elevation_high": 162.4,
+      "elevation_low": 157.7,
+      "start_latlng": [
+            43.14078,
+            -77.606306
+      ],
+      "end_latlng": [
+            43.140575,
+            -77.612861
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/C2B4EZZHVKGWNLOZJGYJPYTWS3CUOSJIERGUHT67HDOXHZN52U4E6RURGUAOHGX7JOLQEQ67M6VKZFWAFKJUW===",
+      "start_latitude": 43.14078,
+      "start_longitude": -77.606306,
+      "end_latitude": 43.140575,
+      "end_longitude": -77.612861,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-01-20T00:16:38Z",
+      "updated_at": "2021-05-15T02:16:00Z",
+      "total_elevation_gain": 3.0,
+      "map": {
+            "id": "s8800555",
+            "polyline": "{|hfGlntxMh@~g@",
+            "resource_state": 3
+      },
+      "effort_count": 1121,
+      "athlete_count": 205,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "47s",
+            "qom": "1:03",
+            "destination": {
+                  "href": "strava://segments/8800555/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14081689,
+            "title": "Adam Nadolski",
+            "profile": "https://graph.facebook.com/10101649591088275/picture?height=256&width=256",
+            "effort_description": "30 efforts in the last 90 days",
+            "effort_count": "30",
+            "effort_counts": {
+                  "overall": "30 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/8800555/local_legend?categories%5B%5D=overall"
+      }
 }

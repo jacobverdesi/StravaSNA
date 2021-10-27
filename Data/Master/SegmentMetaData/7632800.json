@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7632800,
+      "resource_state": 3,
+      "name": "St. Paul up to Thomas Ave.",
+      "activity_type": "Ride",
+      "distance": 1778.5,
+      "average_grade": 1.6,
+      "maximum_grade": 3.0,
+      "elevation_high": 111.9,
+      "elevation_low": 83.7,
+      "start_latlng": [
+            43.246872,
+            -77.597396
+      ],
+      "end_latlng": [
+            43.231267,
+            -77.59934
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2E4VQENF6RVYDBW4EAUQ365GE7XQOIUM7LARJYTCVSKJQMOFTWA6S4BWZOOJ2RGWM76F2KS7YFJQSHLIEBCA====",
+      "start_latitude": 43.246872,
+      "start_longitude": -77.597396,
+      "end_latitude": 43.231267,
+      "end_longitude": -77.59934,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-13T00:36:07Z",
+      "updated_at": "2021-05-17T08:05:13Z",
+      "total_elevation_gain": 28.3,
+      "map": {
+            "id": "s7632800",
+            "polyline": "}s}fGvvrxMlAlBvAfBjBv@nBFvB@tBDzP`@pBJ`F~@pBXtBJvBBtBAza@o@",
+            "resource_state": 3
+      },
+      "effort_count": 1864,
+      "athlete_count": 388,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:43",
+            "qom": "4:03",
+            "destination": {
+                  "href": "strava://segments/7632800/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 56008399,
+            "title": "Gavin Murphy",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/56008399/19256278/1/large.jpg",
+            "effort_description": "38 efforts in the last 90 days",
+            "effort_count": "38",
+            "effort_counts": {
+                  "overall": "38 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7632800/local_legend?categories%5B%5D=overall"
+      }
 }

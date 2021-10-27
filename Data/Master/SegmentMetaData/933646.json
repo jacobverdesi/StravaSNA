@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 933646,
+      "resource_state": 3,
+      "name": "Arrowhead Cross",
+      "activity_type": "Ride",
+      "distance": 2264.35,
+      "average_grade": 0.1,
+      "maximum_grade": 7.7,
+      "elevation_high": 74.0,
+      "elevation_low": 67.2,
+      "start_latlng": [
+            43.0435701739043,
+            -77.48609290458262
+      ],
+      "end_latlng": [
+            43.043570425361395,
+            -77.486059544608
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5SNH5KRBLVABWJ2WJRYLRKCHHXOZRXCWIOOW26LDUSLYV7Y6VGWIJ3XXXUN6PU7M2MFOUVQ3BZDLOUTOPRKN2===",
+      "start_latitude": 43.0435701739043,
+      "start_longitude": -77.48609290458262,
+      "end_latitude": 43.043570425361395,
+      "end_longitude": -77.486059544608,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-01-20T20:25:29Z",
+      "updated_at": "2021-05-18T08:02:41Z",
+      "total_elevation_gain": 11.6,
+      "map": {
+            "id": "s933646",
+            "polyline": "i}ueGb_}wMWp@Ed@GTE@KCYUKQGSGm@@m@Jk@b@cAJ_@?]IYKIEAG@IJAFFNZ\\?LEDQ?w@e@G?CF@FRf@G@ECKMAK@s@CIEEIAIBGHGLOp@Y\\IDG?ICGEI_@DsATkAVg@ES_@]]MGB@PZh@AFKBKPEv@Sn@BFLALZFTAZENCD_@KSRE?GMJe@@MAKKQMIIKEOBST]CMMBCFA\\CBCAGK@QXe@BGACCCMFONOFIECE@GJAJGB]H?LHD@FAJOLg@?KAGQQAEBMFCZBRJ@LCZBFTMH?LFRPPGb@Y^AVLDJFh@DDFAFK?GCKCw@RgBh@}BHKFAF@LNPl@Xd@Lr@?hAGXSTGNMf@E`@@`@BJPVBl@FPl@n@b@z@TXdB|@RRFZANEPg@z@QTIFG@ECCG?K?a@NoAAKEEG@W`@GBGSG[CAKPMp@GHE@EE?[D_@Go@N{@?OAMEEG@GHSt@e@fA",
+            "resource_state": 3
+      },
+      "effort_count": 1562,
+      "athlete_count": 179,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:37",
+            "qom": "5:53",
+            "destination": {
+                  "href": "strava://segments/933646/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23824619,
+            "title": "Casey Bernhard",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/933646/local_legend?categories%5B%5D=overall"
+      }
 }

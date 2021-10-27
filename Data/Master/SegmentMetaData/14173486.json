@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14173486,
+      "resource_state": 3,
+      "name": "* WHITE PINE PEAK *",
+      "activity_type": "Ride",
+      "distance": 752.6,
+      "average_grade": 3.6,
+      "maximum_grade": 8.6,
+      "elevation_high": 176.3,
+      "elevation_low": 149.1,
+      "start_latlng": [
+            43.116253,
+            -77.337547
+      ],
+      "end_latlng": [
+            43.12115,
+            -77.335714
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YKFCNRESSEVMLGBMW6OAJDCROEZBGOAZGUHUSRSMVQ5RNJW6JK26UJX4GQNQJHHSHQE63LOXMHETDF7FWUX5K===",
+      "start_latitude": 43.116253,
+      "start_longitude": -77.337547,
+      "end_latitude": 43.12115,
+      "end_longitude": -77.335714,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-02-15T19:13:48Z",
+      "updated_at": "2021-05-15T02:18:58Z",
+      "total_elevation_gain": 27.2,
+      "map": {
+            "id": "s14173486",
+            "polyline": "qcdfGt~_wMcATqAPgA@iAEaA?QCqDKw@?u@GeFEuBKKECECQ@sAEwCBi@Hu@DKP?TL",
+            "resource_state": 3
+      },
+      "effort_count": 85,
+      "athlete_count": 21,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:27",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/14173486/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

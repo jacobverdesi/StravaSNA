@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 20662131,
+      "resource_state": 3,
+      "name": "Auburn Trail - KB to Mill",
+      "activity_type": "Ride",
+      "distance": 1342.2,
+      "average_grade": -0.6,
+      "maximum_grade": 1.8,
+      "elevation_high": 149.3,
+      "elevation_low": 139.8,
+      "start_latlng": [
+            43.075954,
+            -77.499922
+      ],
+      "end_latlng": [
+            43.064333,
+            -77.501578
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RHZBJ7VL5X4GXXCJRXMOYYQE5BBETG5XPHEU5PT5KWIKEWEYV5HQWH6AMRN64WHBGULTMIMKPQVJRBOBRGBLQ===",
+      "start_latitude": 43.075954,
+      "start_longitude": -77.499922,
+      "end_latitude": 43.064333,
+      "end_longitude": -77.501578,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-05-22T13:08:52Z",
+      "updated_at": "2021-05-20T08:05:06Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s20662131",
+            "polyline": "ug|eGpu_xMfAu@\\M|Ay@XGjAi@pAa@l@IvAAJGp@Ff@@\\IL?l@Td@FPGZHnA`@fATv@ZvCv@zATz@^jAVl@RVFb@RvBh@hA^p@Hh@Lv@JfBd@`AZnCf@n@Nj@HL?lAR",
+            "resource_state": 3
+      },
+      "effort_count": 2173,
+      "athlete_count": 371,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:11",
+            "qom": "2:26",
+            "destination": {
+                  "href": "strava://segments/20662131/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 139983,
+            "title": "Brett Matzke",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/139983/2035268/4/large.jpg",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/20662131/local_legend?categories%5B%5D=overall"
+      }
 }

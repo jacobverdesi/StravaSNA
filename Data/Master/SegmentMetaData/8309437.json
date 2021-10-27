@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8309437,
+      "resource_state": 3,
+      "name": "* WINTS LONG TRAIL *",
+      "activity_type": "Ride",
+      "distance": 920.3,
+      "average_grade": 0.0,
+      "maximum_grade": 5.6,
+      "elevation_high": 146.6,
+      "elevation_low": 142.2,
+      "start_latlng": [
+            43.08696,
+            -77.418103
+      ],
+      "end_latlng": [
+            43.086265,
+            -77.407028
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TIEPBOR5E7PT74VDS43NRSTM3HDQGJYLXR44TWZTVQSV7ZQUMFHYADACETQT7442YSFUOZVEEV2SWZLLRXJQU===",
+      "start_latitude": 43.08696,
+      "start_longitude": -77.418103,
+      "end_latitude": 43.086265,
+      "end_longitude": -77.407028,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-09T21:15:43Z",
+      "updated_at": "2021-05-20T08:03:11Z",
+      "total_elevation_gain": 4.4,
+      "map": {
+            "id": "s8309437",
+            "polyline": "ol~eGdvowMDi@GqB@oAGqBCyCSm^|BmQP_AZs@",
+            "resource_state": 3
+      },
+      "effort_count": 460,
+      "athlete_count": 97,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:10",
+            "qom": "1:55",
+            "destination": {
+                  "href": "strava://segments/8309437/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32212911,
+            "title": "Dave Bischoff",
+            "profile": "https://graph.facebook.com/10201903979376593/picture?height=256&width=256",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8309437/local_legend?categories%5B%5D=overall"
+      }
 }

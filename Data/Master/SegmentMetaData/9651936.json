@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9651936,
+      "resource_state": 3,
+      "name": "* REAL WINTER FUN *",
+      "activity_type": "Ride",
+      "distance": 537.9,
+      "average_grade": -4.7,
+      "maximum_grade": 0.0,
+      "elevation_high": 242.4,
+      "elevation_low": 217.2,
+      "start_latlng": [
+            43.048893,
+            -77.436637
+      ],
+      "end_latlng": [
+            43.053543,
+            -77.436887
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RFBCIR727Y6ZJI2UOQ4Q4BV2ZLXSK47KO6SBK2223CCPY7IHFIKTIFCI4UQHORYBFSCXZURMEBSIXBYMRDZQ====",
+      "start_latitude": 43.048893,
+      "start_longitude": -77.436637,
+      "end_latitude": 43.053543,
+      "end_longitude": -77.436887,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-05T01:52:33Z",
+      "updated_at": "2021-05-15T02:16:30Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9651936",
+            "polyline": "q~veG~iswMiAdA_A\\i@BsBDeB?kAGkAYwBq@kA[o@Gm@DYF_Al@",
+            "resource_state": 3
+      },
+      "effort_count": 1698,
+      "athlete_count": 285,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "37s",
+            "qom": "44s",
+            "destination": {
+                  "href": "strava://segments/9651936/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8928420,
+            "title": "Kevin Gregory",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8928420/2704295/2/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9651936/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7418931,
+      "resource_state": 3,
+      "name": "* NO PAIN NO GAIN *",
+      "activity_type": "Ride",
+      "distance": 888.3,
+      "average_grade": -0.5,
+      "maximum_grade": 5.6,
+      "elevation_high": 154.8,
+      "elevation_low": 148.0,
+      "start_latlng": [
+            43.062381,
+            -77.375293
+      ],
+      "end_latlng": [
+            43.054762,
+            -77.377537
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/NLONJTTFZO62WTY63WPI7C26BXIRNKSRZFMHAU47TSKBIWHVJCAFI3O2NQ2A557KYWG5733SOSJI3Y32PDGPC===",
+      "start_latitude": 43.062381,
+      "start_longitude": -77.375293,
+      "end_latitude": 43.054762,
+      "end_longitude": -77.377537,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-12T23:30:39Z",
+      "updated_at": "2021-05-20T08:03:01Z",
+      "total_elevation_gain": 2.4,
+      "map": {
+            "id": "s7418931",
+            "polyline": "{ryeGrjgwMxGNzEBnBFnDB`DLpB^^PxAbAnIzG",
+            "resource_state": 3
+      },
+      "effort_count": 598,
+      "athlete_count": 162,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:13",
+            "qom": "1:40",
+            "destination": {
+                  "href": "strava://segments/7418931/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2054323,
+            "title": "Art Weinstein",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2054323/687738/1/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/7418931/local_legend?categories%5B%5D=overall"
+      }
 }

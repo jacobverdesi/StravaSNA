@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7740228,
+      "resource_state": 3,
+      "name": "* FELLOWS TO FUR *",
+      "activity_type": "Ride",
+      "distance": 1373.8,
+      "average_grade": -0.3,
+      "maximum_grade": 5.7,
+      "elevation_high": 160.0,
+      "elevation_low": 151.4,
+      "start_latlng": [
+            43.128247,
+            -77.422226
+      ],
+      "end_latlng": [
+            43.116028,
+            -77.423017
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XNRSHC3I4TKKQHT7OI7LGNCJHOEH22YJBZIIORTMQEFSULJ6WYE3RUQGKMTK6DPP46USB75LRJOTHRZMFGIQ====",
+      "start_latitude": 43.128247,
+      "start_longitude": -77.422226,
+      "end_latitude": 43.116028,
+      "end_longitude": -77.423017,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-26T21:35:10Z",
+      "updated_at": "2021-05-18T08:03:40Z",
+      "total_elevation_gain": 6.4,
+      "map": {
+            "id": "s7740228",
+            "polyline": "onffG|opwMt@@z@AdGBRBdFCjDAf@Bx@L`FlBvBThE?xRLrHAx@E",
+            "resource_state": 3
+      },
+      "effort_count": 5022,
+      "athlete_count": 381,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:45",
+            "qom": "1:57",
+            "destination": {
+                  "href": "strava://segments/7740228/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1603801,
+            "title": "Greg Brett",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1603801/5871395/1/large.jpg",
+            "effort_description": "17 efforts in the last 90 days",
+            "effort_count": "17",
+            "effort_counts": {
+                  "overall": "17 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/7740228/local_legend?categories%5B%5D=overall"
+      }
 }

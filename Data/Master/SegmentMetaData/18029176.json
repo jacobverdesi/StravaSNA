@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18029176,
+      "resource_state": 3,
+      "name": "Cobbs Hill Dr South to North",
+      "activity_type": "Ride",
+      "distance": 737.1,
+      "average_grade": 0.3,
+      "maximum_grade": 11.5,
+      "elevation_high": 167.0,
+      "elevation_low": 153.2,
+      "start_latlng": [
+            43.136936,
+            -77.564757
+      ],
+      "end_latlng": [
+            43.142351,
+            -77.560859
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/I3YLIV7H7BIM6HMKYN7KKV3UVQWSSWUR3Q54USXT5MX4L6SVKJLW6ISLOFGBLC6HS4HZVULM2GHWXINPAHMCC===",
+      "start_latitude": 43.136936,
+      "start_longitude": -77.564757,
+      "end_latitude": 43.142351,
+      "end_longitude": -77.560859,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-06-22T22:57:03Z",
+      "updated_at": "2021-05-20T08:04:42Z",
+      "total_elevation_gain": 13.8,
+      "map": {
+            "id": "s18029176",
+            "polyline": "ydhfGvjlxMKNy@BKAs@[OQI?QIOQYISUQYSs@GOMQ]Y_@S]Om@KUaAWGi@CG@IC]D[Ec@Bi@EWQMCGEEKkAiAU]GQKk@e@_BKUOQQIy@S{As@",
+            "resource_state": 3
+      },
+      "effort_count": 631,
+      "athlete_count": 207,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:09",
+            "qom": "1:41",
+            "destination": {
+                  "href": "strava://segments/18029176/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 89299209,
+            "title": "Jeffrey Rayfield",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89299209/21462008/2/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/18029176/local_legend?categories%5B%5D=overall"
+      }
 }

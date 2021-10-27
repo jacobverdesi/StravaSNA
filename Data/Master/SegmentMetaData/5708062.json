@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5708062,
+      "resource_state": 3,
+      "name": "Oh Ya, End of Furman",
+      "activity_type": "Ride",
+      "distance": 835.1,
+      "average_grade": 0.1,
+      "maximum_grade": 10.7,
+      "elevation_high": 149.4,
+      "elevation_low": 145.0,
+      "start_latlng": [
+            43.115636,
+            -77.412693
+      ],
+      "end_latlng": [
+            43.115554,
+            -77.422924
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GYHQIUOMBPNTMK2FJEVKBERVMIZAMR3UN3RV37W7H2FA2T4HM6TQVKK3CZHLGTMYHQXT2HQZ6AMP5IS4CEELI===",
+      "start_latitude": 43.115636,
+      "start_longitude": -77.412693,
+      "end_latitude": 43.115554,
+      "end_longitude": -77.422924,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-10-07T02:09:20Z",
+      "updated_at": "2021-05-15T02:14:09Z",
+      "total_elevation_gain": 4.4,
+      "map": {
+            "id": "s5708062",
+            "polyline": "u_dfGjtnwM@xC?rEBhEAbEBlIAvPJnGAjB",
+            "resource_state": 3
+      },
+      "effort_count": 3932,
+      "athlete_count": 476,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:04",
+            "qom": "1:24",
+            "destination": {
+                  "href": "strava://segments/5708062/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 67790567,
+            "title": "Terry Allen",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/67790567/16816664/1/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "10 efforts"
+            },
+            "destination": "strava://segments/5708062/local_legend?categories%5B%5D=overall"
+      }
 }

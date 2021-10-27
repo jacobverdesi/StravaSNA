@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3906682,
+      "resource_state": 3,
+      "name": "Green from 1 to Bay Front S",
+      "activity_type": "Ride",
+      "distance": 1087.2,
+      "average_grade": -1.0,
+      "maximum_grade": 31.5,
+      "elevation_high": 99.8,
+      "elevation_low": 77.2,
+      "start_latlng": [
+            43.186004,
+            -77.538259
+      ],
+      "end_latlng": [
+            43.189208,
+            -77.531854
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LNERYDK5K5EJYKXZKQKA4U6UFXJEKMSTUNGTD3YGVRLDPU3GNYTQNQXMT2NRKLROFHOGVJPII7QMGXPZ5XDA====",
+      "start_latitude": 43.186004,
+      "start_longitude": -77.538259,
+      "end_latitude": 43.189208,
+      "end_longitude": -77.531854,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-23T12:48:18Z",
+      "updated_at": "2021-05-15T02:13:03Z",
+      "total_elevation_gain": 46.9101,
+      "map": {
+            "id": "s3906682",
+            "polyline": "owqfGbegxMMYGYEYGeA[iAEc@GQCCOHM?Og@MKRp@I@IGKB?DIDCAAWKa@GOQw@H}@Ll@WgAOQAWIUCEGAUZGBICAMTk@BY_@`@MZABDA@D@TOd@GHIAAAEc@Dg@DOG??G@JE@@H@??I@B@C?I?BDAM^BHDG@DAKFSOACIR_A@?BYGWGq@A_@Bg@Ec@GY_@_AQQOGCGCODI]]OWO_@GC?@eAuAc@WE?UHMKAGB_@EWAU",
+            "resource_state": 3
+      },
+      "effort_count": 11132,
+      "athlete_count": 1052,
+      "star_count": 17,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:34",
+            "qom": "3:47",
+            "destination": {
+                  "href": "strava://segments/3906682/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 4849467,
+            "title": "Caleb Freitas",
+            "profile": "https://graph.facebook.com/100002332774415/picture?height=256&width=256",
+            "effort_description": "27 efforts in the last 90 days",
+            "effort_count": "27",
+            "effort_counts": {
+                  "overall": "27 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/3906682/local_legend?categories%5B%5D=overall"
+      }
 }

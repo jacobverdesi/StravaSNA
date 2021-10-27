@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8284652,
+      "resource_state": 3,
+      "name": "Auburn Trail- Probst to Woolston",
+      "activity_type": "Ride",
+      "distance": 1122.1,
+      "average_grade": -0.2,
+      "maximum_grade": 0.0,
+      "elevation_high": 199.2,
+      "elevation_low": 197.4,
+      "start_latlng": [
+            43.027234,
+            -77.482513
+      ],
+      "end_latlng": [
+            43.036625,
+            -77.485799
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/34WS6SEHRCGYVCIRDLRW32C6LD3A56USF2KXYXI3ZNWPJ5TV6LBSZYGRGYOKHDUNMJRYEZT732KBELGFDVCQ====",
+      "start_latitude": 43.027234,
+      "start_longitude": -77.482513,
+      "end_latitude": 43.036625,
+      "end_longitude": -77.485799,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-05T20:28:23Z",
+      "updated_at": "2021-05-20T08:03:11Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8284652",
+            "polyline": "ewreGvh|wMm@DcBDsAEwAIuB[mAKyFW{ADiBV}@f@KN}AjA{A~@gA`AmBnAwDnCqAn@eBjAiBrA",
+            "resource_state": 3
+      },
+      "effort_count": 8717,
+      "athlete_count": 1242,
+      "star_count": 11,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:14",
+            "qom": "1:49",
+            "destination": {
+                  "href": "strava://segments/8284652/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 39055411,
+            "title": "Kraigh Stewart",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/39055411/13496379/1/large.jpg",
+            "effort_description": "25 efforts in the last 90 days",
+            "effort_count": "25",
+            "effort_counts": {
+                  "overall": "25 efforts",
+                  "female": "17 efforts"
+            },
+            "destination": "strava://segments/8284652/local_legend?categories%5B%5D=overall"
+      }
 }

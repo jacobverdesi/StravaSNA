@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26015606,
+      "resource_state": 3,
+      "name": "Lehigh Valley Trail SB (E Henrietta to Pinnacle)",
+      "activity_type": "Ride",
+      "distance": 2729.0,
+      "average_grade": -0.0,
+      "maximum_grade": 1.4,
+      "elevation_high": 188.9,
+      "elevation_low": 183.9,
+      "start_latlng": [
+            43.025717,
+            -77.630293
+      ],
+      "end_latlng": [
+            43.002288,
+            -77.623592
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SDQZ2B3M7EHWBPAFI2VCHWL6TQDSHFY2IXJEUYYRJOGEVLLIYQJCBKKREILE5XTS5FPO3M5JRYWBUMAK3M4A====",
+      "start_latitude": 43.025717,
+      "start_longitude": -77.630293,
+      "end_latitude": 43.002288,
+      "end_longitude": -77.623592,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-10-10T16:52:55Z",
+      "updated_at": "2021-05-15T08:06:28Z",
+      "total_elevation_gain": 5.0,
+      "map": {
+            "id": "s26015606",
+            "polyline": "umreGjdyxMJI`@KdAi@VQDIlAk@b@WPGXUp@[dC}At@_@TUt@a@d@Sz@k@NEx@e@VGRQd@Q`@[j@Yn@a@h@Sp@e@ZYRINMHAdBgALEf@]FA`@WZMLM\\IlBo@`AQv@S`@ApAS`@E`AQ^CvB]TA`@IJ?j@MhAO^KvAEd@GtA[h@ALAHGhCUdASf@CbC]fBa@XAd@Ib@Af@MdB[v@EnAOJBHA\\On@AJGHAH@d@Ez@MHEN?XIVANCH@^IHB^IrACDCLDP?v@FdBVZBLFfARn@H\\Jv@Dj@HTFHH^DN@VEx@C`A?\\M\\BZP",
+            "resource_state": 3
+      },
+      "effort_count": 1706,
+      "athlete_count": 493,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:43",
+            "qom": "5:59",
+            "destination": {
+                  "href": "strava://segments/26015606/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 81746446,
+            "title": "Pete Kolts",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81746446/20905752/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/26015606/local_legend?categories%5B%5D=overall"
+      }
 }

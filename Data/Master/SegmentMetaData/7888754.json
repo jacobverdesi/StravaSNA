@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7888754,
+      "resource_state": 3,
+      "name": "East Ave Uphill",
+      "activity_type": "Ride",
+      "distance": 1212.7,
+      "average_grade": 1.4,
+      "maximum_grade": 10.0,
+      "elevation_high": 128.4,
+      "elevation_low": 111.0,
+      "start_latlng": [
+            43.128673,
+            -77.529072
+      ],
+      "end_latlng": [
+            43.136917,
+            -77.538615
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LJCYWWEPQORRLNGRLJMVIFSRAWYEHCJ6YYQUCIU2NWWZ3KXV6C4HTS2V37QWUTDSI6Z43VRA2MGUWETIFWCOC===",
+      "start_latitude": 43.128673,
+      "start_longitude": -77.529072,
+      "end_latitude": 43.136917,
+      "end_longitude": -77.538615,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-08-13T18:27:56Z",
+      "updated_at": "2021-05-20T08:03:06Z",
+      "total_elevation_gain": 17.4,
+      "map": {
+            "id": "s7888754",
+            "polyline": "eqffGvkexMyHvIkIpIgD`DcChCy@dAwHfLkInL",
+            "resource_state": 3
+      },
+      "effort_count": 5345,
+      "athlete_count": 752,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:52",
+            "qom": "2:10",
+            "destination": {
+                  "href": "strava://segments/7888754/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 87726935,
+            "title": "Neil Thompson",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/87726935/21839932/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/7888754/local_legend?categories%5B%5D=overall"
+      }
 }

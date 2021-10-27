@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1315597,
+      "resource_state": 3,
+      "name": "G-Tour Mendon",
+      "activity_type": "Ride",
+      "distance": 9869.08,
+      "average_grade": 0.0,
+      "maximum_grade": 155.3,
+      "elevation_high": 227.0,
+      "elevation_low": 183.8,
+      "start_latlng": [
+            43.034167690202594,
+            -77.52708401530981
+      ],
+      "end_latlng": [
+            43.03415738046169,
+            -77.52695493400097
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3NHL3YSFOTUAQWL5JVCABLOYDMHEI3NPZTHHBJ7ILY4CH4JGRZXQWQTAWL3BZ3TEWTJWKBKBIEIDOKP7K6JPO===",
+      "start_latitude": 43.034167690202594,
+      "start_longitude": -77.52708401530981,
+      "end_latitude": 43.03415738046169,
+      "end_longitude": -77.52695493400097,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-02T01:14:24Z",
+      "updated_at": "2021-05-15T02:12:01Z",
+      "total_elevation_gain": 135.2,
+      "map": {
+            "id": "s1315597",
+            "polyline": "obteGh_exM@_CJgANcAR}@rAyDLw@D_AFQJMNEzBJ`JPr@J|Ab@xHhDbDnAh@Jj@DhDJ|CAxEKzCAVAnA@XCdCAtN[j@@n@Cl@?zDOtDG|EEbN[NBJLFd@E??a@BCD?TOVA|@CdABhBGlBChS_@T?PJHVDp@CfBBxJNzR@zFHtJBl@Aj@D`A?pCBd@Cb@B`@An@DxAA`@DfCD|VC~CFbD?tBDjDFbAJx@TlAr@fCpB`IXrBDbBAt@GtCKfAeDjPiAfFIP_@HsEeA{Cm@uHcBaDo@eGk@eG}@_BSeC_@oAOqAUyKyAoC]kAKcEc@aAQ}Bk@y@_@SOo@u@oA}A_CiD{@wAeAqBqAsBm@iAy@}@}@o@kAq@iEyB}JiEy@YeAScOiB_B[cA[y@]WQgAaAY]Sc@Gk@Co@AeLQkc@Ga[@yCEsK",
+            "resource_state": 3
+      },
+      "effort_count": 2419,
+      "athlete_count": 161,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "14:01",
+            "qom": "14:22",
+            "destination": {
+                  "href": "strava://segments/1315597/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 437378,
+            "title": "Jason Urckfitz",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/437378/95684/1/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1315597/local_legend?categories%5B%5D=overall"
+      }
 }

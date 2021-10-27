@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7368574,
+      "resource_state": 3,
+      "name": "* HARLOFF TO MILE SQ *",
+      "activity_type": "Ride",
+      "distance": 937.7,
+      "average_grade": 0.3,
+      "maximum_grade": 8.0,
+      "elevation_high": 236.8,
+      "elevation_low": 230.2,
+      "start_latlng": [
+            42.985638,
+            -77.484129
+      ],
+      "end_latlng": [
+            42.990172,
+            -77.493074
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/R27SFTD2E52DDR6LKOZIBKPITIQC4MSIZETMHS3NHOPOWP26VGBEVGGY3NPOCNZCGU4S2UQGLF54C5SDUGSQ====",
+      "start_latitude": 42.985638,
+      "start_longitude": -77.484129,
+      "end_latitude": 42.990172,
+      "end_longitude": -77.493074,
+      "climb_category": 0,
+      "city": "Victor",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-06T00:31:22Z",
+      "updated_at": "2021-05-15T02:15:08Z",
+      "total_elevation_gain": 6.6,
+      "map": {
+            "id": "s7368574",
+            "polyline": "esjeGxr|wMwAtJ_AzFk@vCo@dCo@dAc@^e@TuDfAa@TIHSXWj@kBxFcDhI",
+            "resource_state": 3
+      },
+      "effort_count": 3663,
+      "athlete_count": 496,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:14",
+            "qom": "1:24",
+            "destination": {
+                  "href": "strava://segments/7368574/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 6060177,
+            "title": "Blake Schafman",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/6060177/16740115/2/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7368574/local_legend?categories%5B%5D=overall"
+      }
 }

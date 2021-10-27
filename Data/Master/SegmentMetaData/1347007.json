@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1347007,
+      "resource_state": 3,
+      "name": "Martin Road hill - eastbound",
+      "activity_type": "Ride",
+      "distance": 1561.75,
+      "average_grade": 1.4,
+      "maximum_grade": 6.4,
+      "elevation_high": 195.1,
+      "elevation_low": 171.3,
+      "start_latlng": [
+            43.025793,
+            -77.7051623
+      ],
+      "end_latlng": [
+            43.0262344,
+            -77.6860223
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QJHY57TGZGQ5N3G5AAIYTN6KXJ2CB56HYWNKQXFZVIXSQL5VEQKDMPOYCDUOOCPD2JNS7UU47IR3DG3Y3X2Q====",
+      "start_latitude": 43.025793,
+      "start_longitude": -77.7051623,
+      "end_latitude": 43.0262344,
+      "end_longitude": -77.6860223,
+      "climb_category": 0,
+      "city": "Henrietta",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-08T01:23:42Z",
+      "updated_at": "2021-05-19T08:02:02Z",
+      "total_elevation_gain": 30.9799,
+      "map": {
+            "id": "s1347007",
+            "polyline": "enreGhxgyM@[KyIDo@KuBIcE@W@aCEe@?aBI}AA}@AoGIiM?}EWuXKgZ",
+            "resource_state": 3
+      },
+      "effort_count": 1375,
+      "athlete_count": 203,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:11",
+            "qom": "3:37",
+            "destination": {
+                  "href": "strava://segments/1347007/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 718472,
+            "title": "kenneth wright",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/718472/167324/3/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1347007/local_legend?categories%5B%5D=overall"
+      }
 }

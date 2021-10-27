@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16995044,
+      "resource_state": 3,
+      "name": "* EGYPT PARK LOOP * (following all traffic rules, stops signs lights etc)",
+      "activity_type": "Ride",
+      "distance": 5571.3,
+      "average_grade": 0.1,
+      "maximum_grade": 28.2,
+      "elevation_high": 244.8,
+      "elevation_low": 140.0,
+      "start_latlng": [
+            43.062956,
+            -77.396799
+      ],
+      "end_latlng": [
+            43.064383,
+            -77.396985
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WL5ZHAYVLB7UVNPSMTMNEYJPV5EX7NT5UT2S2G7MR6EEO55WZZ3V5PKDIOOT6XDDWLN7CYRLUXJ6F2OD7VVUM===",
+      "start_latitude": 43.062956,
+      "start_longitude": -77.396799,
+      "end_latitude": 43.064383,
+      "end_longitude": -77.396985,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-02-12T17:15:11Z",
+      "updated_at": "2021-05-15T02:20:39Z",
+      "total_elevation_gain": 109.6,
+      "map": {
+            "id": "s16995044",
+            "polyline": "mvyeG~pkwMlNC~BKt@GfBWzFoArDm@`CYNEpAI`BA\\@xAAtBCtJAbAF|EAdKx@xAHNRDj@WvBGz@GnDQlD?lABf@AlA@b@EjA?tFEd@@~@C~@AzBHdAh@hBj@jAp@z@R^VT\\n@@Jl@|@@NHRPX@XX|@XhANdB?z@Gx@EVs@`FUf@O?qKiC}Ac@c@QgB}@aDyBYMw@M[AqBFaIJoDJuAJuAFmCGkBJu@@u@Aq@Io@SaAi@WKWEq@?qGRgIDuAFoEFa@?eAGs@Og@GIGIKCSAsG@sTC}DHcOEaHDe@",
+            "resource_state": 3
+      },
+      "effort_count": 67,
+      "athlete_count": 18,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "9:58",
+            "qom": "12:03",
+            "destination": {
+                  "href": "strava://segments/16995044/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5459200,
+      "resource_state": 3,
+      "name": "Baird Road Chicane",
+      "activity_type": "Ride",
+      "distance": 1060.8,
+      "average_grade": -0.9,
+      "maximum_grade": 8.1,
+      "elevation_high": 149.7,
+      "elevation_low": 132.6,
+      "start_latlng": [
+            43.117214,
+            -77.461566
+      ],
+      "end_latlng": [
+            43.125655,
+            -77.46409
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/V7C43YH3WFULY3NDDQR5AX5RRSV6IILVWIUWSVVDCGKL7NZHQCRT4J4MTQZRAGBECS4R6LZ7ZANWUYSDZEDKM===",
+      "start_latitude": 43.117214,
+      "start_longitude": -77.461566,
+      "end_latitude": 43.125655,
+      "end_longitude": -77.46409,
+      "climb_category": 0,
+      "city": "Monroe, NY, USA",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-11T05:32:29Z",
+      "updated_at": "2021-05-20T08:02:42Z",
+      "total_elevation_gain": 13.8,
+      "map": {
+            "id": "s5459200",
+            "polyline": "qidfGxexwMyBBqAEIBWCoB@mKIy@?o@BkAGU@i@CU?CDUEK@eAn@c@j@OZQn@WhDENUt@S^U\\e@b@_@Lq@DsD@cBI",
+            "resource_state": 3
+      },
+      "effort_count": 2213,
+      "athlete_count": 319,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:33",
+            "qom": "1:47",
+            "destination": {
+                  "href": "strava://segments/5459200/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 295448,
+            "title": "Rouge Rob",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/295448/133377/1/large.jpg",
+            "effort_description": "49 efforts in the last 90 days",
+            "effort_count": "49",
+            "effort_counts": {
+                  "overall": "49 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/5459200/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21045843,
+      "resource_state": 3,
+      "name": "Mt Hope round about....",
+      "activity_type": "Ride",
+      "distance": 2117.3,
+      "average_grade": 0.1,
+      "maximum_grade": 15.6,
+      "elevation_high": 200.0,
+      "elevation_low": 168.2,
+      "start_latlng": [
+            43.133558,
+            -77.614594
+      ],
+      "end_latlng": [
+            43.1351,
+            -77.61533
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3TKGFVLLHY6JCVFRJZYXISCMHTUWDKP263S4VJI4P635OPDNBXKPR3YBJPRYWHRUDFBXU5F5IVI7EHMIBKNWW===",
+      "start_latitude": 43.133558,
+      "start_longitude": -77.614594,
+      "end_latitude": 43.1351,
+      "end_longitude": -77.61533,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-07-03T01:26:46Z",
+      "updated_at": "2021-05-17T08:08:18Z",
+      "total_elevation_gain": 58.0,
+      "map": {
+            "id": "s21045843",
+            "polyline": "uogfGfbvxMP[Rw@LqAVe@~@Yn@b@Xr@B\\E`AHVVNlBRp@R`FbCjApATt@Fn@Ef@SfBKl@AXFdDJpCN`@VRVHJR@ZQnCAtFKNs@Yk@[i@WkAy@NiBs@Q[So@g@B_@JYBi@DKAUEM]o@c@qBMUs@TI?c@SUO_@g@i@c@Ye@g@q@][QEk@JQIGUEyBCS?e@Fy@AKEGG@Sf@GJ{@d@sCIWF[L[?QYCc@BqAH{@`@G",
+            "resource_state": 3
+      },
+      "effort_count": 178,
+      "athlete_count": 13,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:41",
+            "qom": "6:53",
+            "destination": {
+                  "href": "strava://segments/21045843/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 4489657,
+            "title": "Eric Neumeier",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/4489657/2841921/3/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/21045843/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 29963906,
+      "resource_state": 3,
+      "name": "Drag Race",
+      "activity_type": "Ride",
+      "distance": 333.3,
+      "average_grade": -0.1,
+      "maximum_grade": 0.4,
+      "elevation_high": 159.4,
+      "elevation_low": 159.1,
+      "start_latlng": [
+            43.08322,
+            -77.665836
+      ],
+      "end_latlng": [
+            43.086218,
+            -77.665929
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GOT3KFB3VX5K46T4QK2RJKBUOX52REJDFLLHXM3CHBIHZMKSX2GUV4D7R4Q2YZ57S52RYDXMG3IMTJ3FYFLAK===",
+      "start_latitude": 43.08322,
+      "start_longitude": -77.665836,
+      "end_latitude": 43.086218,
+      "end_longitude": -77.665929,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-09-25T18:51:11Z",
+      "updated_at": "2021-09-25T18:51:27Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s29963906",
+            "polyline": "cu}eGnb`yM_HJyA?iAH}@CsA?",
+            "resource_state": 3
+      },
+      "effort_count": 2628,
+      "athlete_count": 445,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "24s",
+            "qom": "34s",
+            "destination": {
+                  "href": "strava://segments/29963906/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2678937,
+            "title": "Ben  Braun",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2678937/1989906/2/large.jpg",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/29963906/local_legend?categories%5B%5D=overall"
+      }
 }

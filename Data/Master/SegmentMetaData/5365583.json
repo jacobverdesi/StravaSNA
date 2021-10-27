@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5365583,
+      "resource_state": 3,
+      "name": "Ayrault Road Climb",
+      "activity_type": "Ride",
+      "distance": 235.5,
+      "average_grade": 6.5,
+      "maximum_grade": 11.0,
+      "elevation_high": 176.3,
+      "elevation_low": 160.9,
+      "start_latlng": [
+            43.079479,
+            -77.402287
+      ],
+      "end_latlng": [
+            43.07946,
+            -77.405173
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4UXEKXLKLUHPBRJUKLOJOR3CTDZETR7HEXYSO3WDZBPICFC5X26TEISEVSMKC3C2S226EZUQUKASPX6JEEDA====",
+      "start_latitude": 43.079479,
+      "start_longitude": -77.402287,
+      "end_latitude": 43.07946,
+      "end_longitude": -77.405173,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-03T02:59:58Z",
+      "updated_at": "2021-05-15T02:13:56Z",
+      "total_elevation_gain": 15.4,
+      "map": {
+            "id": "s5365583",
+            "polyline": "u}|eGhslwMBX@rBCj@ClEBxD",
+            "resource_state": 3
+      },
+      "effort_count": 2258,
+      "athlete_count": 410,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "28s",
+            "qom": "48s",
+            "destination": {
+                  "href": "strava://segments/5365583/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16934800,
+            "title": "Gary Sacco",
+            "profile": "https://graph.facebook.com/10208278291612318/picture?height=256&width=256",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/5365583/local_legend?categories%5B%5D=overall"
+      }
 }

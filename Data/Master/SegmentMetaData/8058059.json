@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8058059,
+      "resource_state": 3,
+      "name": "Newport Climb",
+      "activity_type": "Ride",
+      "distance": 721.2,
+      "average_grade": 7.0,
+      "maximum_grade": 15.9,
+      "elevation_high": 127.2,
+      "elevation_low": 76.4,
+      "start_latlng": [
+            43.208745,
+            -77.536606
+      ],
+      "end_latlng": [
+            43.206224,
+            -77.544035
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SKXMMUKKACIFGJOXDSJPJLLA42JFBH5OA3JLQ7OJU4XKQJCAYOEQ5T6MVPLPVW7PGXH4HLWZGQ5BG2D4B76F4===",
+      "start_latitude": 43.208745,
+      "start_longitude": -77.536606,
+      "end_latitude": 43.206224,
+      "end_longitude": -77.544035,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-09-04T02:09:56Z",
+      "updated_at": "2021-05-18T08:03:43Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8058059",
+            "polyline": "sevfGxzfxMBT@\\E|@BxALpCDrBJx@L\\`AvATRJNb@^\\n@p@r@HPH^@rAHrAHZb@j@P`@FRJbALz@@l@TnBJTRJHBJ?NFL?",
+            "resource_state": 3
+      },
+      "effort_count": 1895,
+      "athlete_count": 206,
+      "star_count": 13,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:47",
+            "qom": "2:55",
+            "destination": {
+                  "href": "strava://segments/8058059/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 33905706,
+            "title": "Scott Morrison",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/33905706/12973171/4/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/8058059/local_legend?categories%5B%5D=overall"
+      }
 }

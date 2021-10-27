@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12733156,
+      "resource_state": 3,
+      "name": "Doran South",
+      "activity_type": "Ride",
+      "distance": 5744.5,
+      "average_grade": -0.1,
+      "maximum_grade": 17.4,
+      "elevation_high": 326.0,
+      "elevation_low": 293.8,
+      "start_latlng": [
+            42.906588,
+            -77.570703
+      ],
+      "end_latlng": [
+            42.854993,
+            -77.5703
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LWFCG7J3WF7AUBARGID6XM6KQQN3CEHPGEB4EFJQLQ224FA26A3F2VY66ERNBTIWHWADARTYMY5QBOJKXR73O===",
+      "start_latitude": 42.906588,
+      "start_longitude": -77.570703,
+      "end_latitude": 42.854993,
+      "end_longitude": -77.5703,
+      "climb_category": 0,
+      "city": "Lima",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-07-26T23:49:23Z",
+      "updated_at": "2021-05-15T02:18:14Z",
+      "total_elevation_gain": 56.4,
+      "map": {
+            "id": "s12733156",
+            "polyline": "ce{dG|omxM|NPbOZpEL`KLjMFzWEfFEbB?pTOrNE`USzIEpDAtJI`IA`KEhRGnLSzED~CExHEvGIlG@lJOxECxDAvBF|@@lDSvDI",
+            "resource_state": 3
+      },
+      "effort_count": 988,
+      "athlete_count": 230,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "8:12",
+            "qom": "10:16",
+            "destination": {
+                  "href": "strava://segments/12733156/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 190982,
+            "title": "john ramsey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/190982/34502/2/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/12733156/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25575961,
+      "resource_state": 3,
+      "name": "Hillside speedway from Winton to Highland",
+      "activity_type": "Ride",
+      "distance": 740.4,
+      "average_grade": -1.8,
+      "maximum_grade": 0.3,
+      "elevation_high": 155.0,
+      "elevation_low": 141.5,
+      "start_latlng": [
+            43.143081,
+            -77.556306
+      ],
+      "end_latlng": [
+            43.137945,
+            -77.553873
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7VUAQFLUOYMTYVKYV76YKIVKPZS3UWBESWGQ2ZGOECM2WQCM7EVSS4E4DOKU3XLJSXOXYNXYXXCGDYMLBDFIC===",
+      "start_latitude": 43.143081,
+      "start_longitude": -77.556306,
+      "end_latitude": 43.137945,
+      "end_longitude": -77.553873,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-09-03T16:30:38Z",
+      "updated_at": "2021-05-15T02:25:13Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s25575961",
+            "polyline": "gkifG|ujxMH}@BmBG}B@i@DSFSJOZw@JMZYz@_@NEfBNb@?\\Cv@Ht@@NDjEHbCClBLn@Cz@A",
+            "resource_state": 3
+      },
+      "effort_count": 2133,
+      "athlete_count": 378,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "56s",
+            "qom": "1:11",
+            "destination": {
+                  "href": "strava://segments/25575961/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 15853890,
+            "title": "Bryan Agnello",
+            "profile": "https://graph.facebook.com/10154257859722152/picture?height=256&width=256",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/25575961/local_legend?categories%5B%5D=overall"
+      }
 }

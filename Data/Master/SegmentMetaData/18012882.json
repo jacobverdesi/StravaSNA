@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18012882,
+      "resource_state": 3,
+      "name": "Sweet Short Climb",
+      "activity_type": "Ride",
+      "distance": 438.7,
+      "average_grade": 2.2,
+      "maximum_grade": 4.2,
+      "elevation_high": 186.6,
+      "elevation_low": 176.8,
+      "start_latlng": [
+            43.152671,
+            -77.420158
+      ],
+      "end_latlng": [
+            43.152753,
+            -77.425545
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/V44JPFF36PTNFGW7PZ2SQN2VIS66ESYIAPYDEYM5VTJQ6NYHK3UUZR724U3SSVVINIC774OZ4YWREABNUYZQ====",
+      "start_latitude": 43.152671,
+      "start_longitude": -77.420158,
+      "end_latitude": 43.152753,
+      "end_longitude": -77.425545,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-06-21T00:47:13Z",
+      "updated_at": "2021-05-20T08:04:42Z",
+      "total_elevation_gain": 9.8,
+      "map": {
+            "id": "s18012882",
+            "polyline": "egkfG~bpwMCjEBtBEdACjCGxM@fA",
+            "resource_state": 3
+      },
+      "effort_count": 6123,
+      "athlete_count": 622,
+      "star_count": 17,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "35s",
+            "qom": "47s",
+            "destination": {
+                  "href": "strava://segments/18012882/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 82719231,
+            "title": "Peter Pincus",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "19 efforts in the last 90 days",
+            "effort_count": "19",
+            "effort_counts": {
+                  "overall": "19 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/18012882/local_legend?categories%5B%5D=overall"
+      }
 }

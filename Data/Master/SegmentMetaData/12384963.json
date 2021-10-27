@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12384963,
+      "resource_state": 3,
+      "name": "Greenway",
+      "activity_type": "Ride",
+      "distance": 1379.5,
+      "average_grade": 0.1,
+      "maximum_grade": 12.7,
+      "elevation_high": 166.9,
+      "elevation_low": 161.1,
+      "start_latlng": [
+            43.050287,
+            -77.728621
+      ],
+      "end_latlng": [
+            43.039197,
+            -77.734487
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JDSGIXNDREXV5C6CROWFJATCSKRODPN4XW4Y42PWD65YSPFD5QEM2MG2YH7K6MLBX37AEEI3VY75BXRMSV6Q====",
+      "start_latitude": 43.050287,
+      "start_longitude": -77.728621,
+      "end_latitude": 43.039197,
+      "end_longitude": -77.734487,
+      "climb_category": 0,
+      "city": "Scottsville",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-06-17T02:59:46Z",
+      "updated_at": "2021-05-20T08:03:51Z",
+      "total_elevation_gain": 5.8,
+      "map": {
+            "id": "s12384963",
+            "polyline": "ggweG|jlyMBUBEZZR\\l@r@`@ZBJNRlA`Ad@h@d@^JBV\\d@ZFALLPFBHb@T^\\d@ZPDNTXNVTFJ\\PTHNJNFFADDTLpA\\VBrAb@F?^Vb@HJDf@HRHH?f@LHFDAXHb@TP?ZFHHHBLKNJr@LZNZFBDJ?@DFBLBJFNBXRt@DJHRDNJXFTLdAVDFFCTHFCLDH?DGNBLHXD^Tj@JJHh@HDFt@RDF^BBDFAD@PJXHFFPDRPFBLL",
+            "resource_state": 3
+      },
+      "effort_count": 2883,
+      "athlete_count": 785,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:18",
+            "qom": "2:50",
+            "destination": {
+                  "href": "strava://segments/12384963/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1334463,
+            "title": "Er\u2699\ufe0fc W\u2699\ufe0flters",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1334463/19430522/7/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/12384963/local_legend?categories%5B%5D=overall"
+      }
 }

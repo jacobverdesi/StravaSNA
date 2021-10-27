@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4622323,
+      "resource_state": 3,
+      "name": "Arrowhead Race Course Single Lap",
+      "activity_type": "Ride",
+      "distance": 3701.8,
+      "average_grade": 0.0,
+      "maximum_grade": 38.2,
+      "elevation_high": 156.2,
+      "elevation_low": 127.4,
+      "start_latlng": [
+            43.043126,
+            -77.486452
+      ],
+      "end_latlng": [
+            43.043115,
+            -77.486575
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TZXLC3KIFQ3I4XG7KIADXQNEOBCTXD3SXMCZGN3H7EM424LXEPAYLNCUOFQLA6J2W6TVCO7SOARFZIGE3AGA====",
+      "start_latitude": 43.043126,
+      "start_longitude": -77.486452,
+      "end_latitude": 43.043115,
+      "end_longitude": -77.486575,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-05T13:39:54Z",
+      "updated_at": "2021-05-18T08:03:09Z",
+      "total_elevation_gain": 67.2,
+      "map": {
+            "id": "s4622323",
+            "polyline": "ozueGja}wMg@QE@I@IFEPZ`@JFl@TB@A@@DFFXJf@@f@Op@a@PSNy@FKVSFOAUMQGGw@c@eAUEIA_@@GPUHBTg@h@o@FWBUAwB@]EmBDA?y@TgBCSI]Ck@Y}@?MHO@S?GU[@q@Dc@?Wa@aC}BiA@DQTs@^MBOAcATi@RQPD@Qn@@HDFf@MB?@DITOXANBDR?NKHVBf@BBNIFAB?GDd@ALDDDBJG^DBTARFR^v@hEQnBAdA@N^h@FRPvA@`@E|C@CF@DF@PGNQLaBo@CMi@{@M[Ic@KWGk@T_AR]La@Hw@_@kACWSy@OQWKC@EDITA\\Qp@MXONSFOEc@s@G?OJi@r@UTYFK@UIU_@SAMESAUHg@?QNg@p@QLOJc@PaAl@W\\LJFX@PAROjAE|@Kv@Bb@BHNJFEHUDg@BCHCND`@Zf@Nf@Ij@]LDRTJDD?VYVCFEMuB?BFOr@q@BQAIY_@CWDQZYNEJ?RHX`@^Zb@Vx@VPPLVVfADV?La@bBBPFFXPTGv@aAFGRE^Jh@`@f@V|@TLJFZ@FENUh@MTYXGBE@EAK[HyAASM@GJ]z@WHM?",
+            "resource_state": 3
+      },
+      "effort_count": 2581,
+      "athlete_count": 171,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "9:22",
+            "qom": "11:24",
+            "destination": {
+                  "href": "strava://segments/4622323/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

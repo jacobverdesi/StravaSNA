@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8007571,
+      "resource_state": 3,
+      "name": "ionia hill",
+      "activity_type": "Ride",
+      "distance": 413.6,
+      "average_grade": 5.9,
+      "maximum_grade": 11.4,
+      "elevation_high": 279.6,
+      "elevation_low": 254.4,
+      "start_latlng": [
+            42.939867,
+            -77.49768
+      ],
+      "end_latlng": [
+            42.93655,
+            -77.495476
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZZGSXC5OGVV26TV7RHJKBPUAINWAUB4XSBXNQ3EUIJGWPK2UFCMESFHYMHRFNSOIXBETGF4RDKZGPHAW5QCQ====",
+      "start_latitude": 42.939867,
+      "start_longitude": -77.49768,
+      "end_latitude": 42.93655,
+      "end_longitude": -77.495476,
+      "climb_category": 0,
+      "city": "Ionia",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-08-28T16:46:49Z",
+      "updated_at": "2021-05-18T08:03:42Z",
+      "total_elevation_gain": 25.4,
+      "map": {
+            "id": "s8007571",
+            "polyline": "cuaeGng_xMp@]nHkE`Ai@pFcD",
+            "resource_state": 3
+      },
+      "effort_count": 3043,
+      "athlete_count": 542,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "49s",
+            "qom": "1:13",
+            "destination": {
+                  "href": "strava://segments/8007571/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 66279456,
+            "title": "Geoff Scott",
+            "profile": "https://lh5.googleusercontent.com/-2VNo9wQcjw4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyuZUCSRhvGXZsapmMNxlCE9h1tA/s96-c/photo.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8007571/local_legend?categories%5B%5D=overall"
+      }
 }

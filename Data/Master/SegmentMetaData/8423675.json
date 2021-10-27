@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8423675,
+      "resource_state": 3,
+      "name": "* LITE TO LITE * 1 MORE PEAK *",
+      "activity_type": "Ride",
+      "distance": 1494.8,
+      "average_grade": 0.3,
+      "maximum_grade": 17.7,
+      "elevation_high": 167.4,
+      "elevation_low": 145.4,
+      "start_latlng": [
+            43.139166,
+            -77.29181
+      ],
+      "end_latlng": [
+            43.139141,
+            -77.273471
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SSR54UMID7GQYLPHYPS5RLWWLP2RPSNAF23DB3YCOFF7IMK3CXD5S44ZCCL7WNGRIVPGATUXAKAGG45F2ZVQ====",
+      "start_latitude": 43.139166,
+      "start_longitude": -77.29181,
+      "end_latitude": 43.139141,
+      "end_longitude": -77.273471,
+      "climb_category": 0,
+      "city": "Walworth",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-28T23:11:07Z",
+      "updated_at": "2021-05-17T08:05:25Z",
+      "total_elevation_gain": 22.0,
+      "map": {
+            "id": "s8423675",
+            "polyline": "wrhfGx`wvM?eZB}UEmNBuJAcA@UAwBBw@AgM@wM",
+            "resource_state": 3
+      },
+      "effort_count": 201,
+      "athlete_count": 118,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:57",
+            "qom": "1:30",
+            "destination": {
+                  "href": "strava://segments/8423675/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 50601935,
+            "title": "Joann Colby",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/50601935/13585547/15/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8423675/local_legend?categories%5B%5D=overall"
+      }
 }

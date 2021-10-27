@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8271698,
+      "resource_state": 3,
+      "name": "TP Hill",
+      "activity_type": "Ride",
+      "distance": 180.9,
+      "average_grade": 7.7,
+      "maximum_grade": 16.8,
+      "elevation_high": 79.8,
+      "elevation_low": 64.2,
+      "start_latlng": [
+            43.23026,
+            -77.61675
+      ],
+      "end_latlng": [
+            43.229325,
+            -77.617685
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TM44T3OYEFTU4NYNGCKVWTMMR76IY2AFQ7IYFO2VKI3IOWA3I5L7RB53QCLJ2KVXZMPIVQBZ63OA5YSWRWVA====",
+      "start_latitude": 43.23026,
+      "start_longitude": -77.61675,
+      "end_latitude": 43.229325,
+      "end_longitude": -77.617685,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-03T23:29:11Z",
+      "updated_at": "2021-05-20T08:03:10Z",
+      "total_elevation_gain": 15.6,
+      "map": {
+            "id": "s8271698",
+            "polyline": "clzfGtovxMTHJT@JEj@Dv@DRPXJHNBDCDMNQHCH@r@T",
+            "resource_state": 3
+      },
+      "effort_count": 1722,
+      "athlete_count": 492,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "19s",
+            "qom": "33s",
+            "destination": {
+                  "href": "strava://segments/8271698/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14101151,
+            "title": "Bob Muldowney",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/14101151/7675659/1/large.jpg",
+            "effort_description": "52 efforts in the last 90 days",
+            "effort_count": "52",
+            "effort_counts": {
+                  "overall": "52 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8271698/local_legend?categories%5B%5D=overall"
+      }
 }

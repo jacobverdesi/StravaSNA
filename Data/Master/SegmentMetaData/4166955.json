@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4166955,
+      "resource_state": 3,
+      "name": "2 Km Quick Crit - FIRTH Style.",
+      "activity_type": "Ride",
+      "distance": 2290.5,
+      "average_grade": -0.0,
+      "maximum_grade": 12.2,
+      "elevation_high": 132.7,
+      "elevation_low": 123.8,
+      "start_latlng": [
+            43.078709,
+            -77.464963
+      ],
+      "end_latlng": [
+            43.078751,
+            -77.464979
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JAHCZFGCEPLHNK7EVBSWPLE7JLNNM7SY4IFBVGPIOCC4E7DZ4XZRFOTITBW7J7XDGSB4XYRETQ6ZR5VMLWJOS===",
+      "start_latitude": 43.078709,
+      "start_longitude": -77.464963,
+      "end_latitude": 43.078751,
+      "end_longitude": -77.464979,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-20T21:17:24Z",
+      "updated_at": "2021-05-15T02:13:11Z",
+      "total_elevation_gain": 21.0,
+      "map": {
+            "id": "s4166955",
+            "polyline": "{x|eG`{xwMXET@b@E^?JEX@^C\\JNJFHJ\\FV@`ADf@BlDKPD|\\LxAb@Ft@@^JLHVZg@xDIrCk@lCK|@UhAGr@e@~COr@Yz@g@FKAq@]Ye@]}@Og@KSWgA]aDMs@[qA?[Gi@HqCAoBBUAEG{CAiBFo@@qADgAG_BF]FeAASJa@AWDKG}CGm@?mBBiCA_AMkBA[JwAb@K",
+            "resource_state": 3
+      },
+      "effort_count": 12,
+      "athlete_count": 1,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:17",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/4166955/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

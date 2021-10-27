@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8139995,
+      "resource_state": 3,
+      "name": "* TUCKING PAST THE GOLFERS * FORE *",
+      "activity_type": "Ride",
+      "distance": 518.9,
+      "average_grade": -4.2,
+      "maximum_grade": 0.0,
+      "elevation_high": 139.0,
+      "elevation_low": 117.2,
+      "start_latlng": [
+            43.117342,
+            -77.461637
+      ],
+      "end_latlng": [
+            43.112588,
+            -77.461804
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DXJWM5SAMMPJKTJGJPSU5T7CPZQV2UWLBOQQJH3UNMY3BRNS2ZIR4ERVQUGWUORJYRFBJSIMR2Z7QHQVBLWRI===",
+      "start_latitude": 43.117342,
+      "start_longitude": -77.461637,
+      "end_latitude": 43.112588,
+      "end_longitude": -77.461804,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-09-15T01:48:18Z",
+      "updated_at": "2021-05-15T02:15:38Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8139995",
+            "polyline": "kjdfGffxwMjAB|@A~ADzCBpDFpF@lCJ",
+            "resource_state": 3
+      },
+      "effort_count": 1677,
+      "athlete_count": 253,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "34s",
+            "qom": "38s",
+            "destination": {
+                  "href": "strava://segments/8139995/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 295448,
+            "title": "Rouge Rob",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/295448/133377/1/large.jpg",
+            "effort_description": "53 efforts in the last 90 days",
+            "effort_count": "53",
+            "effort_counts": {
+                  "overall": "53 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/8139995/local_legend?categories%5B%5D=overall"
+      }
 }

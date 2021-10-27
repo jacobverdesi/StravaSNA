@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9946280,
+      "resource_state": 3,
+      "name": "Pixley Hinchey to Westside",
+      "activity_type": "Ride",
+      "distance": 1431.3,
+      "average_grade": 0.4,
+      "maximum_grade": 9.7,
+      "elevation_high": 175.8,
+      "elevation_low": 166.2,
+      "start_latlng": [
+            43.138241,
+            -77.708535
+      ],
+      "end_latlng": [
+            43.126285,
+            -77.710782
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VI5MAIDRNUTFFQAK2OEX4VKRCE7QO4HY2SDTH3RBQ2ZT3SKFSXXRJ32TOG2GXJ3O5QGZQRP6YTJSPGVEEMTAG===",
+      "start_latitude": 43.138241,
+      "start_longitude": -77.708535,
+      "end_latitude": 43.126285,
+      "end_longitude": -77.710782,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-07-13T14:52:03Z",
+      "updated_at": "2021-05-20T08:03:28Z",
+      "total_elevation_gain": 15.7,
+      "map": {
+            "id": "s9946280",
+            "polyline": "_mhfGjmhyMh@GVGR?nAUhAMPBt@KdBMj@K`BQlAINEbAE^GhEi@NBf@In@Az@BbAT`@NLHT?`@Vf@^\\`@d@t@`BxDz@~A|@`Ab@Xb@Rl@Rd@Hl@DhADhHHhEG",
+            "resource_state": 3
+      },
+      "effort_count": 887,
+      "athlete_count": 159,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:56",
+            "qom": "2:46",
+            "destination": {
+                  "href": "strava://segments/9946280/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1388383,
+            "title": "Tyler Ekwell",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1388383/727838/4/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/9946280/local_legend?categories%5B%5D=overall"
+      }
 }

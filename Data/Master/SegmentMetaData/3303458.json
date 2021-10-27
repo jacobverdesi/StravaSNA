@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3303458,
+      "resource_state": 3,
+      "name": "SeaBreeze Dr",
+      "activity_type": "Ride",
+      "distance": 659.629,
+      "average_grade": 4.5,
+      "maximum_grade": 11.5,
+      "elevation_high": 105.8,
+      "elevation_low": 76.0,
+      "start_latlng": [
+            43.23306480422616,
+            -77.53986432217062
+      ],
+      "end_latlng": [
+            43.227983359247446,
+            -77.54400556907058
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4EN7IV22MCE265UKVE42DDMBLFLSWTSG77CAV3UMOCUNEMJ3CBONCQJ5QVWMRC25T2OR4C4AGADYSZYMUKCQ====",
+      "start_latitude": 43.23306480422616,
+      "start_longitude": -77.53986432217062,
+      "end_latitude": 43.227983359247446,
+      "end_longitude": -77.54400556907058,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-01-21T22:04:05Z",
+      "updated_at": "2021-05-20T08:02:24Z",
+      "total_elevation_gain": 29.8,
+      "map": {
+            "id": "s3303458",
+            "polyline": "s}zfGdogxMZH`@Xv@`Aj@n@jAbApAbAnFzD`BpAfGrE|Az@",
+            "resource_state": 3
+      },
+      "effort_count": 1213,
+      "athlete_count": 250,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:05",
+            "qom": "1:51",
+            "destination": {
+                  "href": "strava://segments/3303458/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 44854743,
+            "title": "Matthew Quinlan",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/44854743/17385927/1/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/3303458/local_legend?categories%5B%5D=overall"
+      }
 }

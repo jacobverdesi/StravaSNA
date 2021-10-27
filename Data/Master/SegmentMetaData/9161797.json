@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9161797,
+      "resource_state": 3,
+      "name": "Genesee River trail from Genesee St. to Scottsville",
+      "activity_type": "Ride",
+      "distance": 3109.0,
+      "average_grade": -0.0,
+      "maximum_grade": 3.2,
+      "elevation_high": 160.2,
+      "elevation_low": 156.0,
+      "start_latlng": [
+            43.122701,
+            -77.641934
+      ],
+      "end_latlng": [
+            43.108497,
+            -77.674063
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OYYFWXYH2ELGTNK3SFWG7ZAQRLQVUXIU73OU326M6TGMD5WRYBS7YMRBWHR2HCQSQAQXF366FCANAUTZWZE3E===",
+      "start_latitude": 43.122701,
+      "start_longitude": -77.641934,
+      "end_latitude": 43.108497,
+      "end_longitude": -77.674063,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-03-31T23:46:40Z",
+      "updated_at": "2021-05-20T08:03:19Z",
+      "total_elevation_gain": 3.1,
+      "map": {
+            "id": "s9161797",
+            "polyline": "{kefGbm{xMd@j@Rh@d@|Bv@pAVz@Vr@vApEDdAAf@H|@?t@@r@Jz@Tt@V`@t@dBD|@Tt@xAdCjCxF~@zAx@~Ax@bBZt@FJxArA\\PRDf@d@^f@L\\RP^f@pAlBfBhDTp@dAnDhAfDb@lB~@`DzA~Ez@dCfCrIrA~EdBbGl@fBtAnFTt@xAhFvAxEbBlGn@fBnBvGbA|Cb@hB`AxDD\\Sh@",
+            "resource_state": 3
+      },
+      "effort_count": 5891,
+      "athlete_count": 1037,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:41",
+            "qom": "5:40",
+            "destination": {
+                  "href": "strava://segments/9161797/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 795671,
+            "title": "Paul Lysiak",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/795671/1277573/1/large.jpg",
+            "effort_description": "22 efforts in the last 90 days",
+            "effort_count": "22",
+            "effort_counts": {
+                  "overall": "22 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/9161797/local_legend?categories%5B%5D=overall"
+      }
 }

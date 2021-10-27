@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8277630,
+      "resource_state": 3,
+      "name": "* RAIDER COUNTRY *",
+      "activity_type": "Ride",
+      "distance": 528.4,
+      "average_grade": 2.6,
+      "maximum_grade": 6.9,
+      "elevation_high": 121.6,
+      "elevation_low": 108.0,
+      "start_latlng": [
+            43.102232,
+            -77.468358
+      ],
+      "end_latlng": [
+            43.101428,
+            -77.462032
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ULHTKPQGPNKNQ6NOBYOL6FIRQQ4DVT5XVYNQ4QDRVTZHBSLBLT6VRRBZXOPEUOC3DFXQQUZTPUZXZ4LXZ26VA===",
+      "start_latitude": 43.102232,
+      "start_longitude": -77.468358,
+      "end_latitude": 43.101428,
+      "end_longitude": -77.462032,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-04T23:31:54Z",
+      "updated_at": "2021-05-15T02:15:43Z",
+      "total_elevation_gain": 13.6,
+      "map": {
+            "id": "s8277630",
+            "polyline": "}kafGfpywM?qKHoCRsCP{ApB}M",
+            "resource_state": 3
+      },
+      "effort_count": 1958,
+      "athlete_count": 422,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "44s",
+            "qom": "1:04",
+            "destination": {
+                  "href": "strava://segments/8277630/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 12255604,
+            "title": "Ed McCarthy",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/12255604/3701250/3/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/8277630/local_legend?categories%5B%5D=overall"
+      }
 }

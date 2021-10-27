@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7419017,
+      "resource_state": 3,
+      "name": "* 31 TO BEND *",
+      "activity_type": "Ride",
+      "distance": 1537.9,
+      "average_grade": -0.4,
+      "maximum_grade": 7.2,
+      "elevation_high": 155.6,
+      "elevation_low": 139.6,
+      "start_latlng": [
+            43.065438,
+            -77.391931
+      ],
+      "end_latlng": [
+            43.079231,
+            -77.392118
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SAYBI3UH4V6MIJVNMJ73PX4DN4LSK5FRREBI77X4BF6OKSU6JGICRI6W2PQLM3AJ2FURHRK7EZBLYOKEUUFA====",
+      "start_latitude": 43.065438,
+      "start_longitude": -77.391931,
+      "end_latitude": 43.079231,
+      "end_longitude": -77.392118,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-13T00:01:25Z",
+      "updated_at": "2021-05-20T08:03:01Z",
+      "total_elevation_gain": 13.0,
+      "map": {
+            "id": "s7419017",
+            "polyline": "}ezeGrrjwMwLLm@?oPLeTH}CDmDC{CBcPG",
+            "resource_state": 3
+      },
+      "effort_count": 1368,
+      "athlete_count": 276,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:57",
+            "qom": "2:37",
+            "destination": {
+                  "href": "strava://segments/7419017/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10160757,
+            "title": "Carl Petruzelli",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GhzZpOdD-27Xwy1BSmeK0BuaDmqtdAwYgEiLD-F=s96-c",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7419017/local_legend?categories%5B%5D=overall"
+      }
 }

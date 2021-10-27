@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9969176,
+      "resource_state": 3,
+      "name": "Howard Buffalo to Wegmans",
+      "activity_type": "Ride",
+      "distance": 1349.5,
+      "average_grade": -0.0,
+      "maximum_grade": 2.5,
+      "elevation_high": 164.4,
+      "elevation_low": 157.8,
+      "start_latlng": [
+            43.150361,
+            -77.690968
+      ],
+      "end_latlng": [
+            43.162481,
+            -77.691188
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UTR5B5NRCXBNXVMOR2TYNMCKGN2UDJIB662DNB5GBKDPD54UPGBTP3GAFYPFKDOKSKJO2LCQQIXUPUGXD2EQ====",
+      "start_latitude": 43.150361,
+      "start_longitude": -77.690968,
+      "end_latitude": 43.162481,
+      "end_longitude": -77.691188,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-07-16T12:08:50Z",
+      "updated_at": "2021-05-15T02:16:42Z",
+      "total_elevation_gain": 8.6,
+      "map": {
+            "id": "s9969176",
+            "polyline": "wxjfGp_eyMEE]Ca@?wTHwKFga@Lm@DGD]JeAA",
+            "resource_state": 3
+      },
+      "effort_count": 255,
+      "athlete_count": 123,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:10",
+            "qom": "2:26",
+            "destination": {
+                  "href": "strava://segments/9969176/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1388383,
+            "title": "Tyler Ekwell",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1388383/727838/4/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9969176/local_legend?categories%5B%5D=overall"
+      }
 }

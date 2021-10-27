@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 13414095,
+      "resource_state": 3,
+      "name": "The Legion Loop-de-do",
+      "activity_type": "Ride",
+      "distance": 565.8,
+      "average_grade": -0.0,
+      "maximum_grade": 10.0,
+      "elevation_high": 120.4,
+      "elevation_low": 112.3,
+      "start_latlng": [
+            43.111665,
+            -77.475522
+      ],
+      "end_latlng": [
+            43.11165,
+            -77.4755
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/226L76DBQEHJPFSFEXL4JY4MSSSV3RHRFB4WYNWKGGEMDJU6DQKDWFUTDMRZ4OZR26VKK7JHJHXMYJ6ACTDQC===",
+      "start_latitude": 43.111665,
+      "start_longitude": -77.475522,
+      "end_latitude": 43.11165,
+      "end_longitude": -77.4755,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-10-11T00:10:37Z",
+      "updated_at": "2021-05-17T08:06:37Z",
+      "total_elevation_gain": 7.9,
+      "map": {
+            "id": "s13414095",
+            "polyline": "{fcfG`}zwMn@cCTe@PIRCPF^XLLNJPBpAALFHJR^JHL?JEHMFa@ASEOKKKEM?KFUVKDoAHOAMAMIWY]SMAM@MDILGLi@bBMf@",
+            "resource_state": 3
+      },
+      "effort_count": 487,
+      "athlete_count": 44,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "54s",
+            "qom": "1:12",
+            "destination": {
+                  "href": "strava://segments/13414095/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16934800,
+            "title": "Gary Sacco",
+            "profile": "https://graph.facebook.com/10208278291612318/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/13414095/local_legend?categories%5B%5D=overall"
+      }
 }

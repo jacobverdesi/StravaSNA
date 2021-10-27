@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17594245,
+      "resource_state": 3,
+      "name": "65 - Canfield to Willard",
+      "activity_type": "Ride",
+      "distance": 2976.9,
+      "average_grade": -0.6,
+      "maximum_grade": 3.5,
+      "elevation_high": 223.2,
+      "elevation_low": 200.8,
+      "start_latlng": [
+            43.039555,
+            -77.575229
+      ],
+      "end_latlng": [
+            43.06106,
+            -77.55366
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IACKM42G35J3PIZOTLIZ6JMFFVIAISMLOGRCWVHRFGMMIGFV6E32UOVCCMG7JQQ5NZZWYEFIORHSRNDJNVDA====",
+      "start_latitude": 43.039555,
+      "start_longitude": -77.575229,
+      "end_latitude": 43.06106,
+      "end_longitude": -77.55366,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-05-07T14:39:45Z",
+      "updated_at": "2021-05-18T08:05:10Z",
+      "total_elevation_gain": 11.8,
+      "map": {
+            "id": "s17594245",
+            "polyline": "edueGdlnxMqGuFyB{BmCiCkAcAeCeCoCeC_D{CaA}@}AmAgBkA{AkAsDyBiAy@cDmBiDmCiAmAaBsBuDcFgDgEi@o@mKaNyMmPiDwDuE}E}F{FgF}E",
+            "resource_state": 3
+      },
+      "effort_count": 9570,
+      "athlete_count": 1146,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:45",
+            "qom": "4:09",
+            "destination": {
+                  "href": "strava://segments/17594245/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23357095,
+            "title": "Chuck Koffenberger",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "21 efforts in the last 90 days",
+            "effort_count": "21",
+            "effort_counts": {
+                  "overall": "21 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/17594245/local_legend?categories%5B%5D=overall"
+      }
 }

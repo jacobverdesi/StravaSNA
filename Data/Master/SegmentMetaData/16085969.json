@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16085969,
+      "resource_state": 3,
+      "name": "* FLAHERTY'S THREE FLAGS BEHIND LOEWS TO WAYNEPORT RD.*",
+      "activity_type": "Ride",
+      "distance": 1304.3,
+      "average_grade": -1.1,
+      "maximum_grade": 2.4,
+      "elevation_high": 165.9,
+      "elevation_low": 149.3,
+      "start_latlng": [
+            43.064487,
+            -77.370062
+      ],
+      "end_latlng": [
+            43.070528,
+            -77.361642
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4TR3SCN2D43ZY4O7KQVYUIXIVOS3BMPQONTPQZLHZF4DUXPHYZJSNYNKHM4CYHAVVRZR7LB3AZRKAJGTSBGQ====",
+      "start_latitude": 43.064487,
+      "start_longitude": -77.370062,
+      "end_latitude": 43.070528,
+      "end_longitude": -77.361642,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-09-21T21:29:37Z",
+      "updated_at": "2021-05-15T02:20:08Z",
+      "total_elevation_gain": 2.9,
+      "map": {
+            "id": "s16085969",
+            "polyline": "_`zeG|ifwMe@Au@L{@F_A?{AE_BAIMGs@@oDD{BEgAKw@A}EBsFGiAEK]SU?aB?gCF_DA}B@g@?m@KeA{@]iAGk@?a@@}K",
+            "resource_state": 3
+      },
+      "effort_count": 180,
+      "athlete_count": 40,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:50",
+            "qom": "2:38",
+            "destination": {
+                  "href": "strava://segments/16085969/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/16085969/local_legend?categories%5B%5D=overall"
+      }
 }

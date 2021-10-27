@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8497756,
+      "resource_state": 3,
+      "name": "* THE BLVD *",
+      "activity_type": "Ride",
+      "distance": 576.7,
+      "average_grade": 0.1,
+      "maximum_grade": 4.0,
+      "elevation_high": 159.6,
+      "elevation_low": 159.2,
+      "start_latlng": [
+            43.13669,
+            -77.617473
+      ],
+      "end_latlng": [
+            43.141143,
+            -77.614029
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZK7LPTOOF2NLDHBYXW7R3553HDWQTY4UJUFZ6YGI4CIHODRU7HAQI3F523ZRD3ZANM2CLXUEEXYC6CN7HH2FE===",
+      "start_latitude": 43.13669,
+      "start_longitude": -77.617473,
+      "end_latitude": 43.141143,
+      "end_longitude": -77.614029,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-12T02:04:52Z",
+      "updated_at": "2021-05-20T08:03:13Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8497756",
+            "polyline": "ichfGftvxMoB}@eB{@cDwAaD_BoBuAmD{Cc@s@IYQ_A",
+            "resource_state": 3
+      },
+      "effort_count": 20402,
+      "athlete_count": 2260,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "43s",
+            "qom": "45s",
+            "destination": {
+                  "href": "strava://segments/8497756/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 846641,
+            "title": "Brad Haberli",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/846641/195199/4/large.jpg",
+            "effort_description": "39 efforts in the last 90 days",
+            "effort_count": "39",
+            "effort_counts": {
+                  "overall": "39 efforts",
+                  "female": "22 efforts"
+            },
+            "destination": "strava://segments/8497756/local_legend?categories%5B%5D=overall"
+      }
 }

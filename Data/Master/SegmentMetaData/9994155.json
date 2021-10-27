@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9994155,
+      "resource_state": 3,
+      "name": "Frederick Douglass Grave Climb",
+      "activity_type": "Ride",
+      "distance": 401.7,
+      "average_grade": 7.6,
+      "maximum_grade": 21.2,
+      "elevation_high": 203.3,
+      "elevation_low": 171.3,
+      "start_latlng": [
+            43.133533,
+            -77.614579
+      ],
+      "end_latlng": [
+            43.131222,
+            -77.615014
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LZQCEJM57AKXHHVZTXQXCE6UD6H5RPMOWMCLE23HCWF46P2OGXSQ2X2IQ4CBDCREJH3IH47KMBKIYLZJ6FJBO===",
+      "start_latitude": 43.133533,
+      "start_longitude": -77.614579,
+      "end_latitude": 43.131222,
+      "end_longitude": -77.615014,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-07-19T17:28:57Z",
+      "updated_at": "2021-05-15T02:16:43Z",
+      "total_elevation_gain": 32.2,
+      "map": {
+            "id": "s9994155",
+            "polyline": "qogfGbbvxML_@PoA?]@OJWHIb@ODSh@Gz@?BlALl@F`AJ`@RNhAVh@FXLh@ZRH",
+            "resource_state": 3
+      },
+      "effort_count": 1108,
+      "athlete_count": 208,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "47s",
+            "qom": "1:05",
+            "destination": {
+                  "href": "strava://segments/9994155/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 4489657,
+            "title": "Eric Neumeier",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/4489657/2841921/3/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/9994155/local_legend?categories%5B%5D=overall"
+      }
 }

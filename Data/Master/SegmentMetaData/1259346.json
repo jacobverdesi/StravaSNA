@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1259346,
+      "resource_state": 3,
+      "name": "Furman Carter to top",
+      "activity_type": "Ride",
+      "distance": 480.963,
+      "average_grade": 8.3,
+      "maximum_grade": 11.6,
+      "elevation_high": 187.5,
+      "elevation_low": 147.7,
+      "start_latlng": [
+            43.11558327,
+            -77.4023717
+      ],
+      "end_latlng": [
+            43.11567797,
+            -77.39646406
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SYJRKLPR7YCBSLBI3HXD3ZJARXYZIV6UKJEIQ6OQVC2LR2IFRDYKDV6ZYZL5GILYSXF2WWRD2BJ5QEACUSHEW===",
+      "start_latitude": 43.11558327,
+      "start_longitude": -77.4023717,
+      "end_latitude": 43.11567797,
+      "end_longitude": -77.39646406,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-04-21T02:48:06Z",
+      "updated_at": "2021-05-17T08:03:52Z",
+      "total_elevation_gain": 39.8593,
+      "map": {
+            "id": "s1259346",
+            "polyline": "k_dfGzslwMO}CAmA?kEC_EFoFEwD@}B",
+            "resource_state": 3
+      },
+      "effort_count": 8426,
+      "athlete_count": 610,
+      "star_count": 29,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "47s",
+            "qom": "1:12",
+            "destination": {
+                  "href": "strava://segments/1259346/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1603801,
+            "title": "Greg Brett",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1603801/5871395/1/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/1259346/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2698074,
+      "resource_state": 3,
+      "name": "Culver to Durand",
+      "activity_type": "Ride",
+      "distance": 908.83,
+      "average_grade": 3.1,
+      "maximum_grade": 6.2,
+      "elevation_high": 90.0,
+      "elevation_low": 61.6,
+      "start_latlng": [
+            43.23485450819135,
+            -77.54092496819794
+      ],
+      "end_latlng": [
+            43.228635136038065,
+            -77.546350909397
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SAZDOZFYUXA7GMGN4CECPUTTZVKEW5W736VBXSJKNQ25MUNNHSOZ5KTG3RO2AVKAQTE52F7RTUK6BUQ2PQ4F2===",
+      "start_latitude": 43.23485450819135,
+      "start_longitude": -77.54092496819794,
+      "end_latitude": 43.228635136038065,
+      "end_longitude": -77.546350909397,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-11-06T23:25:18Z",
+      "updated_at": "2021-05-20T08:02:21Z",
+      "total_elevation_gain": 28.4,
+      "map": {
+            "id": "s2698074",
+            "polyline": "yh{fGxugxM?pEDrALjA\\fAVj@Zh@h@j@r@b@f@RzBn@vEfAp@TnKnExEjB",
+            "resource_state": 3
+      },
+      "effort_count": 3386,
+      "athlete_count": 560,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:25",
+            "qom": "1:38",
+            "destination": {
+                  "href": "strava://segments/2698074/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14149986,
+            "title": "Joe Falvo",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "33 efforts in the last 90 days",
+            "effort_count": "33",
+            "effort_counts": {
+                  "overall": "33 efforts",
+                  "female": "12 efforts"
+            },
+            "destination": "strava://segments/2698074/local_legend?categories%5B%5D=overall"
+      }
 }

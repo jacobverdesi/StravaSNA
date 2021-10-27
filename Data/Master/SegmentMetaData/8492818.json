@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8492818,
+      "resource_state": 3,
+      "name": "* BULL TO WILT *",
+      "activity_type": "Ride",
+      "distance": 1267.3,
+      "average_grade": -0.9,
+      "maximum_grade": 5.8,
+      "elevation_high": 170.2,
+      "elevation_low": 159.0,
+      "start_latlng": [
+            42.995979,
+            -77.555871
+      ],
+      "end_latlng": [
+            42.991744,
+            -77.541541
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/J3TP5ENLZMOA63Y7WCW2WPH3WF3CVZUC7MALU4EA4LHR2U6ABVFWMHLJA5Y6WYX2MVGMMQH4RP32QNIF7ZYJU===",
+      "start_latitude": 42.995979,
+      "start_longitude": -77.555871,
+      "end_latitude": 42.991744,
+      "end_longitude": -77.541541,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-11T04:47:14Z",
+      "updated_at": "2021-05-20T08:03:13Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s8492818",
+            "polyline": "ysleGfsjxMlAsHnCcOp@{CdAgFpAyFn@{C`AcErFwX~@cF",
+            "resource_state": 3
+      },
+      "effort_count": 5898,
+      "athlete_count": 802,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:29",
+            "qom": "1:39",
+            "destination": {
+                  "href": "strava://segments/8492818/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8662305,
+            "title": "Dean Romanick",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8662305/5051266/2/large.jpg",
+            "effort_description": "15 efforts in the last 90 days",
+            "effort_count": "15",
+            "effort_counts": {
+                  "overall": "15 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/8492818/local_legend?categories%5B%5D=overall"
+      }
 }

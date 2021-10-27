@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1349493,
+      "resource_state": 3,
+      "name": "Blue from purple to Bay Front S with left fork",
+      "activity_type": "Ride",
+      "distance": 691.089,
+      "average_grade": -3.4,
+      "maximum_grade": 29.5,
+      "elevation_high": 109.6,
+      "elevation_low": 76.9,
+      "start_latlng": [
+            43.18507,
+            -77.53188
+      ],
+      "end_latlng": [
+            43.1889,
+            -77.53043
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/55FK6UBBUZTRNMEV2UEMXLCDV6TP3L4SYQ6MLFGEH2HIEJ5GEFXC33MCW4XHWXPEHEQW7FNUDLJYOKQBH3YJW===",
+      "start_latitude": 43.18507,
+      "start_longitude": -77.53188,
+      "end_latitude": 43.1889,
+      "end_longitude": -77.53043,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-08T15:44:25Z",
+      "updated_at": "2021-05-15T02:12:01Z",
+      "total_elevation_gain": 37.4148,
+      "map": {
+            "id": "s1349493",
+            "polyline": "uqqfGf}exMIg@Ua@WSWB]Co@Q_@OIIGa@O]q@B_@FYAMGOO[KIGO?GIIGk@IK?CJOVQMF]B\\Vv@@NGf@Qd@GXEHI@IA[m@CMSKGZ?b@S?GISe@GGWGSSGMESAUHIC]EMg@_@",
+            "resource_state": 3
+      },
+      "effort_count": 4008,
+      "athlete_count": 608,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:43",
+            "qom": "2:06",
+            "destination": {
+                  "href": "strava://segments/1349493/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 34321073,
+            "title": "Marc Bigsby \u00a9",
+            "profile": "https://graph.facebook.com/2213310388898828/picture?height=256&width=256",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/1349493/local_legend?categories%5B%5D=overall"
+      }
 }

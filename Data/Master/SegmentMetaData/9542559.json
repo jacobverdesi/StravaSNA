@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9542559,
+      "resource_state": 3,
+      "name": "Methodist Hill southbound",
+      "activity_type": "Ride",
+      "distance": 348.4,
+      "average_grade": 4.7,
+      "maximum_grade": 7.5,
+      "elevation_high": 179.5,
+      "elevation_low": 163.0,
+      "start_latlng": [
+            43.067843,
+            -77.647164
+      ],
+      "end_latlng": [
+            43.064899,
+            -77.648572
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7V4QRP6DQZKR4ONVUTHU6IGSGK7MWFOZ6IX7OS5OLW4ZXGGRWGAUVB5ODZPHB2JFQFLEZZQVJL5MJWB3RKTX6===",
+      "start_latitude": 43.067843,
+      "start_longitude": -77.647164,
+      "end_latitude": 43.064899,
+      "end_longitude": -77.648572,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-22T03:11:08Z",
+      "updated_at": "2021-05-15T02:16:25Z",
+      "total_elevation_gain": 16.5,
+      "map": {
+            "id": "s9542559",
+            "polyline": "_uzeGxm|xM~F`Cp@^nBv@d@Hb@B`Bp@",
+            "resource_state": 3
+      },
+      "effort_count": 605,
+      "athlete_count": 152,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "35s",
+            "qom": "57s",
+            "destination": {
+                  "href": "strava://segments/9542559/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 35330227,
+            "title": "Ed Derck",
+            "profile": "https://lh4.googleusercontent.com/-Wx6TJW-J94M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHkfjhaQt7KCf2Bqs6TMlCw0H2ow/s96-c/photo.jpg",
+            "effort_description": "46 efforts in the last 90 days",
+            "effort_count": "46",
+            "effort_counts": {
+                  "overall": "46 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/9542559/local_legend?categories%5B%5D=overall"
+      }
 }

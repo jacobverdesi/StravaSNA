@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 27728050,
+      "resource_state": 3,
+      "name": "Chasing Pilots",
+      "activity_type": "Ride",
+      "distance": 349.6,
+      "average_grade": -0.1,
+      "maximum_grade": 1.7,
+      "elevation_high": 170.2,
+      "elevation_low": 169.2,
+      "start_latlng": [
+            43.094823,
+            -77.680177
+      ],
+      "end_latlng": [
+            43.097658,
+            -77.678328
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BQAN7MVNVCVNCZAHL4SKD7TL6W2C2PGKOE4XITPTYLAYYZYZ2GP347TTW4B62AT6FBHAUPWFHIE3XPBRDCUWY===",
+      "start_latitude": 43.094823,
+      "start_longitude": -77.680177,
+      "end_latitude": 43.097658,
+      "end_longitude": -77.678328,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-03-24T04:20:21Z",
+      "updated_at": "2021-05-20T08:05:51Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s27728050",
+            "polyline": "s}_fGb|byMsAcA{AcA}BkA}As@iDiB",
+            "resource_state": 3
+      },
+      "effort_count": 4006,
+      "athlete_count": 1012,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "26s",
+            "qom": "33s",
+            "destination": {
+                  "href": "strava://segments/27728050/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 15853890,
+            "title": "Bryan Agnello",
+            "profile": "https://graph.facebook.com/10154257859722152/picture?height=256&width=256",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/27728050/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4116144,
+      "resource_state": 3,
+      "name": "SVENs  Quarter Mile",
+      "activity_type": "Ride",
+      "distance": 383.1,
+      "average_grade": 2.6,
+      "maximum_grade": 9.7,
+      "elevation_high": 130.8,
+      "elevation_low": 118.5,
+      "start_latlng": [
+            43.082286,
+            -77.474732
+      ],
+      "end_latlng": [
+            43.079233,
+            -77.473464
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LP5LQHDJJ24Y5FWIWI3SQ2EQDTWOLPF3FXAE3KLESOAAS5SJ4L7XCMOZTSIUFWV5N5MP4T2VRTBSHGMVAHN7S===",
+      "start_latitude": 43.082286,
+      "start_longitude": -77.474732,
+      "end_latitude": 43.079233,
+      "end_longitude": -77.473464,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-15T19:16:46Z",
+      "updated_at": "2021-05-15T02:13:10Z",
+      "total_elevation_gain": 12.3,
+      "map": {
+            "id": "s4116144",
+            "polyline": "go}eGbxzwM\\NN@rCEx@XR@TC^ShAkAdA{@|@{ANQVQd@E",
+            "resource_state": 3
+      },
+      "effort_count": 282,
+      "athlete_count": 24,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "38s",
+            "qom": "52s",
+            "destination": {
+                  "href": "strava://segments/4116144/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8942202,
+            "title": "Dan Ostrander",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8942202/3984496/4/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/4116144/local_legend?categories%5B%5D=overall"
+      }
 }

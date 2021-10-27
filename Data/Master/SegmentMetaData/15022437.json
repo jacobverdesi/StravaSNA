@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15022437,
+      "resource_state": 3,
+      "name": "Clinton Crossings Cut SW",
+      "activity_type": "Ride",
+      "distance": 749.6,
+      "average_grade": 0.0,
+      "maximum_grade": 3.5,
+      "elevation_high": 156.9,
+      "elevation_low": 151.1,
+      "start_latlng": [
+            43.115196,
+            -77.591898
+      ],
+      "end_latlng": [
+            43.112026,
+            -77.597221
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SRGIMHB7YZOUU4C74PIG2TKLW3SHZLJXYIVO3JWAMPCWTZGUGB6KXOTPF7DHPCOD7X7EZW2BYM5RD5DUWQHE6===",
+      "start_latitude": 43.115196,
+      "start_longitude": -77.591898,
+      "end_latitude": 43.112026,
+      "end_longitude": -77.597221,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-05-30T18:53:19Z",
+      "updated_at": "2021-05-20T08:04:15Z",
+      "total_elevation_gain": 4.7,
+      "map": {
+            "id": "s15022437",
+            "polyline": "}|cfGjtqxMt@HRFN?|AN`@Jl@^bAbB\\X\\RL@h@N`@@PD`@@NDbAJj@LX?TDH^?v@KfBKn@?RCRAt@ERAf@Or@B|@a@hEA`A",
+            "resource_state": 3
+      },
+      "effort_count": 2497,
+      "athlete_count": 250,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:06",
+            "qom": "1:23",
+            "destination": {
+                  "href": "strava://segments/15022437/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 795671,
+            "title": "Paul Lysiak",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/795671/1277573/1/large.jpg",
+            "effort_description": "43 efforts in the last 90 days",
+            "effort_count": "43",
+            "effort_counts": {
+                  "overall": "43 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/15022437/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9994210,
+      "resource_state": 3,
+      "name": "Mt Hope Koppenberg",
+      "activity_type": "Ride",
+      "distance": 286.5,
+      "average_grade": 6.8,
+      "maximum_grade": 20.9,
+      "elevation_high": 191.5,
+      "elevation_low": 171.5,
+      "start_latlng": [
+            43.133375,
+            -77.61525
+      ],
+      "end_latlng": [
+            43.130928,
+            -77.616012
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/NYY2QF54YJEGE73MHOADBN6J2QAJ6GU6YH33THZWYZQA3RJ4LCG7G5GPQXAQTU4FSINNYC4R5YSAQRNJBAZPE===",
+      "start_latitude": 43.133375,
+      "start_longitude": -77.61525,
+      "end_latitude": 43.130928,
+      "end_longitude": -77.616012,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-07-19T17:33:21Z",
+      "updated_at": "2021-05-18T08:04:02Z",
+      "total_elevation_gain": 20.0,
+      "map": {
+            "id": "s9994210",
+            "polyline": "qngfGhfvxMNF\\ZFBF?FHDDl@D~@\\j@N\\Nj@PXNd@EV@PFj@?TCLC",
+            "resource_state": 3
+      },
+      "effort_count": 539,
+      "athlete_count": 144,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "38s",
+            "qom": "52s",
+            "destination": {
+                  "href": "strava://segments/9994210/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3176763,
+            "title": "Daniel Breslawski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3176763/6460992/1/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/9994210/local_legend?categories%5B%5D=overall"
+      }
 }

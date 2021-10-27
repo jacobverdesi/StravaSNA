@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 14226909,
+      "resource_state": 3,
+      "name": "* LITTLE RED *",
+      "activity_type": "Ride",
+      "distance": 752.9,
+      "average_grade": 0.0,
+      "maximum_grade": 23.2,
+      "elevation_high": 137.2,
+      "elevation_low": 135.0,
+      "start_latlng": [
+            43.09065,
+            -77.378284
+      ],
+      "end_latlng": [
+            43.090625,
+            -77.378269
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GHBX6YAPNVNH744DXT4HVZU656S7FEV3GE4P4HNSQISH3Q3HUVJ7HAP6FKKJUVDAKCDOB6GBWMYJ7UVNGVBQ====",
+      "start_latitude": 43.09065,
+      "start_longitude": -77.378284,
+      "end_latitude": 43.090625,
+      "end_longitude": -77.378269,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-02-23T20:58:18Z",
+      "updated_at": "2021-05-15T02:19:00Z",
+      "total_elevation_gain": 4.4,
+      "map": {
+            "id": "s14226909",
+            "polyline": "qc_fGh}gwMM[Ye@k@}BWk@Gm@K}AKm@Yk@Me@]o@U[EKCc@?e@EO?G@BP@\\ENPVD^NX?XDT`@f@nAZXZ|@Zf@Ld@LrE@`AAVIL[Jc@XSD",
+            "resource_state": 3
+      },
+      "effort_count": 49,
+      "athlete_count": 16,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:54",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/14226909/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 715047,
+            "title": "Matt Corbett",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/715047/5767655/2/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/14226909/local_legend?categories%5B%5D=overall"
+      }
 }

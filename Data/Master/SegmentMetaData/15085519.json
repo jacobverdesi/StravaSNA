@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15085519,
+      "resource_state": 3,
+      "name": "Sorry Marshall I can't stop",
+      "activity_type": "Ride",
+      "distance": 1442.0,
+      "average_grade": -0.1,
+      "maximum_grade": 0.9,
+      "elevation_high": 160.6,
+      "elevation_low": 156.2,
+      "start_latlng": [
+            43.106721,
+            -77.713891
+      ],
+      "end_latlng": [
+            43.106576,
+            -77.731531
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3FMDT76CNPWLC5SUQUH2JMDRMB4FP53ENNONQZWMBGISQKYM6CZM6XMPMVDXZMCPOGBIOBNBVQOP54CBR66A====",
+      "start_latitude": 43.106721,
+      "start_longitude": -77.713891,
+      "end_latitude": 43.106576,
+      "end_longitude": -77.731531,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-06-06T16:14:31Z",
+      "updated_at": "2021-05-15T02:19:28Z",
+      "total_elevation_gain": 3.0,
+      "map": {
+            "id": "s15085519",
+            "polyline": "_hbfGzniyMtBxpADfGOnCmAtN",
+            "resource_state": 3
+      },
+      "effort_count": 1265,
+      "athlete_count": 261,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:04",
+            "qom": "2:28",
+            "destination": {
+                  "href": "strava://segments/15085519/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43988676,
+            "title": "Cheryl Rose",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43988676/12395320/1/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/15085519/local_legend?categories%5B%5D=overall"
+      }
 }

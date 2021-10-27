@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2242976,
+      "resource_state": 3,
+      "name": "Canal Trail: Buffalo Rd to Henpeck Park (Underpass)",
+      "activity_type": "Ride",
+      "distance": 9850.02,
+      "average_grade": -0.1,
+      "maximum_grade": 12.5,
+      "elevation_high": 167.9,
+      "elevation_low": 153.6,
+      "start_latlng": [
+            43.1559028,
+            -77.67376965
+      ],
+      "end_latlng": [
+            43.18776826,
+            -77.75988989
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TUAVHX3STDZUV5U6QAAUMZ73B3ZI23HDRBY3BOQMZJJDPX6RDBPWGTBITGYQSKSA4KSY2VGIR4OFEUE34CXPQ===",
+      "start_latitude": 43.1559028,
+      "start_longitude": -77.67376965,
+      "end_latitude": 43.18776826,
+      "end_longitude": -77.75988989,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-08-28T16:23:08Z",
+      "updated_at": "2021-05-20T08:02:17Z",
+      "total_elevation_gain": 70.9132,
+      "map": {
+            "id": "s2242976",
+            "polyline": "k{kfG`tayMqAZm@Jq@NeBJi@Rk@F[Ri@dAa@Mi@Cc@@c@LqBXgBh@g@Hg@V[Dg@PoAXc@DqBn@e@Dc@JgA^qBT{@`@s@p@[P]DWTc@Rg@F_@NUC_@@a@Fe@?cATi@Cc@I]DkAb@a@B}@Pk@`@wAXi@P_E`AiA`@a@T_@f@{BxBc@V{@p@WZ]AiAr@e@Zc@d@_@j@Wn@_AhBW^{@nBg@xAWf@[`@u@pAW`@WTIjAUxAQb@[d@kCnFm@zA_BjDo@|As@xAs@bBOr@m@vAq@nAaBzDu@rAYp@Sn@_@j@m@fB_@f@Mn@[n@w@rAmAhCWp@mElKo@hBIbAOr@]l@Yl@k@nBeBpGe@nBU`BO`@FVx@D`@J^?^DZ?|@DNJAPQD]A[Ds@?y@Pa@BcBS_@?_ACeAH]Ea@@gCK_@?QMEUVI`AE`@C`BChADLDLRB\\Ej@[j@q@bEEr@c@pCO`Bm@dEmBnLIv@Kj@]dCM|AMh@SvCMzAUzASTIf@Hp@Zn@b@rAl@fCb@jCNn@Dp@Lh@\\rC`@fCZxC?p@J`BLlEBdBEp@RbBGr@?vCEn@?bBMzA@t@Kj@Ar@OnBG`BSvCKl@En@UvAOlBQh@Kd@Gn@Sr@Yr@s@fAUj@wAbBwBxBQd@[X]`@e@^cAZUTSf@Of@k@~@WZWPMRETMTuCfEk@fAYb@Mh@i@rA_@vAEn@_@~AYfCMh@_@xCIxABvCBr@Eh@J|AP`BZjHTlC@l@j@zFRxCXnCTtCd@fEXbFF|An@dKf@rFf@tHv@~I\\|CDl@BtCJdBCrAGp@An@Ib@Cr@Ep@?dBItC@j@Ef@GxBEf@",
+            "resource_state": 3
+      },
+      "effort_count": 1117,
+      "athlete_count": 554,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "17:16",
+            "qom": "22:21",
+            "destination": {
+                  "href": "strava://segments/2242976/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2055069,
+            "title": "Brad Paul",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2055069/20073863/1/large.jpg",
+            "effort_description": "23 efforts in the last 90 days",
+            "effort_count": "23",
+            "effort_counts": {
+                  "overall": "23 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/2242976/local_legend?categories%5B%5D=overall"
+      }
 }

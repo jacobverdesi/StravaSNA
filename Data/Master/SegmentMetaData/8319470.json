@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8319470,
+      "resource_state": 3,
+      "name": "* HARDHOLT *",
+      "activity_type": "Ride",
+      "distance": 1068.8,
+      "average_grade": -0.2,
+      "maximum_grade": 5.4,
+      "elevation_high": 103.2,
+      "elevation_low": 101.0,
+      "start_latlng": [
+            43.230642,
+            -77.460889
+      ],
+      "end_latlng": [
+            43.230765,
+            -77.447738
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/Y7H3TOM7E2GZYCA4WDSXNXALQCR4LLU3VGTGZ4HSWP4NK2CQBJWRUCUN2O4IRFBWF73MWVYME5UEWWS4MOZO4===",
+      "start_latitude": 43.230642,
+      "start_longitude": -77.460889,
+      "end_latitude": 43.230765,
+      "end_longitude": -77.447738,
+      "climb_category": 0,
+      "city": "Webster",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-11T20:52:39Z",
+      "updated_at": "2021-05-20T08:03:11Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s8319470",
+            "polyline": "onzfGpaxwMEkI@eFO_SBmMC{C@sCE}BDcGEsG",
+            "resource_state": 3
+      },
+      "effort_count": 9705,
+      "athlete_count": 721,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:05",
+            "qom": "1:39",
+            "destination": {
+                  "href": "strava://segments/8319470/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5752945,
+            "title": "Todd Consadine",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5752945/1770234/6/large.jpg",
+            "effort_description": "49 efforts in the last 90 days",
+            "effort_count": "49",
+            "effort_counts": {
+                  "overall": "49 efforts",
+                  "female": "34 efforts"
+            },
+            "destination": "strava://segments/8319470/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8687198,
+      "resource_state": 3,
+      "name": "Lake Shore Hustle",
+      "activity_type": "Ride",
+      "distance": 3686.3,
+      "average_grade": 0.2,
+      "maximum_grade": 8.5,
+      "elevation_high": 37.6,
+      "elevation_low": 25.6,
+      "start_latlng": [
+            43.234048,
+            -77.553542
+      ],
+      "end_latlng": [
+            43.247732,
+            -77.594326
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/M3KQCSADZVBPWBBYROB33YUBH4TZZKST3TLMA5YDQERN6GW7TOV7LG3WT22LKNMLSPATA4JRFHLUTMJG2UMQS===",
+      "start_latitude": 43.234048,
+      "start_longitude": -77.553542,
+      "end_latitude": 43.247732,
+      "end_longitude": -77.594326,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-12-28T06:28:34Z",
+      "updated_at": "2021-05-17T08:05:29Z",
+      "total_elevation_gain": 38.4,
+      "map": {
+            "id": "s8687198",
+            "polyline": "wc{fGtdjxMaARy@j@WXKNgA~ByBhDKT[`A_@fBUvBWhDWnBqAfHo@nF}BzNm@vCqAnHkAvFcG|V_DrLwAjGaCzJk@xCc@pIa@pC_AvDe@xAqBfIiFvSg@zB}BnIu@fDoBpHeBbHsAxFm@~BOr@",
+            "resource_state": 3
+      },
+      "effort_count": 3381,
+      "athlete_count": 880,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "5:16",
+            "qom": "6:07",
+            "destination": {
+                  "href": "strava://segments/8687198/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 56008399,
+            "title": "Gavin Murphy",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/56008399/19256278/1/large.jpg",
+            "effort_description": "31 efforts in the last 90 days",
+            "effort_count": "31",
+            "effort_counts": {
+                  "overall": "31 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/8687198/local_legend?categories%5B%5D=overall"
+      }
 }

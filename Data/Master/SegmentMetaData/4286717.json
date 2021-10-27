@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4286717,
+      "resource_state": 3,
+      "name": "2013 Tour de Cure Metric Century",
+      "activity_type": "Ride",
+      "distance": 99778.8,
+      "average_grade": 0.0,
+      "maximum_grade": 30.0,
+      "elevation_high": 318.2,
+      "elevation_low": 150.4,
+      "start_latlng": [
+            43.096048,
+            -77.606228
+      ],
+      "end_latlng": [
+            43.096021,
+            -77.606012
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7B2JRGAPN74XJEHYDVXBS3NQAZMRA2J2S7NK73FFOUI6UB75RRBYCVO3JX7S4UF37XVPCA7BVQ74FTU6RUECI===",
+      "start_latitude": 43.096048,
+      "start_longitude": -77.606228,
+      "end_latitude": 43.096021,
+      "end_longitude": -77.606012,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-02T18:58:08Z",
+      "updated_at": "2021-05-15T02:13:16Z",
+      "total_elevation_gain": 991.1,
+      "map": {
+            "id": "s4286717",
+            "polyline": "ge`fG|mtxMf@?lCOHIF_@G}C@aAEeCA_CEwB?mAGyBOyO_@aWE}@WmZGsKOqISmTIuE@q@J[HGXEbAFjADxB?bLEbSBtHKzc@MdBDjAJvBf@pAb@jKrE~Q|HZPtEpBvBdArHxCjFzBfC`AhAf@HDJ?HEFKDM?O?eAIeCCqFCkTCqBAsKEyGAuLKkQCyPBiBLoDPoCDyA@mA?oVEiJByD@}QC}c@BeLRcOEyHDsKCkW@oA?se@BgMAwFF]FKJCl@DzDAj@Bt@HjDjA`OnFnCdApG|BtCfAlFjB~A^pKpAjMzBt@Nt@TdAf@vBfAhAp@fFfDtBpAdAd@d@Z~BtA~JpFbNzHbExBdA^~Cn@xBj@bDr@lCf@t@FlA?rCUlAExKm@jACf@Dj@Lz@ZjIvD~A`AtClCr@b@j@VbAVhATdKpAnBRxAVXH|KtErGhD`Ar@VTj@x@zAlCzBrDrF`Ih@l@ZVZRn@RnAZrATxKfAzFz@jBP|F`AdMfBp@HtAJpCZjWfFr@P\\P|@JtCl@fGvAbKvBpEz@zInBbEt@n@@~MIx@Bv@Kn@Q`@[b@q@L]Pq@nByKRqApD}QbDkOnBwIrEmUv@iEFSD?VXRJ~Ez@vA\\lCt@pAd@^PZT~CxCh@\\j@T\\Dj@@fBGvEGjEOH@JDHJ\\r@nBnDxBfEdAlB^v@fArBzC`FdH`M|@vAd@f@\\Nj@Jj@@vA?xLWtQ[JDPXj@~A\\dAz@hDhBfIxAjHx@hF`@pD`@zF`Chh@LjDH`GJ~DRtBn@xEPnBhBzNrAbM~ArQj@fHJbDBnBAbXB~ZBbF@j@DJHH\\JtEb@v@Bd@?x@Gt@Mr@QdBq@nDgBbKuF~NqH`@O`@Gv@BhB\\hAZnJrBvD~@ZHLHdBpA`EjDBLAJy@xAAFBDD?HMf@gAFIJ?HF~CtHjAfCn@|AjBbEXbANv@bBhNTtAfBbO`@pEThBbBhM`BtMlF`d@Nz@pFve@N~AB~@GtBO`D@JBJHFJBZ@nL?rO@lONlF@zFPxIH~HRdXLbGHpKCbVNjABdPFZA|BBdI?dEBjBDlNRjI@bIFnB?~IHxH@pBB~C@R?l@IDEF@BADQ@aBKoDSmCa@aDYkBy@mEcB_Ig@wCa@iEaA{KYmC?QDOTS~BCb@C|B?lGKvH?tLO|TOhVYfHOxIGhEInJKbB@zDRrY~BrEj@zGrA|ARb@DvAFbA@pG@pIAtJ@rCFxBV`S|CzCb@vJlAjAJj@@J@PPBb@EzFIxP?baAMbMF`JFdCHlF?~ALnFPp\\OrU?zMGjK@tICjC?|EGta@A`@Gb@@JFFHD|FhBvN~EhGpB`GvBr@NV@l@GJDHHHPBPFv@BfAMrY]b[@jCQ|\\Wl^ChHItIAtEOhU@PLJn@NhAJbCLtX?r]K`N?`_@Q|@BLBHDFL@PAfZ?fEI~FC~JBbB^lFv@lJRtCr@pIBh@\\~DNfClAnOj@nGfBpUf@fFX`BRv@zB`HxGfTz@dCnEnNlA|D`CjH`F~OfDjKrCbJVbAzEjOrBzGzBxGJZA\\GHIFO@i@C{@a@{AqAy@g@k@QUEo@CsOGqNM_B@wFA_EGaM?eAE{LG_BEaGCiC?y@EeSIqCEmLC{IKaD@{AC}EC}IMuFCq@C_A?MFKLCRAT?~CEnHAzDIlIBhACnAC`F?rAFtARpAPr@Rp@Tj@Vh@Zd@jAxAfBhCv@zAtApDd@dBRdAHdADfAE`Be@xIMbDCvAB`BFhGErBEv@OrA}AjIoEpTgBhIiA`GU~AQfBEhCIjXAVEPKJM@gAe@mBa@cC]sGq@yBM{e@sByOw@kEQeBMkEi@eVcDoIeAmMgB__@kFoCYiAGkAEcC?cTX}INuB@wAIw@MqA_@q@YwAw@mCeBmA{@e@a@c@e@cC_Dc@e@iAcA}@i@wAg@k@Ok@IcCKwDEgAMgBc@uBw@uBcAq@a@gAu@cBmBq@}@k@eAeAuBu@oBeAaC_AkBgBcC{EeGKQGSCo@`@wFL}Bx@aMdBiTASGSEGSK_AYaA]gCm@mA]qG_BqAa@cB_@{Bq@oDy@IGGKCMFmA@s@Ie@Qe@]Yo@Ue@EWDUNQVM^C`@?PH^h@`B@b@Of@cEjIwClGsBxE{KlUwBbFaApCsExO}AbGUt@wBnIy@tC_HdUoM~a@sLx`@qEzNyBpH_B`FILKFOAMGsBiA_CkAyCcBcDaB{@k@s@[oGeDu@e@wBgAuBkAe@SsC_BmBaAcAo@_HqDoAu@iVmMgAo@eCmAaB}@[SiKmFqAk@}OcGe^qMaCaA}@c@oBcAuC_BgEeCeLcHmTaM_CyAsAcAeB}AaHyGmEsEyAwAmJwIyQ_QkF{EaCmB{HmFwAmAi@q@_@u@sC_I_@sAq@aEYkAi@yAq@qAc@i@aAy@sByAiAq@cA_@}FgBsAYkBQoIQeM]gOWyBIwLF{XB_BFmEb@oKlAuIrA{IxAoDf@}LrBkG|@wLrAmFn@iCVwC\\}CTaH~@{Fl@yNjBoBTe@Hy@F}Ft@iBEyCSeDYc@Gk@Ok@YUQuAkA}BgBwBkBaCkBeGgFmGsFg@_@IIEK@{@`@uJBsBAs@C[Mu@gAiE]}AQaAK_A}@iNyBo^g@mJSuEEuCHsCh@yHr@gIJcCAcAEcA[iBW{@[y@Wc@g@o@]]_@Ya@Uc@Ou@QkAIoJFiOGWAKCGICMBsBCmFFuARsABa@BqDMsRAqJG}EKqL?mFQ_REgKIgEAoDGYSOkAa@{QaGiW}H}J}CiK}C}E}AuA_@iH{B{DiAcJ{C}NqEoEoAkC{@eAYOIOOMSGYAY@{AEuN?mIKuq@AWGUOMOIa@Cq@@aAJ}Dz@a@FgBHsACs@IaAScA[o@]m@_@m@c@u@u@aAkA{@uAuK}Qo@iAOi@Mk@QyACiAHmD?q@EkAQiAc@uAc@w@e@m@y@o@_A[_AM_@A}AIoDW_@IkAa@k@]aHcDaAm@]Me@]g@QuAs@cD{AsTkK}JqEk@[_M}FsBcAw@e@}Ay@mAi@uBw@{CwA{B_A}Aw@mFaCkBw@eGkCqBcAqIuDkB}@eCgAOK_@Mk@e@q@y@U[Qc@Yw@S{@Im@EcA?_Bd@mIH_CDwDCeCc@_[I_Ey@qm@I{B?gAFS?KIyAsAc~@{@gp@E_D?gCI_FCoEQeHKuGIsBKuGA]IWKQQGe@?oAHe@?",
+            "resource_state": 3
+      },
+      "effort_count": 23,
+      "athlete_count": 22,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:47:53",
+            "qom": "4:52:19",
+            "destination": {
+                  "href": "strava://segments/4286717/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

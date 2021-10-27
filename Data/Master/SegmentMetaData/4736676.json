@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4736676,
+      "resource_state": 3,
+      "name": "Seth Green Climb",
+      "activity_type": "Ride",
+      "distance": 457.6,
+      "average_grade": 5.0,
+      "maximum_grade": 9.4,
+      "elevation_high": 118.8,
+      "elevation_low": 95.6,
+      "start_latlng": [
+            43.183574,
+            -77.626898
+      ],
+      "end_latlng": [
+            43.186893,
+            -77.623824
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EMJG7E6OIMTEGJILH5W4R2E3KX6GH26ZME56DYRI663P7CIE27S54IQCYMIH6ANMJQKLWMVTU26SRO3R2JGQ====",
+      "start_latitude": 43.183574,
+      "start_longitude": -77.626898,
+      "end_latitude": 43.186893,
+      "end_longitude": -77.623824,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-07-15T03:04:24Z",
+      "updated_at": "2021-05-15T02:13:32Z",
+      "total_elevation_gain": 23.2,
+      "map": {
+            "id": "s4736676",
+            "polyline": "ihqfGboxxMyE_Bk@a@s@qAm@g@_@Q[Ui@w@c@cAU]cAs@kAsB",
+            "resource_state": 3
+      },
+      "effort_count": 149,
+      "athlete_count": 51,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:15",
+            "qom": "2:29",
+            "destination": {
+                  "href": "strava://segments/4736676/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

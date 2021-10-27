@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1452554,
+      "resource_state": 3,
+      "name": "Cobbs Hill Dr from Highland Ave to Beckwith Ter",
+      "activity_type": "Ride",
+      "distance": 487.844,
+      "average_grade": 1.7,
+      "maximum_grade": 18.2,
+      "elevation_high": 125.5,
+      "elevation_low": 108.5,
+      "start_latlng": [
+            43.13677134,
+            -77.56486249
+      ],
+      "end_latlng": [
+            43.14058381,
+            -77.56272147
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DJPUCSJ76QK7HUVQL6YMZKMBREAEHP45BL6ZYAHPGLWPXOSCPNENWKB4HLOIIWKXUO5ISAI45VRQHHMR2W4Q====",
+      "start_latitude": 43.13677134,
+      "start_longitude": -77.56486249,
+      "end_latitude": 43.14058381,
+      "end_longitude": -77.56272147,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-26T23:58:19Z",
+      "updated_at": "2021-05-17T08:03:55Z",
+      "total_elevation_gain": 33.3,
+      "map": {
+            "id": "s1452554",
+            "polyline": "ychfGlklxMYAiA@UCSD][YMk@i@_@SQWQYS_AQk@a@g@_Bi@MIc@CQEw@Mw@EQKUASGc@YG@",
+            "resource_state": 3
+      },
+      "effort_count": 733,
+      "athlete_count": 231,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "42s",
+            "qom": "1:12",
+            "destination": {
+                  "href": "strava://segments/1452554/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 89299209,
+            "title": "Jeffrey Rayfield",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89299209/21462008/2/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/1452554/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25315310,
+      "resource_state": 3,
+      "name": "High Acres Main Lot > Perinton Pkwy",
+      "activity_type": "Ride",
+      "distance": 849.6,
+      "average_grade": -0.8,
+      "maximum_grade": 2.2,
+      "elevation_high": 78.4,
+      "elevation_low": 71.2,
+      "start_latlng": [
+            43.093728,
+            -77.387041
+      ],
+      "end_latlng": [
+            43.087136,
+            -77.386998
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DADJHFXV5VKG7UNE4QCTTR4BKK77OK5UGGVP656Q27TFD6RIJKHB4W2WVCSDSA7GCHI4YA46P3QH4PBKJUZQ====",
+      "start_latitude": 43.093728,
+      "start_longitude": -77.387041,
+      "end_latitude": 43.087136,
+      "end_longitude": -77.386998,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-08-14T16:55:28Z",
+      "updated_at": "2021-05-15T02:25:08Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s25315310",
+            "polyline": "wv_fG`tiwMHEHAbBVZ@pAY`CKLGJMN]TKd@?f@DfB?l@Ch@M^WHAH?RPf@QRBf@XlAJ`@Pb@FHEd@e@VIFIDKJwAJYPMHNt@bBj@z@bAfA",
+            "resource_state": 3
+      },
+      "effort_count": 221,
+      "athlete_count": 63,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:56",
+            "qom": "3:56",
+            "destination": {
+                  "href": "strava://segments/25315310/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 52625011,
+            "title": "Matt Lindquist",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/52625011/15129299/16/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/25315310/local_legend?categories%5B%5D=overall"
+      }
 }

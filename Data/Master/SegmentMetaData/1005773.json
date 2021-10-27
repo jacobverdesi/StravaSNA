@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1005773,
+      "resource_state": 3,
+      "name": "Wilson Blvd Short Climb",
+      "activity_type": "Ride",
+      "distance": 299.13,
+      "average_grade": 2.5,
+      "maximum_grade": 5.2,
+      "elevation_high": 168.2,
+      "elevation_low": 160.6,
+      "start_latlng": [
+            43.12563981860876,
+            -77.63133242726326
+      ],
+      "end_latlng": [
+            43.1281001586467,
+            -77.6325963344425
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/H4HNXYY5LBZD5RTYK7YV6MC7CP7QY3OYGAZ7HXBIMMN26D3KFQX6HHAKLTUIA2LXVDA45BHL6L735A5KXHXA4===",
+      "start_latitude": 43.12563981860876,
+      "start_longitude": -77.63133242726326,
+      "end_latitude": 43.1281001586467,
+      "end_longitude": -77.6325963344425,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-02-19T19:55:37Z",
+      "updated_at": "2021-05-20T08:02:08Z",
+      "total_elevation_gain": 7.6,
+      "map": {
+            "id": "s1005773",
+            "polyline": "g~efGzjyxMcAHeANm@X{@h@wAt@_C|A_@H",
+            "resource_state": 3
+      },
+      "effort_count": 6077,
+      "athlete_count": 881,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "19s",
+            "qom": "29s",
+            "destination": {
+                  "href": "strava://segments/1005773/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "64 efforts in the last 90 days",
+            "effort_count": "64",
+            "effort_counts": {
+                  "overall": "64 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/1005773/local_legend?categories%5B%5D=overall"
+      }
 }

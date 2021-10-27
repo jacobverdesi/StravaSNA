@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7424778,
+      "resource_state": 3,
+      "name": "* RED RAIDER 3 HARTS DOUBLE POLE  HILL *",
+      "activity_type": "Ride",
+      "distance": 496.3,
+      "average_grade": 3.1,
+      "maximum_grade": 8.7,
+      "elevation_high": 171.0,
+      "elevation_low": 155.6,
+      "start_latlng": [
+            43.080511,
+            -77.412231
+      ],
+      "end_latlng": [
+            43.080599,
+            -77.40615
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JRSCLAVGRDPSRDAGCBHO6YZAXS6YAFZ7LQ3QEJB746QIVNTEAD2FNK4RYSRD765YLPE2XE53I5RPIXQGBR7A====",
+      "start_latitude": 43.080511,
+      "start_longitude": -77.412231,
+      "end_latitude": 43.080599,
+      "end_longitude": -77.40615,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-13T23:59:26Z",
+      "updated_at": "2021-05-15T02:15:11Z",
+      "total_elevation_gain": 15.4,
+      "map": {
+            "id": "s7424778",
+            "polyline": "ed}eGnqnwMEkGIsB?iCCw@DiC@qBBaAGqC?oD",
+            "resource_state": 3
+      },
+      "effort_count": 70,
+      "athlete_count": 22,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "57s",
+            "qom": "1:57",
+            "destination": {
+                  "href": "strava://segments/7424778/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 44299330,
+            "title": "dougpalleschi1@gmail.com Palleschi",
+            "profile": "https://lh4.googleusercontent.com/-TVTwo6iUd4U/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reJFVIgA-KyW_U9Xn-CPSP5Eg2bMw/photo.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/7424778/local_legend?categories%5B%5D=overall"
+      }
 }

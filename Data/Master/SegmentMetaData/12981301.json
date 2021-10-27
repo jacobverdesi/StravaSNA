@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 12981301,
+      "resource_state": 3,
+      "name": "Up cobbs hill - brighton side",
+      "activity_type": "Ride",
+      "distance": 695.1,
+      "average_grade": 1.7,
+      "maximum_grade": 4.7,
+      "elevation_high": 162.8,
+      "elevation_low": 151.2,
+      "start_latlng": [
+            43.130946,
+            -77.56958
+      ],
+      "end_latlng": [
+            43.13577,
+            -77.574989
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6U6IYL42CU4S2HGABBB42JNWPVJ4Q7FV4FJ2TUQLGO3KTPTX3J533KB3CGIQN6CK2THE5MLN7C7PCDUWYU7Q====",
+      "start_latitude": 43.130946,
+      "start_longitude": -77.56958,
+      "end_latitude": 43.13577,
+      "end_longitude": -77.574989,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-08-22T20:49:18Z",
+      "updated_at": "2021-05-15T02:18:22Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s12981301",
+            "polyline": "k_gfGzhmxMw@x@]b@i@d@{BnCmAnAuAbBc@p@sCzCiE`Fi@n@Yd@_@\\a@h@URGN",
+            "resource_state": 3
+      },
+      "effort_count": 1627,
+      "athlete_count": 480,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "40s",
+            "qom": "1:23",
+            "destination": {
+                  "href": "strava://segments/12981301/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 41063427,
+            "title": "Adym Flowerday",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/41063427/11892996/4/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/12981301/local_legend?categories%5B%5D=overall"
+      }
 }

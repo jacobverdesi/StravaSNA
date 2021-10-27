@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1437356,
+      "resource_state": 3,
+      "name": "Up Cobb's Hill using right dirt path",
+      "activity_type": "Ride",
+      "distance": 176.42,
+      "average_grade": 12.6,
+      "maximum_grade": 17.3,
+      "elevation_high": 188.5,
+      "elevation_low": 166.3,
+      "start_latlng": [
+            43.13738747,
+            -77.57687613
+      ],
+      "end_latlng": [
+            43.13753477,
+            -77.57474498
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/P7JSSZUTYI7BYGSFCAEXLTG2KB5ULQLT6JU6DEWIS2GRJVVAAS5XAKRLJ34C3WP6FMKSH3OESUOJITC5ZIJOQ===",
+      "start_latitude": 43.13738747,
+      "start_longitude": -77.57687613,
+      "end_latitude": 43.13753477,
+      "end_longitude": -77.57474498,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-05-24T02:44:19Z",
+      "updated_at": "2021-05-15T02:12:04Z",
+      "total_elevation_gain": 22.22,
+      "map": {
+            "id": "s1437356",
+            "polyline": "sghfGnvnxMIYCO?g@CeAEe@BgD?WIk@",
+            "resource_state": 3
+      },
+      "effort_count": 1677,
+      "athlete_count": 242,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "24s",
+            "qom": "43s",
+            "destination": {
+                  "href": "strava://segments/1437356/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2374516,
+            "title": "Lynn Bianco Murphy",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2374516/3382524/2/large.jpg",
+            "effort_description": "14 efforts in the last 90 days",
+            "effort_count": "14",
+            "effort_counts": {
+                  "overall": "14 efforts",
+                  "female": "14 efforts"
+            },
+            "destination": "strava://segments/1437356/local_legend?categories%5B%5D=overall"
+      }
 }

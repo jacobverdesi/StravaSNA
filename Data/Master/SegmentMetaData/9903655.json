@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9903655,
+      "resource_state": 3,
+      "name": "Bluhm Rd",
+      "activity_type": "Ride",
+      "distance": 1584.9,
+      "average_grade": 5.1,
+      "maximum_grade": 12.9,
+      "elevation_high": 256.4,
+      "elevation_low": 176.0,
+      "start_latlng": [
+            43.048343,
+            -77.396773
+      ],
+      "end_latlng": [
+            43.048436,
+            -77.414782
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4TLWXVOGQVFG2ZZHY66YHDECPGL5K3DGDAI6JAZY7PJ6ETVAYBLZHBE5GM3KUERRQL2A5MDNYEFEYEDFIVD6O===",
+      "start_latitude": 43.048343,
+      "start_longitude": -77.396773,
+      "end_latitude": 43.048436,
+      "end_longitude": -77.414782,
+      "climb_category": 1,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-07-08T03:36:26Z",
+      "updated_at": "2021-05-17T08:05:47Z",
+      "total_elevation_gain": 80.4,
+      "map": {
+            "id": "s9903655",
+            "polyline": "c{veGzpkwMYxFG`B@xDCzE@|FEhCD~BDp@D\\f@~AP\\TTrBxDbAnCLT^~@Pt@PfA@p@A`AUrBc@`C{@jGS~C[zFe@lFW|AaAnBo@fA",
+            "resource_state": 3
+      },
+      "effort_count": 1955,
+      "athlete_count": 339,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:36",
+            "qom": "4:48",
+            "destination": {
+                  "href": "strava://segments/9903655/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5227511,
+            "title": "David Pearson",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5227511/1624725/3/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/9903655/local_legend?categories%5B%5D=overall"
+      }
 }

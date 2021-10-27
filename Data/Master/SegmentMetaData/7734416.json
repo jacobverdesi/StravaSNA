@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7734416,
+      "resource_state": 3,
+      "name": "* CRUSE TO MORGAN *",
+      "activity_type": "Ride",
+      "distance": 1584.5,
+      "average_grade": -1.3,
+      "maximum_grade": 6.9,
+      "elevation_high": 190.4,
+      "elevation_low": 170.4,
+      "start_latlng": [
+            43.03653,
+            -77.749362
+      ],
+      "end_latlng": [
+            43.050435,
+            -77.748621
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZMCAFIS2YOSZBXAJ5ZKBJUD7QKFHJCTWEHGJWFHAWP4JAKMTTWWFF76XYTAU7WFEYOVAAYFBRREX24GKX2TA====",
+      "start_latitude": 43.03653,
+      "start_longitude": -77.749362,
+      "end_latitude": 43.050435,
+      "end_longitude": -77.748621,
+      "climb_category": 0,
+      "city": "Scottsville",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-26T02:01:37Z",
+      "updated_at": "2021-05-20T08:03:05Z",
+      "total_elevation_gain": 2.4,
+      "map": {
+            "id": "s7734416",
+            "polyline": "iqteGplpyMy@l@aCrBSHSDsA?mKQ{KKqAIeADaAKqDC{GS}Jq@sBQwBOi@G}@Y_GiC",
+            "resource_state": 3
+      },
+      "effort_count": 1272,
+      "athlete_count": 250,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:50",
+            "qom": "2:01",
+            "destination": {
+                  "href": "strava://segments/7734416/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5031574,
+            "title": "Jeff Parrish",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5031574/2928002/2/large.jpg",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7734416/local_legend?categories%5B%5D=overall"
+      }
 }

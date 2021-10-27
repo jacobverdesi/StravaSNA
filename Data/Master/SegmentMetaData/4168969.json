@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4168969,
+      "resource_state": 3,
+      "name": "Empire Hill Climb - WB to Winton",
+      "activity_type": "Ride",
+      "distance": 717.9,
+      "average_grade": 6.2,
+      "maximum_grade": 16.6,
+      "elevation_high": 120.2,
+      "elevation_low": 75.5,
+      "start_latlng": [
+            43.17674,
+            -77.52916
+      ],
+      "end_latlng": [
+            43.1772,
+            -77.537705
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JR44QKVTCVFFL4ZHWUAX2HOVE5PSCNY27XIU7ZZ3MHKHTDY3I625LIZYNEKAR4RZXFAI4QOB5YBKHECLF5MQ====",
+      "start_latitude": 43.17674,
+      "start_longitude": -77.52916,
+      "end_latitude": 43.1772,
+      "end_longitude": -77.537705,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-21T03:19:23Z",
+      "updated_at": "2021-05-15T02:13:11Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s4168969",
+            "polyline": "s}ofGflexMQrASx@c@`CSnAAV[pAIl@@TAJBXAp@Ht@E^?TDfAl@dERtC?bAWvDIvBCvB@jA",
+            "resource_state": 3
+      },
+      "effort_count": 2624,
+      "athlete_count": 621,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:31",
+            "qom": "1:41",
+            "destination": {
+                  "href": "strava://segments/4168969/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 17424806,
+            "title": "Gavin /\\/\\ \u00f8 \u00f8 /|/",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/17424806/4909954/62/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                  "overall": "12 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/4168969/local_legend?categories%5B%5D=overall"
+      }
 }

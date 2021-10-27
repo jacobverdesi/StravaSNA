@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9445867,
+      "resource_state": 3,
+      "name": "Lower Monroe, inbound",
+      "activity_type": "Ride",
+      "distance": 842.7,
+      "average_grade": 0.3,
+      "maximum_grade": 3.1,
+      "elevation_high": 161.3,
+      "elevation_low": 156.0,
+      "start_latlng": [
+            43.146211,
+            -77.592993
+      ],
+      "end_latlng": [
+            43.150844,
+            -77.601059
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AHQO3G466XLHHRRWPKMO6LHZEBFHHPT7LRMNIO5EIZWMH4TCOG5ZWGK6VJHZZA6S2FNWDAYQ2TATWAE6EBL3G===",
+      "start_latitude": 43.146211,
+      "start_longitude": -77.592993,
+      "end_latitude": 43.150844,
+      "end_longitude": -77.601059,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-05-09T18:07:47Z",
+      "updated_at": "2021-05-18T08:03:57Z",
+      "total_elevation_gain": 5.3,
+      "map": {
+            "id": "s9445867",
+            "polyline": "y~ifGf{qxM[l@c@~@y@pAGRBFYl@k@z@]t@On@QVs@~AaAfBYr@Mh@KLs@jA_B`DqBnEaAfBIJOXO|@O\\aAdBQf@Y\\",
+            "resource_state": 3
+      },
+      "effort_count": 1905,
+      "athlete_count": 378,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:05",
+            "qom": "2:07",
+            "destination": {
+                  "href": "strava://segments/9445867/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62671882,
+            "title": "Luke Homerin",
+            "profile": "https://graph.facebook.com/10101761007119576/picture?height=256&width=256",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/9445867/local_legend?categories%5B%5D=overall"
+      }
 }

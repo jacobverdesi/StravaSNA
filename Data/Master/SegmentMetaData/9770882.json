@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9770882,
+      "resource_state": 3,
+      "name": "Churchville Stretch",
+      "activity_type": "Ride",
+      "distance": 2429.9,
+      "average_grade": -0.9,
+      "maximum_grade": 4.7,
+      "elevation_high": 192.0,
+      "elevation_low": 168.6,
+      "start_latlng": [
+            43.070101,
+            -77.884047
+      ],
+      "end_latlng": [
+            43.091922,
+            -77.884628
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/I7TBMYNLANX3CRAEA73A44Y63EMX5UFHPWQDXD2253NESKZEW4C2IYTREZ67POK4FROHJ4IXOIXZRU4ERZBA====",
+      "start_latitude": 43.070101,
+      "start_longitude": -77.884047,
+      "end_latitude": 43.091922,
+      "end_longitude": -77.884628,
+      "climb_category": 0,
+      "city": "Churchville",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-20T15:46:44Z",
+      "updated_at": "2021-05-15T02:16:34Z",
+      "total_elevation_gain": 12.5,
+      "map": {
+            "id": "s9770882",
+            "polyline": "cc{eGhvjzM{BHmB@}JVmA?aEDUAkCNo@?aADwFDkBDq@CqADyB?uAD}D@cAAWBgB@_@G]?OByB@o@BsA?uFFwC@yA?QC_E@W@kA?u@Ba@AOB_FJe@CcDBeBE}HDe@A",
+            "resource_state": 3
+      },
+      "effort_count": 748,
+      "athlete_count": 177,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:56",
+            "qom": "3:38",
+            "destination": {
+                  "href": "strava://segments/9770882/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 76664132,
+            "title": "Wes Coleman",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/76664132/21506356/1/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/9770882/local_legend?categories%5B%5D=overall"
+      }
 }

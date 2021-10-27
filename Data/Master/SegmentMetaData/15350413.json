@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15350413,
+      "resource_state": 3,
+      "name": "Pier 1 Imports",
+      "activity_type": "Ride",
+      "distance": 858.9,
+      "average_grade": -0.1,
+      "maximum_grade": 0.6,
+      "elevation_high": 75.2,
+      "elevation_low": 74.0,
+      "start_latlng": [
+            43.25744,
+            -77.604854
+      ],
+      "end_latlng": [
+            43.263874,
+            -77.599033
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XJ5P4GMI43BCAY4EZ5V4SJUTYCRKS5X4TEWLL4WLOA5WQLYPNOFPRZY7NTAL6SXLFLO3VD2W5HIRN5CQ4SKIE===",
+      "start_latitude": 43.25744,
+      "start_longitude": -77.604854,
+      "end_latitude": 43.263874,
+      "end_longitude": -77.599033,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-07-06T13:42:08Z",
+      "updated_at": "2021-05-17T08:07:02Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s15350413",
+            "polyline": "_v_gGjetxMgBgBMEuAmAiFgEaA_Aa@[aA}@oAwAs@k@QG_@a@u@g@gCcCeBuAmBkBk@a@u@o@",
+            "resource_state": 3
+      },
+      "effort_count": 2325,
+      "athlete_count": 664,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:11",
+            "qom": "1:52",
+            "destination": {
+                  "href": "strava://segments/15350413/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 384606,
+            "title": "Doug DeWeaver",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/384606/1206574/2/large.jpg",
+            "effort_description": "13 efforts in the last 90 days",
+            "effort_count": "13",
+            "effort_counts": {
+                  "overall": "13 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/15350413/local_legend?categories%5B%5D=overall"
+      }
 }

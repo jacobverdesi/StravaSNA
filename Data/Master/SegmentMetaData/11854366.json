@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 11854366,
+      "resource_state": 3,
+      "name": "RF+C Climb",
+      "activity_type": "Ride",
+      "distance": 1446.7,
+      "average_grade": 3.9,
+      "maximum_grade": 11.6,
+      "elevation_high": 135.3,
+      "elevation_low": 78.8,
+      "start_latlng": [
+            43.147262,
+            -77.518164
+      ],
+      "end_latlng": [
+            43.142602,
+            -77.529032
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GMUPJFE56M427ESQQJGZ5RJCM6MHRS4TS2LROGIIOIL7FCUYWNRJP3FRPYES74AEFFFCZBI33J6YWDIIQ762G===",
+      "start_latitude": 43.147262,
+      "start_longitude": -77.518164,
+      "end_latitude": 43.142602,
+      "end_longitude": -77.529032,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-04-19T01:11:22Z",
+      "updated_at": "2021-05-15T02:17:44Z",
+      "total_elevation_gain": 56.5,
+      "map": {
+            "id": "s11854366",
+            "polyline": "kejfGpgcxMd@tAXbBVpDHl@v@pJAr@E\\KR{@hAYj@M`@Gl@a@tAm@rAEPk@p@a@p@Yr@EXAp@Hv@r@`Dn@lBJh@B\\A`AFZHJNHh@HjDNbGJxFf@rANf@Jd@Pz@d@",
+            "resource_state": 3
+      },
+      "effort_count": 2152,
+      "athlete_count": 394,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:16",
+            "qom": "3:55",
+            "destination": {
+                  "href": "strava://segments/11854366/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 4554924,
+            "title": "Jed Crawford",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/4554924/3967623/9/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "7 efforts"
+            },
+            "destination": "strava://segments/11854366/local_legend?categories%5B%5D=overall"
+      }
 }

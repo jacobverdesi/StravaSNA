@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8467099,
+      "resource_state": 3,
+      "name": "* SWEET FERN ROLLER-COASTER *",
+      "activity_type": "Ride",
+      "distance": 1016.2,
+      "average_grade": -2.8,
+      "maximum_grade": 0.3,
+      "elevation_high": 93.2,
+      "elevation_low": 64.4,
+      "start_latlng": [
+            43.227799,
+            -77.54835
+      ],
+      "end_latlng": [
+            43.233415,
+            -77.553764
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YTCMNDKTNIAHJ7CEDZX4CVWSUF3D3AV3GA6ZECEOBYHCKEWWVMPCCM46NPH36IWMS5PIENT5CLMVFWPMYBHA====",
+      "start_latitude": 43.227799,
+      "start_longitude": -77.54835,
+      "end_latitude": 43.233415,
+      "end_longitude": -77.553764,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-11-06T02:16:53Z",
+      "updated_at": "2021-05-17T08:05:26Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s8467099",
+            "polyline": "u|yfGddixMGxABrADv@LlEF|GIz@Mr@MTa@b@i@Rk@LW@aA?eA@m@Jo@Vo@h@cBdDu@jASTULYH[Dm@Mi@W_B_@i@SsE_C",
+            "resource_state": 3
+      },
+      "effort_count": 3515,
+      "athlete_count": 550,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:04",
+            "qom": "1:23",
+            "destination": {
+                  "href": "strava://segments/8467099/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 14149986,
+            "title": "Joe Falvo",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "32 efforts in the last 90 days",
+            "effort_count": "32",
+            "effort_counts": {
+                  "overall": "32 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/8467099/local_legend?categories%5B%5D=overall"
+      }
 }

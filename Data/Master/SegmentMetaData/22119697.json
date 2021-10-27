@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 22119697,
+      "resource_state": 3,
+      "name": "view up the creek",
+      "activity_type": "Ride",
+      "distance": 1412.7,
+      "average_grade": 1.3,
+      "maximum_grade": 11.3,
+      "elevation_high": 99.2,
+      "elevation_low": 78.9,
+      "start_latlng": [
+            43.132291,
+            -77.498216
+      ],
+      "end_latlng": [
+            43.127399,
+            -77.484925
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SYRNUDLLBMQE6BWJNHRPV5J5Z5ZO2WEBSS63NPMVHAYG52CHBKGWTNOEWKMIVEAFZW2OWLSNOTSL3L6FUIMDA===",
+      "start_latitude": 43.132291,
+      "start_longitude": -77.498216,
+      "end_latitude": 43.127399,
+      "end_longitude": -77.484925,
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-10-22T17:21:17Z",
+      "updated_at": "2021-05-15T02:24:01Z",
+      "total_elevation_gain": 20.3,
+      "map": {
+            "id": "s22119697",
+            "polyline": "yggfGzj_xMXa@z@s@Ho@EMFGHBP@FIPEVa@Je@D?HWFo@JYLi@Ri@LQVs@HMFAJMFCJ_@@STk@BSJYDBHSBO@a@DSRc@De@J[BUDGDa@DIH}@JY^k@FG\\gAT_@z@i@P[?IH]PSBc@Pa@Jg@RYPOFQJG^@GDDBdAAj@KLBZEK{@?i@DkACMIYE_@Ay@QeA@KEYIwBJaA\\iAF_@Tc@@OBeAKi@AQFkAEmBRa@@KSs@",
+            "resource_state": 3
+      },
+      "effort_count": 360,
+      "athlete_count": 98,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:46",
+            "qom": "4:28",
+            "destination": {
+                  "href": "strava://segments/22119697/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 7759370,
+            "title": "Mike Kaseman",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/7759370/7722621/27/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/22119697/local_legend?categories%5B%5D=overall"
+      }
 }

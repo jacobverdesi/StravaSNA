@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1616276,
+      "resource_state": 3,
+      "name": "double ridge climb",
+      "activity_type": "Ride",
+      "distance": 269.792,
+      "average_grade": 10.6,
+      "maximum_grade": 30.3,
+      "elevation_high": 142.2,
+      "elevation_low": 113.6,
+      "start_latlng": [
+            43.1634836923331,
+            -77.53028523176908
+      ],
+      "end_latlng": [
+            43.16175442188978,
+            -77.5323567353189
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZNFEOF6KG73EPIGH77EQZERSJFBBH57TJYO5C3ZKCLPDXIKKREXGB7L7UC666SMKI5EYJOJZQEKLOOKGETNR6===",
+      "start_latitude": 43.1634836923331,
+      "start_longitude": -77.53028523176908,
+      "end_latitude": 43.16175442188978,
+      "end_longitude": -77.5323567353189,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-06-23T15:45:47Z",
+      "updated_at": "2021-05-18T08:02:46Z",
+      "total_elevation_gain": 28.6,
+      "map": {
+            "id": "s1616276",
+            "polyline": "wjmfGhsexMRb@JDFJTt@LNjAt@NRLd@Hj@V^NH\\DPJN@FBh@bA",
+            "resource_state": 3
+      },
+      "effort_count": 2135,
+      "athlete_count": 465,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:08",
+            "qom": "2:05",
+            "destination": {
+                  "href": "strava://segments/1616276/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 10276549,
+            "title": "Daniel Stark",
+            "profile": "https://graph.facebook.com/1041027975921271/picture?height=256&width=256",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1616276/local_legend?categories%5B%5D=overall"
+      }
 }

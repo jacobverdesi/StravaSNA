@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8309307,
+      "resource_state": 3,
+      "name": "* ANOTHER HALF MILE OF HURT *",
+      "activity_type": "Ride",
+      "distance": 694.1,
+      "average_grade": 0.7,
+      "maximum_grade": 6.5,
+      "elevation_high": 137.2,
+      "elevation_low": 132.6,
+      "start_latlng": [
+            43.088537,
+            -77.414811
+      ],
+      "end_latlng": [
+            43.087281,
+            -77.406608
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IMMIAZSCK2JUGJFWQ5AFO5ZHZX33IXUBLFE76R5WW5UGD6PEZE6WEDCNCVUXEBLV3HUHXFLSS574SUOL35RB2===",
+      "start_latitude": 43.088537,
+      "start_longitude": -77.414811,
+      "end_latitude": 43.087281,
+      "end_longitude": -77.406608,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-10-09T20:51:07Z",
+      "updated_at": "2021-05-20T08:03:11Z",
+      "total_elevation_gain": 4.6,
+      "map": {
+            "id": "s8309307",
+            "polyline": "iv~eGraowMA_CT{EDsA?wCKgEBm@`@{Cr@oCvBwKXgB",
+            "resource_state": 3
+      },
+      "effort_count": 149,
+      "athlete_count": 40,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "59s",
+            "qom": "1:31",
+            "destination": {
+                  "href": "strava://segments/8309307/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16754430,
+            "title": "Andrew Wroblewski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/16754430/4701153/3/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/8309307/local_legend?categories%5B%5D=overall"
+      }
 }

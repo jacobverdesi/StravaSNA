@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7107118,
+      "resource_state": 3,
+      "name": "Plank to Embury",
+      "activity_type": "Ride",
+      "distance": 1527.4,
+      "average_grade": 0.6,
+      "maximum_grade": 4.1,
+      "elevation_high": 163.6,
+      "elevation_low": 151.1,
+      "start_latlng": [
+            43.181784,
+            -77.474818
+      ],
+      "end_latlng": [
+            43.168042,
+            -77.47504
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IPWGCYA7XM6CP46CIMKAUHF73IALNQOFZXJAF6Q5M2UN6V3RW6RX6MLNH4OIOW6KFKNXLOVITRXDKWW4TIPAK===",
+      "start_latitude": 43.181784,
+      "start_longitude": -77.474818,
+      "end_latitude": 43.168042,
+      "end_longitude": -77.47504,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-04-29T00:24:02Z",
+      "updated_at": "2021-05-20T08:02:57Z",
+      "total_elevation_gain": 13.9,
+      "map": {
+            "id": "s7107118",
+            "polyline": "c}pfGrxzwMxP?to@\\jRN",
+            "resource_state": 3
+      },
+      "effort_count": 1975,
+      "athlete_count": 458,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:58",
+            "qom": "2:37",
+            "destination": {
+                  "href": "strava://segments/7107118/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5074395,
+            "title": "Jimmy Rossi",
+            "profile": "https://graph.facebook.com/749044671/picture?height=256&width=256",
+            "effort_description": "19 efforts in the last 90 days",
+            "effort_count": "19",
+            "effort_counts": {
+                  "overall": "19 efforts",
+                  "female": "11 efforts"
+            },
+            "destination": "strava://segments/7107118/local_legend?categories%5B%5D=overall"
+      }
 }

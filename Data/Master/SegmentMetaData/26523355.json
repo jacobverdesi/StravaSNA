@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26523355,
+      "resource_state": 3,
+      "name": "Thayer Rd To Thayer Hill Climb",
+      "activity_type": "Ride",
+      "distance": 378.8,
+      "average_grade": 11.2,
+      "maximum_grade": 23.9,
+      "elevation_high": 217.2,
+      "elevation_low": 174.6,
+      "start_latlng": [
+            43.062692,
+            -77.413205
+      ],
+      "end_latlng": [
+            43.063003,
+            -77.416272
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YAXFBVYU5NQINN3HYQHONBFOAXS4OLPV3OQSNGCRNTBTXTNQVP3WHW43P2NYKPAO7GDT2NK5JALWCSPGIA4PG===",
+      "start_latitude": 43.062692,
+      "start_longitude": -77.413205,
+      "end_latitude": 43.063003,
+      "end_longitude": -77.416272,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-11-23T13:38:14Z",
+      "updated_at": "2021-05-15T02:25:33Z",
+      "total_elevation_gain": 42.6,
+      "map": {
+            "id": "s26523355",
+            "polyline": "ytyeGpwnwMAHAzADVFLPPfB`AJ\\NjANZB\\CNOD[\\a@Jk@\\e@XMP_@VKNKVGV",
+            "resource_state": 3
+      },
+      "effort_count": 52,
+      "athlete_count": 18,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:14",
+            "qom": null,
+            "destination": {
+                  "href": "strava://segments/26523355/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 36905943,
+            "title": "Nate Sonneville",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/36905943/13042340/4/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": null
+            },
+            "destination": "strava://segments/26523355/local_legend?categories%5B%5D=overall"
+      }
 }

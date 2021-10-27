@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 15993932,
+      "resource_state": 3,
+      "name": "IMBA down and over",
+      "activity_type": "Ride",
+      "distance": 622.4,
+      "average_grade": -5.4,
+      "maximum_grade": 21.1,
+      "elevation_high": 122.0,
+      "elevation_low": 84.2,
+      "start_latlng": [
+            43.167709,
+            -77.537793
+      ],
+      "end_latlng": [
+            43.170112,
+            -77.534138
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IUERH67S3XXFFPM3XQKZ5X6IADI5GDMVNVSXKZNIVDRTM4M4XZGVYR5B7VIADRGXGQM5MGWZ2YST6UVSXCGA====",
+      "start_latitude": 43.167709,
+      "start_longitude": -77.537793,
+      "end_latitude": 43.170112,
+      "end_longitude": -77.534138,
+      "climb_category": 0,
+      "city": "Irondequoit",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-09-10T20:45:49Z",
+      "updated_at": "2021-05-19T08:04:17Z",
+      "total_elevation_gain": 2.6,
+      "map": {
+            "id": "s15993932",
+            "polyline": "cenfGfbgxMUBORQNQGCIMMm@AWNa@HGJIBk@IYMY?[Fo@Ba@KQ_@c@M{@a@Y]Um@MQCQ@qAL}@ZsARuAJc@N_@TkAB]Ai@@a@",
+            "resource_state": 3
+      },
+      "effort_count": 11068,
+      "athlete_count": 942,
+      "star_count": 13,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:10",
+            "qom": "1:44",
+            "destination": {
+                  "href": "strava://segments/15993932/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 62615463,
+            "title": "Dave Tasber",
+            "profile": "https://graph.facebook.com/10102801878205695/picture?height=256&width=256",
+            "effort_description": "24 efforts in the last 90 days",
+            "effort_count": "24",
+            "effort_counts": {
+                  "overall": "24 efforts",
+                  "female": "8 efforts"
+            },
+            "destination": "strava://segments/15993932/local_legend?categories%5B%5D=overall"
+      }
 }

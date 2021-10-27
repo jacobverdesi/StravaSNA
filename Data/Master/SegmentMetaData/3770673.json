@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 3770673,
+      "resource_state": 3,
+      "name": "To RIT observatory",
+      "activity_type": "Ride",
+      "distance": 1237.1,
+      "average_grade": 0.9,
+      "maximum_grade": 7.1,
+      "elevation_high": 170.8,
+      "elevation_low": 158.3,
+      "start_latlng": [
+            43.08263935,
+            -77.65939929
+      ],
+      "end_latlng": [
+            43.07249058,
+            -77.66511685
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4CGQTNJWPLB5XZQR5YONHNUNIIB4BBWLY6V6NSD26J2GHVDVVTWSTAXXUELDMQ4GMFJEX3IRQCYQMDOCUBBFW===",
+      "start_latitude": 43.08263935,
+      "start_longitude": -77.65939929,
+      "end_latitude": 43.07249058,
+      "end_longitude": -77.66511685,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-04-06T21:09:10Z",
+      "updated_at": "2021-05-20T08:02:27Z",
+      "total_elevation_gain": 12.5006,
+      "map": {
+            "id": "s3770673",
+            "polyline": "mq}eGfz~xMfCnAl@P~CbB~FlCj@\\`IrDTN^N\\RdAb@`@T`CfAl@ZvAn@XH^Vb@LxAt@tBz@lAn@\\TXHz@d@`Bt@RPBE?GEA",
+            "resource_state": 3
+      },
+      "effort_count": 3032,
+      "athlete_count": 681,
+      "star_count": 6,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:44",
+            "qom": "2:15",
+            "destination": {
+                  "href": "strava://segments/3770673/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 58127621,
+            "title": "shockin audrey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/58127621/14964295/1/large.jpg",
+            "effort_description": "46 efforts in the last 90 days",
+            "effort_count": "46",
+            "effort_counts": {
+                  "overall": "46 efforts",
+                  "female": "46 efforts"
+            },
+            "destination": "strava://segments/3770673/local_legend?categories%5B%5D=overall"
+      }
 }

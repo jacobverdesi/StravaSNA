@@ -1,10 +1,10 @@
 {
-      "message": "Rate Limit Exceeded",
+      "message": "Resource Not Found",
       "errors": [
             {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+                  "resource": "Segment",
+                  "field": "",
+                  "code": "not found"
             }
       ]
 }

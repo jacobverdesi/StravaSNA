@@ -1,10 +1,58 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4003954,
+      "resource_state": 3,
+      "name": "High st training loop",
+      "activity_type": "Ride",
+      "distance": 5672.7,
+      "average_grade": 0.1,
+      "maximum_grade": 11.1,
+      "elevation_high": 170.0,
+      "elevation_low": 143.0,
+      "start_latlng": [
+            43.098985,
+            -77.405961
+      ],
+      "end_latlng": [
+            43.100834,
+            -77.407212
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/K2HHBGZT2XG4NBFQIEC52HFILCUDKOY3KXUOSSQV67O7BEXDEMK6NDNZW3MDMIZ3EQUVHVD2LS6A7DO5CKUA====",
+      "start_latitude": 43.098985,
+      "start_longitude": -77.405961,
+      "end_latitude": 43.100834,
+      "end_longitude": -77.407212,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-05-04T13:47:39Z",
+      "updated_at": "2021-05-15T02:13:06Z",
+      "total_elevation_gain": 50.7,
+      "map": {
+            "id": "s4003954",
+            "polyline": "sw`fGhjmwMBB@p@FPN@dCDtC?b@@pBEbCBf@KTMXWfBmCz@}ALg@Hu@@oDBOBIJCf@Bd@APDFDAPFjJDpA?lEB`AAn@DbC?`BGxZA~BCfA?hCGfH?jAD\\EjBEX@hABf@C|@?l@OrCOjA}@|Fe@nCe@hBw@`Cy@`Bm@|@uCbFs@~@u@rAU\\q@pAKVY^aAbBk@x@}CbFu@bAkApAoAlAyAnAsA~@kCzB}CrBKJMFq@r@k@z@c@LMAWIGICM?[DsAGuA?a@BQBkAG}@@aBC}@@qBDuACuFBoBEyE?iECeABqB?oAFqAPu@`@}@La@r@sAl@wAZg@l@uAb@s@V{@Tk@rCwFv@aBp@uBNsA@kAAiCSyJ?mBCQGiCEqIEmREy@GSOM_@D",
+            "resource_state": 3
+      },
+      "effort_count": 5,
+      "athlete_count": 1,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": null,
+            "qom": "13:00",
+            "destination": {
+                  "href": "strava://segments/4003954/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": null
 }

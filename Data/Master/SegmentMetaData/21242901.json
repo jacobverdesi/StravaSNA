@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 21242901,
+      "resource_state": 3,
+      "name": "Down Wisconsin",
+      "activity_type": "Ride",
+      "distance": 857.0,
+      "average_grade": 0.1,
+      "maximum_grade": 3.3,
+      "elevation_high": 134.6,
+      "elevation_low": 131.4,
+      "start_latlng": [
+            43.163953,
+            -77.555776
+      ],
+      "end_latlng": [
+            43.156848,
+            -77.559271
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YKSVVFHBD5JJZQEH66FMZIWMESWUOAL7DTFR2ABUVMJK3V4WYCHGEEDWTOORFZ4OID2JFPTZWDXKSFOMMJYMY===",
+      "start_latitude": 43.163953,
+      "start_longitude": -77.555776,
+      "end_latitude": 43.156848,
+      "end_longitude": -77.559271,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2019-07-23T03:34:48Z",
+      "updated_at": "2021-05-17T08:08:21Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s21242901",
+            "polyline": "ummfGrrjxMZp@n@r@l@XLB\\PZHt@d@d@TH?TLTR`@Rb@LDDPHRNTFHFpBf@JAZDb@Cl@Dp@Jr@@TDdAd@TDDDx@ZJHLBHA\\RPDZPdBj@`@T|@Zb@^PBZRZL",
+            "resource_state": 3
+      },
+      "effort_count": 371,
+      "athlete_count": 102,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:24",
+            "qom": "2:11",
+            "destination": {
+                  "href": "strava://segments/21242901/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 59422156,
+            "title": "N A",
+            "profile": "https://lh3.googleusercontent.com/a-/AOh14GgWz-MAGiZMim5djIp9uvFM-q88NUHfPr1wRm6U_g",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/21242901/local_legend?categories%5B%5D=overall"
+      }
 }

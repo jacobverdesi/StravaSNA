@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1130068,
+      "resource_state": 3,
+      "name": "Calkins to Calkins Loop",
+      "activity_type": "Ride",
+      "distance": 15087.6,
+      "average_grade": -0.0,
+      "maximum_grade": 8.7,
+      "elevation_high": 226.1,
+      "elevation_low": 177.6,
+      "start_latlng": [
+            43.06614636913228,
+            -77.52956832766303
+      ],
+      "end_latlng": [
+            43.067814451682445,
+            -77.54937409430514
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EUY4BF6RPRV73IKFNKUKWIQSV36MMGLUKITPEYRNTDGFMAPOL5CJAF5CZLMONIEEGOKNDLKDR2FACMFKKNU7U===",
+      "start_latitude": 43.06614636913228,
+      "start_longitude": -77.52956832766303,
+      "end_latitude": 43.067814451682445,
+      "end_longitude": -77.54937409430514,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-03-24T21:36:12Z",
+      "updated_at": "2021-05-15T02:11:55Z",
+      "total_elevation_gain": 189.774,
+      "map": {
+            "id": "s1130068",
+            "polyline": "kjzeGxnexMd@JhAd@dAf@j@Rj@Xf@RrD|@pAr@rAVd@Rb@Z`@P~CfAlAf@dBl@^HZPXDj@^`A^r@HZRn@JjBRTFl@Dp@Pp@BzAXv@RpC\\f@Bf@HfCj@r@JzAZr@VpFrClAz@d@VXR^LVNh@`@f@b@p@b@XNp@VzA~@^LrBfAf@Rf@d@vEbCx@l@bC|AhAj@~@j@`ClA|@l@vBfAxClAf@PjB\\~AVb@PrA^dCb@f@Fh@RpAHf@ErAAd@G`@K|ADp@An@Gl@DhAIn@KnAGrCEh@@vBf@nBbA`DzAf@P`@HVJp@v@Ld@F`@?h@PtBT|E@l@AbBJd@Dn@R^Px@XlBFp@SlA[`A]|@SpAKfB?vCG~D@|CIpA@jADvAA~ADdBMlERbBd@hAj@R`AMtEGvDMv@F|C?x@EvA@jACl@@jAEX?f@BXHvA|@l@dAdAtAv@p@t@h@xA`Bp@j@t@`@j@Hp@Rz@b@~A~A`@r@|@~B`C`Eh@tAr@~@tAtCd@`Bf@nAl@hAx@z@bCHbAR|@f@|@|@p@n@z@NfDb@tAFTD^It@GdB@n@Ep@@f@EnAB`@B`@Ph@d@Zz@EvCP`BMvAWzAMrAY|AIlAMjA[hA]z@k@|@qG`Do@`@i@Vc@Zg@Ta@j@q@`@u@l@_DvBm@Rq@Lq@T}@Fq@Py@\\m@j@_@t@WdAw@nB_@z@]z@o@rA{@jCk@dAm@x@GlB?b@EjBDlBA~@FhCGlA@~A@pAd@|E?|AE`AQt@[l@c@@c@Eg@Wo@e@w@[eBc@o@Ss@[o@c@s@a@m@S_B}@k@Uo@_@{BoAmB_AiAg@_AU[Sc@MyB_Ag@WyD{AoBe@eDeAu@[}Bs@_A]u@Uk@Mu@]}Ao@w@Us@_@o@Wm@Im@YyA_@}Am@_@Ug@e@uBiAoCkCwCwBiAgAi@c@_BaBuAgAm@o@k@_@gBeBoCeCa@e@c@Wi@c@sCiCuB}BuAiA}AeBo@g@q@_@}@q@{BsA{@m@aAg@sB}AmEsCo@c@m@k@g@o@o@o@m@q@oEcG_@m@k@k@aAsA_BmBcAsAiB}Bi@c@_DsEyDmEwA{Bg@i@mA_BcAiAYe@]Ye@c@a@g@cA}@mE_FyBsBmAyAuAiAqAyAaCwBmAqAcC}ByAmA_B{Am@m@aBmAwBkAyFoBuB{@oBk@w@Mq@GgB[",
+            "resource_state": 3
+      },
+      "effort_count": 333,
+      "athlete_count": 95,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "26:05",
+            "qom": "31:48",
+            "destination": {
+                  "href": "strava://segments/1130068/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9559280,
+            "title": "Michael Smith",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9559280/2886278/23/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1130068/local_legend?categories%5B%5D=overall"
+      }
 }

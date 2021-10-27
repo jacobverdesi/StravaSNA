@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 8817818,
+      "resource_state": 3,
+      "name": "* VALE-BAKE TO OLD BARN *",
+      "activity_type": "Ride",
+      "distance": 1745.2,
+      "average_grade": 5.6,
+      "maximum_grade": 22.5,
+      "elevation_high": 263.8,
+      "elevation_low": 166.2,
+      "start_latlng": [
+            43.027436,
+            -77.408841
+      ],
+      "end_latlng": [
+            43.036525,
+            -77.422444
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VSY2PPBYQ6C7LGK6WOYTBLW5JKW32VOQBSIL7YNQNOEEPPCBOOWK7VZ5XNQKY23TN6KQTEXIIBXUK44EK5IEU===",
+      "start_latitude": 43.027436,
+      "start_longitude": -77.408841,
+      "end_latitude": 43.036525,
+      "end_longitude": -77.422444,
+      "climb_category": 1,
+      "city": "Victor",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-01-23T23:57:24Z",
+      "updated_at": "2021-05-19T08:03:08Z",
+      "total_elevation_gain": 97.6,
+      "map": {
+            "id": "s8817818",
+            "polyline": "mxreGh|mwME^CrEIzAObFSbFGr@YdByAlKQ~@IbAEv@@x@Bz@JfACj@KJe@JY@g@HQ@ODo@FIA{@Dk@NUJUFIFk@T_@RgAf@a@L_Ah@g@^aBz@_A^_AVYT[b@[vAO\\W\\[LeA@{@DYDq@PUNKLo@fAq@xAsBfB_@Tk@F{@I",
+            "resource_state": 3
+      },
+      "effort_count": 1507,
+      "athlete_count": 252,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:08",
+            "qom": "5:47",
+            "destination": {
+                  "href": "strava://segments/8817818/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 399187,
+            "title": "Sfs Gd",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                  "overall": "6 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/8817818/local_legend?categories%5B%5D=overall"
+      }
 }

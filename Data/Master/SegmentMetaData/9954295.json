@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9954295,
+      "resource_state": 3,
+      "name": "65 - Elmwood to Monroe",
+      "activity_type": "Ride",
+      "distance": 1701.0,
+      "average_grade": -0.1,
+      "maximum_grade": 8.1,
+      "elevation_high": 142.7,
+      "elevation_low": 135.2,
+      "start_latlng": [
+            43.126543,
+            -77.547133
+      ],
+      "end_latlng": [
+            43.111444,
+            -77.547844
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZNJQEWD2KFG7EMSRXOYHOH7AGGCFUFWSZRO4XRGGAZV2GGKUIBDZOION5XIGVW37FV22WFGDYSO2ZDD6IXPA====",
+      "start_latitude": 43.126543,
+      "start_longitude": -77.547133,
+      "end_latitude": 43.111444,
+      "end_longitude": -77.547844,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-07-14T14:56:36Z",
+      "updated_at": "2021-05-20T08:03:28Z",
+      "total_elevation_gain": 9.1,
+      "map": {
+            "id": "s9954295",
+            "polyline": "{cffGr|hxMbAd@P?j@Tf@Vx@\\pAr@|@ZZPN@v@ZbBTPAhABtAEdAAjCQnACjAIL@v@EX@nAGv@AvABj@C^E`CAnAGbA?~BGtDA\\Cx@@fCCx@?XCbCEhCOl@@vBG~@@nAA^G",
+            "resource_state": 3
+      },
+      "effort_count": 7746,
+      "athlete_count": 765,
+      "star_count": 9,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:32",
+            "qom": "2:42",
+            "destination": {
+                  "href": "strava://segments/9954295/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 41892149,
+            "title": "Greg nagy",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/41892149/12013341/3/large.jpg",
+            "effort_description": "24 efforts in the last 90 days",
+            "effort_count": "24",
+            "effort_counts": {
+                  "overall": "24 efforts",
+                  "female": "16 efforts"
+            },
+            "destination": "strava://segments/9954295/local_legend?categories%5B%5D=overall"
+      }
 }

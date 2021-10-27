@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5640998,
+      "resource_state": 3,
+      "name": "Why am I doing this to myself?",
+      "activity_type": "Ride",
+      "distance": 704.8,
+      "average_grade": 7.1,
+      "maximum_grade": 11.1,
+      "elevation_high": 240.2,
+      "elevation_low": 190.1,
+      "start_latlng": [
+            43.039781,
+            -77.457884
+      ],
+      "end_latlng": [
+            43.045027,
+            -77.45577
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5MMX2S7KKDTGJUBVSRZIQEBN7OHFL6MP35KQGUCWFJE2EF3FPLU36QRSUZ5EGS2I6W2EIPKYTRX4CAAF5YDQ====",
+      "start_latitude": 43.039781,
+      "start_longitude": -77.457884,
+      "end_latitude": 43.045027,
+      "end_longitude": -77.45577,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-29T20:37:31Z",
+      "updated_at": "2021-05-15T02:14:06Z",
+      "total_elevation_gain": 51.0,
+      "map": {
+            "id": "s5640998",
+            "polyline": "seueGxnwwM_Aq@y@Yo@Bo@HuF|Ba@Dk@C_@MUOW]Wm@EEa@eDSmA[o@c@g@g@Sm@EuCEk@M",
+            "resource_state": 3
+      },
+      "effort_count": 638,
+      "athlete_count": 171,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:29",
+            "qom": "2:56",
+            "destination": {
+                  "href": "strava://segments/5640998/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32212911,
+            "title": "Dave Bischoff",
+            "profile": "https://graph.facebook.com/10201903979376593/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/5640998/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10349521,
+      "resource_state": 3,
+      "name": "* ATLANTIC TO EMBURY *",
+      "activity_type": "Ride",
+      "distance": 1524.6,
+      "average_grade": 0.6,
+      "maximum_grade": 6.9,
+      "elevation_high": 143.8,
+      "elevation_low": 135.4,
+      "start_latlng": [
+            43.153813,
+            -77.484872
+      ],
+      "end_latlng": [
+            43.167508,
+            -77.484749
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ULKORG2LQBZXFCQGJAHI6ITN7FLRZTMGTEICJWQKPRAOMQOGSXPPQ3OAZY75FH555DY6JQVP4XW73ETO76IQ====",
+      "start_latitude": 43.153813,
+      "start_longitude": -77.484872,
+      "end_latitude": 43.167508,
+      "end_longitude": -77.484749,
+      "climb_category": 0,
+      "city": "Penfield",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-08-30T00:37:58Z",
+      "updated_at": "2021-05-20T08:03:32Z",
+      "total_elevation_gain": 8.4,
+      "map": {
+            "id": "s10349521",
+            "polyline": "inkfGnw|wMyAAsDBuSA_ACwA@eHEyA@gBG{JA{IGuLA",
+            "resource_state": 3
+      },
+      "effort_count": 1658,
+      "athlete_count": 326,
+      "star_count": 5,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:08",
+            "qom": "2:56",
+            "destination": {
+                  "href": "strava://segments/10349521/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 5074395,
+            "title": "Jimmy Rossi",
+            "profile": "https://graph.facebook.com/749044671/picture?height=256&width=256",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                  "overall": "11 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/10349521/local_legend?categories%5B%5D=overall"
+      }
 }

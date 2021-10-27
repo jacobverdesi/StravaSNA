@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2217314,
+      "resource_state": 3,
+      "name": "Sweet Fern Hill",
+      "activity_type": "Ride",
+      "distance": 1214.33,
+      "average_grade": 2.1,
+      "maximum_grade": 6.7,
+      "elevation_high": 106.9,
+      "elevation_low": 80.4,
+      "start_latlng": [
+            43.2359623,
+            -77.5560556
+      ],
+      "end_latlng": [
+            43.2276571,
+            -77.5511106
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/NSFK5K4PHIHNLFHVYJ6YRH7CZHRUYY7CJV57VWKAFG6JTPPS2TXTLCXLLHH73AT4DLZNXC2PUQGVT7W4O56BE===",
+      "start_latitude": 43.2359623,
+      "start_longitude": -77.5560556,
+      "end_latitude": 43.2276571,
+      "end_longitude": -77.5511106,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-08-25T17:46:20Z",
+      "updated_at": "2021-05-20T08:02:17Z",
+      "total_elevation_gain": 33.4323,
+      "map": {
+            "id": "s2217314",
+            "polyline": "wo{fGjtjxMb@_B`AaBlB{Bx@gAd@c@l@_@bBSbARjCrAdCfAzBx@PDvAGj@a@TYf@eBXq@b@qAZa@j@[t@CvAHdBK|@Ml@[BEP_@VoBEkBBoA",
+            "resource_state": 3
+      },
+      "effort_count": 2354,
+      "athlete_count": 408,
+      "star_count": 13,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:03",
+            "qom": "2:35",
+            "destination": {
+                  "href": "strava://segments/2217314/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 44854743,
+            "title": "Matthew Quinlan",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/44854743/17385927/1/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/2217314/local_legend?categories%5B%5D=overall"
+      }
 }

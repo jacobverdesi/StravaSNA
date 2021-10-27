@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1059652,
+      "resource_state": 3,
+      "name": "Bluhm Rd East to West",
+      "activity_type": "Ride",
+      "distance": 1020.29,
+      "average_grade": 7.1,
+      "maximum_grade": 17.6,
+      "elevation_high": 250.5,
+      "elevation_low": 178.1,
+      "start_latlng": [
+            43.04829462,
+            -77.39630136
+      ],
+      "end_latlng": [
+            43.04670852,
+            -77.40772398
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HHUS75SC6XAYPOQKQ5TY5HRL54ONAUACL5Y4PXJEUDCPGEVP2FSP5OT33DCDVVB72RH6VCYVN7T6GRBXFULIU===",
+      "start_latitude": 43.04829462,
+      "start_longitude": -77.39630136,
+      "end_latitude": 43.04670852,
+      "end_longitude": -77.40772398,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-03-07T14:10:57Z",
+      "updated_at": "2021-05-20T08:02:09Z",
+      "total_elevation_gain": 74.1494,
+      "map": {
+            "id": "s1059652",
+            "polyline": "yzveG|mkwMIKDb@A^JfA@j@GjAE`CKzB?rAGr@?dDCv@Bb@?hCIjCLx@A`AFn@AZKjADVFV\\pALVZn@PRTNNR|@fBLNFP?v@HZZRTZF\\HNVXLz@B`@DfACbA",
+            "resource_state": 3
+      },
+      "effort_count": 3584,
+      "athlete_count": 354,
+      "star_count": 25,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:09",
+            "qom": "3:07",
+            "destination": {
+                  "href": "strava://segments/1059652/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32212911,
+            "title": "Dave Bischoff",
+            "profile": "https://graph.facebook.com/10201903979376593/picture?height=256&width=256",
+            "effort_description": "20 efforts in the last 90 days",
+            "effort_count": "20",
+            "effort_counts": {
+                  "overall": "20 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1059652/local_legend?categories%5B%5D=overall"
+      }
 }

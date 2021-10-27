@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 1059653,
+      "resource_state": 3,
+      "name": "Thayer Rd",
+      "activity_type": "Ride",
+      "distance": 1564.61,
+      "average_grade": 4.4,
+      "maximum_grade": 13.3,
+      "elevation_high": 231.1,
+      "elevation_low": 162.5,
+      "start_latlng": [
+            43.06441778,
+            -77.41316213
+      ],
+      "end_latlng": [
+            43.05165634,
+            -77.41800729
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3WJXPU6HCEYU5T4ASVLW3H6QJC6EFGNM2DOFFNGLRF5FQKHUJJD6CRXJOIVU576EDV4XE56PSDLCHTKW7LAQC===",
+      "start_latitude": 43.06441778,
+      "start_longitude": -77.41316213,
+      "end_latitude": 43.05165634,
+      "end_longitude": -77.41800729,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-03-07T14:12:10Z",
+      "updated_at": "2021-05-20T08:02:09Z",
+      "total_elevation_gain": 80.3702,
+      "map": {
+            "id": "s1059653",
+            "polyline": "q_zeGhwnwMTF`@Az@KXNdACx@BlAG^Dd@AnA@vAAzAHd@If@Dp@LPHRJv@f@t@j@t@v@Vh@l@Xb@j@hBlAJNv@r@\\d@NL~@XLNVp@r@|AhAxARb@\\f@^`@r@l@~@^|ALv@Gr@Kd@?t@Vp@@pAL|@UR@TBvBMh@@RFn@B^K",
+            "resource_state": 3
+      },
+      "effort_count": 1385,
+      "athlete_count": 244,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:30",
+            "qom": "4:34",
+            "destination": {
+                  "href": "strava://segments/1059653/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 6722910,
+            "title": "Craig Nittolo",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/6722910/14951522/1/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/1059653/local_legend?categories%5B%5D=overall"
+      }
 }

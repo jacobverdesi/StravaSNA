@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7727175,
+      "resource_state": 3,
+      "name": "South Ave Bomb",
+      "activity_type": "Ride",
+      "distance": 1202.9,
+      "average_grade": -2.0,
+      "maximum_grade": 3.9,
+      "elevation_high": 185.4,
+      "elevation_low": 158.6,
+      "start_latlng": [
+            43.132112,
+            -77.609202
+      ],
+      "end_latlng": [
+            43.141847,
+            -77.604318
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BPO7WHFISRHOQGLMAK5KO4TXTJP2E7DWLKHGMDG7XMIS7NFZ5VODPTDBAFTH75RZBMQH7OOSQII6MDVOQ76A====",
+      "start_latitude": 43.132112,
+      "start_longitude": -77.609202,
+      "end_latitude": 43.141847,
+      "end_longitude": -77.604318,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-07-25T00:58:57Z",
+      "updated_at": "2021-05-15T02:15:23Z",
+      "total_elevation_gain": 2.3,
+      "map": {
+            "id": "s7727175",
+            "polyline": "ufgfGp`uxMk@}A_@s@c@e@a@WYGw@KkBMyDa@uAUkBU{@OeEmBiCeAcFeC}Am@_Bs@cJkE{@Y",
+            "resource_state": 3
+      },
+      "effort_count": 1295,
+      "athlete_count": 359,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:25",
+            "qom": "1:55",
+            "destination": {
+                  "href": "strava://segments/7727175/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 15853890,
+            "title": "Bryan Agnello",
+            "profile": "https://graph.facebook.com/10154257859722152/picture?height=256&width=256",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                  "overall": "7 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/7727175/local_legend?categories%5B%5D=overall"
+      }
 }

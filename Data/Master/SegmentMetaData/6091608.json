@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6091608,
+      "resource_state": 3,
+      "name": "Snowy Meadow Climb",
+      "activity_type": "Ride",
+      "distance": 366.4,
+      "average_grade": 4.8,
+      "maximum_grade": 29.5,
+      "elevation_high": 171.4,
+      "elevation_low": 151.8,
+      "start_latlng": [
+            43.084741,
+            -77.426934
+      ],
+      "end_latlng": [
+            43.084813,
+            -77.422526
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6KRKSLIDOZL3XOLULF2INT4FEYJXCVGVO6ZWCWIZGMH6NEHU2DDQPHJ5L3XWLFTDIDVCVXM5NLJDW6MVGWZQ====",
+      "start_latitude": 43.084741,
+      "start_longitude": -77.426934,
+      "end_latitude": 43.084813,
+      "end_longitude": -77.422526,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-11-25T22:35:21Z",
+      "updated_at": "2021-05-17T08:04:49Z",
+      "total_elevation_gain": 19.6,
+      "map": {
+            "id": "s6091608",
+            "polyline": "s~}eGjmqwM?EOOIo@DiACQBm@?g@CWAuBDuACuB?aBGeAA{@?UDULO",
+            "resource_state": 3
+      },
+      "effort_count": 207,
+      "athlete_count": 44,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "50s",
+            "qom": "7:42",
+            "destination": {
+                  "href": "strava://segments/6091608/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16934800,
+            "title": "Gary Sacco",
+            "profile": "https://graph.facebook.com/10208278291612318/picture?height=256&width=256",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/6091608/local_legend?categories%5B%5D=overall"
+      }
 }

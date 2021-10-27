@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 24716362,
+      "resource_state": 3,
+      "name": "Double Bridge Drop In > Main Trail Pop-out",
+      "activity_type": "Ride",
+      "distance": 1208.1,
+      "average_grade": -0.5,
+      "maximum_grade": 1.8,
+      "elevation_high": 145.4,
+      "elevation_low": 139.2,
+      "start_latlng": [
+            43.086021,
+            -77.399928
+      ],
+      "end_latlng": [
+            43.09017,
+            -77.411936
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/EXJ6X6643ZVSXJBYK2QP5NCFQEFCNP5RP4SA7HDDHTAYAV4RNNPD7HPDGOPIH2MFFVQZZIDGVFSOCCOR42LA====",
+      "start_latitude": 43.086021,
+      "start_longitude": -77.399928,
+      "end_latitude": 43.09017,
+      "end_longitude": -77.411936,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-07-01T23:27:46Z",
+      "updated_at": "2021-05-19T08:05:26Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s24716362",
+            "polyline": "sf~eGpdlwM]OQOG?U~@]r@_@xAMZWtAw@xB[pA[z@oAdFmAnDIp@Yp@K^OZUt@G`@Sr@Cl@OXeAbD_@`AENGd@c@nAg@dBa@zBWpCCxA@f@An@Bb@Cx@?n@DN",
+            "resource_state": 3
+      },
+      "effort_count": 1917,
+      "athlete_count": 174,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:31",
+            "qom": "3:09",
+            "destination": {
+                  "href": "strava://segments/24716362/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/24716362/local_legend?categories%5B%5D=overall"
+      }
 }

@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 5641416,
+      "resource_state": 3,
+      "name": "Freeze Forest ",
+      "activity_type": "Ride",
+      "distance": 1204.7,
+      "average_grade": -0.2,
+      "maximum_grade": 3.3,
+      "elevation_high": 162.9,
+      "elevation_low": 159.7,
+      "start_latlng": [
+            43.103409,
+            -77.643806
+      ],
+      "end_latlng": [
+            43.093635,
+            -77.649142
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5HR5I4GIPX3YKIOEMOXRUSBXWKTGR6BOHEXPXWXKAEDRM2IIMAWRB2ILF47TXSXTVJUB6RB647OM5NFUMAOA====",
+      "start_latitude": 43.103409,
+      "start_longitude": -77.643806,
+      "end_latitude": 43.093635,
+      "end_longitude": -77.649142,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-09-29T21:13:51Z",
+      "updated_at": "2021-05-20T08:02:44Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s5641416",
+            "polyline": "gsafGxx{xM`Af@\\Jf@RLJRFH@FHd@LDFPBVLHBNJ\\HJ@JNJ@PJT@DFH@^VPBFDJAFFXHHH\\Lj@b@bAb@p@N\\T\\FVNBFPFFFt@^N@FDH@b@Vd@JXPd@Pj@Jn@XJBZVb@PBD\\PNDDHjA^LNH@PHVDDFRBDDFARXCb@FLZLJ@DDBDf@RDDVN~@VPLjA\\`A`@VFRJJ?HBHLJFVF",
+            "resource_state": 3
+      },
+      "effort_count": 8065,
+      "athlete_count": 911,
+      "star_count": 10,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:47",
+            "qom": "2:17",
+            "destination": {
+                  "href": "strava://segments/5641416/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 58127621,
+            "title": "shockin audrey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/58127621/14964295/1/large.jpg",
+            "effort_description": "46 efforts in the last 90 days",
+            "effort_count": "46",
+            "effort_counts": {
+                  "overall": "46 efforts",
+                  "female": "46 efforts"
+            },
+            "destination": "strava://segments/5641416/local_legend?categories%5B%5D=overall"
+      }
 }

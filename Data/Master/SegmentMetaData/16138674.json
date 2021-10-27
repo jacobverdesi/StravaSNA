@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16138674,
+      "resource_state": 3,
+      "name": "Hellendale - Empire Run",
+      "activity_type": "Ride",
+      "distance": 1056.2,
+      "average_grade": -0.7,
+      "maximum_grade": 3.3,
+      "elevation_high": 127.8,
+      "elevation_low": 117.7,
+      "start_latlng": [
+            43.188033,
+            -77.545584
+      ],
+      "end_latlng": [
+            43.178536,
+            -77.545027
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SCJ5XY7G7WINUBKEJ7JUYT2XY4LUDMJL2DWVJ4L4HSIL5ZFLK6ZPTNFMVA3LP2JOAIVFEKPJKY22GS42BQF4U===",
+      "start_latitude": 43.188033,
+      "start_longitude": -77.545584,
+      "end_latitude": 43.178536,
+      "end_longitude": -77.545027,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-09-28T02:48:12Z",
+      "updated_at": "2021-05-17T08:07:13Z",
+      "total_elevation_gain": 3.3,
+      "map": {
+            "id": "s16138674",
+            "polyline": "edrfG|rhxMjz@oB",
+            "resource_state": 3
+      },
+      "effort_count": 2285,
+      "athlete_count": 416,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:19",
+            "qom": "1:29",
+            "destination": {
+                  "href": "strava://segments/16138674/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 89271047,
+            "title": "Kurt Kujat",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89271047/21317185/1/large.jpg",
+            "effort_description": "26 efforts in the last 90 days",
+            "effort_count": "26",
+            "effort_counts": {
+                  "overall": "26 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/16138674/local_legend?categories%5B%5D=overall"
+      }
 }

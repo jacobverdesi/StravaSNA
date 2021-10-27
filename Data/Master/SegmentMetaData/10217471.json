@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 10217471,
+      "resource_state": 3,
+      "name": "Stryker from 386 to Humphrey",
+      "activity_type": "Ride",
+      "distance": 790.4,
+      "average_grade": -0.8,
+      "maximum_grade": 1.9,
+      "elevation_high": 121.8,
+      "elevation_low": 114.4,
+      "start_latlng": [
+            43.074605,
+            -77.766976
+      ],
+      "end_latlng": [
+            43.074504,
+            -77.757253
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HAPJE3FUN7EJEUFPYK2HCQO6I2O6FKPLS3DDEQ7LN5RNB6LCBGRJKZPJKZSC2KSYFXDEGMM4WT6Y5JTZFJJSQ===",
+      "start_latitude": 43.074605,
+      "start_longitude": -77.766976,
+      "end_latitude": 43.074504,
+      "end_longitude": -77.757253,
+      "climb_category": 0,
+      "city": "Scottsville",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-08-14T13:01:26Z",
+      "updated_at": "2021-05-15T02:16:52Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s10217471",
+            "polyline": "g_|eGrzsyMRw{@",
+            "resource_state": 3
+      },
+      "effort_count": 1000,
+      "athlete_count": 245,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:00",
+            "qom": "1:17",
+            "destination": {
+                  "href": "strava://segments/10217471/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 106859,
+            "title": "Andy Wooding",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/106859/13346163/4/large.jpg",
+            "effort_description": "10 efforts in the last 90 days",
+            "effort_count": "10",
+            "effort_counts": {
+                  "overall": "10 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/10217471/local_legend?categories%5B%5D=overall"
+      }
 }

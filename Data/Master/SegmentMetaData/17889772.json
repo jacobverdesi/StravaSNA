@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17889772,
+      "resource_state": 3,
+      "name": "Jefferson to Colony",
+      "activity_type": "Ride",
+      "distance": 1164.4,
+      "average_grade": -0.0,
+      "maximum_grade": 0.6,
+      "elevation_high": 160.9,
+      "elevation_low": 158.6,
+      "start_latlng": [
+            43.09226,
+            -77.65395
+      ],
+      "end_latlng": [
+            43.082565,
+            -77.659294
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZM734WLDKBTCUN3IGLCOAP3CGSMHXIQXGR7NCJDIHJCU7LEWWYIYQTF5N5TLRMBBOEEWL5MYWLOQUMUPQGKA====",
+      "start_latitude": 43.09226,
+      "start_longitude": -77.65395,
+      "end_latitude": 43.082565,
+      "end_longitude": -77.659294,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-06-07T17:46:55Z",
+      "updated_at": "2021-05-20T08:04:41Z",
+      "total_elevation_gain": 2.3,
+      "map": {
+            "id": "s17889772",
+            "polyline": "sm_fGdx}xMjCxA`DbArC~ArCtAfAZ~P`InA^lAb@|JtExC`B",
+            "resource_state": 3
+      },
+      "effort_count": 3175,
+      "athlete_count": 466,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:44",
+            "qom": "2:01",
+            "destination": {
+                  "href": "strava://segments/17889772/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 58127621,
+            "title": "shockin audrey",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/58127621/14964295/1/large.jpg",
+            "effort_description": "46 efforts in the last 90 days",
+            "effort_count": "46",
+            "effort_counts": {
+                  "overall": "46 efforts",
+                  "female": "46 efforts"
+            },
+            "destination": "strava://segments/17889772/local_legend?categories%5B%5D=overall"
+      }
 }

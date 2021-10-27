@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7448190,
+      "resource_state": 3,
+      "name": "Bull Saw Mill Rd (Rt55)",
+      "activity_type": "Ride",
+      "distance": 2743.5,
+      "average_grade": 0.7,
+      "maximum_grade": 6.7,
+      "elevation_high": 195.2,
+      "elevation_low": 177.2,
+      "start_latlng": [
+            42.992274,
+            -77.524805
+      ],
+      "end_latlng": [
+            42.996618,
+            -77.556651
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/K2LHANKLXD5U7NR5H5R4SZWZJ4RA3B3IOOCDSI5CO33LXZANRZUVBK4VTA4HKJLKPWBIN57HZ6FUU63M7CGZM===",
+      "start_latitude": 42.992274,
+      "start_longitude": -77.524805,
+      "end_latitude": 42.996618,
+      "end_longitude": -77.556651,
+      "climb_category": 0,
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-17T06:37:42Z",
+      "updated_at": "2021-05-17T08:05:10Z",
+      "total_elevation_gain": 20.0,
+      "map": {
+            "id": "s7448190",
+            "polyline": "u|keG`qdxM?fECnAE~GDzDRpCLlAx@vKjArSl@hJHfDIzBW~D]~DgAfHeFzW}FrWa@xAWnAoCxNkCrOQr@]`A[h@q@b@",
+            "resource_state": 3
+      },
+      "effort_count": 2587,
+      "athlete_count": 568,
+      "star_count": 11,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "4:04",
+            "qom": "5:23",
+            "destination": {
+                  "href": "strava://segments/7448190/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 23025664,
+            "title": "Shana Lydon",
+            "profile": "https://graph.facebook.com/1369526809834690/picture?height=256&width=256",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "9 efforts"
+            },
+            "destination": "strava://segments/7448190/local_legend?categories%5B%5D=overall"
+      }
 }

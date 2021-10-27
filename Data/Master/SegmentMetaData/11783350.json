@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 11783350,
+      "resource_state": 3,
+      "name": "rocket man",
+      "activity_type": "Ride",
+      "distance": 1461.7,
+      "average_grade": -1.0,
+      "maximum_grade": 4.3,
+      "elevation_high": 275.0,
+      "elevation_low": 251.2,
+      "start_latlng": [
+            43.034197,
+            -77.542417
+      ],
+      "end_latlng": [
+            43.046784,
+            -77.538834
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HMGPRQFNAL3DNKILTCHP3DJJSFU7X7N3CXU5HPJBX2OR5ODRIJFO46M3VJGUQAL7QXEL3QSXYQBOIHMFTRCQ====",
+      "start_latitude": 43.034197,
+      "start_longitude": -77.542417,
+      "end_latitude": 43.046784,
+      "end_longitude": -77.538834,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2016-04-10T20:48:28Z",
+      "updated_at": "2021-05-20T08:03:45Z",
+      "total_elevation_gain": 13.8,
+      "map": {
+            "id": "s11783350",
+            "polyline": "ubteGb_hxMyAu@}IyDOG{AW_BB{CPiBNqJf@yA?yAU}MyCeBe@yAs@mEgCmBaAkAu@",
+            "resource_state": 3
+      },
+      "effort_count": 7185,
+      "athlete_count": 936,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:37",
+            "qom": "2:07",
+            "destination": {
+                  "href": "strava://segments/11783350/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 8662305,
+            "title": "Dean Romanick",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8662305/5051266/2/large.jpg",
+            "effort_description": "25 efforts in the last 90 days",
+            "effort_count": "25",
+            "effort_counts": {
+                  "overall": "25 efforts",
+                  "female": "5 efforts"
+            },
+            "destination": "strava://segments/11783350/local_legend?categories%5B%5D=overall"
+      }
 }

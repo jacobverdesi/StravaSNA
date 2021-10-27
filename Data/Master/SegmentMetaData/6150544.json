@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 6150544,
+      "resource_state": 3,
+      "name": "Mitchell Rd. Bridge to Pittsford Bridge",
+      "activity_type": "Ride",
+      "distance": 912.1,
+      "average_grade": 0.0,
+      "maximum_grade": 21.7,
+      "elevation_high": 176.2,
+      "elevation_low": 174.0,
+      "start_latlng": [
+            43.083257,
+            -77.505918
+      ],
+      "end_latlng": [
+            43.089137,
+            -77.510757
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VNVQIYZ75QQQBEAAQUECSUM2FAPZL4LUQVOPOXP727YVN5KY4RKTHJLOV4TPSRHXJN4OM6NDZXMFON6LYW7TM===",
+      "start_latitude": 43.083257,
+      "start_longitude": -77.505918,
+      "end_latitude": 43.089137,
+      "end_longitude": -77.510757,
+      "climb_category": 0,
+      "city": "Pittsford",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-12-06T01:24:50Z",
+      "updated_at": "2021-05-20T08:02:48Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s6150544",
+            "polyline": "iu}eG~z`xMe@b@aFnDo@l@oChBa@`@}@j@qCtB}AdAqFpE]Xq@\\c@p@]XcA^W`@IFI?B?XO^_@^STI",
+            "resource_state": 3
+      },
+      "effort_count": 17606,
+      "athlete_count": 4118,
+      "star_count": 12,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:05",
+            "qom": "1:29",
+            "destination": {
+                  "href": "strava://segments/6150544/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 43627351,
+            "title": "Anthony Giordano",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43627351/17983959/1/large.jpg",
+            "effort_description": "42 efforts in the last 90 days",
+            "effort_count": "42",
+            "effort_counts": {
+                  "overall": "42 efforts",
+                  "female": "25 efforts"
+            },
+            "destination": "strava://segments/6150544/local_legend?categories%5B%5D=overall"
+      }
 }

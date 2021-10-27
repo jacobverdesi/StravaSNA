@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9772058,
+      "resource_state": 3,
+      "name": "* SCHOOL DAYS *",
+      "activity_type": "Ride",
+      "distance": 1889.9,
+      "average_grade": 0.6,
+      "maximum_grade": 8.3,
+      "elevation_high": 133.0,
+      "elevation_low": 120.6,
+      "start_latlng": [
+            43.223276,
+            -77.674304
+      ],
+      "end_latlng": [
+            43.206881,
+            -77.672943
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LR376QSWGC36DJXTFWDLQYY75VM7DUQAGCPJQAUNCXH5O7Y2QPY7XMPXRI7OO24ZFRELR5SDWGKZIUWXD5VM2===",
+      "start_latitude": 43.223276,
+      "start_longitude": -77.674304,
+      "end_latitude": 43.206881,
+      "end_longitude": -77.672943,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-20T18:32:48Z",
+      "updated_at": "2021-05-15T02:16:34Z",
+      "total_elevation_gain": 12.4,
+      "map": {
+            "id": "s9772058",
+            "polyline": "m`yfGlwayMvFBbAE|@Md@C\\?vDQdEMtAAxAG|ACzA?nAE~APd@^d@P~@JdAG`AAnBHf@G\\@rAGz@AbBStCFbA?jFMnGAj@EZI\\e@Fi@BkARa@^GbBOfDKPB^@",
+            "resource_state": 3
+      },
+      "effort_count": 631,
+      "athlete_count": 262,
+      "star_count": 2,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:30",
+            "qom": "4:34",
+            "destination": {
+                  "href": "strava://segments/9772058/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 49448436,
+            "title": "Jana McCutchan",
+            "profile": "https://graph.facebook.com/10215064391794488/picture?height=256&width=256",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": "4 efforts"
+            },
+            "destination": "strava://segments/9772058/local_legend?categories%5B%5D=overall"
+      }
 }

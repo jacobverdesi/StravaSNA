@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17912467,
+      "resource_state": 3,
+      "name": "Clinton to the Theater ",
+      "activity_type": "Ride",
+      "distance": 435.3,
+      "average_grade": 0.8,
+      "maximum_grade": 2.7,
+      "elevation_high": 160.7,
+      "elevation_low": 156.7,
+      "start_latlng": [
+            43.148715,
+            -77.604028
+      ],
+      "end_latlng": [
+            43.152584,
+            -77.604737
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6CXULTD3MJLMIJHJCXAPLNN2AKZGPFKAB6FUCHGI5CCH36D4PM3SSLO2S2SOHOIHHRLFYUDAALFR3A3T4I6A====",
+      "start_latitude": 43.148715,
+      "start_longitude": -77.604028,
+      "end_latitude": 43.152584,
+      "end_longitude": -77.604737,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-06-10T13:16:03Z",
+      "updated_at": "2021-05-15T02:21:15Z",
+      "total_elevation_gain": 4.0,
+      "map": {
+            "id": "s17912467",
+            "polyline": "mnjfGd`txMWA}@@g@BaALq@Be@?uAZeFl@cBVmAT",
+            "resource_state": 3
+      },
+      "effort_count": 2209,
+      "athlete_count": 438,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "25s",
+            "qom": "56s",
+            "destination": {
+                  "href": "strava://segments/17912467/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 17613772,
+            "title": "Brian Simon",
+            "profile": "https://graph.facebook.com/10208763244311723/picture?height=256&width=256",
+            "effort_description": "34 efforts in the last 90 days",
+            "effort_count": "34",
+            "effort_counts": {
+                  "overall": "34 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/17912467/local_legend?categories%5B%5D=overall"
+      }
 }

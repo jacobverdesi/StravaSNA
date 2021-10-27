@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4483733,
+      "resource_state": 3,
+      "name": "Miles Ave",
+      "activity_type": "Ride",
+      "distance": 511.0,
+      "average_grade": 1.4,
+      "maximum_grade": 4.9,
+      "elevation_high": 159.0,
+      "elevation_low": 149.1,
+      "start_latlng": [
+            43.098362,
+            -77.449725
+      ],
+      "end_latlng": [
+            43.093896,
+            -77.449917
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WQFWCR2MUDCU77OX2UJ3AHW77EHWXPXV3BO3B4ISG4EJFZ2RPXSRS3ATS3O5GRJ7A3KKJZPHUJPE5NGHXEIQ====",
+      "start_latitude": 43.098362,
+      "start_longitude": -77.449725,
+      "end_latitude": 43.093896,
+      "end_longitude": -77.449917,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-22T02:18:23Z",
+      "updated_at": "2021-05-17T08:04:28Z",
+      "total_elevation_gain": 9.9,
+      "map": {
+            "id": "s4483733",
+            "polyline": "ws`fGx{uwMxC@L@`@AjH@JZzBDr@HlAC\\?f@HP]d@L",
+            "resource_state": 3
+      },
+      "effort_count": 53,
+      "athlete_count": 24,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "46s",
+            "qom": "1:29",
+            "destination": {
+                  "href": "strava://segments/4483733/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 32212911,
+            "title": "Dave Bischoff",
+            "profile": "https://graph.facebook.com/10201903979376593/picture?height=256&width=256",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                  "overall": "4 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/4483733/local_legend?categories%5B%5D=overall"
+      }
 }

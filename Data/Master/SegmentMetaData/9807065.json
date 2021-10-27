@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 9807065,
+      "resource_state": 3,
+      "name": "* HARVARD FROM OXFORD *",
+      "activity_type": "Ride",
+      "distance": 886.4,
+      "average_grade": -0.5,
+      "maximum_grade": 0.0,
+      "elevation_high": 148.4,
+      "elevation_low": 144.2,
+      "start_latlng": [
+            43.14702,
+            -77.587242
+      ],
+      "end_latlng": [
+            43.144161,
+            -77.57708
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YT2SD53OURLITSIRXGEEUYMV73QDZXWQHKYSDBHCDDBRJQUZMBBHDURKBZSOVW2VYWCUXQG36G2SLUL5E6GA====",
+      "start_latitude": 43.14702,
+      "start_longitude": -77.587242,
+      "end_latitude": 43.144161,
+      "end_longitude": -77.57708,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2015-06-25T04:26:11Z",
+      "updated_at": "2021-05-15T02:16:35Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s9807065",
+            "polyline": "{cjfGhwpxM\\_BNsAb@yBRyAb@cCrAmGb@cCVyABa@P_BVcAxAyHtAaG^oBDi@XgABU",
+            "resource_state": 3
+      },
+      "effort_count": 1095,
+      "athlete_count": 234,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:22",
+            "qom": "1:54",
+            "destination": {
+                  "href": "strava://segments/9807065/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3130921,
+            "title": "Janis I",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3130921/7388832/3/large.jpg",
+            "effort_description": "31 efforts in the last 90 days",
+            "effort_count": "31",
+            "effort_counts": {
+                  "overall": "31 efforts",
+                  "female": "31 efforts"
+            },
+            "destination": "strava://segments/9807065/local_legend?categories%5B%5D=overall"
+      }
 }

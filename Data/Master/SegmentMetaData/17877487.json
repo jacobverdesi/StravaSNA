@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17877487,
+      "resource_state": 3,
+      "name": "Attridge ridge",
+      "activity_type": "Ride",
+      "distance": 1818.6,
+      "average_grade": -0.3,
+      "maximum_grade": 2.8,
+      "elevation_high": 166.4,
+      "elevation_low": 157.6,
+      "start_latlng": [
+            43.070759,
+            -77.858477
+      ],
+      "end_latlng": [
+            43.083601,
+            -77.844807
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2EDGVH7ESBJDMN4GLY2IJEFFTTX52YD2FY3V7AMVCJZR522SQYJLRLBWHBUVK2G5LOMWCWFJLQTKJI2GM4UQ====",
+      "start_latitude": 43.070759,
+      "start_longitude": -77.858477,
+      "end_latitude": 43.083601,
+      "end_longitude": -77.844807,
+      "climb_category": 0,
+      "city": "Churchville",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-06-06T11:43:37Z",
+      "updated_at": "2021-05-17T08:07:35Z",
+      "total_elevation_gain": 6.8,
+      "map": {
+            "id": "s17877487",
+            "polyline": "eg{eGnvezMuUeWwEoFeB{BKGgLuMoCiDaJoM{BoCeDuDuAeAiAk@aAYkAQ",
+            "resource_state": 3
+      },
+      "effort_count": 698,
+      "athlete_count": 149,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:48",
+            "qom": "3:13",
+            "destination": {
+                  "href": "strava://segments/17877487/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 675371,
+            "title": "Jon McDonough",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/675371/169941/1/large.jpg",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/17877487/local_legend?categories%5B%5D=overall"
+      }
 }

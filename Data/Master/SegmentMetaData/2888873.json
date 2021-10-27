@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 2888873,
+      "resource_state": 3,
+      "name": "Indian Hill Climb Lot to Top",
+      "activity_type": "Ride",
+      "distance": 681.625,
+      "average_grade": 6.0,
+      "maximum_grade": 17.0,
+      "elevation_high": 216.9,
+      "elevation_low": 174.9,
+      "start_latlng": [
+            43.068606,
+            -77.425418
+      ],
+      "end_latlng": [
+            43.066663,
+            -77.42423
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VG7DONMSC6RBFN5OBAZCYUETHXXKJUSXTC5KVVJO76EJVUAM4YM2QPDLMTLWJSRJX6LDM5UNCOPPA3IX7DKFS===",
+      "start_latitude": 43.068606,
+      "start_longitude": -77.425418,
+      "end_latitude": 43.066663,
+      "end_longitude": -77.42423,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-12-02T21:47:33Z",
+      "updated_at": "2021-05-15T02:12:41Z",
+      "total_elevation_gain": 45.2291,
+      "map": {
+            "id": "s2888873",
+            "polyline": "wyzeGzcqwMLk@Hs@?u@Km@?[R]BW@k@Ag@@Qd@oABOBo@^k@ZIJGBIH?\\GfACLBHJRAXDLDUVa@N_@`@a@XMLINCL?FDAFMLI`@MPBR?HLb@XLLDTKXCRBVJZ@\\LV",
+            "resource_state": 3
+      },
+      "effort_count": 1159,
+      "athlete_count": 89,
+      "star_count": 7,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:30",
+            "qom": "4:01",
+            "destination": {
+                  "href": "strava://segments/2888873/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1671645,
+            "title": "Scott C",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1671645/2133617/4/large.jpg",
+            "effort_description": "8 efforts in the last 90 days",
+            "effort_count": "8",
+            "effort_counts": {
+                  "overall": "8 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/2888873/local_legend?categories%5B%5D=overall"
+      }
 }

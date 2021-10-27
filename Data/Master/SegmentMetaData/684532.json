@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 684532,
+      "resource_state": 3,
+      "name": "Landing Road Hill",
+      "activity_type": "Ride",
+      "distance": 825.99,
+      "average_grade": 5.3,
+      "maximum_grade": 13.4,
+      "elevation_high": 124.4,
+      "elevation_low": 80.5,
+      "start_latlng": [
+            43.15732402158093,
+            -77.52864109083262
+      ],
+      "end_latlng": [
+            43.15008891966098,
+            -77.52833882396614
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/UMLSXTM6AYLIKQWVKHYHRI4DGCZX7YUBSWUM2BZUPKFPFVDRMHLHYC3ON5IKMFHGM3KP73JXMQQTZQETTBI4I===",
+      "start_latitude": 43.15732402158093,
+      "start_longitude": -77.52864109083262,
+      "end_latitude": 43.15008891966098,
+      "end_longitude": -77.52833882396614,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2011-07-17T18:46:21Z",
+      "updated_at": "2021-05-15T02:11:37Z",
+      "total_elevation_gain": 45.34,
+      "map": {
+            "id": "s684532",
+            "polyline": "gdlfG`iexMvBp@`CnAZDXJR@tBYvAYd@M`ASnA[dCe@pA]rC]dACdBCxA@jBD",
+            "resource_state": 3
+      },
+      "effort_count": 855,
+      "athlete_count": 220,
+      "star_count": 8,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:48",
+            "qom": "2:02",
+            "destination": {
+                  "href": "strava://segments/684532/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 1081475,
+            "title": "Aaron J. Mooney ",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1081475/5789443/1/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/684532/local_legend?categories%5B%5D=overall"
+      }
 }

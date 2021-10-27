@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28093675,
+      "resource_state": 3,
+      "name": "From school to the madhouse",
+      "activity_type": "Ride",
+      "distance": 1370.1,
+      "average_grade": 0.2,
+      "maximum_grade": 2.9,
+      "elevation_high": 172.6,
+      "elevation_low": 169.0,
+      "start_latlng": [
+            43.115202,
+            -77.604741
+      ],
+      "end_latlng": [
+            43.124953,
+            -77.606626
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/E5JULTPINWL27B6HV77Q2KBIAWHN2LTZRMQNYCDVICYRRCOCQWKPCHTF5KDD7ECXVEUAAPYGFCH3FGHC3CIC2===",
+      "start_latitude": 43.115202,
+      "start_longitude": -77.604741,
+      "end_latitude": 43.124953,
+      "end_longitude": -77.606626,
+      "climb_category": 0,
+      "city": "Brighton",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-04-20T02:37:27Z",
+      "updated_at": "2021-05-20T08:05:53Z",
+      "total_elevation_gain": 3.6,
+      "map": {
+            "id": "s28093675",
+            "polyline": "_}cfGtdtxMu@B{@?OHIR[rAaC~LUr@ONSBQGoBeA_EiBSDUXIDI?SGqGuC{Am@c@EW?a@HULcA~@SDIAi@W{@IcA?QSQ}@Sg@OWUOIEw@KI@q@NQLONO^e@xAMPGFq@L{@D",
+            "resource_state": 3
+      },
+      "effort_count": 448,
+      "athlete_count": 86,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:23",
+            "qom": "3:17",
+            "destination": {
+                  "href": "strava://segments/28093675/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 82226958,
+            "title": "Szetong de Cleir",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/82226958/21743152/2/large.jpg",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/28093675/local_legend?categories%5B%5D=overall"
+      }
 }

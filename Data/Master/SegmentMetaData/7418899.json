@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7418899,
+      "resource_state": 3,
+      "name": "* LYNN ON AYRA TO BEND *",
+      "activity_type": "Ride",
+      "distance": 661.5,
+      "average_grade": -1.8,
+      "maximum_grade": 0.0,
+      "elevation_high": 151.0,
+      "elevation_low": 139.0,
+      "start_latlng": [
+            43.079383,
+            -77.401432
+      ],
+      "end_latlng": [
+            43.079513,
+            -77.393292
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5CIYR6YBIQE5GZDYN2FG22Q6BIGT5S6ICPABCWYBBDCIVZZJSIEPST6C5EIAYRBKBLJBQFEJSFUPUYQFY4PFG===",
+      "start_latitude": 43.079383,
+      "start_longitude": -77.401432,
+      "end_latitude": 43.079513,
+      "end_longitude": -77.393292,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-12T23:22:53Z",
+      "updated_at": "2021-05-20T08:03:01Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s7418899",
+            "polyline": "c}|eG~mlwMI{KO_e@",
+            "resource_state": 3
+      },
+      "effort_count": 1489,
+      "athlete_count": 330,
+      "star_count": 3,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "39s",
+            "qom": "39s",
+            "destination": {
+                  "href": "strava://segments/7418899/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 738397,
+            "title": "Drew Deeney",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/738397/1007627/3/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "2 efforts"
+            },
+            "destination": "strava://segments/7418899/local_legend?categories%5B%5D=overall"
+      }
 }

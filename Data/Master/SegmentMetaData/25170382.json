@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 25170382,
+      "resource_state": 3,
+      "name": "Attack the Castle!",
+      "activity_type": "Ride",
+      "distance": 1935.5,
+      "average_grade": 0.2,
+      "maximum_grade": 5.1,
+      "elevation_high": 133.2,
+      "elevation_low": 121.6,
+      "start_latlng": [
+            43.082707,
+            -77.582872
+      ],
+      "end_latlng": [
+            43.082771,
+            -77.606622
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YQIUKBZ7DVB2VTZABCZKJ5LRJ6VUDX6VTLS7QZ6XHRCYCUV42KHYZEQ2GEDKPANM7IUGZXFYYYAGGLYP66YVO===",
+      "start_latitude": 43.082707,
+      "start_longitude": -77.582872,
+      "end_latitude": 43.082771,
+      "end_longitude": -77.606622,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-08-03T23:49:19Z",
+      "updated_at": "2021-05-15T02:25:05Z",
+      "total_elevation_gain": 17.2,
+      "map": {
+            "id": "s25170382",
+            "polyline": "{q}eG~{oxMArDJpLFhYJlVF|GFf[CtGw@r`@",
+            "resource_state": 3
+      },
+      "effort_count": 228,
+      "athlete_count": 50,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "3:07",
+            "qom": "4:11",
+            "destination": {
+                  "href": "strava://segments/25170382/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 770315,
+            "title": "Dean Sherwood",
+            "profile": "https://graph.facebook.com/10204641242379360/picture?height=256&width=256",
+            "effort_description": "56 efforts in the last 90 days",
+            "effort_count": "56",
+            "effort_counts": {
+                  "overall": "56 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/25170382/local_legend?categories%5B%5D=overall"
+      }
 }

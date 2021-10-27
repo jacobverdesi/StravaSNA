@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 18838153,
+      "resource_state": 3,
+      "name": "Chili Ave -> Skatepark",
+      "activity_type": "Ride",
+      "distance": 8486.3,
+      "average_grade": -0.1,
+      "maximum_grade": 10.1,
+      "elevation_high": 167.2,
+      "elevation_low": 152.1,
+      "start_latlng": [
+            43.139796,
+            -77.666075
+      ],
+      "end_latlng": [
+            43.152328,
+            -77.607737
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6YGWZ2LQQVIADVOX47HA5NI5XLV2QADXXL47YYDX46Q6ZNQ6VTGCTDDJNF4RYGRG57V4AO5PBGES2EAGBDJQ====",
+      "start_latitude": 43.139796,
+      "start_longitude": -77.666075,
+      "end_latitude": 43.152328,
+      "end_longitude": -77.607737,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-09-13T15:15:06Z",
+      "updated_at": "2021-05-20T08:04:49Z",
+      "total_elevation_gain": 34.6,
+      "map": {
+            "id": "s18838153",
+            "polyline": "uvhfG~c`yMTMv@QFGp@oAd@g@pDiBz@m@`@_@r@c@\\Y^M`@]LUbAq@^a@RKZ[^OZ]RG`@a@ZQ|@w@^U`@c@VK\\_@PGb@o@xBgAd@e@b@[\\g@P_@XWXOp@K^SPUb@s@\\c@ROLATKRUFMLSf@c@RI\\W\\]PIf@i@RGj@]z@]ZSzAcBHINCP[`@e@d@y@~@uA`@y@hAgB~@wB`@eAp@mAr@cBx@gB@QPg@X_BFQlAgCHa@Nc@DONKFOPu@JMXs@RYN_@l@mALa@h@yBbAwCHOLQh@kALKFOLMdAsCT_Af@}ATOAWNUPM^_@NKv@ENDLHT\\J?LGJGx@sAVOFMAOGQ]a@Sa@c@eAKg@WYIOEW[e@IQMe@Kg@Eu@?SMk@Ya@AMDOAwAEQBMGc@D{@AWDS?SCUBcBZI|AF~AAHg@AqAFi@EoBFkC@kCEiA?i@Ec@GmA@i@Cg@?QCOEy@M{@?QEe@Ma@YkAi@oAOg@Oy@IOMIEOQ]m@}@YSSYYOOUs@K{AE_@USWmAQq@?QFw@@a@AaAJODWV_@L]RWVcAp@w@f@_Ah@M@w@`@a@HQ@KF_@@o@XIHeAZ[Fs@BMCq@?m@C{Bg@gAm@c@c@Mg@Iu@y@wB{@mCSu@k@sDCg@DcAEu@AeEI_C?aCIuAF}FC]Ha@?OKiBAyAU_@Cu@MgAOWEMCg@Ic@Yy@Ew@EMIcAOi@[g@_C}BQYs@w@QWmAoA]Os@k@qBcAII[Q_D}AeAk@[U]Oc@[yAq@_EuB}BcB{@g@oB{AmBcBkByAa@c@OAm@q@[CYI]KEGOCYQy@u@U[a@a@Q[_@]c@[k@q@aBwAm@Sg@WKAi@OcBcAMEaAq@IKMEo@a@GYWWIEmAy@YOe@Oy@k@SSWQG@e@MMI[Ks@]c@[i@YUYq@g@YKWOu@[e@WWEm@@MAO?_AKq@Yg@OM?k@IQGI@KEM?YI_@Ce@KU?CESc@GEq@B",
+            "resource_state": 3
+      },
+      "effort_count": 556,
+      "athlete_count": 106,
+      "star_count": 1,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "14:30",
+            "qom": "18:57",
+            "destination": {
+                  "href": "strava://segments/18838153/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 9630464,
+            "title": "Chris Kvam",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9630464/2908878/1/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/18838153/local_legend?categories%5B%5D=overall"
+      }
 }

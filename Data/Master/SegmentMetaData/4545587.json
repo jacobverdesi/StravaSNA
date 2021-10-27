@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 4545587,
+      "resource_state": 3,
+      "name": "Creek to Ridge to top",
+      "activity_type": "Ride",
+      "distance": 367.6,
+      "average_grade": 10.9,
+      "maximum_grade": 41.7,
+      "elevation_high": 106.4,
+      "elevation_low": 65.6,
+      "start_latlng": [
+            43.16343,
+            -77.529753
+      ],
+      "end_latlng": [
+            43.162016,
+            -77.532121
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SYLSQIK37L5ZCWYH34QHCOYLWFO6Z47ASAYJDGYZJC3PT2NAZ6CNS3PH3OEUBW3W6JN5OHVKP7NDDLICBB6OW===",
+      "start_latitude": 43.16343,
+      "start_longitude": -77.529753,
+      "end_latitude": 43.162016,
+      "end_longitude": -77.532121,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2013-06-27T20:14:27Z",
+      "updated_at": "2021-05-17T08:04:29Z",
+      "total_elevation_gain": 41.4,
+      "map": {
+            "id": "s4545587",
+            "polyline": "mjmfG~oexMI@MLw@fAIRAR^Sd@KL@HJH`@FJJf@h@j@XRRJXVJZHt@FVHPPL^LTARB?NDF",
+            "resource_state": 3
+      },
+      "effort_count": 1103,
+      "athlete_count": 286,
+      "star_count": 4,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:13",
+            "qom": "2:19",
+            "destination": {
+                  "href": "strava://segments/4545587/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16281166,
+            "title": "Nate Robson",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/16281166/4561871/1/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/4545587/local_legend?categories%5B%5D=overall"
+      }
 }

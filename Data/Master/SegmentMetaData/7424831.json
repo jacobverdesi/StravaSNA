@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 7424831,
+      "resource_state": 3,
+      "name": "* RED RAIDER 2 WESTONS FUN DOWN *",
+      "activity_type": "Ride",
+      "distance": 944.7,
+      "average_grade": -2.4,
+      "maximum_grade": 6.2,
+      "elevation_high": 185.6,
+      "elevation_low": 163.2,
+      "start_latlng": [
+            43.070177,
+            -77.415866
+      ],
+      "end_latlng": [
+            43.071031,
+            -77.408871
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/NQE6V35JKKSTOSBB2SDJTZBHTTULN4QQ4YRL6ZPRNIKLEXIOOFYTNSIAQCQDWGGB5MRPXHKYYA5A7ALHQE4Q====",
+      "start_latitude": 43.070177,
+      "start_longitude": -77.415866,
+      "end_latitude": 43.071031,
+      "end_longitude": -77.408871,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2014-06-14T00:21:33Z",
+      "updated_at": "2021-05-15T02:15:11Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s7424831",
+            "polyline": "qc{eGdhowM^Bd@Of@q@JSHWHs@AyB@_BD_@J]^s@fAuAr@q@p@eAb@yAHq@@q@AyGCYMu@K[]q@QSUQm@WgAQ_AMcBBqBNeABQA",
+            "resource_state": 3
+      },
+      "effort_count": 52,
+      "athlete_count": 11,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:14",
+            "qom": "4:19",
+            "destination": {
+                  "href": "strava://segments/7424831/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 16754430,
+            "title": "Andrew Wroblewski",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/16754430/4701153/3/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                  "overall": "1 effort",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/7424831/local_legend?categories%5B%5D=overall"
+      }
 }

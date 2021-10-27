@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 26564049,
+      "resource_state": 3,
+      "name": "Cobbs Hill Rip",
+      "activity_type": "Ride",
+      "distance": 685.6,
+      "average_grade": -1.1,
+      "maximum_grade": 2.1,
+      "elevation_high": 178.6,
+      "elevation_low": 171.4,
+      "start_latlng": [
+            43.136745,
+            -77.564781
+      ],
+      "end_latlng": [
+            43.141838,
+            -77.561119
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FJL4SDD3EIZOEYLJ2P2ZTTFBIUF6WQRU4G67V7WZM4NTOUBV3GMORASIHAV2KFCA423BPU6UDSCHR6566JTQO===",
+      "start_latitude": 43.136745,
+      "start_longitude": -77.564781,
+      "end_latitude": 43.141838,
+      "end_longitude": -77.561119,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2020-11-27T15:31:34Z",
+      "updated_at": "2021-05-15T02:25:34Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s26564049",
+            "polyline": "schfG|jlxMKEMAcAFo@Ac@Me@Wq@w@Wa@a@qAOa@a@e@s@e@o@Qk@GaAIoBG]KuAaAQS[m@aAwC[g@c@U]I",
+            "resource_state": 3
+      },
+      "effort_count": 607,
+      "athlete_count": 210,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:00",
+            "qom": "1:39",
+            "destination": {
+                  "href": "strava://segments/26564049/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 89299209,
+            "title": "Jeffrey Rayfield",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/89299209/21462008/2/large.jpg",
+            "effort_description": "5 efforts in the last 90 days",
+            "effort_count": "5",
+            "effort_counts": {
+                  "overall": "5 efforts",
+                  "female": "3 efforts"
+            },
+            "destination": "strava://segments/26564049/local_legend?categories%5B%5D=overall"
+      }
 }

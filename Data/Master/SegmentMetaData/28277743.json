@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28277743,
+      "resource_state": 3,
+      "name": "from freeride zone",
+      "activity_type": "Ride",
+      "distance": 1188.6,
+      "average_grade": -4.6,
+      "maximum_grade": 5.6,
+      "elevation_high": 233.1,
+      "elevation_low": 178.5,
+      "start_latlng": [
+            43.058113,
+            -77.422684
+      ],
+      "end_latlng": [
+            43.062734,
+            -77.413216
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MKZBN66X4N7VCRT2K3WDYYROIHSEFIDB5K3RCJZJZIJQMLDPPFKOIQNK5TJQY26FWTMQOAYIMGTMCYKDKZHA====",
+      "start_latitude": 43.058113,
+      "start_longitude": -77.422684,
+      "end_latitude": 43.062734,
+      "end_longitude": -77.413216,
+      "climb_category": 0,
+      "city": "Fairport",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-05-02T20:19:38Z",
+      "updated_at": "2021-05-15T02:26:11Z",
+      "total_elevation_gain": 2.2,
+      "map": {
+            "id": "s28277743",
+            "polyline": "exxeGxrpwMg@QKAGGk@KWOG?OQGBYKS?QWSOIQAOB}BCk@FkB?sBGgBBw@DWAWDg@CM@MU{@i@aB@QGKK_@UUEIDUOJMs@GOKGMBm@Km@Cc@GIN@LFPGh@GBCAOGEEEO@e@AKCIEEE?M_@@OJ[Jk@@SAIEGi@_@i@eAKMi@c@WsAIy@IKa@McAg@QQMQGq@Am@E[@QBI",
+            "resource_state": 3
+      },
+      "effort_count": 52,
+      "athlete_count": 21,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:39",
+            "qom": "3:57",
+            "destination": {
+                  "href": "strava://segments/28277743/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 52625011,
+            "title": "Matt Lindquist",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/52625011/15129299/16/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                  "overall": "2 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/28277743/local_legend?categories%5B%5D=overall"
+      }
 }

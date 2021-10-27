@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 30018248,
+      "resource_state": 3,
+      "name": "Reverse Drag Race",
+      "activity_type": "Ride",
+      "distance": 330.1,
+      "average_grade": 0.1,
+      "maximum_grade": 0.6,
+      "elevation_high": 159.4,
+      "elevation_low": 159.1,
+      "start_latlng": [
+            43.086396,
+            -77.665987
+      ],
+      "end_latlng": [
+            43.083426,
+            -77.6659
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KZX6J4LGDZK3VD3MVFV6AFTJI24GG4K73TNEJLJL5J4XPSSJ4POC4LUDNW5EBK7ZM3N7RPT2WAFHZVKMRETA====",
+      "start_latitude": 43.086396,
+      "start_longitude": -77.665987,
+      "end_latitude": 43.083426,
+      "end_longitude": -77.6659,
+      "climb_category": 0,
+      "city": null,
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-10-01T05:08:12Z",
+      "updated_at": "2021-10-01T05:08:24Z",
+      "total_elevation_gain": 0.0,
+      "map": {
+            "id": "s30018248",
+            "polyline": "}h~eGlc`yMxDKxCB|FI",
+            "resource_state": 3
+      },
+      "effort_count": 2808,
+      "athlete_count": 321,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "24s",
+            "qom": "28s",
+            "destination": {
+                  "href": "strava://segments/30018248/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 2678937,
+            "title": "Ben  Braun",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2678937/1989906/2/large.jpg",
+            "effort_description": "18 efforts in the last 90 days",
+            "effort_count": "18",
+            "effort_counts": {
+                  "overall": "18 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/30018248/local_legend?categories%5B%5D=overall"
+      }
 }

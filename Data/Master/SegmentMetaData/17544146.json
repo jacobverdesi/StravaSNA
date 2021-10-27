@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 17544146,
+      "resource_state": 3,
+      "name": "Castleman Rd North",
+      "activity_type": "Ride",
+      "distance": 707.0,
+      "average_grade": 0.3,
+      "maximum_grade": 2.1,
+      "elevation_high": 164.0,
+      "elevation_low": 162.0,
+      "start_latlng": [
+            43.115157,
+            -77.627811
+      ],
+      "end_latlng": [
+            43.12115,
+            -77.625037
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LVEXX5PUHTACSRTGUEMDV24DMWO2AUPE2TVQJDYAVAWDPUBVWTIHXAL2NYRD73PERJDISJJP4E3OK5PSW3RA====",
+      "start_latitude": 43.115157,
+      "start_longitude": -77.627811,
+      "end_latitude": 43.12115,
+      "end_longitude": -77.625037,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2018-05-02T00:21:13Z",
+      "updated_at": "2021-05-15T02:20:59Z",
+      "total_elevation_gain": 2.0,
+      "map": {
+            "id": "s17544146",
+            "polyline": "u|cfGztxxMiAKuBg@m@Uo@Eo@KkA[eAq@aCaAk@[mEgBkAo@uAk@k@Sc@Wq@Uo@]",
+            "resource_state": 3
+      },
+      "effort_count": 451,
+      "athlete_count": 90,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:03",
+            "qom": "1:21",
+            "destination": {
+                  "href": "strava://segments/17544146/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 61599015,
+            "title": "Christopher Cove",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "16 efforts in the last 90 days",
+            "effort_count": "16",
+            "effort_counts": {
+                  "overall": "16 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/17544146/local_legend?categories%5B%5D=overall"
+      }
 }

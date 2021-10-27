@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 915552,
+      "resource_state": 3,
+      "name": "A-train",
+      "activity_type": "Ride",
+      "distance": 427.21,
+      "average_grade": 6.3,
+      "maximum_grade": 27.0,
+      "elevation_high": 188.0,
+      "elevation_low": 161.2,
+      "start_latlng": [
+            42.97114667482674,
+            -77.43924720212817
+      ],
+      "end_latlng": [
+            42.96964748762548,
+            -77.43995270691812
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SHH6U3RUDNGTXB6FQUBGVV5L7KIW2AD5WH2XDTNKWP5YHPF6C4HUWJYGV42EQ2GBG4ZW2XFXDOMR353QEDAQ====",
+      "start_latitude": 42.97114667482674,
+      "start_longitude": -77.43924720212817,
+      "end_latitude": 42.96964748762548,
+      "end_longitude": -77.43995270691812,
+      "climb_category": 0,
+      "city": "Victor",
+      "state": "NY",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2012-01-13T02:44:21Z",
+      "updated_at": "2021-05-18T08:02:40Z",
+      "total_elevation_gain": 26.8,
+      "map": {
+            "id": "s915552",
+            "polyline": "sxgeGhzswMJIPBFHF`@FHLAb@QH?Ff@?XET@DT_@V{ABA@FIf@Db@?f@BNB@DGLe@Jo@DGFBDJAP?j@DLFAN[JE^TBFAR",
+            "resource_state": 3
+      },
+      "effort_count": 7398,
+      "athlete_count": 1048,
+      "star_count": 12,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "1:26",
+            "qom": "2:03",
+            "destination": {
+                  "href": "strava://segments/915552/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 3232401,
+            "title": "Dennis Segrue",
+            "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+            "effort_description": "9 efforts in the last 90 days",
+            "effort_count": "9",
+            "effort_counts": {
+                  "overall": "9 efforts",
+                  "female": "6 efforts"
+            },
+            "destination": "strava://segments/915552/local_legend?categories%5B%5D=overall"
+      }
 }

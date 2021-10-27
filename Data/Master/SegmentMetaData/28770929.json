@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 28770929,
+      "resource_state": 3,
+      "name": "jeffords rd west (done right)",
+      "activity_type": "Ride",
+      "distance": 1668.0,
+      "average_grade": 0.2,
+      "maximum_grade": 10.2,
+      "elevation_high": 206.4,
+      "elevation_low": 186.6,
+      "start_latlng": [
+            43.009862,
+            -77.619587
+      ],
+      "end_latlng": [
+            43.009932,
+            -77.639992
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TBXQJ3LI7MBGBJADP7DTU4TTUCRI6MNQIB62GXB7HUAAAC5V4GAAW4VKR2JBE2H6Z2VYGHBLJPRVG562UXWA====",
+      "start_latitude": 43.009862,
+      "start_longitude": -77.619587,
+      "end_latitude": 43.009932,
+      "end_longitude": -77.639992,
+      "climb_category": 0,
+      "city": "Rush",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2021-06-11T01:45:23Z",
+      "updated_at": "2021-06-11T01:45:24Z",
+      "total_elevation_gain": 31.0,
+      "map": {
+            "id": "s28770929",
+            "polyline": "sjoeGlawxMChCBtDChG@tHA~ACvN?t@CXAbFH~E?ZG\\@lBDnB?~AERA~ADlAB^A~@Dx@IzE?`CBlKA\\G`@?jKBvAC`@",
+            "resource_state": 3
+      },
+      "effort_count": 1156,
+      "athlete_count": 245,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "2:34",
+            "qom": "3:07",
+            "destination": {
+                  "href": "strava://segments/28770929/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 770315,
+            "title": "Dean Sherwood",
+            "profile": "https://graph.facebook.com/10204641242379360/picture?height=256&width=256",
+            "effort_description": "51 efforts in the last 90 days",
+            "effort_count": "51",
+            "effort_counts": {
+                  "overall": "51 efforts",
+                  "female": "1 effort"
+            },
+            "destination": "strava://segments/28770929/local_legend?categories%5B%5D=overall"
+      }
 }

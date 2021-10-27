@@ -1,10 +1,69 @@
 {
-      "message": "Rate Limit Exceeded",
-      "errors": [
-            {
-                  "resource": "Application",
-                  "field": "rate limit",
-                  "code": "exceeded"
+      "id": 16267036,
+      "resource_state": 3,
+      "name": "Rosegrey Ter Climb",
+      "activity_type": "Ride",
+      "distance": 349.4,
+      "average_grade": 4.3,
+      "maximum_grade": 11.7,
+      "elevation_high": 164.0,
+      "elevation_low": 149.0,
+      "start_latlng": [
+            43.137773,
+            -77.561127
+      ],
+      "end_latlng": [
+            43.140732,
+            -77.560405
+      ],
+      "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GQQKKHICLKGZ5WCTULWIBMO7FS7J37ICHYWWAUKV2NV7IYNLQ6RZKFX6WMI2VX46BWQBRJLURGCK3SNSDORFM===",
+      "start_latitude": 43.137773,
+      "start_longitude": -77.561127,
+      "end_latitude": 43.140732,
+      "end_longitude": -77.560405,
+      "climb_category": 0,
+      "city": "Rochester",
+      "state": "New York",
+      "country": "United States",
+      "private": false,
+      "hazardous": false,
+      "starred": false,
+      "created_at": "2017-10-14T19:13:34Z",
+      "updated_at": "2021-05-15T02:20:14Z",
+      "total_elevation_gain": 15.0,
+      "map": {
+            "id": "s16267036",
+            "polyline": "ajhfG`tkxMEMGKKCU@i@CoA?wAFU?YCi@]}@}@OKQGe@IeABWCOD",
+            "resource_state": 3
+      },
+      "effort_count": 60,
+      "athlete_count": 20,
+      "star_count": 0,
+      "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_activity_id": null,
+            "effort_count": 0
+      },
+      "xoms": {
+            "kom": "36s",
+            "qom": "1:16",
+            "destination": {
+                  "href": "strava://segments/16267036/leaderboard",
+                  "type": "overall",
+                  "name": "All-Time"
             }
-      ]
+      },
+      "local_legend": {
+            "athlete_id": 72025924,
+            "title": "Brian Colwell",
+            "profile": "https://graph.facebook.com/10158849165827557/picture?height=256&width=256",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                  "overall": "3 efforts",
+                  "female": null
+            },
+            "destination": "strava://segments/16267036/local_legend?categories%5B%5D=overall"
+      }
 }
