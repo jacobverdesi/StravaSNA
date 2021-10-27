@@ -30,7 +30,7 @@ def main():
     base_path = Path(__file__).parent
     file_path = (base_path / "../Data/Master/segmentList.txt").resolve()
     with open(file_path, 'r') as f:
-        my_set = dict(ast.literal_eval(f.read()))
+        my_set = set(map(int, list(ast.literal_eval(f.read()))))
     driver.get(BASE_URL)
     time.sleep(2)
     driver.find_element(By.XPATH, '//button[@aria-label="AGREE"]').click()
@@ -42,17 +42,19 @@ def main():
         while(True):
             time.sleep(2)
 
-            table = driver.find_element_by_id("segments-table").get_attribute('innerHTML')
+            table = driver.find_element(By.ID,"segments-table").get_attribute('innerHTML')
             soup = BeautifulSoup(table, "html.parser").find('table')
             for tr in soup.select('tr[data-id]'):
-                if tr['data-id'] not in my_set.keys():
-                    my_set.update({tr['data-id']:False})
+                if tr['data-id'] not in my_set:
+                    my_set.add(int(tr['data-id']))
             newLen=len(my_set)
             print(f"Added {newLen-prevLen} new segments for total of {newLen}")
             prevLen=newLen
     except KeyboardInterrupt:
+        file_path = (base_path / "../Data/Master/segmentList.txt").resolve()
+
         with open(file_path, 'w') as f:
-            f.write(str(my_set))
+            f.write(str(list(sorted(my_set))))
             print(f"Saved {len(my_set)} segments to the file")
 if __name__ == '__main__':
     main()
