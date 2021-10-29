@@ -67,7 +67,7 @@ def getFullNetwork(new=False):
     if(new):
         return createFullNetwork()
     else:
-        return  pd.read_csv((base_path / f"../Data/Networks/fullNetwork.csv").resolve())
+        return  pd.read_csv((base_path / f"../Data/Networks/fullNetwork.csv").resolve(),dtype={"Source": 'int32', "Target": 'int32',"weight":'int16'})
 
 def createEgoNetwork(seed, n,visited=None):
     if visited == None:
@@ -118,22 +118,27 @@ def createEgoNetwork(seed, n,visited=None):
     return network
 
 def createEgoNetwork2(network,seed ,n):
-    newNetwork=network.loc[(network['Target'] == seed) | (network['Source'] == seed )].sample(100)
-
-    network=network.drop(newNetwork.index).reset_index(drop=True)
-    seeds=set(newNetwork['Target'].unique().tolist()+newNetwork['Source'].unique().tolist())
-    seeds.remove(seed)
-    if n>0:
-
+    if n==0:
+        network = network.query(f'Source=={seed} or Target=={seed}')
+        network = network.sample(len(network.index) // 10)
+        return network
+    else:
+        oldNetwork=network.copy(deep=True)
+        network = network.query(f'Source=={seed} or Target=={seed}')
+        network = network.sample(len(network.index) // 10)
+        oldNetwork = oldNetwork.drop(network.index)
+        seeds = set(network['Target'].unique().tolist() + network['Source'].unique().tolist())
+        seeds.remove(seed)
         for idx,newSeed in enumerate(seeds):
             print(f"N: {n} Seed num{idx}/{len(seeds)}")
-            newNetwork=newNetwork.append(createEgoNetwork2(network, newSeed, n-1))
-    return newNetwork
+            network=network.append(createEgoNetwork2(oldNetwork, newSeed, n-1))
+        return network
 
 def getEgoNetwork(seed,n,new=False):
     base_path = Path(__file__).parent
     if (new):
         network = getFullNetwork()
+        network.info(verbose=False, memory_usage="deep")
         network=createEgoNetwork2(network,seed,n)
         # network = pd.Series(network).reset_index()
         # print("Network size: ", len(network.index))
