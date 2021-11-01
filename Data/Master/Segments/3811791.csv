@@ -1,0 +1,7 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+208775,45109158,847655536,1,David Richardson,"Mar 19, 2013",25.7mi/h,-,271W Power Meter,11:16
+2857891,82929523,1699127239,2,Corey Medina,"Sep 16, 2013",23.5mi/h,-,171W,12:19
+297140,51038512,910128913,3,Frank Gallese,"Apr 27, 2013",20.8mi/h,-,184W Power Meter,13:57
+49552,8667741,847655805,4,Patrick Walle EVOQ.BIKE,"May 16, 2012",18.2mi/h,156bpm,224W Power Meter,15:57
+805573,15044557,847654901,5,Michael Moeller,"Jul 28, 2012",13.2mi/h,-,199W,21:59
+380268,9210420,847655806,6,josh/Bobo gonsenhauser,"May 8, 2012",3.7mi/h,133bpm,209W Power Meter,1:18:15

@@ -1,0 +1,5 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+738397,18178169,331357135,1,Drew Deeney,"Aug 11, 2012",54.1mi/h,186bpm,149W,3:22
+280921,9733798,172958028,2,Robert Tretter,"May 29, 2012",42.5mi/h,-,156W,4:17
+24536570,1201717286,29618312810,3,Steve Batcheller,"Jun 7, 2016",14.1mi/h,-,94W,12:55
+18352663,765846719,18750782434,4,Lukas Hardy,"Nov 4, 2016",8.5mi/h,-,-,21:30
