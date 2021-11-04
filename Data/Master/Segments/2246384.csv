@@ -1,0 +1,4 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+855071,20051742,360926812,1,Anton Siekmann,"Aug 28, 2012",14.5mi/h,-,161W,1:54
+11215261,423808379,10197637235,2,mark panek,"Oct 31, 2015",11.6mi/h,-,-,2:22
+2306090,687421771,16849920177,3,Nick Giordano,"Aug 24, 2016",10.6mi/h,133bpm,87W,2:36

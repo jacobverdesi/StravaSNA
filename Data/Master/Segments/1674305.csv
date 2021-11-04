@@ -1,0 +1,5 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+210290,328689345,7778023600,1,Kyle Beikirch,"Jun 19, 2015",31.0mi/h,178bpm,653W Power Meter,19s
+57271739,3644008796,2709442593230740900,2,Alex Sigismondi,"Jun 20, 2020",20.3mi/h,167bpm,-,29s
+24586074,2458435416,61930469046,3,Erik Baker,"Jun 17, 2019",18.4mi/h,-,-,32s
+11183928,1137324080,28020749214,4,Demetrius Mitchell,"Aug 16, 2017",10.5mi/h,-,25W,56s
