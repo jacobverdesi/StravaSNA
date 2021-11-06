@@ -1,0 +1,11 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+6214519,385567753,9218457644,1,Luke Okerlund,"Sep 5, 2015",34.5mi/h,-,772W,15s
+66371075,5070594330,2813915494235785544,2,Ryan Fletcher,"Apr 4, 2021",30.4mi/h,186bpm,729W,17s
+584780,9955955,967538012,3,Chris Jensen,"Jun 2, 2012",28.7mi/h,-,800W,18s
+274450,7497852,967538086,3,Drew Scoles,"Apr 28, 2012",28.7mi/h,-,767W,18s
+102030,5485062,967538166,3,Jordan Oroshiba,"Mar 20, 2012",28.7mi/h,169bpm,342W,18s
+295448,7393212,967538199,3,Rouge Rob,"Apr 26, 2012",28.7mi/h,145bpm,900W Power Meter,18s
+49552,5177881,967538396,3,Patrick Walle EVOQ.BIKE,"Mar 13, 2012",28.7mi/h,145bpm,924W Power Meter,18s
+1008069,174364200,4067214220,3,Brenton Copeland,"Aug 2, 2014",28.7mi/h,169bpm,361W,18s
+2865010,178351649,4169035103,3,Brandon Zaffuto,"Aug 10, 2014",28.7mi/h,-,661W,18s
+5658067,385519409,9217708493,3,Corey Peruffo,"Sep 5, 2015",28.7mi/h,-,753W,18s

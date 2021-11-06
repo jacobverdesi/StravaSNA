@@ -1,0 +1,4 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+11664088,633630960,15475639527,1,Deon van Gorsel,"Jul 7, 2016",20.2mi/h,-,197W,1:57
+806251,53600524,971277796,2,Steve Nole,"May 11, 2013",16.8mi/h,-,166W,2:21
+2104995,62785610,1184814826,3,Taryn Nole,"Jun 25, 2013",11.1mi/h,-,87W,3:34

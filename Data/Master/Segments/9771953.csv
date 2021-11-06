@@ -1,0 +1,11 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+4176691,379419163,9068765929,1,Vivien Rindisbacher,"Aug 15, 2015",46.7mi/h,-,299W,12s
+118945,370534697,8852475924,2,Isaac Howe,"Aug 15, 2015",43.1mi/h,-,285W Power Meter,13s
+992071,371325340,8872007098,2,David Guttenplan,"Aug 15, 2015",43.1mi/h,187bpm,126W Power Meter,13s
+170407,372233665,8894089004,2,Clay Murfet,"Aug 15, 2015",43.1mi/h,-,109W Power Meter,13s
+644916,374212020,8940479190,2,Dave Hoyle,"Aug 15, 2015",43.1mi/h,-,44W Power Meter,13s
+3258567,1142943031,28161389325,2,Sean Meyer,"Aug 19, 2017",43.1mi/h,182bpm,183W Power Meter,13s
+2788715,1143061477,28164897343,2,Anton Varabei | TORONTO HUSTLE,"Aug 19, 2017",43.1mi/h,162bpm,61W Power Meter,13s
+248751,2362631441,59657492452,2,Montie Montana,"May 11, 2019",43.1mi/h,166bpm,103W Power Meter,13s
+481658,370777504,8859197404,9,Mike Aston,"Aug 15, 2015",40.1mi/h,196bpm,283W Power Meter,14s
+4827585,372188093,8893057312,9,Jason Quagliata,"Aug 15, 2015",40.1mi/h,-,433W,14s

@@ -40,18 +40,22 @@ def stuff():
     values = [part.get(node) for node in G.nodes()]
     nx.draw_kamada_kawai(G, cmap=plt.get_cmap('jet'), node_color=values, node_size=30, with_labels=False)
     plt.show()
-def minMax(xMin,xMax,yMin,yMax,x,y):
-    xMin=min(xMin,min(x))
-    xMax=max(xMax,max(x))
-    yMin=min(yMin,min(y))
-    yMax=max(yMax,max(y))
-    return xMin,xMax,yMin,yMax
+
+
+def minMax(xMin, xMax, yMin, yMax, x, y):
+    xMin = min(xMin, min(x))
+    xMax = max(xMax, max(x))
+    yMin = min(yMin, min(y))
+    yMax = max(yMax, max(y))
+    return xMin, xMax, yMin, yMax
+
+
 def segmentmap():
     base_path = Path(__file__).parent
     file_path = (base_path / "../Data/Master/SegmentMetaData").resolve()
     segments = [int(f[:-5]) for f in listdir(file_path) if isfile(join(file_path, f))]
-    segmentPolys=[]
-    polys=[]
+    segmentPolys = []
+    polys = []
     for segment in segments:
         file_path = (base_path / f"../Data/Master/SegmentMetaData/{segment}.json").resolve()
         with open(file_path, "r") as read_it:
@@ -59,7 +63,7 @@ def segmentmap():
             polys.append(polyline.decode(data['map']['polyline']))
             segmentPolys.append(list(zip(*polyline.decode(data['map']['polyline']))))
 
-    centroid=[
+    centroid = [
         np.mean([poly[0][0] for poly in segmentPolys]),
         np.mean([poly[1][0] for poly in segmentPolys])
 
@@ -67,16 +71,20 @@ def segmentmap():
     m = folium.Map(location=centroid, zoom_start=13)
     for poly in polys:
         folium.PolyLine(poly, color='red').add_to(m)
+
     def auto_open(path):
         html_page = f'{path}'
         m.save(html_page)
         # open in browser.
         new = 2
         webbrowser.open(html_page, new=new)
+
     auto_open("map.html")
+
 
 def main():
     segmentmap()
+
 
 if __name__ == '__main__':
     main()

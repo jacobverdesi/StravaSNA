@@ -1,0 +1,11 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+208775,322134091,8623246136,1,David Richardson,"Jun 9, 2015",32.9mi/h,-,145W Power Meter,53s
+309487,3883027340,2727188001136050342,1,Brian Cardona,"Aug 8, 2020",32.9mi/h,166bpm,195W Power Meter,53s
+12291626,2631282299,65967527395,3,Magnus Sheffield,"Aug 18, 2019",32.3mi/h,-,159W Power Meter,54s
+1183253,170248425,71595728659,3,Rob Goodwin,"Jul 24, 2014",32.3mi/h,-,246W,54s
+14423,3835110377,2723654340407415914,3,Brian Orner,"Jul 29, 2020",32.3mi/h,-,124W,54s
+73103,1764230,8623949703,6,marc sachdev,"Sep 4, 2011",31.7mi/h,-,-,55s
+195198,384641506,9585474142,6,Matt Brophy,"Aug 18, 2015",31.7mi/h,-,135W Power Meter,55s
+8963332,600030231,14623253689,6,Bill Bernabe,"Jun 4, 2016",31.7mi/h,159bpm,130W,55s
+1155412,49972765,8623943641,9,Josinaldo Costa,"Apr 21, 2013",31.1mi/h,-,180W,56s
+170978,16751555,8623948684,9,Brent Bivona,"Mar 20, 2012",31.1mi/h,132bpm,183W,56s

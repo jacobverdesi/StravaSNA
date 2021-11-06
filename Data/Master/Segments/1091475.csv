@@ -1,0 +1,11 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+102030,21950662,392088042,1,Jordan Oroshiba,"Sep 14, 2012",15.9mi/h,181bpm,407W Power Meter,53s
+365491,372111097,8890706577,2,Peter Kocher,"Aug 17, 2015",15.1mi/h,171bpm,514W Power Meter,56s
+274450,7497852,140526422,3,Drew Scoles,"Apr 28, 2012",14.8mi/h,-,501W,57s
+169554,5708724233,2855989144647980952,4,Rick Dalton 🐌,"Jul 29, 2021",13.4mi/h,146bpm,620W Power Meter,1:03
+72472247,6009065363,2876268522019407684,4,Nathan Couse,"Sep 23, 2021",13.4mi/h,-,510W,1:03
+6214519,227882850,5380629689,6,Luke Okerlund,"Dec 9, 2014",13.2mi/h,-,522W,1:04
+24461163,1473540220,36722507861,7,Kenny Plante,"Mar 26, 2018",11.9mi/h,-,448W Power Meter,1:11
+5889,7703197,16566867487,8,Brendan Housler - EVOQ.BIKE 🧪🦆,"May 1, 2012",11.6mi/h,179bpm,600W Power Meter,1:13
+3375044,1838714812,46111041179,9,Ben Buschner,"Sep 13, 2018",11.3mi/h,-,598W,1:15
+568061,318487205,10841864682,10,Luke Principe,"Jun 4, 2015",11.0mi/h,-,516W,1:17

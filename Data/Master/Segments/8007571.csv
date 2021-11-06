@@ -1,0 +1,11 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+738397,12869249,4366846577,1,Drew Deeney,"Jun 26, 2012",18.9mi/h,185bpm,508W,49s
+5108717,1153456075,28411193960,2,Mark Frey,"Aug 26, 2017",17.8mi/h,167bpm,502W,52s
+1499891,60570059,4366846448,3,charlie watson,"Jun 13, 2010",16.5mi/h,171bpm,453W,56s
+1255376,80585581,4366844765,4,Michael Bohn,"Jul 10, 2013",16.2mi/h,-,-,57s
+6013476,1103251012,27162635654,4,Andy Lytwynec,"Jul 26, 2017",16.2mi/h,169bpm,524W Power Meter,57s
+12291626,1136966338,36172036442,4,Magnus Sheffield,"Aug 16, 2017",16.2mi/h,-,389W Power Meter,57s
+902969,66200371,4366844847,7,Jesse Corum V,"Jul 10, 2013",16.0mi/h,-,488W,58s
+4827585,649846634,15893574645,7,Jason Quagliata,"Jul 22, 2016",16.0mi/h,-,469W Power Meter,58s
+534947,81609479,4366844117,9,Dick Camping,"Sep 10, 2013",15.7mi/h,-,380W,59s
+3048149,327665779,7753965029,9,Paul Knerr,"Jun 17, 2015",15.7mi/h,-,436W,59s

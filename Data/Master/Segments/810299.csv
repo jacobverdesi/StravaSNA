@@ -1,0 +1,11 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+1224352,47526085,828641840,1,Rob BikeTourJapan.com,"Apr 6, 2013",24.9mi/h,-,317W,2:10
+208775,57461415,1059789023,1,David Richardson,"Jun 1, 2013",24.9mi/h,-,384W Power Meter,2:10
+102030,51587262,923564070,3,Jordan Oroshiba,"Apr 30, 2013",24.7mi/h,185bpm,311W Power Meter,2:11
+274450,6977304,130936522,4,Drew Scoles,"Apr 18, 2012",23.9mi/h,-,290W,2:15
+6214519,213305202,5037599691,5,Luke Okerlund,"Oct 29, 2014",22.8mi/h,-,284W,2:22
+1155412,52868860,953549360,6,Josinaldo Costa,"May 7, 2013",22.6mi/h,-,228W,2:23
+4312968,1111290789,27370649215,7,David Krueger,"Jul 31, 2017",22.3mi/h,166bpm,291W Power Meter,2:25
+2397112,2547932965,64022167864,7,Matt Smitley,"Jul 20, 2019",22.3mi/h,171bpm,323W Power Meter,2:25
+42333,55572322,1012848125,9,Jason Mccaffery,"May 21, 2013",21.7mi/h,175bpm,257W,2:29
+2443189,2557997566,64267354156,10,Salaahuddin Karim,"Jul 23, 2019",21.5mi/h,136bpm,289W,2:30

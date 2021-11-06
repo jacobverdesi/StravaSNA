@@ -1,0 +1,11 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+16212,215979722,5102062698,1,Jason Hettenbaugh,"Nov 5, 2014",26.2mi/h,172bpm,453W Power Meter,1:35
+188107,205382592,4836172665,2,"Robert ""NACNUD"" Douglas","Oct 9, 2014",25.7mi/h,166bpm,382W Power Meter,1:37
+208775,298338908,7019655497,3,David Richardson,"May 4, 2015",25.4mi/h,-,361W Power Meter,1:38
+14456973,702008485,17219226990,3,Will Douglas,"Mar 25, 2016",25.4mi/h,165bpm,432W Power Meter,1:38
+52883,7029103,1010291305,5,Colleen Schaible,"Apr 19, 2012",23.1mi/h,185bpm,234W Power Meter,1:48
+286725,388812120,9954921653,6,J Baker,"Sep 9, 2015",22.9mi/h,-,439W Power Meter,1:49
+686846,336975968,7992898665,7,Rob Panek,"Jul 1, 2015",22.7mi/h,167bpm,318W,1:50
+2092576,338202419,8022551959,8,Jefferson LubeYourBikeChainski,"Jul 1, 2015",22.5mi/h,-,333W,1:51
+12300533,635314240,15520299425,9,D J,"Jul 9, 2016",22.3mi/h,-,348W,1:52
+1027499,337657287,8009464487,10,Steven Strapp,"Jul 2, 2015",22.1mi/h,-,274W,1:53

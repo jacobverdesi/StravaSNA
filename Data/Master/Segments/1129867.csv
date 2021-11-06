@@ -1,0 +1,4 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+280921,5662160,107812060,1,Robert Tretter,"Mar 24, 2012",84.2mi/h,-,125W,2:33
+580639,22829984,407544751,2,Mahesh Nagarajan,"Sep 22, 2012",42.9mi/h,-,132W,5:00
+738397,18178169,331357121,3,Drew Deeney,"Aug 11, 2012",40.6mi/h,175bpm,105W,5:17

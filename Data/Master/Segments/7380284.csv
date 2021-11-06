@@ -1,0 +1,11 @@
+athlete_id,activity_id,segment_effort_id,rank,Name,Date,Speed,HR,Power,Time
+16212,12310427,3463261118,1,Jason Hettenbaugh,"Jul 2, 2012",29.2mi/h,159bpm,547W,1:16
+87353,1701989728,71416547788,2,Cory Kuhns,"Jul 14, 2018",27.7mi/h,157bpm,482W Power Meter,1:20
+143102,1701894988,42655799365,3,Paul Mattison,"Jul 14, 2018",27.4mi/h,-,376W,1:21
+3343678,600422013,14632691277,4,Spencer Perry,"Jun 4, 2016",27.1mi/h,-,285W Power Meter,1:22
+10807707,1701887087,42655580764,4,Mick SNYDER,"Jul 14, 2018",27.1mi/h,182bpm,328W Power Meter,1:22
+7971755,1702032114,42659298711,4,Ryan Seal,"Jul 14, 2018",27.1mi/h,167bpm,427W,1:22
+297140,4646268,3463259905,7,Frank Gallese,"Aug 13, 2011",26.7mi/h,176bpm,400W Power Meter,1:23
+1017061,71857663,3463261324,7,Brent Williams,"Aug 3, 2013",26.7mi/h,175bpm,418W,1:23
+470326,71854244,3463261892,7,Kevin Walker,"Aug 3, 2013",26.7mi/h,-,322W Power Meter,1:23
+1065782,148761615,3463262081,7,Douglas Morrow,"May 31, 2014",26.7mi/h,-,258W Power Meter,1:23

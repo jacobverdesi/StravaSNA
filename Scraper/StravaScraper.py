@@ -203,7 +203,7 @@ def main():
     options.add_argument("--allow-running-insecure-content")
     # options.add_argument("--user-data-dir=C:\\Users\\Jake\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 2")
 
-    options.add_argument("headless")
+    #options.add_argument("headless")
 
     for user in conf:
         myStEmail = conf[user]['email']
