@@ -2,6 +2,7 @@ import json
 import webbrowser
 from os import listdir
 from os.path import isfile, join
+from pylab import *
 
 import numpy as np
 from pathlib import Path
@@ -12,9 +13,7 @@ import polyline
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
-from IPython.display import display
 
-from Model.OpenStreet import getImageCluster
 
 
 def stuff():
@@ -56,21 +55,62 @@ def segmentmap():
     segments = [int(f[:-5]) for f in listdir(file_path) if isfile(join(file_path, f))]
     segmentPolys = []
     polys = []
+    segmentPoints = []
+    uniqueModularity = {0}
+
+    file_path = (base_path / f"modularity2.csv").resolve()
+    with open(file_path, "r") as read_it:
+        modularityDf = pd.read_csv(read_it)
+    print(modularityDf)
+    maxSize = 0
     for segment in segments:
         file_path = (base_path / f"../Data/Master/SegmentMetaData/{segment}.json").resolve()
         with open(file_path, "r") as read_it:
             data = json.load(read_it)
-            polys.append(polyline.decode(data['map']['polyline']))
-            segmentPolys.append(list(zip(*polyline.decode(data['map']['polyline']))))
 
+
+            loc = data['start_latlng']
+            size = data['effort_count']
+
+            if size > maxSize:
+                maxSize = size
+            if segment in modularityDf.values:
+                modularity_class = modularityDf.loc[modularityDf["Id"] == segment, 'modularity_class'].values[0]+1
+            else:
+                modularity_class=0
+            uniqueModularity.add(modularity_class + 1)
+
+            segmentPoints.append((loc, size,modularity_class))
+            polys.append((polyline.decode(data['map']['polyline']),modularity_class))
+            segmentPolys.append(list(zip(*polyline.decode(data['map']['polyline']))))
     centroid = [
         np.mean([poly[0][0] for poly in segmentPolys]),
         np.mean([poly[1][0] for poly in segmentPolys])
-
     ]
-    m = folium.Map(location=centroid, zoom_start=13)
+    m = folium.Map(location=centroid, tiles="cartodbpositron", zoom_start=13)
+    cmap = plt.get_cmap('Paired', len(uniqueModularity))
+    lst_colors = [matplotlib.colors.rgb2hex(cmap(i)) for i in range(cmap.N)]
+    print([[j*255 for j in cmap(i)] for i in range(cmap.N)])
+    #lst_colors = ['#%06X' % np.random.randint(0, 0xFFFFFF) for i in range(len(uniqueModularity))]
+
+    legend_html = """<div style="position:fixed; bottom:10px; left:10px; border:2px solid black; z-index:9999; font-size:14px;">&nbsp;<b>Clusters:</b><br>"""
+    for i in uniqueModularity:
+        legend_html = legend_html + """&nbsp;<i class="fa fa-circle 
+         fa-1x" style="color:""" + lst_colors[list(uniqueModularity).index(i)] + """">
+         </i>&nbsp;""" + str(i) + """<br>"""
+    legend_html = legend_html + """</div>"""
+    m.get_root().html.add_child(folium.Element(legend_html))
+
     for poly in polys:
-        folium.PolyLine(poly, color='red').add_to(m)
+        folium.PolyLine(poly[0], color=lst_colors[poly[1]]).add_to(m)
+
+    for points in segmentPoints:
+        color = lst_colors[points[2]]
+        folium.Circle(location=points[0],
+                      radius=(points[1] / maxSize) * 1000 + 100,
+                      fill=True,
+                      #fill_opacity=1,
+                      color=color, ).add_to(m)
 
     def auto_open(path):
         html_page = f'{path}'
